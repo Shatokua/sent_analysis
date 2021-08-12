@@ -1,0 +1,7 @@
+T100	Neutral_all 9 15	Зидана
+T101	Neutral 76 83	Трезеге
+T102	Positive 134 137	ним
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102
+A2	Unclear T102
+#1	AnnotatorNotes T102	опечатка в "сравняться"

@@ -1,0 +1,6 @@
+T3	Neutral 12 16	Коми
+T4	Neutral_all 31 34	его
+A1	AnaforPerson T4
+T1	Positive 90 103	Барака] Обамы
+T102	Negative 114 119	Трамп
+R1	Anafor Arg1:T3 Arg2:T4

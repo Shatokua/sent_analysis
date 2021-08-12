@@ -1,0 +1,4 @@
+T1	Neutral_all 57 60	они
+A1	Plural T1
+T100	Neutral 209 221	Игоря Зюзина
+A2	AnaforPerson T1

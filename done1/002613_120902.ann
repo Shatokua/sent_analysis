@@ -1,0 +1,5 @@
+T0	Neutral_all 655 672	Турбьёрна Ягланда
+T1	Neutral_all 822 836	Дунья Миятович
+T2	Neutral_all 909 912	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

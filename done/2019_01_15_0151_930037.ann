@@ -1,0 +1,6 @@
+T0	Negative 10 20	Саакашвили
+T1	Negative 33 42	Тимошенко
+T103	Negative 95 97	он
+T2	Neutral 58 67	Порошенко
+A1	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T103	

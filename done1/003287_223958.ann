@@ -1,0 +1,19 @@
+T0	Neutral_all 383 393	Есетовой Ж
+T1	Neutral_all 412 426	Омирсетовой Б.
+T2	Neutral_all 438 449	Есетовой Ж.
+T4	Neutral_all 631 645	Омирсетовой Б.
+T5	Neutral_all 657 668	Есетовой Ж.
+T3	Neutral 519 532	Омирсетова Б.
+T6	Neutral 535 545	Есетова Ж.
+T7	Neutral_all 607 609	Их
+A1	Plural T7
+T107	Neutral_all 307 320	Омирсетовой Б
+R1	Anafor Arg1:T107 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T1 Arg2:T3	
+R4	Anafor Arg1:T2 Arg2:T6	
+A2	AnaforPerson T7
+R5	Anafor Arg1:T3 Arg2:T7	
+R6	Anafor Arg1:T6 Arg2:T7	
+R7	Anafor Arg1:T3 Arg2:T4	
+R8	Anafor Arg1:T6 Arg2:T5	

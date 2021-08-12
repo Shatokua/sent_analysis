@@ -1,0 +1,8 @@
+T2	Neutral 87 94	Бандеры
+T3	Neutral 132 139	Шухевич
+T100	Neutral_all 0 10	Качиньский
+T101	Negative_all 23 31	Бандерой
+R1	Anafor Arg1:T101 Arg2:T2	
+T1	Neutral 102 106	него
+A1	AnaforPerson T1
+R2	Anafor Arg1:T100 Arg2:T1	

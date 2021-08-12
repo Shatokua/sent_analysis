@@ -1,0 +1,7 @@
+T0	Neutral_all 37 55	Максима Тадевосяна
+T1	Neutral_all 145 151	Максим
+T2	Neutral_all 397 403	Максим
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

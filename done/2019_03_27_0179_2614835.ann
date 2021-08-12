@@ -1,0 +1,6 @@
+T0	Neutral_all 2 8	Кевина
+T1	Neutral_all 115 120	Кевин
+T2	Neutral_all 39 41	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

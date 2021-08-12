@@ -1,0 +1,4 @@
+T0	Neutral 15 33	Владимир Вольфович
+T1	Neutral 116 120	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

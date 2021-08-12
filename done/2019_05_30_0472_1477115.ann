@@ -1,0 +1,4 @@
+T0	Neutral_all 3 11	Прохоров
+T1	Neutral_all 79 87	Хлопонин
+T2	Neutral_all 126 135	Прохорова
+R1	Anafor Arg1:T0 Arg2:T2

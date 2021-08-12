@@ -1,0 +1,5 @@
+T1	Neutral_all 59 61	Он
+T3	Neutral 44 57	Тома Леффлера
+T2	Neutral 34 43	Головкина
+R1	Anafor Arg1:T3 Arg2:T1	
+A1	AnaforPerson T1

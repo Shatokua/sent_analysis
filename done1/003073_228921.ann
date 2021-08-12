@@ -1,0 +1,7 @@
+T0	Neutral_all 199 218	Вениамин Решетников
+T1	Neutral_all 239 256	Дмитрия Даниленко
+T2	Neutral_all 270 285	Никита Проскура
+T3	Neutral_all 322 337	Василия Ширшова
+T4	Neutral_all 341 358	Анатолий Костенко
+T5	Neutral_all 367 376	Даниленко
+R1	Anafor Arg1:T1 Arg2:T5

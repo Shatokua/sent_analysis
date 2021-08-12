@@ -1,0 +1,8 @@
+T0	Neutral_all 406 417	Ицхак Шамир
+T1	Neutral_all 192 194	мы
+A1	Plural T1
+T2	Neutral_all 507 509	мы
+A2	Plural T2
+T102	Neutral_all 419 422	они
+A3	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2

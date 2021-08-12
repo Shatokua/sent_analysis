@@ -1,0 +1,7 @@
+T1	Neutral 75 88	Барака) Обамы
+T100	Neutral_all 2 11	Порошенко
+T103	Neutral_all 111 118	Байдена
+T104	Neutral_all 134 140	Трампа
+T102	Negative_all 37 39	Он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

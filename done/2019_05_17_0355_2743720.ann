@@ -1,0 +1,6 @@
+T0	Neutral_all 2 11	Игнатьева
+T5	Neutral_all 38 41	его
+A1	AnaforPerson T5
+T101	Neutral 46 60	Брайана) Идову
+T102	Positive 132 148	Дмитрий) Тарасов
+R1	Anafor Arg1:T0 Arg2:T5

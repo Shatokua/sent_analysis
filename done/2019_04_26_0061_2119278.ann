@@ -1,0 +1,9 @@
+T0	Neutral_all 0 6	Кирилл
+T1	Neutral_all 119 125	Кирилл
+T2	Neutral_all 41 44	его
+A1	AnaforPerson T2
+T3	Neutral_all 60 62	Он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2

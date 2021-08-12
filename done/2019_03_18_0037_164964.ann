@@ -1,0 +1,6 @@
+T100	Positive_all 24 37	Шимона Переса
+T101	Positive_all 69 84	Ицхаком Рабином
+T102	Positive_all 87 102	Ясиром Арафатом
+T103	Positive_all 56 59	ему
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103

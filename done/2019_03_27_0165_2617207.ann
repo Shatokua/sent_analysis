@@ -1,0 +1,9 @@
+T100	Positive_all 39 43	Таня
+T102	Positive 72 87	Таней Арнтгольц
+T101	Positive_all 205 208	она
+A1	AnaforPerson T101
+R1	Anafor Arg1:T102 Arg2:T100	
+T1	Positive 129 132	ней
+R2	Anafor Arg1:T102 Arg2:T1	
+A2	AnaforPerson T1
+R3	Anafor Arg1:T1 Arg2:T101	

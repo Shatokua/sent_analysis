@@ -1,0 +1,5 @@
+T0	Positive 30 45	Джорджио Армани
+T1	Positive 91 96	Амаль
+T2	Positive 120 122	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

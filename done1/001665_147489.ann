@@ -1,0 +1,9 @@
+T2	Neutral_all 183 210	Погонову Менту Далбаебовичу
+T3	Neutral_all 295 300	Мента
+T4	Neutral_all 411 431	Бенджамина Франклина
+T5	Neutral_all 541 568	Погонова Мента Далбоебовича
+T1	Neutral_all 3 24	Дзюба Ирина Батьковна
+T6	Neutral_all 610 631	Дзюбы Ирины Батьковны
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T6

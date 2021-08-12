@@ -1,0 +1,9 @@
+T1	Neutral_all 133 147	Башаром Асадом
+T3	Positive_all 71 73	он
+A2	AnaforPerson T3
+T4	Negative 206 209	они
+A3	Plural T4
+T100	Neutral 23 32	Аграмунта
+T2	Neutral 18 21	его
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T100 Arg2:T3	

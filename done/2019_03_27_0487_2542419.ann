@@ -1,0 +1,6 @@
+T0	Neutral_all 24 30	Мадуро
+T1	Neutral_all 114 122	Эрдогана
+T2	Neutral_all 127 133	Путина
+T3	Neutral_all 60 63	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

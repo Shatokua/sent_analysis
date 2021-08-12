@@ -1,0 +1,22 @@
+T0	Neutral_all 0 6	Морено
+T1	Neutral_all 167 183	Джулиана Ассанжа
+T2	Neutral_all 339 346	Ассанжа
+T3	Neutral_all 18 20	он
+A1	AnaforPerson T3
+T4	Neutral_all 23 26	его
+A2	AnaforPerson T4
+T5	Neutral 108 110	он
+A3	AnaforPerson T5
+T6	Neutral 185 187	Он
+A4	AnaforPerson T6
+T7	Neutral 257 259	Он
+A5	AnaforPerson T7
+T8	Neutral 330 332	он
+A6	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T5	
+R4	Anafor Arg1:T5 Arg2:T6	
+R5	Anafor Arg1:T6 Arg2:T7	
+R6	Anafor Arg1:T7 Arg2:T8	
+R7	Anafor Arg1:T1 Arg2:T2	

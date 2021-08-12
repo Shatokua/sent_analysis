@@ -1,0 +1,5 @@
+T1	Neutral_all 39 43	Тебе
+T2	Negative_all 77 86	Шурыгиной
+T3	Negative_all 144 158	Шурыгину Диану
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T3 Arg2:T2

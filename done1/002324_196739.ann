@@ -1,0 +1,9 @@
+T0	Neutral_all 185 200	Мария Скрыльник
+T1	Neutral_all 204 207	нее
+A1	AnaforPerson T1
+T2	Neutral_all 222 224	ее
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T1

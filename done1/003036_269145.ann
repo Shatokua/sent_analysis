@@ -1,0 +1,11 @@
+T0	Neutral_all 141 160	Русланом Арашуковым
+T1	Neutral_all 162 180	Гузером Хашукаевым
+T2	Neutral_all 182 200	Николаем Романовым
+T3	Neutral_all 203 220	Игорем Травиновым
+T4	Neutral_all 234 236	их
+A1	AnaforPerson T4
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T0 Arg2:T4

@@ -1,0 +1,18 @@
+T0	Neutral_all 9 25	Иваном Голуновым
+T1	Neutral_all 106 111	Ивана
+T2	Neutral_all 96 99	они
+A1	Plural T2
+T3	Neutral_all 149 151	ты
+A2	AnaforPerson T3
+T4	Neutral_all 227 229	мы
+A3	Plural T4
+T5	Neutral_all 314 317	они
+A4	Plural T5
+T6	Neutral_all 353 356	ним
+A5	Plural T6
+T7	Neutral_all 503 506	они
+A6	Plural T7
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T5 Arg2:T7
+R3	Anafor Arg1:T7 Arg2:T6
+R103	Anafor Arg1:T1 Arg2:T6

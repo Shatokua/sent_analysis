@@ -1,0 +1,7 @@
+T0	Neutral_all 57 73	Вячеслав Володин
+T1	Neutral_all 76 90	Николай Панков
+T2	Neutral_all 165 181	Вячеслав Володин
+T3	Neutral_all 244 246	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

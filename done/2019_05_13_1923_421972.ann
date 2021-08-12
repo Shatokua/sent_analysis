@@ -1,0 +1,7 @@
+T0	Positive 60 76	Виталий Соловьев
+T1	Neutral 160 162	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 6 10	ваша
+A2	AnaforPerson T2
+A3	Plural T2

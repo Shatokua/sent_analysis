@@ -1,0 +1,10 @@
+T0	Neutral_all 46 53	Юнкером
+T1	Neutral_all 56 62	Туском
+T102	Neutral_all 74 77	нас
+A1	Plural T102
+T103	Neutral_all 88 90	Мы
+A2	Plural T103
+T104	Neutral_all 187 189	Мы
+A3	Plural T104
+R101	Anafor Arg1:T102 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T104

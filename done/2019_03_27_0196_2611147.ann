@@ -1,0 +1,17 @@
+T100	Neutral_all 17 25	Киселева
+T101	Positive_all 76 106	Киселев Дмитрий Константинович
+T102	Positive_all 206 208	Он
+A1	AnaforPerson T102
+T103	Positive_all 220 222	Он
+A2	AnaforPerson T103
+T104	Positive_all 236 238	он
+A3	AnaforPerson T104
+T105	Neutral 4 6	он
+A4	AnaforPerson T105
+T106	Neutral 14 16	он
+A5	AnaforPerson T106
+R3	Anafor Arg1:T102 Arg2:T103
+R4	Anafor Arg1:T103 Arg2:T104
+R1	Anafor Arg1:T105 Arg2:T106	
+R2	Anafor Arg1:T101 Arg2:T100	
+R5	Anafor Arg1:T101 Arg2:T102	

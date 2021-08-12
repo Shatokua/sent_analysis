@@ -1,0 +1,8 @@
+T1	Neutral 11 36	Яценюка Арсения Петровича
+T2	Neutral 143 166	Константина Григоришина
+T3	Neutral 169 176	Яценюку
+T4	Neutral 179 186	Кабмину
+T5	Neutral 76 79	вас
+A1	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T3	

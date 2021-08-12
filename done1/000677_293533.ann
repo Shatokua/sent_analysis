@@ -1,0 +1,6 @@
+T0	Neutral_all 0 13	Юлия Началова
+T1	Neutral_all 82 99	Вячеславом Кудрей
+T2	Neutral_all 250 258	Началова
+T3	Neutral_all 289 295	Кудрей
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

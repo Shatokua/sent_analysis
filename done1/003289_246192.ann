@@ -1,0 +1,7 @@
+T0	Neutral_all 40 57	Александра Дюкова
+T1	Neutral_all 94 104	Погребняка
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 269 272	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

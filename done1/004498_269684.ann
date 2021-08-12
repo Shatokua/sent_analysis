@@ -1,0 +1,4 @@
+T0	Neutral_all 221 235	Марека Квапила
+T1	Neutral_all 137 139	мы
+A1	Plural T1
+A2	AnaforPerson T1

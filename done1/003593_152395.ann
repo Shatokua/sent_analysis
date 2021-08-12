@@ -1,0 +1,6 @@
+T0	Neutral_all 26 44	Игоря Коломойского
+T1	Neutral_all 121 137	Петром Порошенко
+T2	Neutral_all 140 162	Александром Турчиновым
+T3	Neutral_all 61 63	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

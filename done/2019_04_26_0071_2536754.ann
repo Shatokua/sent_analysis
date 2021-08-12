@@ -1,0 +1,8 @@
+T0	Negative_all 25 34	Порошенко
+T1	Negative_all 70 78	Климкину
+T2	Neutral_all 105 107	мы
+A1	Plural T2
+T3	Neutral_all 216 219	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T3

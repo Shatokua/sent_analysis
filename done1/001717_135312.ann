@@ -1,0 +1,4 @@
+T0	Neutral_all 110 124	В.В. Стрельчик
+T101	Neutral_all 174 176	им
+A1	AnaforPerson T101
+R101	Anafor Arg1:T0 Arg2:T101

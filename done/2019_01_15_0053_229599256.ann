@@ -1,0 +1,10 @@
+T3	Positive 520 522	он
+A1	AnaforPerson T3
+T100	Negative 255 263	Прохоров
+T101	Negative_all 293 299	Путина
+T102	Positive_all 396 415	Михаила Дмитриевича
+R1	Anafor Arg1:T100 Arg2:T102	
+T1	Neutral 471 473	он
+A2	AnaforPerson T1
+R2	Anafor Arg1:T102 Arg2:T1	
+R3	Anafor Arg1:T1 Arg2:T3	

@@ -1,0 +1,9 @@
+T0	Neutral 11 21	де Мистуру
+T1	Neutral 0 2	Мы
+A1	Plural T1
+T2	Neutral 29 31	он
+A2	AnaforPerson T2
+T3	Neutral 110 113	нам
+A3	Plural T3
+R1	Variant Arg1:T0 Arg2:T2	
+R2	Variant Arg1:T1 Arg2:T3	

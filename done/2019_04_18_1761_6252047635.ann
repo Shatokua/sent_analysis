@@ -1,0 +1,5 @@
+T0	Negative 0 7	Дональд
+T1	Neutral 45 51	Путину
+T2	Negative 79 81	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

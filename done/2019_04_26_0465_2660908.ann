@@ -1,0 +1,7 @@
+T0	Neutral_all 43 52	Пригожина
+T1	Neutral_all 88 94	Соболь
+T2	Neutral_all 74 77	его
+A1	AnaforPerson T2
+T3	Neutral_all 184 186	мы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Neutral_all 64 77	Сергей Дружко
+T1	Neutral_all 79 94	Николай Соболев
+T2	Neutral_all 46 62	Big russian boss
+T3	Negative_all 114 117	они
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T3

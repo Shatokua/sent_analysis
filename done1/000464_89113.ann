@@ -1,0 +1,5 @@
+T0	Neutral_all 61 77	Алексея Баталова
+T1	Neutral_all 139 147	Баталова
+T2	Neutral_all 232 249	Андреем Малаховым
+T3	Neutral_all 217 219	Он
+R1	Anafor Arg1:T0 Arg2:T1

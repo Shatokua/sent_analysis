@@ -1,0 +1,8 @@
+T0	Neutral_all 61 81	Анатолием Кирносенко
+T1	Neutral_all 82 84	мы
+A1	Plural T1
+T2	Neutral_all 469 471	вы
+T102	Neutral_all 438 441	вас
+A2	Plural T102
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T102 Arg2:T2

@@ -1,0 +1,7 @@
+T0	Neutral_all 20 26	Сергея
+T1	Neutral_all 29 43	Юлии Скрипалей
+T102	Neutral_all 53 55	их
+A1	AnaforPerson T102
+A2	Plural T102
+R101	Anafor Arg1:T1 Arg2:T102
+R102	Anafor Arg1:T0 Arg2:T102

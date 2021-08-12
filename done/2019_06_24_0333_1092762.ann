@@ -1,0 +1,8 @@
+T0	Neutral 95 105	Лавар Болл
+T1	Neutral_all 112 121	Лианджело
+T2	Neutral_all 157 160	его
+A1	AnaforPerson T2
+T3	Negative 236 238	их
+A2	AnaforPerson T3
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2	

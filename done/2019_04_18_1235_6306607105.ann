@@ -1,0 +1,11 @@
+T0	Negative 522 533	Барак Обама
+T1	Negative 65 68	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 285 288	они
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Neutral 338 340	мы
+A5	AnaforPerson T3
+A6	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2	

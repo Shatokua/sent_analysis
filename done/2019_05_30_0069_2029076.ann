@@ -1,0 +1,11 @@
+T0	Neutral_all 46 54	Забелина
+T1	Neutral_all 101 110	Моргунова
+T2	Neutral_all 154 157	нас
+A1	Plural T2
+T102	Neutral_all 13 16	них
+A2	Plural T102
+T103	Neutral_all 58 62	него
+A3	AnaforPerson T103
+R101	Anafor Arg1:T0 Arg2:T103
+R102	Anafor Arg1:T0 Arg2:T102
+R103	Anafor Arg1:T1 Arg2:T102

@@ -1,0 +1,5 @@
+T0	Neutral_all 37 44	Авакова
+T1	Neutral_all 113 127	Арсена Авакова
+T2	Neutral_all 75 77	Мы
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

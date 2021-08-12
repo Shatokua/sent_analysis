@@ -1,0 +1,8 @@
+T100	Neutral 37 49	Билл Клинтон
+T101	Negative_all 112 119	Хиллари
+T1	Neutral 83 86	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+T2	Negative 178 180	ей
+A2	AnaforPerson T2
+R2	Anafor Arg1:T101 Arg2:T2	

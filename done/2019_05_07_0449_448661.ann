@@ -1,0 +1,4 @@
+T0	Negative 58 64	Путину
+T1	Negative 52 56	нему
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

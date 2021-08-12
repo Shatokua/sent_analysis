@@ -1,0 +1,6 @@
+T1	Negative 44 48	Хана
+T2	Negative 51 60	Садековым
+T100	Neutral_all 6 13	Сорокин
+T103	Neutral 140 143	ему
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	

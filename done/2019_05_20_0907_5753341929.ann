@@ -1,0 +1,8 @@
+T0	Neutral 29 41	Барака Обамы
+T1	Neutral 93 96	Они
+A1	AnaforPerson T1
+T2	Neutral 220 223	Они
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+A3	Plural T1
+A4	Plural T2

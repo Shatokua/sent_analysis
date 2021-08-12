@@ -1,0 +1,8 @@
+T0	Neutral_all 88 98	Стив Роллс
+T2	Neutral_all 176 178	им
+A1	Plural T2
+T3	Neutral_all 212 214	вы
+A2	Plural T3
+T101	Positive 258 266	Геннадия
+A3	AnaforPerson T2
+A4	AnaforPerson T3

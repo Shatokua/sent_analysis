@@ -1,0 +1,17 @@
+T0	Neutral_all 282 295	Михаил Звягин
+T1	Neutral_all 441 447	Звягин
+T2	Neutral_all 887 893	Звягин
+T3	Neutral_all 342 345	его
+A1	AnaforPerson T3
+T4	Neutral_all 470 472	он
+A2	AnaforPerson T4
+T5	Neutral_all 493 495	он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T3
+R103	Anafor Arg1:T2 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T5
+R105	Anafor Arg1:T5 Arg2:T3

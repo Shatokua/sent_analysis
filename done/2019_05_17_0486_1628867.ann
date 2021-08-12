@@ -1,0 +1,5 @@
+T0	Neutral_all 15 22	Гордеев
+T1	Neutral_all 182 200	Алексей Васильевич
+T102	Neutral 34 36	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102	

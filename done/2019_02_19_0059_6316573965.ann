@@ -1,0 +1,10 @@
+T101	Neutral_all 112 119	Хиллари
+T102	Neutral_all 70 74	Коми
+T103	Negative_all 179 182	ним
+A1	AnaforPerson T103
+T104	Positive_all 234 236	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T102 Arg2:T103
+T1	Negative 193 196	его
+R3	Anafor Arg1:T103 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T104	

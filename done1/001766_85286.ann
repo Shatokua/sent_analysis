@@ -1,0 +1,10 @@
+T0	Negative_all 65 71	Геркус
+T1	Neutral_all 149 164	Илья Леонидович
+T2	Neutral_all 211 218	Мануэла
+T3	Neutral_all 245 248	его
+A1	AnaforPerson T3
+T4	Neutral_all 298 301	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T1 Arg2:T0

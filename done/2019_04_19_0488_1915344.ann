@@ -1,0 +1,6 @@
+T0	Neutral_all 40 50	Тереза Мэй
+T1	Neutral_all 169 172	Мэй
+T2	Neutral_all 194 210	Дмитрия Киселева
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

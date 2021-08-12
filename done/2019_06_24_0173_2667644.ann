@@ -1,0 +1,9 @@
+T1	Neutral_all 121 129	Анфимова
+T2	Neutral_all 6 8	вы
+A1	Plural T2
+T100	Negative 97 105	Кочанову
+T103	Negative 80 83	вам
+A3	Plural T103
+A4	AnaforPerson T2
+A2	AnaforPerson T103
+R1	Anafor Arg1:T2 Arg2:T103	

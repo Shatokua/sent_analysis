@@ -1,0 +1,5 @@
+T0	Neutral_all 0 9	Гвардиола
+T1	Neutral_all 14 22	Моуринью
+T2	Neutral 24 33	Гвардиола
+T3	Positive_all 123 128	Хосеп
+R1	Anafor Arg1:T0 Arg2:T2	

@@ -1,0 +1,9 @@
+T0	Neutral_all 108 116	Данкверт
+T1	Neutral_all 161 170	Лукашенко
+T2	Neutral_all 92 95	они
+A1	Plural T2
+T3	Neutral_all 202 205	нас
+A2	Plural T3
+T4	Neutral_all 16 18	мы
+A3	Plural T4
+R1	Anafor Arg1:T4 Arg2:T3

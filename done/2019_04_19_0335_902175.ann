@@ -1,0 +1,6 @@
+T0	Neutral_all 54 59	Трамп
+T1	Neutral_all 127 134	Волкера
+T2	Neutral_all 155 163	Маккейна
+T3	Neutral_all 175 177	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

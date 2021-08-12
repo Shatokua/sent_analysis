@@ -1,0 +1,6 @@
+T0	Neutral_all 222 236	Евгений Никора
+T1	Neutral_all 494 497	они
+A1	Plural T1
+T101	Neutral_all 484 486	им
+A2	Plural T101
+R101	Anafor Arg1:T1 Arg2:T101

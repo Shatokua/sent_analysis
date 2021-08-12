@@ -1,0 +1,9 @@
+T0	Neutral_all 437 442	Додон
+T1	Neutral_all 443 452	Плахотнюк
+T2	Neutral_all 203 206	них
+A1	Plural T2
+T3	Neutral_all 263 266	них
+A2	Plural T3
+T4	Neutral_all 320 322	мы
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3

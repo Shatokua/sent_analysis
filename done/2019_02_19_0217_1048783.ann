@@ -1,0 +1,8 @@
+T101	Neutral_all 9 24	Игоря Мосийчука
+T102	Neutral 41 47	Руслан
+T103	Neutral 31 34	Его
+A2	AnaforPerson T103
+T104	Positive 163 166	его
+A3	AnaforPerson T104
+R101	Anafor Arg1:T102 Arg2:T103
+R102	Anafor Arg1:T102 Arg2:T104

@@ -1,0 +1,5 @@
+T0	Neutral 0 9	Навальный
+T1	Neutral 24 30	Ельцин
+T2	Positive 79 83	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

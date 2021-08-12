@@ -1,0 +1,4 @@
+T0	Neutral 0 22	Александр Владимирович
+T1	Neutral 91 94	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

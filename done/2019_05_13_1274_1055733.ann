@@ -1,0 +1,4 @@
+T0	Neutral 109 126	Андрей Валерьевич
+T1	Neutral 61 64	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

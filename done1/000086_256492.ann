@@ -1,0 +1,6 @@
+T0	Negative 104 119	Дональда Трампа
+T1	Negative 123 125	их
+A1	Plural T1
+T101	Negative 54 57	она
+A2	AnaforPerson T101
+A3	AnaforPerson T1

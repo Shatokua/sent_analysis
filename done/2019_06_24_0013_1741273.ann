@@ -1,0 +1,6 @@
+T0	Neutral 23 32	Абу Мазен
+T1	Neutral 217 227	Абу Мазена
+T2	Neutral 192 194	их
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1
+A2	AnaforPerson T2

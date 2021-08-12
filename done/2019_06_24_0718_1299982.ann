@@ -1,0 +1,8 @@
+T0	Positive_all 169 175	Путина
+T1	Positive_all 187 194	Лаврова
+T2	Neutral_all 106 109	нас
+A1	Plural T2
+T3	Neutral_all 195 197	мы
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T3

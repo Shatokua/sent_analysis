@@ -1,0 +1,10 @@
+T100	Neutral 15 24	Говорухин
+T101	Neutral_all 100 114	Владимир Путин
+T102	Neutral_all 136 142	Путина
+T103	Neutral 11 13	он
+A2	AnaforPerson T103
+T104	Positive_all 43 45	он
+A3	AnaforPerson T104
+R3	Anafor Arg1:T101 Arg2:T102
+R101	Anafor Arg1:T100 Arg2:T103
+R102	Anafor Arg1:T100 Arg2:T104

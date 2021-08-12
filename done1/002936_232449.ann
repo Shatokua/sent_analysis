@@ -1,0 +1,8 @@
+T1	Neutral_all 31 43	Д. Самойлова
+T2	Neutral_all 201 203	Мы
+A1	Plural T2
+T3	Neutral_all 212 215	вам
+A2	Plural T3
+T104	Neutral_all 285 289	вашу
+A3	AnaforPerson T104
+R101	Anafor Arg1:T3 Arg2:T104

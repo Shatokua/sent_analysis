@@ -1,0 +1,8 @@
+T0	Neutral_all 13 25	Ричарда Гира
+T1	Neutral_all 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral_all 61 63	ее
+A2	AnaforPerson T2
+T3	Neutral_all 84 86	ей
+A3	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3

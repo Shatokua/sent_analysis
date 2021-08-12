@@ -1,0 +1,7 @@
+T0	Positive 58 64	Флинна
+T1	Positive 88 90	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 11 13	вы
+A2	AnaforPerson T2
+A3	Plural T2

@@ -1,0 +1,8 @@
+T0	Neutral 41 47	Путину
+T1	Neutral 118 126	Эрдогану
+T2	Neutral 49 51	он
+A1	AnaforPerson T2
+T3	Neutral 204 207	ним
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T3	

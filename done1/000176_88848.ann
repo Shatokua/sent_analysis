@@ -1,0 +1,12 @@
+T0	Neutral_all 64 71	Джастин
+T1	Neutral_all 114 120	Бибера
+T3	Neutral_all 175 179	Круз
+T4	Neutral_all 196 205	Джастином
+T2	Neutral_all 147 157	Тому Крузу
+T5	Neutral_all 292 294	мы
+A1	Plural T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T1 Arg2:T4
+R101	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T2 Arg2:T3

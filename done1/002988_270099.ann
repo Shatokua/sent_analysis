@@ -1,0 +1,13 @@
+T0	Neutral_all 93 107	Мурат Кусаинов
+T1	Neutral 157 159	Он
+A1	AnaforPerson T1
+T2	Neutral_all 192 195	ему
+A2	AnaforPerson T2
+T3	Neutral_all 224 226	он
+A3	AnaforPerson T3
+T5	Neutral_all 304 307	ему
+A5	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T5	

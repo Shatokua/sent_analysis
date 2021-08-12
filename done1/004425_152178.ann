@@ -1,0 +1,22 @@
+T0	Neutral_all 27 36	Головкина
+T1	Neutral_all 154 168	Мэттью Маклина
+T2	Neutral_all 170 185	Габриэля Росадо
+T3	Neutral_all 188 202	Нобухиро Ишиды
+T4	Neutral_all 213 222	Головкина
+T5	Neutral_all 441 449	Геннадий
+T6	Neutral_all 58 60	он
+A1	AnaforPerson T6
+T7	Neutral_all 258 260	он
+A2	AnaforPerson T7
+T8	Neutral_all 318 321	его
+A3	AnaforPerson T8
+T109	Neutral_all 351 354	GGG
+R1	Anafor Arg1:T5 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T6
+R4	Anafor Arg1:T6 Arg2:T7
+R5	Anafor Arg1:T7 Arg2:T8
+R101	Anafor Arg1:T0 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T109
+R104	Anafor Arg1:T109 Arg2:T6

@@ -1,0 +1,6 @@
+T0	Neutral_all 147 164	Валерием Усатюком
+T1	Neutral_all 0 3	Его
+T2	Neutral_all 39 41	мы
+A1	Plural T2
+T3	Neutral_all 56 58	он
+R1	Anafor Arg1:T3 Arg2:T1

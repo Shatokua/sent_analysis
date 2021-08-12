@@ -1,0 +1,6 @@
+T0	Neutral 145 155	Навального
+T1	Neutral 222 233	Березовский
+T2	Neutral 238 247	Гусинский
+T3	Neutral 251 253	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

@@ -1,0 +1,10 @@
+T101	Negative_all 70 78	Янукович
+T102	Positive 96 98	он
+A2	AnaforPerson T102
+T103	Negative_all 137 139	он
+A3	AnaforPerson T103
+T104	Negative_all 339 341	он
+A4	AnaforPerson T104
+R3	Anafor Arg1:T103 Arg2:T104
+R101	Anafor Arg1:T102 Arg2:T103
+R102	Anafor Arg1:T101 Arg2:T102

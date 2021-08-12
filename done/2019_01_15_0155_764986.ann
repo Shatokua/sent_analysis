@@ -1,0 +1,6 @@
+T0	Mixed 9 21	Джо Скарборо
+T1	Mixed 41 45	Мика
+T2	Negative 66 68	их
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

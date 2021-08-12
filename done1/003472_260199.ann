@@ -1,0 +1,14 @@
+T0	Neutral_all 112 123	Мэтт Деймон
+T1	Neutral_all 185 188	его
+A1	AnaforPerson T1
+T2	Neutral_all 371 374	них
+A2	Plural T2
+T3	Neutral_all 413 415	мы
+A3	Plural T3
+T4	Neutral_all 446 448	мы
+A4	Plural T4
+T5	Neutral_all 477 479	мы
+A5	Plural T5
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T0 Arg2:T1

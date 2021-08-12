@@ -1,0 +1,4 @@
+T1	Neutral_all 158 161	они
+A1	Plural T1
+T100	Neutral 0 13	Андрей Богдан
+A2	AnaforPerson T1

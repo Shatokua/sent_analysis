@@ -1,0 +1,4 @@
+T0	Negative 27 36	Родченков
+T1	Negative 39 42	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

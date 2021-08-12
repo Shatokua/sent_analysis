@@ -1,0 +1,5 @@
+T0	Neutral_all 0 5	Трамп
+T1	Neutral_all 38 47	Эрдоганом
+T2	Neutral_all 57 59	Мы
+A1	Plural T2
+R101	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,5 @@
+T0	Neutral_all 149 157	Синицына
+T1	Neutral_all 184 192	Тулеевым
+T2	Neutral_all 193 195	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

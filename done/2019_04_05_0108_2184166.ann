@@ -1,0 +1,4 @@
+T0	Neutral_all 0 10	Иванишвили
+T1	Neutral_all 106 116	Иванишвили
+T2	Neutral_all 179 190	Гия Вашадзе
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Negative_all 72 79	Кей Ави
+T1	Negative 85 88	вам
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

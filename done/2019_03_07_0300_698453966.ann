@@ -1,0 +1,7 @@
+T100	Neutral 69 86	Владимира) Путина
+T102	Neutral 133 152	Вячеслава) Володина
+T104	Negative_all 158 167	В.Володин
+T101	Negative 154 156	Он
+A1	AnaforPerson T101
+R101	Anafor Arg1:T104 Arg2:T101
+R1	Anafor Arg1:T102 Arg2:T101	

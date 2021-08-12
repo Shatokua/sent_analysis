@@ -1,0 +1,7 @@
+T0	Positive 5 14	Лукашенко
+T1	Positive 37 45	Медведев
+T2	Neutral 73 75	их
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

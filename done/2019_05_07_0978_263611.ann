@@ -1,0 +1,10 @@
+T0	Neutral 45 51	Трампа
+T1	Neutral 0 2	Мы
+A1	Plural T1
+T2	Neutral 23 27	ними
+A2	Plural T2
+T3	Neutral 105 108	нас
+A3	Plural T3
+T4	Neutral 210 212	вы
+A4	Plural T4
+R1	Variant Arg1:T1 Arg2:T3	

@@ -1,0 +1,5 @@
+T0	Neutral_all 32 42	Хусаиновым
+T1	Neutral_all 58 65	Смолову
+T2	Neutral_all 79 81	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Neutral 149 182	Владимиру Вольфовичу Жириновскому
+T1	Positive 407 427	Владимира Вольфовича
+T2	Positive 222 224	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

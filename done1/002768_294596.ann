@@ -1,0 +1,4 @@
+T0	Neutral_all 45 74	Гриценко Анатолия Степановича
+T1	Neutral_all 76 78	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T2	Neutral_all 39 44	Вашей
+A1	AnaforPerson T2
+T1	Neutral 46 71	Виталий Леонтьевич (Мутко
+R1	Anafor Arg1:T1 Arg2:T2	

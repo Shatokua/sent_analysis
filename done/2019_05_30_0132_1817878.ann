@@ -1,0 +1,6 @@
+T0	Neutral_all 127 130	Ира
+T1	Neutral_all 138 145	Джемаля
+T2	Neutral_all 146 161	Ирина Гордиенко
+T103	Neutral_all 103 105	мы
+A1	AnaforPerson T103
+R1	Anafor Arg1:T2 Arg2:T0

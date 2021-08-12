@@ -1,0 +1,4 @@
+T0	Neutral_all 492 508	Владимиру Путину
+T2	Neutral_all 1008 1024	Владимиру Путину
+T1	Neutral_all 668 674	Кирилл
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,10 @@
+T0	Neutral 393 403	Захарченко
+T1	Neutral 5 7	он
+T2	Neutral 94 96	он
+A1	AnaforPerson T2
+A2	AnaforPerson T1
+T3	Neutral 238 240	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T1	

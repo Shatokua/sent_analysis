@@ -1,0 +1,8 @@
+T2	Negative 52 56	нему
+A1	AnaforPerson T2
+T100	Negative 12 17	Трамп
+T101	Neutral_all 201 217	Владимиру Путину
+T102	Neutral_all 219 221	Он
+A2	AnaforPerson T102
+R101	Anafor Arg1:T100 Arg2:T102
+R1	Anafor Arg1:T102 Arg2:T2	

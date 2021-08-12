@@ -1,0 +1,10 @@
+T0	Positive 0 17	Криштиану Роналду
+T1	Neutral 53 55	он
+A1	AnaforPerson T1
+T2	Neutral 93 95	он
+A2	AnaforPerson T2
+T3	Positive 118 120	Он
+A3	AnaforPerson T3
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T1 Arg2:T2	
+R3	Variant Arg1:T0 Arg2:T1	

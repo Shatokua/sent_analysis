@@ -1,0 +1,7 @@
+T100	Neutral_all 199 209	Навального
+T101	Neutral 12 14	он
+A1	AnaforPerson T101
+T102	Neutral 144 148	него
+A2	AnaforPerson T102
+R101	Anafor Arg1:T100 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T101

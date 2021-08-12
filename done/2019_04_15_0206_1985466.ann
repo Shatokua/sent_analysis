@@ -1,0 +1,9 @@
+T0	Neutral_all 48 53	Путин
+T3	Neutral_all 151 156	Путин
+T4	Neutral_all 67 69	он
+A1	AnaforPerson T4
+T1	Neutral_all 115 132	Эммануэль] Макрон
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T4

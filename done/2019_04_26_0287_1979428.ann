@@ -1,0 +1,7 @@
+T0	Neutral_all 200 203	Ким
+T1	Neutral_all 222 228	Трампу
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 133 135	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

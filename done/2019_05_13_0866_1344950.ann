@@ -1,0 +1,4 @@
+T0	Neutral 62 75	Олег Павлович
+T1	Positive 137 139	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

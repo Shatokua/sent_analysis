@@ -1,0 +1,3 @@
+T0	Neutral_all 79 89	Плахотнюка
+T1	Negative_all 118 128	Плахотнюка
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,16 @@
+T0	Neutral_all 27 44	Георгием Корневым
+T1	Neutral_all 47 65	Богданом Архиповым
+T2	Neutral_all 67 69	Мы
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral_all 123 125	мы
+A3	Plural T3
+A4	AnaforPerson T3
+T4	Neutral_all 163 165	Мы
+A5	AnaforPerson T4
+A6	Plural T4
+T5	Neutral_all 207 209	ее
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T2
+R4	Anafor Arg1:T0 Arg2:T2

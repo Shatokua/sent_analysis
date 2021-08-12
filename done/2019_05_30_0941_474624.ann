@@ -1,0 +1,6 @@
+T0	Neutral_all 48 56	Сноудена
+T1	Neutral_all 104 110	Эдвард
+T2	Neutral_all 172 175	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

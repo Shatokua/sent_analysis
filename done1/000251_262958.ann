@@ -1,0 +1,11 @@
+T0	Neutral_all 142 151	Моисеевой
+T1	Neutral_all 225 241	Наталья Моисеева
+T2	Neutral_all 332 335	нее
+A1	AnaforPerson T2
+T3	Neutral_all 354 357	она
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3

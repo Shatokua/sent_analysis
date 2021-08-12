@@ -1,0 +1,7 @@
+T0	Neutral_all 98 120	Иосиф Давыдович Кобзон
+T1	Neutral_all 136 151	Изабеллу Юрьеву
+T2	Positive 56 60	тебя
+T3	Neutral_all 163 165	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+A2	AnaforPerson T2

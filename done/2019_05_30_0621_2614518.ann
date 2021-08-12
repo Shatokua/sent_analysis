@@ -1,0 +1,7 @@
+T0	Mixed_all 86 93	Путиным
+T1	Mixed_all 114 121	Путиным
+T2	Mixed_all 132 139	Путиным
+T3	Neutral_all 20 23	нас
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

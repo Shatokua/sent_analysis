@@ -1,0 +1,4 @@
+T0	Neutral 164 170	Сергея
+T1	Neutral 250 264	Уильям Браудер
+T2	Negative 274 276	он
+R1	Anafor Arg1:T1 Arg2:T2	

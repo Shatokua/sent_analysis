@@ -1,0 +1,8 @@
+T0	Neutral_all 53 64	Кристина Си
+T1	Neutral_all 105 111	Тимати
+T2	Neutral_all 1 4	Она
+A1	AnaforPerson T2
+T3	Neutral_all 36 38	ты
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,5 @@
+T0	Neutral_all 21 36	Томом Лоффлером
+T1	Neutral_all 51 71	Геннадием Головкиным
+T2	Neutral_all 38 41	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

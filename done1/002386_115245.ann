@@ -1,0 +1,6 @@
+T0	Neutral_all 16 25	Копайгора
+T1	Neutral_all 50 66	Владимира Путина
+T2	Neutral_all 81 84	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T2

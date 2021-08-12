@@ -1,0 +1,10 @@
+T0	Mixed 21 35	Сергей Миронов
+T1	Neutral 37 40	Ему
+A1	AnaforPerson T1
+T2	Neutral 103 105	он
+A2	AnaforPerson T2
+T3	Neutral 187 189	он
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+A3	AnaforPerson T3

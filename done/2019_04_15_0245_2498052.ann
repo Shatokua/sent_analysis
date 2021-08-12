@@ -1,0 +1,4 @@
+T0	Neutral_all 0 4	Рита
+T1	Neutral_all 62 67	Влада
+T2	Neutral_all 118 130	Соколовского
+R1	Anafor Arg1:T2 Arg2:T1

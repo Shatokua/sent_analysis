@@ -1,0 +1,12 @@
+T0	Neutral_all 38 44	Чехова
+T1	Neutral_all 135 148	Павел Сафонов
+T2	Neutral_all 151 168	Максимом Авериным
+T3	Neutral_all 188 206	Ольгой Ломоносовой
+T4	Neutral_all 0 2	Мы
+A1	Plural T4
+T5	Neutral_all 28 30	Мы
+A2	Plural T5
+R1	Anafor Arg1:T4 Arg2:T5
+R102	Anafor Arg1:T1 Arg2:T4
+R103	Anafor Arg1:T2 Arg2:T4
+R104	Anafor Arg1:T3 Arg2:T4

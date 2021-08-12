@@ -1,0 +1,4 @@
+T0	Negative 9 25	Владимира Ресина
+T1	Negative 156 159	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

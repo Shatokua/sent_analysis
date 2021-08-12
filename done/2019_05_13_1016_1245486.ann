@@ -1,0 +1,6 @@
+T0	Positive 176 192	Дмитрий Кузнецов
+T1	Positive 201 206	Хаски
+T2	Positive 153 155	им
+A1	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

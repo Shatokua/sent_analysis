@@ -1,0 +1,7 @@
+T1	Negative 165 174	Януковичу
+T100	Neutral 29 35	Ющенко
+T102	Positive 303 309	Ющенко
+T103	Negative 87 89	он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T100 Arg2:T103
+R1	Anafor Arg1:T103 Arg2:T102	

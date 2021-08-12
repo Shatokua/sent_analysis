@@ -1,0 +1,7 @@
+T0	Neutral 14 42	Алишеру Бурхановичу Усманову
+T1	Negative 104 107	вас
+A1	AnaforPerson T1
+T2	Negative 131 135	вами
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T2	

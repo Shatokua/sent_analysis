@@ -1,0 +1,4 @@
+T2	Negative 134 143	Пригожина
+T100	Neutral_all 30 44	Игорь Артемьев
+T101	Neutral_all 71 80	Пригожина
+R1	Anafor Arg1:T101 Arg2:T2	

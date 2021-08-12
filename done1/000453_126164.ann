@@ -1,0 +1,48 @@
+T0	Neutral_all 60 65	Гриши
+T1	Neutral_all 100 108	Зинаидой
+T2	Neutral_all 316 330	Ивана Аникеева
+T3	Neutral_all 333 352	Валентина Филатьева
+T4	Neutral_all 354 361	Аникеев
+T5	Neutral_all 364 372	Филатьев
+T6	Neutral_all 632 637	Гриша
+T7	Neutral_all 733 741	Нелюбову
+T8	Neutral_all 743 751	Аникееву
+T9	Neutral_all 754 763	Филатьеву
+T10	Neutral_all 811 816	Гриша
+T11	Neutral_all 944 949	Гриша
+T12	Neutral_all 75 78	они
+A1	Plural T12
+T13	Neutral_all 152 154	он
+A2	AnaforPerson T13
+T14	Neutral_all 463 466	них
+A3	Plural T14
+T15	Neutral_all 923 925	он
+A4	AnaforPerson T15
+T16	Neutral_all 1004 1006	он
+A5	AnaforPerson T16
+R1	Anafor Arg1:T4 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T8
+R3	Anafor Arg1:T5 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T9
+R5	Anafor Arg1:T11 Arg2:T10
+R6	Anafor Arg1:T10 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T0
+R8	Anafor Arg1:T0 Arg2:T7
+R9	Anafor Arg1:T7 Arg2:T13
+R10	Anafor Arg1:T13 Arg2:T15
+R11	Anafor Arg1:T15 Arg2:T16
+R101	Anafor Arg1:T0 Arg2:T12
+R102	Anafor Arg1:T1 Arg2:T12
+R103	Anafor Arg1:T6 Arg2:T7
+R104	Anafor Arg1:T4 Arg2:T14
+R105	Anafor Arg1:T5 Arg2:T14
+R106	Anafor Arg1:T7 Arg2:T14
+R108	Anafor Arg1:T7 Arg2:T10
+R109	Anafor Arg1:T10 Arg2:T15
+R110	Anafor Arg1:T15 Arg2:T11
+R111	Anafor Arg1:T11 Arg2:T16
+R112	Anafor Arg1:T2 Arg2:T4
+R113	Anafor Arg1:T3 Arg2:T5
+R114	Anafor Arg1:T4 Arg2:T8
+R115	Anafor Arg1:T5 Arg2:T9
+R116	Anafor Arg1:T0 Arg2:T13

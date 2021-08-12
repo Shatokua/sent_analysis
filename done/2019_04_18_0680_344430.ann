@@ -1,0 +1,4 @@
+T0	Neutral 17 32	Николая Баскова
+T1	Neutral 49 51	он
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

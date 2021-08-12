@@ -1,0 +1,8 @@
+T0	Neutral 0 4	Боря
+T1	Negative 38 41	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 93 95	их
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Negative 51 68	Харви Вайнштейном
+T1	Negative 101 104	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 152 155	они
+A2	Plural T2

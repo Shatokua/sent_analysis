@@ -1,0 +1,5 @@
+T0	Neutral_all 0 10	Москаленко
+T1	Neutral_all 99 112	Виктора Берга
+T2	Neutral_all 58 61	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

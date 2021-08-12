@@ -1,0 +1,5 @@
+T3	Neutral 119 122	ему
+A1	AnaforPerson T3
+T101	Neutral_all 69 78	Горбатюку
+T102	Neutral_all 144 151	Луценко
+R1	Anafor Arg1:T101 Arg2:T3

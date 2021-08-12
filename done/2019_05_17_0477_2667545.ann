@@ -1,0 +1,4 @@
+T0	Neutral_all 0 12	Яна Черновая
+T1	Neutral_all 15 32	Александр Милютин
+T2	Positive_all 92 95	Яну
+R1	Anafor Arg1:T0 Arg2:T2

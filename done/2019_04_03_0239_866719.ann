@@ -1,0 +1,5 @@
+T0	Neutral_all 11 30	Георгий Полтавченко
+T5	Neutral_all 115 123	Семчуков
+T1	Neutral_all 100 113	А.С.Семчукова
+R1	Anafor Arg1:T5 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T5

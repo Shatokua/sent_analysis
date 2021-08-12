@@ -1,0 +1,4 @@
+T100	Neutral_all 58 63	Трамп
+T101	Negative 133 142	Порошенко
+T102	Neutral_all 175 181	Трампу
+R1	Anafor Arg1:T100 Arg2:T102	

@@ -1,0 +1,6 @@
+T100	Neutral_all 6 12	Кастро
+T101	Positive_all 91 97	Кастро
+T102	Neutral 14 17	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T102

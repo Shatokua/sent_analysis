@@ -1,0 +1,7 @@
+T0	Neutral 25 44	Борис Юрьевич Титов
+T1	Neutral 96 99	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 245 248	они
+A2	AnaforPerson T2
+A3	Plural T2

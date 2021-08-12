@@ -1,0 +1,7 @@
+T3	Positive 79 82	его
+A1	AnaforPerson T3
+T100	Positive_all 29 34	Обаму
+T101	Neutral_all 85 102	Дональдом Трампом
+T102	Negative 123 129	Трампа
+R2	Anafor Arg1:T100 Arg2:T3
+R1	Anafor Arg1:T101 Arg2:T102	

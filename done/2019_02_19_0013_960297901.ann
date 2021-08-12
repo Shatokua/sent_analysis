@@ -1,0 +1,5 @@
+T4	Neutral 179 189	Башар Асад
+T101	Negative 0 10	Кофи Аннан
+T102	Neutral 141 147	Аннана
+T103	Neutral_all 158 172	Владимир Путин
+R1	Anafor Arg1:T101 Arg2:T102	

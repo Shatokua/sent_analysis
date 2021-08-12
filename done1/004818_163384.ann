@@ -1,0 +1,5 @@
+T0	Neutral_all 0 13	Евгений Лосев
+T1	Neutral_all 178 195	Леонид Решетников
+T2	Neutral_all 211 214	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

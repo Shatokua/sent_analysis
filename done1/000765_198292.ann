@@ -1,0 +1,4 @@
+T1	Neutral_all 40 43	Вам
+A1	AnaforPerson T1
+T100	Positive 10 25	Сергей Петрович
+R1	Anafor Arg1:T100 Arg2:T1	

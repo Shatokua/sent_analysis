@@ -1,0 +1,5 @@
+T1	Neutral_all 125 131	Ксении
+T100	Neutral 52 58	Ксении
+T102	Neutral 162 167	Ксюша
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T102	

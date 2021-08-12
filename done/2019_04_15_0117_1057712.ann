@@ -1,0 +1,6 @@
+T0	Neutral_all 40 45	Келли
+T1	Neutral_all 74 84	Джон Келли
+T2	Neutral_all 149 162	Джону Кеннеди
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T1 Arg2:T0

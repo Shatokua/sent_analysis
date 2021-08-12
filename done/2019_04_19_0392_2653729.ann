@@ -1,0 +1,5 @@
+T0	Positive_all 6 14	Анатолия
+T1	Neutral_all 92 97	Мишей
+T2	Mixed 19 22	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

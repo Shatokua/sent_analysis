@@ -1,0 +1,4 @@
+T0	Negative 10 25	Хиллари Клинтон
+T1	Negative 92 95	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

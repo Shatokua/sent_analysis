@@ -1,0 +1,9 @@
+T1	Neutral 77 82	Обаму
+T2	Neutral 85 100	Хиллари Клинтон
+T3	Neutral 14 17	его
+A1	AnaforPerson T3
+T100	Neutral_all 53 58	Путин
+T103	Neutral_all 49 51	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T3	

@@ -1,0 +1,15 @@
+T0	Negative_all 0 5	Игорь
+T1	Neutral_all 119 126	Лебедев
+T2	Neutral_all 158 163	Игоря
+T3	Neutral_all 38 40	Он
+A1	AnaforPerson T3
+T4	Neutral_all 59 61	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T3

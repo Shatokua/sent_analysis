@@ -1,0 +1,8 @@
+T0	Neutral_all 130 150	Александра Лукашенко
+T1	Neutral_all 269 288	Александр Лукашенко
+T2	Neutral_all 345 349	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T1

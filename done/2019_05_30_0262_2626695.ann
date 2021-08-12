@@ -1,0 +1,8 @@
+T0	Neutral_all 35 52	Елену Григорьевну
+T1	Neutral_all 71 81	Степаненко
+T2	Neutral_all 139 156	Елена Григорьевна
+T3	Neutral_all 82 84	мы
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T1

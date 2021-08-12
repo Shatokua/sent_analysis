@@ -1,0 +1,4 @@
+T0	Neutral 49 72	Юрию Петровичу Трутневу
+T1	Neutral 74 76	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

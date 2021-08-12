@@ -1,0 +1,6 @@
+T0	Neutral_all 12 27	Ксюшей Пупкиной
+T1	Neutral_all 8 11	она
+A1	AnaforPerson T1
+T2	Neutral_all 141 144	ней
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

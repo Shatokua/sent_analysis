@@ -1,0 +1,11 @@
+T0	Neutral_all 41 62	Адилета Мамбетказиева
+T1	Neutral_all 283 304	Адилета Мамбетказиева
+T2	Neutral_all 87 90	Она
+A1	AnaforPerson T2
+T3	Neutral_all 214 217	ему
+A2	AnaforPerson T3
+T4	Neutral_all 392 394	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T4 Arg2:T3

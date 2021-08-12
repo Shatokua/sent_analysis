@@ -1,0 +1,6 @@
+T3	Neutral_all 56 60	вами
+A2	Plural T3
+T1	Mixed 120 147	Геннадий Андреевич [Зюганов
+T5	Mixed 150 152	вы
+A4	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T5	

@@ -1,0 +1,4 @@
+T0	Neutral 26 34	Якеменко
+T1	Neutral 62 65	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

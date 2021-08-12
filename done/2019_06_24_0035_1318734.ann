@@ -1,0 +1,3 @@
+T1	Neutral 203 210	Волкера
+T100	Neutral 0 6	Волкер
+R1	Anafor Arg1:T100 Arg2:T1	

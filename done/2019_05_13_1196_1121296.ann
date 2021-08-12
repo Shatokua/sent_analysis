@@ -1,0 +1,9 @@
+T0	Positive 15 26	Шаши Капура
+T1	Positive 86 90	 Его
+T2	Neutral 147 150	его
+A1	AnaforPerson T2
+T3	Neutral 176 179	его
+A2	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,7 @@
+T0	Neutral_all 110 114	Яшин
+T1	Neutral_all 138 145	Гудкова
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T103	Neutral_all 63 67	наши
+A2	Plural T103
+R101	Anafor Arg1:T2 Arg2:T103

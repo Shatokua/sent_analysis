@@ -1,0 +1,4 @@
+T2	Neutral 82 85	ему
+A1	AnaforPerson T2
+T101	Neutral_all 27 56	Антона Германовича (Силуанова
+R1	Anafor Arg1:T101 Arg2:T2

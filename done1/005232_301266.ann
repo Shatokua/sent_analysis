@@ -1,0 +1,7 @@
+T0	Neutral_all 13 31	Александр Мацегора
+T1	Neutral_all 156 175	Татьяной Сергеевной
+T2	Neutral_all 206 214	Ли Ён Хо
+T3	Neutral_all 234 246	Им Чхон Илем
+T4	Neutral_all 217 220	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4

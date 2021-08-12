@@ -1,0 +1,6 @@
+T0	Negative_all 36 51	Никита Олегович
+T1	Negative_all 89 104	Никита Олегович
+T2	Negative_all 65 67	Вы
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

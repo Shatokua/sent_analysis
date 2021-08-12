@@ -1,0 +1,10 @@
+T0	Neutral_all 88 101	Анна Ахматова
+T1	Neutral_all 31 34	его
+A1	AnaforPerson T1
+T2	Neutral_all 21 28	Сталина
+T3	Neutral_all 137 139	ее
+A2	AnaforPerson T3
+T4	Neutral_all 211 213	мы
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1

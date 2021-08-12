@@ -1,0 +1,4 @@
+T0	Positive 29 48	Биньямина Нетаниягу
+T1	Mixed 124 127	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

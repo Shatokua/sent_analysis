@@ -1,0 +1,5 @@
+T1	Neutral 150 155	Асада
+T100	Neutral 22 27	Путин
+T102	Neutral 30 33	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	

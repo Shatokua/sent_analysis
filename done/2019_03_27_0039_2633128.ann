@@ -1,0 +1,5 @@
+T0	Neutral_all 10 15	Трамп
+T1	Neutral_all 48 61	Киму (Чен Ыну
+T2	Neutral_all 64 66	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

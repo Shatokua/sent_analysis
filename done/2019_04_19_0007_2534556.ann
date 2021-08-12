@@ -1,0 +1,16 @@
+T0	Neutral_all 11 16	Кенни
+T1	Neutral_all 138 143	Кенни
+T2	Neutral_all 34 37	его
+A1	AnaforPerson T2
+T3	Neutral_all 84 86	он
+A2	AnaforPerson T3
+T4	Neutral_all 116 118	он
+A3	AnaforPerson T4
+T5	Neutral_all 145 147	ты
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T4 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T4

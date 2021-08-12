@@ -1,0 +1,6 @@
+T0	Positive 70 88	Минтимера Шаймиева
+T1	Positive 18 20	он
+A1	AnaforPerson T1
+T2	Positive 190 192	им
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

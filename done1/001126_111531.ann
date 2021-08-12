@@ -1,0 +1,4 @@
+T0	Neutral_all 8 20	Эми Клобушар
+T1	Neutral_all 178 181	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

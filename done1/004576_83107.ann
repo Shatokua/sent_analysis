@@ -1,0 +1,4 @@
+T0	Neutral_all 78 93	Александр Вучич
+T1	Neutral_all 95 97	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T100	Neutral_all 91 98	Клинтон
+T101	Neutral 100 113	Эндрю Маккейб
+T102	Neutral_all 137 139	Х.
+T103	Neutral_all 141 148	Хиллари
+R1	Anafor Arg1:T103 Arg2:T102
+R2	Anafor Arg1:T100 Arg2:T102	

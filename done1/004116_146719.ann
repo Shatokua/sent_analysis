@@ -1,0 +1,13 @@
+T0	Neutral_all 304 321	Владимир Панченко
+T1	Neutral_all 48 51	нас
+A1	Plural T1
+T2	Neutral_all 121 123	мы
+A2	Plural T2
+T3	Neutral_all 326 329	его
+A3	AnaforPerson T3
+T4	Neutral_all 428 430	мы
+A4	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T1
+R104	Anafor Arg1:T3 Arg2:T4

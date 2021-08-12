@@ -1,0 +1,4 @@
+T0	Neutral_all 0 8	Дельпаль
+T1	Neutral_all 11 16	Калви
+T2	Neutral_all 39 47	Дельпаль
+R1	Anafor Arg1:T0 Arg2:T2

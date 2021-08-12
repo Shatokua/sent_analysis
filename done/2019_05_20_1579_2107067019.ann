@@ -1,0 +1,5 @@
+T1	Neutral 27 31	него
+A1	AnaforPerson T1
+T2	Neutral 36 43	Пехтина
+A2	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1	

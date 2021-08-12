@@ -1,0 +1,6 @@
+T2	Positive 175 177	ей
+A1	AnaforPerson T2
+T100	Neutral_all 0 14	Анна Кузнецова
+T101	Positive_all 154 166	Анну Юрьевну
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T2

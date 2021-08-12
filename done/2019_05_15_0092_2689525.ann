@@ -1,0 +1,8 @@
+T1	Neutral_all 117 134	Галины Васильевны
+T2	Negative 95 98	его
+A1	AnaforPerson T2
+T3	Neutral_all 144 146	ее
+A2	AnaforPerson T3
+T100	Negative 80 92	Жириновского
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T100 Arg2:T2	

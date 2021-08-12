@@ -1,0 +1,8 @@
+T0	Neutral_all 87 97	Плахотнюка
+T1	Neutral_all 139 159	Владимира Плахотнюка
+T2	Neutral_all 305 310	Филип
+T3	Neutral_all 337 342	Додон
+T4	Neutral_all 168 170	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T4

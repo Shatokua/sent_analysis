@@ -1,0 +1,10 @@
+T0	Neutral_all 17 46	Геннадий Геннадьевич Головкин
+T1	Neutral_all 194 207	Аделаида Берд
+T2	Neutral_all 227 240	Доном Треллой
+T3	Neutral_all 340 348	Головкин
+T104	Neutral_all 100 106	Канело
+T105	Neutral_all 48 51	GGG
+T106	Neutral_all 56 64	Triple G
+R1	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T105
+R103	Anafor Arg1:T105 Arg2:T106

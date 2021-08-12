@@ -1,0 +1,5 @@
+T0	Neutral 4 8	Надя
+T1	Neutral 36 40	Гиви
+T2	Neutral 0 2	Вы
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

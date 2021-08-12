@@ -1,0 +1,5 @@
+T1	Neutral 22 34	Коломойского
+A1	AnaforPerson T1
+T2	Neutral 71 74	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

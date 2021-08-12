@@ -1,0 +1,8 @@
+T0	Neutral_all 53 64	Гавриил Ким
+T1	Neutral_all 77 87	Рудничанин
+T2	Neutral_all 193 210	Гавриил Сергеевич
+T3	Neutral_all 176 178	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T2

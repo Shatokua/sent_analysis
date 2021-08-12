@@ -1,0 +1,5 @@
+T0	Neutral_all 0 17	Елена Игнатенкова
+T1	Neutral_all 99 117	Ивану Великовскому
+T2	Neutral_all 126 129	ему
+A1	AnaforPerson T2
+R101	Anafor Arg1:T1 Arg2:T2

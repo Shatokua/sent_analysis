@@ -1,0 +1,21 @@
+T0	Neutral_all 138 150	Мати Алавера
+T1	Neutral_all 188 204	Андруса Веэрпалу
+T2	Neutral_all 307 321	Тоомаса Тынисе
+T3	Neutral_all 375 382	Алавера
+T4	Neutral_all 475 483	Веэрпалу
+T5	Neutral_all 668 684	Андруса Веэрпалу
+T6	Neutral_all 1041 1060	Алексея Полторанина
+T7	Neutral_all 1096 1112	Карела Таммъярва
+T8	Neutral_all 1115 1132	Андреаса Веэрпалу
+T109	Neutral_all 175 178	его
+A1	AnaforPerson T109
+T110	Neutral_all 548 551	его
+A2	AnaforPerson T110
+T111	Neutral_all 618 620	Он
+A3	AnaforPerson T111
+R101	Anafor Arg1:T1 Arg2:T5
+R102	Anafor Arg1:T5 Arg2:T8
+R103	Anafor Arg1:T8 Arg2:T4
+R104	Anafor Arg1:T0 Arg2:T3
+R105	Anafor Arg1:T2 Arg2:T111
+R106	Anafor Arg1:T4 Arg2:T110

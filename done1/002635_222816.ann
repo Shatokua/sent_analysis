@@ -1,0 +1,6 @@
+T0	Neutral_all 0 14	Андрей Нэстасе
+T1	Neutral_all 214 228	Андрей Нэстасе
+T2	Neutral_all 92 95	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

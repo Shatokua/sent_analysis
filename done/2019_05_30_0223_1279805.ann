@@ -1,0 +1,4 @@
+T0	Neutral_all 32 41	Януковича
+T1	Neutral_all 53 59	Путина
+T2	Neutral_all 188 195	Путиным
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Neutral 0 14	Игорь Иванович
+T1	Neutral 35 38	вас
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

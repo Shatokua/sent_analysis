@@ -1,0 +1,4 @@
+T0	Neutral_all 82 96	Зураба Валиева
+T1	Neutral_all 131 134	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

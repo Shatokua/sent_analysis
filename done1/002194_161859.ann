@@ -1,0 +1,8 @@
+T0	Neutral 215 234	Николаем Арутюновым
+T2	Neutral_all 298 301	вас
+A2	Plural T2
+T104	Neutral_all 344 349	вашим
+A4	Plural T104
+R102	Anafor Arg1:T2 Arg2:T104
+A1	AnaforPerson T2
+A3	AnaforPerson T104

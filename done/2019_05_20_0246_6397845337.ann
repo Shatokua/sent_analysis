@@ -1,0 +1,6 @@
+T0	Neutral 24 34	Горбачевым
+T1	Neutral 0 2	Ты
+A1	AnaforPerson T1
+T2	Neutral 46 49	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

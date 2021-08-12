@@ -1,0 +1,23 @@
+T0	Neutral 262 271	Аллегрова
+T1	Neutral_all 365 378	Джона Леннона
+T2	Mixed 27 29	ты
+A1	AnaforPerson T2
+T4	Neutral_all 514 516	им
+A3	Plural T4
+T5	Negative_all 544 546	Ты
+A4	AnaforPerson T5
+T102	Mixed 52 57	твоих
+A7	AnaforPerson T102
+T103	Negative 138 140	Ты
+A8	AnaforPerson T103
+T107	Negative 560 562	Ты
+A9	AnaforPerson T107
+T108	Negative 492 496	тебя
+A10	AnaforPerson T108
+R1	Anafor Arg1:T2 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T0 Arg2:T103	
+R4	Anafor Arg1:T0 Arg2:T108	
+A2	AnaforPerson T4
+R5	Anafor Arg1:T108 Arg2:T5	
+R6	Anafor Arg1:T5 Arg2:T107	

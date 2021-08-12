@@ -1,0 +1,7 @@
+T0	Neutral 127 144	Михаил Саакашвили
+T1	Neutral 21 24	вам
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 80 83	его
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

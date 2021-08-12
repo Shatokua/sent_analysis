@@ -1,0 +1,12 @@
+T0	Neutral_all 40 59	Александра Логинова
+T1	Neutral_all 73 81	Логинова
+T2	Neutral_all 125 129	Саша
+T3	Negative_all 29 31	он
+T4	Neutral_all 92 94	он
+A1	AnaforPerson T4
+T5	Neutral 166 168	он
+A2	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T4 Arg2:T5	

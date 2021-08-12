@@ -1,0 +1,7 @@
+T100	Neutral_all 0 9	Муса Садр
+T102	Negative 86 106	Абдель Салам Джеллуд
+T103	Negative 169 176	Джеллуд
+T101	Neutral_all 12 15	его
+A1	AnaforPerson T101
+R2	Anafor Arg1:T100 Arg2:T101
+R1	Anafor Arg1:T102 Arg2:T103	

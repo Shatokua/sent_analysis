@@ -1,0 +1,16 @@
+T0	Neutral 532 548	Владимире Путине
+T1	Neutral 70 73	них
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 132 135	них
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Neutral 256 259	они
+A5	AnaforPerson T3
+A6	Plural T3
+T4	Neutral 356 360	ними
+A7	AnaforPerson T4
+A8	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

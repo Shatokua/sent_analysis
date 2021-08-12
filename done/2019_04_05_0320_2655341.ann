@@ -1,0 +1,5 @@
+T0	Neutral_all 137 144	Дмитрия
+T1	Neutral_all 164 178	Юлии Началовой
+T2	Neutral_all 16 19	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

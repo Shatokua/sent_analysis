@@ -1,0 +1,7 @@
+T0	Negative 114 120	Цириак
+T1	Negative 200 203	ним
+A1	AnaforPerson T1
+T2	Negative 215 217	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

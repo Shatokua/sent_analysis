@@ -1,0 +1,3 @@
+T0	Neutral_all 196 201	Панов
+T1	Neutral_all 236 250	Владимир Панов
+R101	Anafor Arg1:T1 Arg2:T0

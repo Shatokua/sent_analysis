@@ -1,0 +1,11 @@
+T0	Negative 22 28	Макрон
+T101	Neutral_all 44 49	Байру
+T102	Neutral 99 103	него
+A1	AnaforPerson T102
+T103	Negative 134 136	он
+A2	AnaforPerson T103
+R102	Anafor Arg1:T102 Arg2:T103
+R1	Anafor Arg1:T0 Arg2:T102	
+T1	Neutral 145 148	его
+R2	Anafor Arg1:T101 Arg2:T1	
+A3	AnaforPerson T1

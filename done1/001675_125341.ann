@@ -1,0 +1,4 @@
+T0	Neutral_all 50 63	Марии Бутиной
+T1	Neutral_all 171 178	Лаврова
+T2	Neutral_all 198 205	Бутиной
+R1	Anafor Arg1:T0 Arg2:T2

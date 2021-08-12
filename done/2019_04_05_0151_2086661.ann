@@ -1,0 +1,3 @@
+T0	Neutral_all 46 51	Обаме
+T1	Neutral_all 94 99	Обаме
+R1	Anafor Arg1:T0 Arg2:T1

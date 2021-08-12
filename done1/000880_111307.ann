@@ -1,0 +1,45 @@
+T0	Neutral_all 0 5	Бэнкс
+T1	Neutral_all 15 24	Головкину
+T2	Neutral_all 109 115	Роллса
+T3	Neutral_all 178 186	Головкин
+T4	Neutral_all 249 254	Бэнкс
+T5	Neutral_all 256 261	Бэнкс
+T6	Neutral_all 329 345	Владимира Кличко
+T7	Neutral_all 361 371	Владимиром
+T8	Neutral_all 384 397	Тайсона Фьюри
+T10	Neutral_all 433 439	Кличко
+T11	Neutral_all 488 494	Кличко
+T12	Neutral_all 550 558	Головкин
+T13	Neutral_all 588 594	Бэнкса
+T14	Neutral_all 652 658	Канело
+T15	Neutral_all 712 719	Роллсом
+T16	Neutral_all 782 791	Головкина
+T17	Neutral_all 800 806	Роллса
+T18	Neutral_all 954 960	Роллсе
+T19	Neutral_all 41 44	его
+A1	AnaforPerson T19
+T20	Neutral_all 228 231	его
+A2	AnaforPerson T20
+T9	Neutral 400 413	Энтони Джошуа
+T21	Neutral 414 419	Бэнкс
+T22	Neutral_all 598 602	него
+A3	AnaforPerson T22
+T23	Neutral_all 629 631	он
+A4	AnaforPerson T23
+R1	Anafor Arg1:T1 Arg2:T19	
+R2	Anafor Arg1:T3 Arg2:T19	
+R3	Anafor Arg1:T3 Arg2:T20	
+R4	Anafor Arg1:T0 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	
+R6	Anafor Arg1:T6 Arg2:T7	
+R7	Anafor Arg1:T5 Arg2:T21	
+R8	Anafor Arg1:T7 Arg2:T10	
+R9	Anafor Arg1:T10 Arg2:T11	
+R10	Anafor Arg1:T12 Arg2:T20	
+R11	Anafor Arg1:T21 Arg2:T13	
+R12	Anafor Arg1:T12 Arg2:T22	
+R13	Anafor Arg1:T22 Arg2:T23	
+R14	Anafor Arg1:T2 Arg2:T15	
+R15	Anafor Arg1:T15 Arg2:T17	
+R16	Anafor Arg1:T16 Arg2:T23	
+R17	Anafor Arg1:T17 Arg2:T18	

@@ -1,0 +1,11 @@
+T0	Neutral_all 77 85	Гройсман
+T1	Neutral_all 116 128	Юрий Луценко
+T2	Neutral_all 146 161	Степан Полторак
+T3	Neutral_all 239 241	Мы
+A1	Plural T3
+T4	Neutral_all 264 266	мы
+A2	Plural T4
+T5	Neutral_all 300 302	мы
+A3	Plural T5
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5

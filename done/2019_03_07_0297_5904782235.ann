@@ -1,0 +1,17 @@
+T3	Neutral 358 363	Трамп
+T100	Negative_all 25 36	Барак Обама
+T101	Negative 116 129	Дональд Трамп
+T102	Positive_all 284 302	Джордж Буш-старший
+T104	Negative_all 135 139	него
+A1	AnaforPerson T104
+T105	Neutral 178 180	он
+A2	AnaforPerson T105
+T106	Negative_all 234 237	его
+A3	AnaforPerson T106
+T107	Positive 452 454	он
+A4	AnaforPerson T107
+R1	Anafor Arg1:T100 Arg2:T104
+R101	Anafor Arg1:T101 Arg2:T104
+R102	Anafor Arg1:T104 Arg2:T105
+R103	Anafor Arg1:T105 Arg2:T106
+R104	Anafor Arg1:T102 Arg2:T107

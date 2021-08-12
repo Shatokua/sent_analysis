@@ -1,0 +1,5 @@
+T1	Neutral 118 121	вас
+A1	AnaforPerson T1
+T102	Neutral_all 60 74	Михаил Натаныч
+T103	Negative_all 196 205	Юрий Лоза
+R1	Anafor Arg1:T102 Arg2:T1

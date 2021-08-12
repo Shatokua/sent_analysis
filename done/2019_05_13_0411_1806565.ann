@@ -1,0 +1,14 @@
+T0	Positive 129 141	Андер Эррера
+T1	Positive 11 13	он
+A1	AnaforPerson T1
+T2	Positive 41 43	он
+A2	AnaforPerson T2
+T3	Positive 122 124	он
+A3	AnaforPerson T3
+T4	Positive 143 146	Они
+A4	AnaforPerson T4
+A5	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T0 Arg2:T4	

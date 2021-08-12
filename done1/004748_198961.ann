@@ -1,0 +1,54 @@
+T0	Neutral_all 25 32	Дмитрия
+T1	Neutral_all 421 428	Дмитрия
+T2	Neutral_all 530 537	Дмитрия
+T3	Neutral_all 562 569	Дмитрий
+T4	Neutral_all 614 628	Клавдию Плиеву
+T5	Neutral_all 970 977	Дмитрия
+T6	Neutral_all 34 36	он
+A1	AnaforPerson T6
+T7	Neutral_all 153 156	его
+A2	AnaforPerson T7
+T8	Neutral_all 348 351	его
+A3	AnaforPerson T8
+T9	Neutral_all 658 660	он
+A4	AnaforPerson T9
+T10	Neutral_all 699 702	его
+A5	AnaforPerson T10
+T11	Neutral_all 752 754	он
+A6	AnaforPerson T11
+T12	Neutral_all 822 824	Он
+A7	AnaforPerson T12
+T13	Neutral_all 832 834	ее
+A8	Plural T13
+A9	AnaforPerson T13
+T14	Neutral_all 861 864	они
+A10	Plural T14
+T15	Neutral_all 886 890	него
+A11	AnaforPerson T15
+T16	Neutral_all 906 909	его
+A12	AnaforPerson T16
+T17	Neutral_all 978 980	мы
+A13	Plural T17
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T6
+R6	Anafor Arg1:T6 Arg2:T7
+R7	Anafor Arg1:T7 Arg2:T8
+R8	Anafor Arg1:T8 Arg2:T9
+R9	Anafor Arg1:T9 Arg2:T10
+R10	Anafor Arg1:T10 Arg2:T11
+R11	Anafor Arg1:T11 Arg2:T12
+R12	Anafor Arg1:T12 Arg2:T15
+R13	Anafor Arg1:T15 Arg2:T16
+R14	Anafor Arg1:T17 Arg2:T14
+R15	Anafor Arg1:T4 Arg2:T13
+R103	Anafor Arg1:T2 Arg2:T3
+R104	Anafor Arg1:T3 Arg2:T5
+R106	Anafor Arg1:T6 Arg2:T9
+R107	Anafor Arg1:T9 Arg2:T11
+R109	Anafor Arg1:T12 Arg2:T7
+R111	Anafor Arg1:T8 Arg2:T10
+R113	Anafor Arg1:T10 Arg2:T16
+R114	Anafor Arg1:T16 Arg2:T15

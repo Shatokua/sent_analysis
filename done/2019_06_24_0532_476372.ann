@@ -1,0 +1,7 @@
+T0	Neutral_all 53 60	Луценко
+T1	Neutral_all 63 69	Бурбак
+T2	Neutral_all 149 156	Яценюка
+T3	Neutral_all 190 199	Гройсмана
+T4	Neutral_all 16 19	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4

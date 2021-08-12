@@ -1,0 +1,12 @@
+T0	Neutral_all 21 36	Николу Пашиняну
+T1	Neutral_all 42 61	Нурсултан Назарбаев
+T2	Neutral_all 162 172	Назарбаева
+T3	Neutral_all 297 304	Пашинян
+T4	Neutral_all 132 134	он
+A1	AnaforPerson T4
+T5	Neutral_all 313 316	его
+A2	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R4	Anafor Arg1:T0 Arg2:T3

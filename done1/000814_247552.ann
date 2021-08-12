@@ -1,0 +1,9 @@
+T0	Neutral_all 16 25	Мальстрем
+T2	Neutral_all 0 3	Они
+A1	Plural T2
+T3	Neutral_all 5 13	Могерини
+T1	Neutral 104 110	Хелмса
+T4	Neutral 111 118	Бертона
+R101	Anafor Arg1:T3 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T2
+A2	AnaforPerson T2

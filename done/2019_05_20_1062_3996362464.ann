@@ -1,0 +1,18 @@
+T0	Neutral 152 168	Тамара Дуйсенова
+T1	Neutral 170 180	Каирбекова
+T2	Neutral 292 311	Салидат Каирбековой
+T3	Neutral 578 585	Жамишев
+T4	Neutral 224 227	вас
+A1	AnaforPerson T4
+A2	Plural T4
+T5	Neutral 422 425	они
+A3	AnaforPerson T5
+A4	Plural T5
+T6	Neutral 519 522	Они
+A5	AnaforPerson T6
+A6	Plural T6
+R1	Anafor Arg1:T5 Arg2:T7	
+T7	Neutral 499 501	их
+A7	AnaforPerson T7
+A8	Plural T7
+R2	Anafor Arg1:T7 Arg2:T6	

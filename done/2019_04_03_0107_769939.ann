@@ -1,0 +1,4 @@
+T0	Neutral_all 74 89	Даниила Гранина
+T1	Neutral_all 101 106	Путин
+T2	Positive_all 159 166	Гранина
+R1	Anafor Arg1:T0 Arg2:T2

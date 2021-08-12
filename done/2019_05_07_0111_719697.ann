@@ -1,0 +1,4 @@
+T0	Neutral 96 104	Кокорина
+T1	Neutral 126 130	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,11 @@
+T0	Neutral_all 0 14	Луиза Рубанова
+T1	Neutral_all 28 44	Владимир Икрянов
+T2	Neutral_all 171 187	Алексея Рубанова
+T3	Neutral_all 326 334	Рубанова
+T4	Neutral_all 17 19	ее
+A1	AnaforPerson T4
+T5	Neutral_all 198 201	его
+A2	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T4
+R3	Anafor Arg1:T3 Arg2:T5

@@ -1,0 +1,6 @@
+T1	Neutral_all 150 163	Башара) Асада
+T102	Neutral_all 73 75	Им
+A1	Plural T102
+T103	Neutral_all 168 171	они
+A2	Plural T103
+R101	Anafor Arg1:T102 Arg2:T103

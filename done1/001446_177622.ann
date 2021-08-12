@@ -1,0 +1,5 @@
+T0	Neutral_all 44 59	Хиллари Клинтон
+T1	Neutral_all 145 152	Клинтон
+T2	Neutral_all 175 178	они
+A1	Plural T2
+R101	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,11 @@
+T0	Neutral_all 11 22	Богучарский
+T1	Neutral_all 25 32	Секушин
+T2	Neutral_all 268 288	Евгению Богучарскому
+T3	Neutral_all 310 326	Дмитрию Секушину
+T4	Neutral_all 214 216	Им
+A1	Plural T4
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T3 Arg2:T4

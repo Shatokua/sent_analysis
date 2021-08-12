@@ -1,0 +1,8 @@
+T0	Neutral_all 188 200	Бараке Обаме
+T1	Neutral_all 692 695	они
+A1	Plural T1
+T102	Neutral 715 717	Им
+A3	Plural T102
+A4	AnaforPerson T1
+R1	Anafor Arg1:T1 Arg2:T102	
+A2	AnaforPerson T102

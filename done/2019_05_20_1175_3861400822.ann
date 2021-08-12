@@ -1,0 +1,4 @@
+T0	Neutral 85 98	Денис Пушилин
+T1	Neutral 69 71	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

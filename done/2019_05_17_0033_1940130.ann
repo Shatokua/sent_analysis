@@ -1,0 +1,10 @@
+T0	Neutral_all 34 44	Навального
+T1	Neutral_all 87 94	Золотов
+T2	Neutral_all 110 118	Кадырова
+T3	Neutral_all 213 220	Немцова
+T4	Neutral_all 17 25	Золотова
+T5	Neutral_all 174 176	их
+A1	Plural T5
+T6	Neutral_all 196 198	мы
+A2	Plural T6
+R1	Anafor Arg1:T1 Arg2:T4

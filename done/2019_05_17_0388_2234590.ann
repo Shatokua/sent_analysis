@@ -1,0 +1,5 @@
+T0	Neutral 9 13	Паку
+T1	Neutral_all 85 94	Соловчуку
+T2	Neutral_all 127 130	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

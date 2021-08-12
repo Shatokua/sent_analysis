@@ -1,0 +1,4 @@
+T0	Neutral_all 6 14	И.Орбели
+T1	Neutral_all 132 140	И.Орбели
+T103	Neutral_all 360 377	Иоанна Крестителя
+R1	Anafor Arg1:T0 Arg2:T1

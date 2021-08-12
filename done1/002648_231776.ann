@@ -1,0 +1,11 @@
+T0	Neutral_all 64 79	Е. И. Копыловой
+T1	Neutral_all 678 687	Копыловой
+T2	Neutral_all 234 237	она
+A1	AnaforPerson T2
+T3	Neutral_all 337 339	её
+A2	AnaforPerson T3
+T4	Neutral_all 516 518	Мы
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

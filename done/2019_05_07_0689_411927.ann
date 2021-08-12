@@ -1,0 +1,4 @@
+T1	Neutral 36 67	Владимира Владимировича [Путина
+T2	Neutral 141 144	его
+A1	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

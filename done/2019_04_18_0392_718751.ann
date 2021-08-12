@@ -1,0 +1,4 @@
+T0	Neutral 92 97	Месси
+T1	Negative 184 187	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

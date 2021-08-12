@@ -1,0 +1,7 @@
+T0	Neutral_all 173 190	Криштиану Роналду
+T1	Neutral_all 23 25	им
+A1	Plural T1
+T2	Neutral_all 329 331	их
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T1

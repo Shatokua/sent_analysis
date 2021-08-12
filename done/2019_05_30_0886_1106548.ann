@@ -1,0 +1,8 @@
+T0	Neutral_all 0 14	Рамзан Кадыров
+T1	Neutral_all 131 137	Путина
+T2	Neutral_all 41 43	он
+A1	AnaforPerson T2
+T3	Neutral_all 208 211	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

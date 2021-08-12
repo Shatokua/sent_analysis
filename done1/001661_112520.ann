@@ -1,0 +1,33 @@
+T0	Neutral_all 193 199	Кнорин
+T1	Neutral_all 201 209	Гамарник
+T2	Neutral_all 211 217	Гикало
+T3	Neutral_all 219 229	Шарангович
+T5	Neutral_all 347 360	Тихон Киселев
+T6	Neutral_all 362 378	Николай Слюньков
+T7	Neutral_all 380 393	Ефрем Соколов
+T8	Neutral_all 395 412	Анатолий Малофеев
+T9	Neutral_all 455 472	Александр Аксенов
+T10	Neutral_all 474 491	Владимир Бровиков
+T11	Neutral_all 493 507	Михаил Ковалев
+T12	Neutral_all 232 234	их
+A1	Plural T12
+A2	AnaforPerson T12
+T4	Neutral 296 310	Петра Машерова
+T13	Neutral_all 522 525	них
+A3	AnaforPerson T13
+A4	Plural T13
+T114	Positive 569 572	они
+A7	Plural T114
+T115	Positive 712 714	им
+A8	Plural T115
+R1	Anafor Arg1:T0 Arg2:T12
+R2	Anafor Arg1:T1 Arg2:T12
+R3	Anafor Arg1:T2 Arg2:T12
+R4	Anafor Arg1:T3 Arg2:T12
+R6	Anafor Arg1:T11 Arg2:T13
+R7	Anafor Arg1:T10 Arg2:T13
+R8	Anafor Arg1:T9 Arg2:T13
+R5	Anafor Arg1:T13 Arg2:T114	
+A5	AnaforPerson T114
+R9	Anafor Arg1:T114 Arg2:T115	
+A6	AnaforPerson T115

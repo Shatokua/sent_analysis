@@ -1,0 +1,5 @@
+T0	Neutral_all 36 51	Кирстен Нильсен
+T1	Neutral_all 263 268	Трамп
+T2	Neutral_all 175 178	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

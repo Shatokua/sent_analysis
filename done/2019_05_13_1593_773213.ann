@@ -1,0 +1,4 @@
+T0	Neutral 20 40	Анатолии Эдуардовиче
+T1	Positive 42 44	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

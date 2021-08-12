@@ -1,0 +1,13 @@
+T0	Neutral_all 0 7	Фирмино
+T1	Positive_all 80 85	Бобби
+T2	Positive_all 137 144	Фирмино
+T3	Neutral_all 105 109	него
+A1	AnaforPerson T3
+T4	Neutral_all 190 192	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3

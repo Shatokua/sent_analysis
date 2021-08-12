@@ -1,0 +1,10 @@
+T0	Neutral_all 74 82	Айбатова
+T1	Neutral_all 201 222	Дамиром Хуснутдиновым
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 67 70	ему
+A2	Plural T3
+T4	Neutral_all 131 134	нам
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T3

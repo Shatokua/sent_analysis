@@ -1,0 +1,9 @@
+T0	Negative 0 9	Порошенко
+T1	Neutral 88 100	Грибаускайте
+T2	Neutral 120 125	Цокол
+T3	Negative 69 71	он
+T4	Negative 103 105	он
+A1	AnaforPerson T4
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

@@ -1,0 +1,15 @@
+T0	Negative 111 116	Тепин
+T1	Negative 14 17	вас
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 79 81	Вы
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Negative 99 101	вы
+A5	AnaforPerson T3
+T4	Negative 166 169	вас
+A6	AnaforPerson T4
+A7	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T4	

@@ -1,0 +1,6 @@
+T0	Neutral_all 72 88	Ярослава Мудрого
+T1	Neutral_all 112 126	Анны Ярославны
+T2	Negative_all 136 141	Путин
+T3	Neutral_all 91 94	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,6 @@
+T0	Neutral 63 73	Тиллерсону
+T1	Neutral 30 32	Мы
+A1	Plural T1
+T2	Neutral 126 130	него
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

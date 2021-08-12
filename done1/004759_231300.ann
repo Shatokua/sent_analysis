@@ -1,0 +1,20 @@
+T0	Neutral_all 2 11	Владимира
+T1	Neutral_all 158 164	Кличко
+T2	Neutral_all 298 316	Деонтеем Уайлдером
+T3	Neutral_all 104 107	его
+A1	AnaforPerson T3
+T4	Neutral_all 154 156	он
+A2	AnaforPerson T4
+T5	Neutral_all 248 252	него
+A3	AnaforPerson T5
+T6	Neutral_all 288 291	его
+A4	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T6
+R101	Anafor Arg1:T0 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T0
+R104	Anafor Arg1:T3 Arg2:T6
+R105	Anafor Arg1:T6 Arg2:T5

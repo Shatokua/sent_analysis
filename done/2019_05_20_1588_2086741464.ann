@@ -1,0 +1,6 @@
+T0	Neutral 27 42	Дмитрий Ливанов
+T1	Neutral 121 136	Николай Федоров
+T2	Neutral 188 205	Вероника Скорцова
+T3	Neutral 74 76	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

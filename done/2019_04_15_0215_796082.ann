@@ -1,0 +1,4 @@
+T0	Neutral_all 0 5	Путин
+T1	Neutral_all 31 45	Ангелу Меркель
+T2	Neutral_all 189 194	Путин
+R1	Anafor Arg1:T0 Arg2:T2

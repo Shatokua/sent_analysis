@@ -1,0 +1,9 @@
+T0	Neutral_all 52 60	Родниной
+T1	Neutral_all 63 71	Пушкиной
+T2	Neutral_all 77 79	их
+A1	Plural T2
+T3	Neutral_all 97 99	их
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T2

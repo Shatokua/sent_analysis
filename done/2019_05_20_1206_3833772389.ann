@@ -1,0 +1,8 @@
+T0	Neutral 8 17	Навальный
+T1	Neutral 68 72	Юлия
+T2	Neutral 207 210	его
+A1	AnaforPerson T2
+T3	Neutral 59 62	его
+A2	AnaforPerson T3
+R1	Variant Arg1:T0 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T2	

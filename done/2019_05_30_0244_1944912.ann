@@ -1,0 +1,9 @@
+T0	Positive 0 5	Хабиб
+T1	Negative 57 62	Крида
+T2	Neutral_all 76 81	Хабиб
+T3	Negative 121 126	Крида
+T4	Negative_all 144 146	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T2	

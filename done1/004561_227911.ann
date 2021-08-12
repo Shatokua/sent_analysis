@@ -1,0 +1,4 @@
+T0	Neutral_all 98 115	Сергей Николаевич
+T1	Neutral_all 369 371	мы
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

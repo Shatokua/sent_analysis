@@ -1,0 +1,4 @@
+T0	Neutral_all 59 65	Хрущев
+T1	Neutral_all 89 102	Никита Хрущев
+T2	Negative_all 146 154	Кравчука
+R1	Anafor Arg1:T1 Arg2:T0

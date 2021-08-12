@@ -1,0 +1,8 @@
+T0	Neutral_all 18 27	Омаров Ш.
+T1	Neutral_all 124 126	А.
+T2	Neutral_all 212 224	Куцевой Д.С.
+T4	Neutral_all 298 301	М.,
+T5	Neutral_all 302 314	Сабитов М.М.
+T6	Neutral_all 383 384	Ч
+T103	Neutral 293 295	Ч.
+R1	Anafor Arg1:T103 Arg2:T6	

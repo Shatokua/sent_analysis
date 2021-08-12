@@ -1,0 +1,4 @@
+T0	Neutral_all 11 26	Петра Кравченко
+T1	Neutral_all 29 32	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

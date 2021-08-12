@@ -1,0 +1,6 @@
+T0	Neutral 0 11	Лев Толстой
+T1	Neutral 52 63	Соколовский
+T2	Neutral 162 172	Николай II
+T3	Neutral 65 67	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

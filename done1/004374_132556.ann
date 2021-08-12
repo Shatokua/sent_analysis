@@ -1,0 +1,8 @@
+T0	Neutral_all 22 40	Дэвида Бронятовски
+T1	Neutral_all 66 84	Джорджа Вашингтона
+T2	Neutral_all 88 91	его
+A1	AnaforPerson T2
+T3	Neutral_all 448 451	Они
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2

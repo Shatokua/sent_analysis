@@ -1,0 +1,3 @@
+T0	Neutral_all 130 159	Александра Сергеевича Пушкина
+T101	Neutral_all 257 264	Пушкина
+R101	Anafor Arg1:T0 Arg2:T101

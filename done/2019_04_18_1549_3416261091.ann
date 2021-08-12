@@ -1,0 +1,7 @@
+T0	Negative 46 56	Саакашвили
+T1	Negative 129 131	он
+T2	Negative 202 204	он
+A1	AnaforPerson T2
+A2	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

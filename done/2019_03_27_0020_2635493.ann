@@ -1,0 +1,8 @@
+T100	Neutral_all 0 23	Олег Леонидович Чемезов
+T101	Neutral_all 98 131	Александр Геннадьевич Высокинский
+T102	Positive 149 153	него
+A1	AnaforPerson T102
+T103	Positive 173 175	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

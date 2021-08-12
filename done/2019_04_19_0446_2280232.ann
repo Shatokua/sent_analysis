@@ -1,0 +1,12 @@
+T1	Neutral_all 31 49	Дональдом) Трампом
+T4	Negative_all 114 116	их
+A3	Plural T4
+T5	Neutral 148 151	они
+A4	Plural T5
+A1	AnaforPerson T5
+A2	AnaforPerson T4
+R1	Anafor Arg1:T4 Arg2:T5	
+T2	Neutral 213 217	ними
+A5	AnaforPerson T2
+A6	Plural T2
+R2	Anafor Arg1:T5 Arg2:T2	

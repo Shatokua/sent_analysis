@@ -1,0 +1,10 @@
+T0	Neutral 0 15	Леброна Джеймса
+T1	Negative_all 71 80	Дон Лемон
+T2	Negative_all 101 107	Леброн
+T3	Positive 154 159	Майка
+T4	Positive 161 176	Майкла Джордана
+T5	Neutral_all 82 84	Он
+A1	AnaforPerson T5
+R2	Anafor Arg1:T1 Arg2:T5	
+R3	Anafor Arg1:T0 Arg2:T2	
+R1	Anafor Arg1:T4 Arg2:T3	

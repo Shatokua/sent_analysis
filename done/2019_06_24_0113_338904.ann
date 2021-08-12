@@ -1,0 +1,5 @@
+T1	Negative 144 161	Владимиру) Путину
+A2	AnaforPerson T1
+T3	Negative_all 163 166	его
+A3	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	

@@ -1,0 +1,9 @@
+T2	Neutral 209 217	Курченко
+T100	Negative 0 8	Савченко
+T101	Negative 120 127	Луценко
+T3	Neutral 38 41	они
+A1	AnaforPerson T3
+A2	Plural T3
+T4	Neutral 89 92	них
+A3	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4	

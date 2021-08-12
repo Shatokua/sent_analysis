@@ -1,0 +1,7 @@
+T0	Neutral_all 52 65	Азамат Бозиев
+T1	Neutral_all 272 291	Тиграном Бербековым
+T2	Neutral_all 293 309	Алексеем Горским
+T3	Neutral_all 312 328	Игорем Сидоровым
+T4	Neutral_all 191 194	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4

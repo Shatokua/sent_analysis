@@ -1,0 +1,4 @@
+T0	Positive 18 38	Наталья Владимировна
+T1	Positive 86 89	вас
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

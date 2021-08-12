@@ -1,0 +1,7 @@
+T100	Neutral_all 0 5	Трамп
+T101	Neutral_all 113 118	Трамп
+T102	Negative 177 184	Клинтон
+T103	Positive 84 86	он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T100 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T103

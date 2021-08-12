@@ -1,0 +1,7 @@
+T0	Neutral 137 141	Асад
+T1	Neutral 160 162	он
+A1	AnaforPerson T1
+T2	Neutral 221 223	Он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,10 @@
+T0	Neutral_all 0 11	Юрий Есенин
+T1	Neutral_all 31 34	его
+A1	AnaforPerson T1
+T2	Neutral_all 104 106	он
+A2	AnaforPerson T2
+T103	Neutral_all 157 160	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T1

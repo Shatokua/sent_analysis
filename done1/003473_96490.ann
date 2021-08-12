@@ -1,0 +1,3 @@
+T0	Neutral_all 88 99	Шмуэля Кота
+T1	Neutral_all 487 500	Шмуэлем Котом
+R1	Anafor Arg1:T0 Arg2:T1

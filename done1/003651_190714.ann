@@ -1,0 +1,5 @@
+T0	Neutral_all 203 218	М. Л. Богданова
+T1	Neutral_all 263 274	Х. Хафтаром
+T2	Neutral_all 276 284	Х.Хафтар
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

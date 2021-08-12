@@ -1,0 +1,4 @@
+T1	Positive 270 289	Ахмат-Хаджи Кадыров
+T2	Positive 299 302	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

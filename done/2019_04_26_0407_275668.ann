@@ -1,0 +1,6 @@
+T1	Neutral_all 14 29	Владимир] Путин
+T2	Neutral_all 56 58	мы
+A1	Plural T2
+T3	Neutral_all 84 86	Мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

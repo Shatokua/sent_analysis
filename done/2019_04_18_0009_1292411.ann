@@ -1,0 +1,6 @@
+T0	Neutral 0 5	Аббас
+T1	Negative 31 33	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 95 97	их
+A2	Plural T2

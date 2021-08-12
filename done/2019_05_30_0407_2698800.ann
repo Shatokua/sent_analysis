@@ -1,0 +1,7 @@
+T0	Neutral_all 0 6	Кобзон
+T1	Neutral_all 208 220	София Ротару
+T2	Neutral_all 58 61	они
+A1	Plural T2
+T3	Neutral_all 107 110	они
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

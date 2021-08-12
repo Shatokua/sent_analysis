@@ -1,0 +1,4 @@
+T0	Neutral_all 115 127	Илье Шерману
+T1	Neutral_all 210 213	Ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

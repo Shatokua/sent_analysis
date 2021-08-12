@@ -1,0 +1,5 @@
+T0	Neutral_all 16 29	Дэвида Дэвиса
+T1	Neutral_all 70 80	Терезы Мэй
+T2	Negative_all 119 122	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

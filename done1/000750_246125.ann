@@ -1,0 +1,4 @@
+T0	Neutral 0 14	Яков Борисович
+T101	Neutral 87 89	он
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

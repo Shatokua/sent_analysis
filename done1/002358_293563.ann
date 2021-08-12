@@ -1,0 +1,19 @@
+T1	Neutral_all 499 519	Альгирдаса Палецкиса
+T2	Neutral_all 74 77	Его
+A1	AnaforPerson T2
+T3	Neutral_all 127 130	ему
+A2	AnaforPerson T3
+T4	Neutral_all 186 188	он
+A3	AnaforPerson T4
+T5	Neutral_all 732 734	ты
+A4	AnaforPerson T5
+T6	Neutral_all 781 785	тебя
+A5	AnaforPerson T6
+T102	Neutral_all 0 8	Палецкис
+R1	Anafor Arg1:T5 Arg2:T6
+R2	Anafor Arg1:T4 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T2
+R104	Anafor Arg1:T2 Arg2:T3

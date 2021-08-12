@@ -1,0 +1,12 @@
+T3	Neutral 83 85	ее
+A1	AnaforPerson T3
+T100	Neutral_all 5 12	Клинтон
+T101	Positive_all 123 130	Хиллари
+T102	Neutral_all 0 3	Она
+A2	AnaforPerson T102
+T103	Positive_all 178 180	ей
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T100 Arg2:T101	
+R3	Anafor Arg1:T102 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T103	

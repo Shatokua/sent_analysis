@@ -1,0 +1,19 @@
+T0	Neutral_all 316 330	Сердара Азмуна
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 77 79	Мы
+A2	Plural T2
+T3	Neutral_all 185 188	нас
+A3	Plural T3
+T4	Neutral_all 258 260	мы
+A4	Plural T4
+T104	Neutral_all 214 217	ним
+A5	AnaforPerson T104
+T106	Neutral_all 261 264	ему
+A6	AnaforPerson T106
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T4 Arg2:T1
+R102	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T3
+R104	Anafor Arg1:T104 Arg2:T106

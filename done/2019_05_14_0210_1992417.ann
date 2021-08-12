@@ -1,0 +1,15 @@
+T0	Neutral_all 0 8	Валентин
+T1	Neutral_all 113 122	Валентина
+T3	Neutral_all 96 98	Он
+A2	AnaforPerson T3
+T4	Neutral_all 105 107	Он
+A3	AnaforPerson T4
+T5	Neutral_all 146 148	он
+A4	AnaforPerson T5
+T102	Neutral 32 34	Он
+A5	AnaforPerson T102
+R4	Anafor Arg1:T4 Arg2:T3
+R1	Anafor Arg1:T0 Arg2:T102	
+R5	Anafor Arg1:T102 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T5	

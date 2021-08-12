@@ -1,0 +1,4 @@
+T0	Neutral 82 97	Курбан Бекиевич
+T1	Neutral 0 3	Ему
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

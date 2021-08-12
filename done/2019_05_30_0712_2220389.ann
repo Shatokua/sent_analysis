@@ -1,0 +1,5 @@
+T0	Neutral_all 10 15	Трамп
+T1	Neutral_all 51 65	Джорджем Бушем
+T2	Neutral_all 149 151	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

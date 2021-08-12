@@ -1,0 +1,8 @@
+T0	Neutral 18 33	Армен Борисович
+T1	Neutral 150 152	ее
+A1	AnaforPerson T1
+T2	Neutral 229 231	Он
+A2	AnaforPerson T2
+T3	Negative 287 290	она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	

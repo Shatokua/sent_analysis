@@ -1,0 +1,5 @@
+T0	Neutral_all 15 33	Владимиром Тюриным
+T1	Neutral_all 148 166	Дениса Вороненкова
+T2	Neutral_all 170 175	Тюрин
+R1	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T2

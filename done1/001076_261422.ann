@@ -1,0 +1,15 @@
+T0	Neutral_all 5 13	Головкин
+T1	Neutral_all 25 32	Адамсом
+T2	Neutral_all 90 107	Дэниэла Джейкобса
+T3	Neutral_all 354 362	Головкин
+T4	Neutral_all 469 475	Канело
+T5	Neutral_all 494 501	Адамсом
+T6	Neutral_all 50 56	Канело
+T7	Neutral_all 187 193	Канело
+T8	Neutral_all 295 297	он
+A1	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T6 Arg2:T7
+R3	Anafor Arg1:T7 Arg2:T4
+R4	Anafor Arg1:T1 Arg2:T5
+R5	Anafor Arg1:T4 Arg2:T8

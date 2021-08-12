@@ -1,0 +1,4 @@
+T0	Neutral_all 44 49	Хабиб
+T1	Neutral_all 59 69	Макгрегора
+T2	Positive_all 82 88	Хабиба
+R1	Anafor Arg1:T0 Arg2:T2

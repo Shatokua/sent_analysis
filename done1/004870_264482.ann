@@ -1,0 +1,9 @@
+T0	Neutral_all 103 128	Наталья Сергеевна Луговая
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 139 142	нам
+A2	Plural T2
+T3	Neutral_all 281 284	нас
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

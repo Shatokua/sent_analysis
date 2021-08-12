@@ -1,0 +1,10 @@
+T0	Neutral_all 262 273	Сарыгуловым
+T1	Neutral_all 275 285	Калматовым
+T2	Neutral_all 287 300	Талгарбековым
+T3	Neutral_all 302 310	Асановым
+T4	Neutral_all 312 319	Гусевым
+T5	Neutral_all 387 404	Абдиля Сегизбаева
+T6	Neutral_all 427 446	Индиры Джолдубаевой
+T7	Neutral_all 471 480	Атамбаева
+T8	Neutral_all 724 733	Атамбаева
+R1	Anafor Arg1:T7 Arg2:T8

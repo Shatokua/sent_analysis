@@ -1,0 +1,15 @@
+T100	Neutral 125 130	Ксюшу
+T101	Neutral 28 37	Чичваркин
+T102	Neutral 41 50	Навальный
+T103	Neutral_all 279 286	Герцена
+T104	Neutral_all 289 295	Гдляна
+T1	Positive 54 56	Их
+A1	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	
+R2	Anafor Arg1:T102 Arg2:T1	
+T2	Negative 524 526	их
+A2	AnaforPerson T2
+R3	Anafor Arg1:T1 Arg2:T2	
+T3	Negative 545 547	их
+A3	AnaforPerson T3
+R4	Anafor Arg1:T2 Arg2:T3	

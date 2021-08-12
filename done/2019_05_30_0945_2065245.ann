@@ -1,0 +1,4 @@
+T1	Neutral_all 173 194	Владислава) Рослякова
+T2	Neutral_all 200 203	они
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

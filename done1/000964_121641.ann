@@ -1,0 +1,5 @@
+T0	Neutral_all 53 71	Владимир Плахотнюк
+T1	Neutral_all 266 275	Плахотнюк
+T2	Neutral_all 157 159	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

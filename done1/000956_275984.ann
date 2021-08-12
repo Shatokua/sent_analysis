@@ -1,0 +1,25 @@
+T0	Neutral_all 81 99	Деметриуса Андраде
+T1	Neutral_all 104 117	Каллума Смита
+T2	Neutral_all 143 153	Головкиным
+T3	Neutral_all 160 168	Альварес
+T4	Neutral_all 194 201	Андраде
+T5	Neutral_all 206 214	Головкин
+T6	Neutral_all 291 308	Билли Джо Сондерс
+T7	Neutral_all 316 329	Эндрю Диррелл
+T8	Neutral_all 337 348	Калеб Плант
+T9	Neutral_all 357 368	Каллум Смит
+T10	Neutral_all 381 389	Головкин
+T11	Neutral_all 479 489	Стив Роллс
+T12	Neutral_all 531 537	Канело
+T13	Neutral_all 494 497	его
+A1	AnaforPerson T13
+T14	Neutral_all 42 48	Канело
+R1	Anafor Arg1:T5 Arg2:T2
+R2	Anafor Arg1:T10 Arg2:T5
+R3	Anafor Arg1:T2 Arg2:T13
+R4	Anafor Arg1:T14 Arg2:T12
+R5	Anafor Arg1:T3 Arg2:T14
+R6	Anafor Arg1:T0 Arg2:T4
+R7	Anafor Arg1:T9 Arg2:T1
+R102	Anafor Arg1:T5 Arg2:T10
+R103	Anafor Arg1:T10 Arg2:T13

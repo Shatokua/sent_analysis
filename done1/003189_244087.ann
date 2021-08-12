@@ -1,0 +1,35 @@
+T0	Neutral_all 19 32	Протасовицкий
+T1	Neutral_all 54 59	Паком
+T2	Neutral_all 89 92	Пак
+T3	Neutral_all 127 130	Пак
+T4	Neutral_all 214 231	Александр Кокорин
+T5	Neutral_all 233 245	Павел Мамаев
+T6	Neutral_all 285 291	Кирилл
+T7	Neutral_all 322 325	Пак
+T8	Neutral_all 336 340	Саша
+T9	Neutral_all 350 356	Кирилл
+T10	Neutral_all 380 384	Саша
+T11	Neutral_all 425 432	Кокорин
+T12	Neutral_all 453 456	Пак
+T13	Neutral_all 491 495	Саша
+T14	Neutral_all 0 2	Мы
+A1	Plural T14
+T15	Neutral_all 61 63	Он
+A2	AnaforPerson T15
+T16	Neutral_all 154 156	вы
+A3	AnaforPerson T16
+T17	Neutral_all 309 312	нас
+A4	Plural T17
+R1	Anafor Arg1:T0 Arg2:T15
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T7
+R4	Anafor Arg1:T7 Arg2:T12
+R5	Anafor Arg1:T12 Arg2:T1
+R6	Anafor Arg1:T4 Arg2:T11
+R7	Anafor Arg1:T11 Arg2:T8
+R8	Anafor Arg1:T8 Arg2:T10
+R9	Anafor Arg1:T10 Arg2:T13
+R10	Anafor Arg1:T6 Arg2:T9
+R11	Anafor Arg1:T1 Arg2:T6
+R106	Anafor Arg1:T15 Arg2:T16
+R107	Anafor Arg1:T14 Arg2:T17

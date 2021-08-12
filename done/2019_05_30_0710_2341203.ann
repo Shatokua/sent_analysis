@@ -1,0 +1,8 @@
+T1	Neutral_all 17 32	Джон ) Хантсман
+T2	Neutral_all 45 48	ним
+T3	Neutral_all 65 68	его
+T4	Neutral_all 74 76	мы
+A1	Plural T4
+T5	Neutral_all 107 111	него
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T5

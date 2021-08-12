@@ -1,0 +1,4 @@
+T0	Neutral 41 58	Сергей Бобровский
+T1	Neutral 78 80	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

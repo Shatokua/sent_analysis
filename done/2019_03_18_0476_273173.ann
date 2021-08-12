@@ -1,0 +1,5 @@
+T2	Neutral 136 139	его
+A1	AnaforPerson T2
+T100	Neutral_all 54 68	Владимир Путин
+T101	Neutral_all 103 113	Тиллерсона
+R1	Anafor Arg1:T101 Arg2:T2

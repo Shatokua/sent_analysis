@@ -1,0 +1,4 @@
+T0	Neutral 51 65	Эдвард Сноуден
+T1	Neutral 103 106	его
+A1	Plural T1
+R1	Variant Arg1:T0 Arg2:T1	

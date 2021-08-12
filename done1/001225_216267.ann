@@ -1,0 +1,9 @@
+T0	Neutral_all 181 193	Дэниэла Леви
+T1	Neutral_all 196 198	Он
+A1	AnaforPerson T1
+T2	Neutral_all 363 365	Мы
+A2	Plural T2
+T3	Neutral_all 401 403	мы
+A3	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1

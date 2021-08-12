@@ -1,0 +1,14 @@
+T0	Neutral_all 550 562	Айбек Калиев
+T1	Neutral_all 226 228	Мы
+A1	Plural T1
+T2	Neutral_all 370 372	мы
+A2	Plural T2
+T3	Neutral_all 683 685	мы
+A3	Plural T3
+T4	Neutral_all 803 805	мы
+A4	Plural T4
+T5	Neutral_all 818 820	Мы
+A5	Plural T5
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T1 Arg2:T2

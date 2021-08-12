@@ -1,0 +1,13 @@
+T0	Neutral 0 13	Патриарх Илия
+T1	Neutral 92 134	патриархом Московским и всея Руси Кириллом
+T2	Neutral 173 188	Николай Балашов
+T3	Neutral 236 250	патриарха Илии
+T4	Neutral 44 47	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4	
+T5	Neutral 149 151	их
+A2	AnaforPerson T5
+A3	Plural T5
+R2	Anafor Arg1:T0 Arg2:T5	
+R3	Anafor Arg1:T1 Arg2:T5	
+R4	Anafor Arg1:T4 Arg2:T3	

@@ -1,0 +1,7 @@
+T0	Neutral_all 170 180	Джон Джонс
+T1	Neutral_all 290 307	Конора Макгрегора
+T3	Neutral_all 200 203	его
+A1	AnaforPerson T3
+T2	Neutral_all 383 386	Они
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T3

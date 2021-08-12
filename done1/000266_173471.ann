@@ -1,0 +1,4 @@
+T0	Neutral_all 226 246	Владимиром Синетовым
+T1	Neutral_all 247 249	мы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

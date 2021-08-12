@@ -1,0 +1,4 @@
+T0	Neutral 12 23	Барак Обама
+T1	Neutral 201 203	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

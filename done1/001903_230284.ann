@@ -1,0 +1,7 @@
+T0	Neutral_all 10 24	Николас Мадуро
+T1	Neutral_all 153 159	Гуайдо
+T2	Neutral_all 235 237	он
+A1	AnaforPerson T2
+T3	Neutral_all 347 349	Мы
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 51 64	Челси Мэннинг
+T3	Neutral_all 88 91	нас
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3

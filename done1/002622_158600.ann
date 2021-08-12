@@ -1,0 +1,5 @@
+T0	Neutral_all 160 182	Владимиру Колокольцеву
+T1	Neutral_all 291 304	Дмитрий Носов
+T2	Neutral_all 306 308	Он
+A1	AnaforPerson T2
+R101	Anafor Arg1:T1 Arg2:T2

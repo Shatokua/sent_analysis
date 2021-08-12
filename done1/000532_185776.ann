@@ -1,0 +1,4 @@
+T0	Neutral 16 23	М.Калви
+T2	Neutral_all 71 74	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

@@ -1,0 +1,7 @@
+T0	Neutral_all 27 34	Каргина
+T1	Neutral_all 43 50	Каргина
+T2	Neutral_all 105 119	Сергея Каргина
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T2 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T1

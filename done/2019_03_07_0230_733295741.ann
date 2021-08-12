@@ -1,0 +1,15 @@
+T3	Neutral 159 168	Тимошенко
+A1	AnaforPerson T3
+T100	Negative_all 0 6	Ющенко
+T101	Neutral 24 28	Юлию
+T102	Negative_all 145 151	Ющенко
+A2	AnaforPerson T102
+T104	Negative_all 204 214	Януковичем
+T105	Neutral 47 49	он
+A3	AnaforPerson T105
+T106	Neutral 82 84	он
+A4	AnaforPerson T106
+R101	Anafor Arg1:T100 Arg2:T105
+R102	Anafor Arg1:T105 Arg2:T106
+R103	Anafor Arg1:T106 Arg2:T102
+R1	Anafor Arg1:T101 Arg2:T3	

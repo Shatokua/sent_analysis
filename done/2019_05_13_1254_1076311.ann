@@ -1,0 +1,7 @@
+T0	Neutral 1 6	Робби
+T1	Positive 8 10	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 102 107	тобой
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

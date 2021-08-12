@@ -1,0 +1,9 @@
+T0	Neutral_all 13 21	Денисова
+T1	Neutral_all 60 68	Черчесов
+T2	Neutral_all 142 145	Ему
+A1	AnaforPerson T2
+T3	Neutral_all 161 163	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2

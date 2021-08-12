@@ -1,0 +1,22 @@
+T0	Neutral_all 457 471	Ильгар Мамедов
+T1	Neutral_all 121 123	вы
+A1	Plural T1
+T2	Neutral_all 167 170	вам
+A2	Plural T2
+T3	Neutral_all 263 265	вы
+A3	Plural T3
+T4	Neutral_all 489 491	вы
+A4	Plural T4
+T5	Neutral_all 719 722	вас
+A5	Plural T5
+T104	Neutral_all 415 417	вы
+A6	Plural T104
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R101	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T104
+R103	Anafor Arg1:T104 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T2
+R105	Anafor Arg1:T2 Arg2:T5

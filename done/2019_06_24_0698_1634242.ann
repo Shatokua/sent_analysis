@@ -1,0 +1,3 @@
+T1	Neutral_all 90 101	Ольшевского
+T100	Negative 0 10	Ольшевский
+R1	Anafor Arg1:T100 Arg2:T1	

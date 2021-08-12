@@ -1,0 +1,5 @@
+T1	Negative 126 133	Лужкова
+T2	Negative 147 149	он
+A1	AnaforPerson T2
+T100	Positive 0 8	Собянину
+R1	Anafor Arg1:T100 Arg2:T2	

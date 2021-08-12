@@ -1,0 +1,9 @@
+T0	Neutral_all 60 76	Андрей Трубецкой
+T1	Neutral_all 400 416	Петром Рымаревым
+T2	Neutral_all 154 157	его
+A1	AnaforPerson T2
+T3	Neutral_all 353 355	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2

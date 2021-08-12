@@ -1,0 +1,8 @@
+T0	Neutral_all 32 39	Штефана
+T1	Neutral_all 189 205	Штефана Великого
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 132 135	вам
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Neutral 8 29	Владимир Владимирович
+T1	Neutral 31 33	Вы
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

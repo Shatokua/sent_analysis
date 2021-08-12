@@ -1,0 +1,6 @@
+T0	Negative 1 16	Евгений Ройзман
+T1	Neutral 79 81	их
+A1	Plural T1
+T2	Neutral 133 135	их
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

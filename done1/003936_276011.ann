@@ -1,0 +1,12 @@
+T0	Neutral_all 94 106	Сапар Исаков
+T1	Neutral_all 203 217	Сапара Исакова
+T2	Neutral_all 461 473	Сапар Исаков
+T3	Neutral_all 111 114	его
+A1	AnaforPerson T3
+T104	Neutral_all 294 297	они
+A2	Plural T104
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T1

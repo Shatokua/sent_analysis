@@ -1,0 +1,7 @@
+T3	Neutral_all 56 60	вами
+A2	Plural T3
+T5	Neutral_all 150 152	вы
+A4	AnaforPerson T5
+T101	Neutral 120 147	Геннадий Андреевич [Зюганов
+R1	Anafor Arg1:T101 Arg2:T5	
+A1	AnaforPerson T3

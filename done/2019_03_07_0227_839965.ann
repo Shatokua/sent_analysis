@@ -1,0 +1,5 @@
+T0	Negative 70 78	Спайсера
+T101	Neutral_all 153 163	Скарамуччи
+T102	Neutral_all 113 115	он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102

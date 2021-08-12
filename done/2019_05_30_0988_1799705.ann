@@ -1,0 +1,5 @@
+T0	Neutral_all 2 17	Дмитрия Гудкова
+T1	Neutral_all 94 104	Ростислава
+T2	Neutral_all 107 110	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

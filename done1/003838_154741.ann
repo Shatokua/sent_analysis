@@ -1,0 +1,22 @@
+T0	Neutral_all 794 811	Михаила Кузнецова
+T1	Neutral_all 813 826	Сергея Гусева
+T2	Neutral_all 828 840	Юрия Кривова
+T3	Neutral_all 842 863	Александра Новосёлова
+T4	Neutral_all 866 883	Анатолия Пирогова
+T5	Neutral_all 945 958	Лидию Мартину
+T6	Neutral_all 961 972	Юрия Ушкова
+T7	Neutral_all 985 1004	Валентина Землянова
+T8	Neutral_all 1007 1021	Артёма Леканта
+T9	Neutral_all 1025 1040	Илью Альтшулера
+T10	Neutral_all 747 749	Их
+A1	Plural T10
+R1	Anafor Arg1:T0 Arg2:T10
+R2	Anafor Arg1:T1 Arg2:T10
+R3	Anafor Arg1:T2 Arg2:T10
+R4	Anafor Arg1:T3 Arg2:T10
+R5	Anafor Arg1:T4 Arg2:T10
+R6	Anafor Arg1:T5 Arg2:T10
+R7	Anafor Arg1:T6 Arg2:T10
+R8	Anafor Arg1:T7 Arg2:T10
+R9	Anafor Arg1:T8 Arg2:T10
+R10	Anafor Arg1:T9 Arg2:T10

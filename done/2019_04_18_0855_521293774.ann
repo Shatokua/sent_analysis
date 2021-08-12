@@ -1,0 +1,6 @@
+T0	Negative 8 22	Юлия Тимошенко
+T1	Negative 105 111	Гайдар
+T2	Negative 114 120	Чубайс
+T3	Negative 157 159	ее
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

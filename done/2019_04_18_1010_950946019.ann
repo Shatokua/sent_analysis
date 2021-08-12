@@ -1,0 +1,8 @@
+T0	Neutral 142 149	Обухова
+T1	Neutral 260 268	Зюганова
+T2	Negative 38 41	они
+A1	Plural T2
+T3	Neutral 0 2	Их
+A2	AnaforPerson T3
+A3	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2	

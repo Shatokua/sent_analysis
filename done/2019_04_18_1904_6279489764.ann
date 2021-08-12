@@ -1,0 +1,4 @@
+T0	Negative 25 31	Олланд
+T1	Negative 11 14	Вам
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

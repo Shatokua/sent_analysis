@@ -1,0 +1,7 @@
+T0	Negative 23 31	Онищенко
+T1	Neutral 156 158	он
+A1	AnaforPerson T1
+T2	Neutral 83 84	н
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	

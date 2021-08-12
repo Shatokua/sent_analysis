@@ -1,0 +1,12 @@
+T0	Neutral 2 10	Михалков
+T2	Neutral 72 81	Михалкова
+T1	Neutral 85 89	него
+T3	Neutral 128 131	ним
+A1	AnaforPerson T3
+T4	Negative 32 35	Ваш
+R3	Anafor Arg1:T1 Arg2:T3
+A2	AnaforPerson T4
+A3	Unclear T2
+A4	Unclear T1
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	

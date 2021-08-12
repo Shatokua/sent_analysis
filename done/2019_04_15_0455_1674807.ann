@@ -1,0 +1,6 @@
+T3	Neutral 154 171	Хорста) Зеехофера
+T100	Neutral_all 2 9	Меркель
+T101	Neutral_all 58 63	Трамп
+T103	Neutral_all 193 196	нее
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103

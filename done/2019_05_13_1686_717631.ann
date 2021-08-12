@@ -1,0 +1,4 @@
+T0	Neutral 18 36	Курбаном Бердыевым
+T1	Neutral 103 106	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

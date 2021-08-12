@@ -1,0 +1,16 @@
+T0	Positive_all 61 74	Яна Сибелиуса
+T1	Neutral_all 262 271	Сибелиуса
+T4	Neutral_all 190 193	его
+A3	AnaforPerson T4
+T5	Neutral_all 207 210	его
+A4	AnaforPerson T5
+T6	Neutral_all 311 315	Баха
+T102	Positive 76 78	Он
+A5	AnaforPerson T102
+T103	Positive 119 122	его
+A6	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	
+R5	Anafor Arg1:T1 Arg2:T5	

@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Лермонтов
+T1	Neutral_all 76 85	Лермонтов
+T2	Neutral_all 140 155	Петр Алексеевич
+T3	Neutral_all 161 164	нам
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

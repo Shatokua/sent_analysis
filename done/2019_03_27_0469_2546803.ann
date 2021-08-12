@@ -1,0 +1,4 @@
+T0	Neutral_all 25 34	Пригожина
+T3	Neutral_all 94 104	Пригожиным
+T1	Neutral_all 60 91	Алексея Анатольевича Навального
+R1	Anafor Arg1:T0 Arg2:T3

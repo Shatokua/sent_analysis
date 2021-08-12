@@ -1,0 +1,8 @@
+T1	Positive 135 137	Он
+A1	AnaforPerson T1
+T100	Positive_all 37 51	Илья Ковальчук
+T102	Positive_all 140 145	Дацюк
+T2	Positive 96 98	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	

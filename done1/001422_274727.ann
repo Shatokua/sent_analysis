@@ -1,0 +1,21 @@
+T0	Neutral_all 24 42	Владимир Зеленский
+T1	Neutral_all 322 332	Зеленского
+T2	Neutral_all 368 377	Порошенко
+T3	Neutral_all 480 489	Порошенко
+T4	Neutral 689 698	Порошенко
+T5	Neutral 775 784	Порошенко
+T6	Neutral_all 50 52	он
+A1	AnaforPerson T6
+T8	Neutral_all 114 117	его
+A3	AnaforPerson T8
+T9	Neutral_all 740 750	Зеленскому
+T10	Neutral_all 769 772	они
+A4	Plural T10
+R2	Anafor Arg1:T1 Arg2:T9
+R5	Anafor Arg1:T2 Arg2:T3
+R1	Anafor Arg1:T0 Arg2:T6	
+R3	Anafor Arg1:T6 Arg2:T8	
+R4	Anafor Arg1:T1 Arg2:T8	
+R6	Anafor Arg1:T3 Arg2:T4	
+A2	AnaforPerson T10
+R7	Anafor Arg1:T4 Arg2:T5	

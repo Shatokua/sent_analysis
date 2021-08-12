@@ -1,0 +1,7 @@
+T0	Positive 62 77	Викторию Нуланд
+T1	Neutral 114 117	нее
+A1	AnaforPerson T1
+T2	Neutral 136 139	она
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

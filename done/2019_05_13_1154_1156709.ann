@@ -1,0 +1,6 @@
+T0	Positive 129 139	Олег Ильин
+T1	Neutral 80 83	его
+A1	AnaforPerson T1
+T2	Neutral 41 44	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1	

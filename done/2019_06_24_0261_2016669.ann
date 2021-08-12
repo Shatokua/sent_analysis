@@ -1,0 +1,6 @@
+T0	Neutral_all 0 7	Золотов
+T1	Neutral_all 43 50	Золотов
+T102	Mixed 105 107	Вы
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1
+A1	AnaforPerson T102

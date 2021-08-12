@@ -1,0 +1,4 @@
+T0	Mixed 0 4	Яшин
+T1	Neutral 44 48	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

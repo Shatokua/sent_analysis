@@ -1,0 +1,5 @@
+T1	Negative 62 80	Алексей Леонидович
+T100	Neutral_all 0 30	Владимир Вольфович Жириновский
+T2	Negative 57 60	Вас
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral 10 17	Лаврова
+T1	Neutral 22 25	его
+A1	AnaforPerson T1
+T2	Neutral 82 84	Вы
+A2	Plural T2
+R1	Variant Arg1:T0 Arg2:T1	

@@ -1,0 +1,3 @@
+T0	Neutral_all 42 52	А.Леоненко
+T1	Neutral_all 167 177	А.Леоненко
+R1	Anafor Arg1:T0 Arg2:T1

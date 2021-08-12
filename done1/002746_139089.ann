@@ -1,0 +1,4 @@
+T0	Neutral_all 28 49	Михаилом Алексеевичем
+T1	Neutral_all 23 25	Мы
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

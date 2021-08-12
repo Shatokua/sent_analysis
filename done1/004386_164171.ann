@@ -1,0 +1,4 @@
+T0	Neutral_all 421 437	Роберту Кочаряну
+T1	Neutral_all 603 619	Роберта Кочаряна
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

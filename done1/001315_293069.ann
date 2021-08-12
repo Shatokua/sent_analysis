@@ -1,0 +1,15 @@
+T0	Neutral_all 124 140	Виталия Кафанова
+T1	Neutral_all 174 189	Валерия Карпина
+T2	Neutral_all 645 661	Курбана Бердыева
+T3	Neutral_all 198 201	ним
+A1	AnaforPerson T3
+T4	Neutral_all 223 225	Мы
+A2	Plural T4
+T105	Neutral_all 374 377	Нам
+A3	Plural T105
+T106	Neutral_all 619 622	нас
+A4	Plural T106
+R1	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T4 Arg2:T105
+R103	Anafor Arg1:T105 Arg2:T106

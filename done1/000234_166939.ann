@@ -1,0 +1,5 @@
+T0	Neutral_all 23 31	Атамбаев
+T1	Neutral_all 255 263	Атамбаев
+T102	Positive 449 456	Мээрбек
+T103	Positive 459 465	Мирбек
+R1	Anafor Arg1:T0 Arg2:T1	

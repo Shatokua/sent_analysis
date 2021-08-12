@@ -1,0 +1,5 @@
+T2	Neutral_all 370 380	Игорь Зуев
+T3	Neutral_all 552 562	Игорь Зуев
+T1	Neutral_all 122 148	Зуевым Игорем Георгиевичем
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

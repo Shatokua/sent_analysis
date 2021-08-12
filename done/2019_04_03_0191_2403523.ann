@@ -1,0 +1,3 @@
+T0	Neutral_all 11 19	Насрулла
+T1	Neutral_all 148 156	Насруллы
+R1	Anafor Arg1:T0 Arg2:T1

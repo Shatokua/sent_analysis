@@ -1,0 +1,6 @@
+T0	Positive 22 26	Миши
+T1	Positive 198 204	Цорком
+T2	Positive 207 213	Ватцке
+T3	Positive 36 38	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

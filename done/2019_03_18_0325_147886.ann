@@ -1,0 +1,5 @@
+T1	Neutral 71 91	Виктором Федоровичем
+T2	Neutral 111 114	его
+A1	AnaforPerson T2
+T100	Neutral_all 24 39	Петр Алексеевич
+R1	Anafor Arg1:T1 Arg2:T2

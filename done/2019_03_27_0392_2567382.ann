@@ -1,0 +1,3 @@
+T100	Negative 0 13	Сергей Шнуров
+T101	Negative_all 104 110	Шнуров
+R1	Anafor Arg1:T100 Arg2:T101	

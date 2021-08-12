@@ -1,0 +1,10 @@
+T100	Neutral 0 5	Рубан
+T101	Neutral 21 43	Александром Захарченко
+T102	Neutral 46 68	Александром Тимофеевым
+T103	Neutral 78 85	Ташкент
+R1	Anafor Arg1:T102 Arg2:T103	
+T1	Negative 125 128	Они
+R2	Anafor Arg1:T100 Arg2:T1	
+R3	Anafor Arg1:T101 Arg2:T1	
+R4	Anafor Arg1:T102 Arg2:T1	
+A1	Plural T1

@@ -1,0 +1,6 @@
+T0	Neutral 12 25	Борис Джонсон
+T1	Neutral 151 166	Борису Джонсону
+T2	Neutral 99 102	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

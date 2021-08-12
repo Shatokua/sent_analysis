@@ -1,0 +1,6 @@
+T0	Neutral_all 351 366	Петра Порошенко
+T101	Neutral_all 61 63	их
+A1	Plural T101
+T102	Neutral_all 199 201	их
+A2	Plural T102
+R101	Anafor Arg1:T101 Arg2:T102

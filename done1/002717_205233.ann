@@ -1,0 +1,4 @@
+T0	Neutral_all 43 51	Рейтером
+T1	Neutral_all 142 153	И.И. Сечина
+T2	Neutral_all 164 170	Рейтер
+R1	Anafor Arg1:T2 Arg2:T0

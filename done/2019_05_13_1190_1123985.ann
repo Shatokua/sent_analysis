@@ -1,0 +1,4 @@
+T0	Positive 19 24	Шмида
+T1	Positive 27 30	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

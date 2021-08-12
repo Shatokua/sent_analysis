@@ -1,0 +1,9 @@
+T0	Negative_all 0 6	Серена
+T1	Neutral_all 77 82	Наоми
+T2	Neutral_all 117 119	ее
+A1	AnaforPerson T2
+T3	Positive_all 138 143	Осака
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T3 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

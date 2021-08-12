@@ -1,0 +1,6 @@
+T100	Positive_all 19 37	Елизавете Петровне
+T101	Neutral_all 39 55	Елизавета Глинка
+T102	Neutral_all 68 71	она
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T100
+R2	Anafor Arg1:T100 Arg2:T102

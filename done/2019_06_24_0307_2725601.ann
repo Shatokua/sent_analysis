@@ -1,0 +1,7 @@
+T0	Neutral_all 0 6	Мамаев
+T1	Neutral_all 14 21	Гайсина
+T2	Neutral_all 78 91	Протасовицкий
+T3	Neutral_all 110 113	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T3

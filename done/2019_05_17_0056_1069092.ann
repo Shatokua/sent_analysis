@@ -1,0 +1,4 @@
+T0	Neutral_all 28 34	Ленина
+T1	Neutral_all 72 86	Владимир Путин
+T2	Neutral_all 137 143	Ленина
+R1	Anafor Arg1:T0 Arg2:T2

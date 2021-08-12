@@ -1,0 +1,4 @@
+T0	Neutral_all 0 8	Истомина
+T1	Neutral_all 50 63	Алла Пугачева
+T2	Neutral_all 102 118	Авдотью Истомину
+R1	Anafor Arg1:T2 Arg2:T0

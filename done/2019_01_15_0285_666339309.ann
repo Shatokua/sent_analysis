@@ -1,0 +1,12 @@
+T2	Neutral 83 86	Его
+A1	AnaforPerson T2
+T3	Neutral 257 264	Лимонов
+T100	Neutral_all 247 252	Путин
+T101	Negative_all 12 20	Лимонова
+T102	Neutral 139 145	Сталин
+T103	Neutral 147 152	Берия
+T1	Negative 58 60	он
+A2	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

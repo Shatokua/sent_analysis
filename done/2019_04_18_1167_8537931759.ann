@@ -1,0 +1,4 @@
+T0	Negative 0 5	Трамп
+T1	Negative 7 9	вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

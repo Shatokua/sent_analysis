@@ -1,0 +1,4 @@
+T0	Neutral_all 28 43	Жениша Разакова
+T1	Neutral_all 60 62	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

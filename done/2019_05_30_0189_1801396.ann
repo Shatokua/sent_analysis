@@ -1,0 +1,7 @@
+T0	Neutral_all 81 91	Януковичем
+T1	Neutral_all 146 162	Николае Чаушеску
+T2	Neutral_all 43 51	Чаушеску
+T102	Neutral 56 59	они
+A1	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2
+A2	AnaforPerson T102

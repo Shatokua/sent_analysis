@@ -1,0 +1,5 @@
+T0	Neutral_all 33 46	Ольга Зайцева
+T1	Neutral_all 49 61	Яна Романова
+T2	Negative_all 103 112	Родченков
+T3	Neutral_all 169 176	Зайцева
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Positive 101 109	Эрдогана
+T1	Neutral 126 128	он
+A1	AnaforPerson T1
+T2	Neutral 531 533	их
+A2	AnaforPerson T2
+A3	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1	

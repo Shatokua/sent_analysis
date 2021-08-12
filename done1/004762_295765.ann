@@ -1,0 +1,11 @@
+T0	Neutral_all 58 68	Головкиным
+T1	Neutral_all 127 136	Головкину
+T2	Neutral_all 178 189	Робу Бранту
+T3	Neutral_all 207 225	Деметриусу Андраде
+T4	Neutral_all 242 249	Андраде
+T5	Neutral_all 285 294	Головкину
+T6	Neutral_all 6 12	Канело
+T107	Neutral_all 16 26	Golden Boy
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T5
+R103	Anafor Arg1:T3 Arg2:T4

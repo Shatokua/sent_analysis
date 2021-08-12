@@ -1,0 +1,5 @@
+T0	Neutral_all 144 173	Александра Валерьевича Дюкова
+T1	Neutral_all 103 105	Мы
+A1	Plural T1
+T2	Neutral_all 486 488	Мы
+R1	Anafor Arg1:T1 Arg2:T2

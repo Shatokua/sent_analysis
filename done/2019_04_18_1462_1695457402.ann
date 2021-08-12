@@ -1,0 +1,5 @@
+T1	Negative 39 42	ему
+A1	AnaforPerson T1
+T3	Negative 17 27	Таргамадзе
+A3	AnaforPerson T3
+R1	Anafor Arg1:T3 Arg2:T1	

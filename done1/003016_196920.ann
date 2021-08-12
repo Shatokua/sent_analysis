@@ -1,0 +1,4 @@
+T0	Negative 5 19	Алла Борисовна
+T101	Negative 23 26	вас
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

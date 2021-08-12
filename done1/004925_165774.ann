@@ -1,0 +1,6 @@
+T0	Neutral_all 0 18	Биньямин Нетаниягу
+T1	Neutral_all 57 59	мы
+A1	Plural T1
+T2	Neutral_all 227 230	его
+A2	AnaforPerson T2
+R101	Anafor Arg1:T0 Arg2:T2

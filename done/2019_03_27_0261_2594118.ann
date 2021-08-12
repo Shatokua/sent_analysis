@@ -1,0 +1,9 @@
+T2	Positive 158 165	Дворжак
+T100	Positive_all 0 7	Дворжак
+T103	Positive_all 10 12	он
+A1	AnaforPerson T103
+T104	Positive 125 128	его
+A2	AnaforPerson T104
+R2	Anafor Arg1:T100 Arg2:T103
+R1	Anafor Arg1:T2 Arg2:T104	
+R3	Anafor Arg1:T103 Arg2:T104	

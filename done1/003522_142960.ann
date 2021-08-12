@@ -1,0 +1,19 @@
+T0	Neutral_all 11 16	Канте
+T1	Neutral_all 113 124	Гус Хиддинк
+T2	Neutral_all 70 73	вас
+A1	Plural T2
+T3	Neutral_all 81 83	вы
+A2	Plural T3
+T4	Neutral_all 96 99	его
+A3	AnaforPerson T4
+T5	Neutral_all 147 149	вы
+A4	Plural T5
+T6	Neutral_all 186 189	вас
+A5	Plural T6
+T7	Neutral_all 206 208	вы
+A6	Plural T7
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T7
+R4	Anafor Arg1:T7 Arg2:T6
+R5	Anafor Arg1:T0 Arg2:T4

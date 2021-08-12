@@ -1,0 +1,8 @@
+T0	Neutral_all 160 171	Стивен Смит
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 254 257	вам
+A2	Plural T2
+T3	Neutral_all 667 669	мы
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3

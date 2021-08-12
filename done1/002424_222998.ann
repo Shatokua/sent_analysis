@@ -1,0 +1,19 @@
+T0	Neutral_all 41 54	П. Г. Егорова
+T1	Neutral_all 90 98	Качалова
+T2	Neutral_all 101 112	Колесникова
+T3	Neutral_all 318 325	Егорова
+T4	Neutral_all 608 615	Егорову
+T5	Neutral_all 272 276	нами
+A1	Plural T5
+T6	Neutral_all 480 482	мы
+A2	Plural T6
+T7	Neutral_all 569 572	нам
+A3	Plural T7
+T8	Neutral_all 668 671	нам
+A4	Plural T8
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T6 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T7
+R5	Anafor Arg1:T7 Arg2:T8
+R102	Anafor Arg1:T6 Arg2:T7

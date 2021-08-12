@@ -1,0 +1,5 @@
+T0	Neutral_all 69 76	Людмилы
+T1	Neutral_all 162 172	Очеретного
+T2	Neutral_all 199 202	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

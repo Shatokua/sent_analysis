@@ -1,0 +1,6 @@
+T0	Neutral 25 33	Джигурды
+T101	Neutral_all 115 123	Джигурде
+T102	Neutral 133 137	свой
+A1	AnaforPerson T102
+R102	Anafor Arg1:T101 Arg2:T102
+R1	Anafor Arg1:T0 Arg2:T101	

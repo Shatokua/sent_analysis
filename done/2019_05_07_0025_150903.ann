@@ -1,0 +1,4 @@
+T0	Neutral 11 26	Петр Алексеевич
+T1	Positive 72 75	его
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

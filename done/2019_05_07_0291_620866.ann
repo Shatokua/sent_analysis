@@ -1,0 +1,10 @@
+T1	Neutral 13 31	Рексом Тиллерсоном
+T2	Neutral 8 10	мы
+A1	Plural T2
+T3	Neutral 52 54	мы
+A2	Plural T3
+T4	Neutral 99 101	мы
+A3	Plural T4
+R1	Variant Arg1:T4 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T2	
+R3	Variant Arg1:T2 Arg2:T1	

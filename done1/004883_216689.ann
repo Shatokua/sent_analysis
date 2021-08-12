@@ -1,0 +1,31 @@
+T0	Neutral_all 72 80	Владимир
+T1	Neutral_all 664 680	Владимир Сухарев
+T2	Neutral_all 136 139	ему
+A1	AnaforPerson T2
+T3	Neutral_all 200 202	Он
+A2	AnaforPerson T3
+T4	Neutral_all 512 514	он
+A3	AnaforPerson T4
+T5	Neutral_all 604 606	Он
+A4	AnaforPerson T5
+T6	Neutral_all 620 622	он
+A5	AnaforPerson T6
+T7	Neutral_all 713 715	мы
+A6	Plural T7
+T8	Neutral_all 724 727	его
+A7	AnaforPerson T8
+T9	Neutral_all 784 786	мы
+A8	Plural T9
+T10	Neutral_all 801 803	он
+A9	AnaforPerson T10
+R1	Anafor Arg1:T7 Arg2:T9
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T3
+R5	Anafor Arg1:T3 Arg2:T4
+R6	Anafor Arg1:T4 Arg2:T5
+R7	Anafor Arg1:T5 Arg2:T6
+R8	Anafor Arg1:T6 Arg2:T8
+R9	Anafor Arg1:T8 Arg2:T10
+R102	Anafor Arg1:T0 Arg2:T3
+R106	Anafor Arg1:T6 Arg2:T10

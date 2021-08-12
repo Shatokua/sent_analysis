@@ -1,0 +1,7 @@
+T1	Neutral 0 14	Борис (Джонсон
+T2	Negative 93 95	он
+A1	AnaforPerson T2
+T3	Negative_all 110 112	Он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

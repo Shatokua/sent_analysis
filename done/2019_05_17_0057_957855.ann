@@ -1,0 +1,16 @@
+T0	Neutral_all 13 23	Поклонской
+T1	Neutral_all 33 41	Калинина
+T2	Neutral_all 104 114	Поклонской
+T3	Neutral_all 0 3	Нас
+A1	Plural T3
+T4	Neutral_all 136 138	ее
+A2	AnaforPerson T4
+T5	Neutral_all 178 181	нас
+A3	Plural T5
+T103	Neutral_all 91 94	она
+A4	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T3 Arg2:T5
+R3	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T2 Arg2:T103
+R104	Anafor Arg1:T103 Arg2:T4

@@ -1,0 +1,4 @@
+T0	Neutral_all 7 35	Виктора Федоровича Януковича
+T1	Neutral_all 136 139	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

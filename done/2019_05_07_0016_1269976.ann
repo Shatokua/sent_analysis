@@ -1,0 +1,10 @@
+T1	Neutral 143 147	него
+A1	AnaforPerson T1
+T2	Neutral 154 156	Он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 22 31	Макларена
+R2	Anafor Arg1:T3 Arg2:T1	
+T4	Neutral 178 182	него
+A3	AnaforPerson T4
+R3	Anafor Arg1:T2 Arg2:T4	

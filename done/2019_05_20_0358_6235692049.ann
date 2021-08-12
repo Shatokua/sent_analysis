@@ -1,0 +1,10 @@
+T0	Neutral 129 141	Башара Асада
+T1	Neutral 144 147	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 252 254	их
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 366 369	они
+A4	AnaforPerson T3
+A5	Plural T3

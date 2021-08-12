@@ -1,0 +1,4 @@
+T0	Negative 29 35	Трампа
+T1	Negative 37 40	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

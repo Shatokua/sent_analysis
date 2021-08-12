@@ -1,0 +1,7 @@
+T0	Neutral_all 10 16	Мадуро
+T1	Neutral_all 149 155	Гуаидо
+T2	Neutral_all 209 224	Николаса Мадуро
+T3	Neutral_all 37 39	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3

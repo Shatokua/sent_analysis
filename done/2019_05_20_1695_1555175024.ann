@@ -1,0 +1,8 @@
+T0	Neutral 120 129	Лазаренко
+T1	Neutral 130 145	Петра Кириченко
+T2	Neutral 192 199	Щербаня
+T3	Neutral 267 276	Кириченко
+T4	Neutral 214 217	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4	
+R2	Anafor Arg1:T4 Arg2:T3	

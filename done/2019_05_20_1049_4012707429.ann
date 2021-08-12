@@ -1,0 +1,4 @@
+T0	Neutral 11 19	Ассанжем
+T1	Neutral 75 78	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

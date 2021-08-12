@@ -1,0 +1,4 @@
+T0	Neutral 75 96	Петр Олегович Толстой
+T1	Positive 102 106	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

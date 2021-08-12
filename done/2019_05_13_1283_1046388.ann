@@ -1,0 +1,4 @@
+T0	Neutral 9 19	Вилли Чана
+T1	Positive 104 108	тебя
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

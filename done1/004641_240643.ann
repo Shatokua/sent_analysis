@@ -1,0 +1,5 @@
+T0	Neutral_all 0 3	Пак
+T1	Neutral_all 53 62	Денис Пак
+T2	Neutral_all 113 121	Кокорина
+T3	Neutral_all 124 131	Мамаева
+R1	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,5 @@
+T0	Neutral 38 46	Касьянов
+T1	Negative 196 200	Яшин
+T102	Neutral_all 212 218	Немцов
+T2	Negative 227 229	он
+R1	Anafor Arg1:T1 Arg2:T2	

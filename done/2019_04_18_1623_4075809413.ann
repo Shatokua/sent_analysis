@@ -1,0 +1,7 @@
+T0	Negative 17 21	Беня
+T1	Negative 32 44	Коломойского
+A1	AnaforPerson T0
+R1	Anafor Arg1:T1 Arg2:T0	
+T2	Negative 92 96	тебя
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

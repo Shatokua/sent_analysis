@@ -1,0 +1,8 @@
+T9	Neutral 12 14	Ты
+A1	AnaforPerson T9
+T1	Neutral_all 93 108	Виктора] Ющенко
+T2	Neutral_all 120 138	Виктора] Януковича
+T3	Neutral_all 151 166	Юлию] Тимошенко
+T4	Neutral_all 67 81	Леонида] Кучму
+T100	Neutral 16 26	Червоненко
+R1	Anafor Arg1:T100 Arg2:T9	

@@ -1,0 +1,9 @@
+T0	Neutral 165 172	Клинтон
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral 27 31	него
+A2	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 96 98	он
+A3	AnaforPerson T3
+R2	Variant Arg1:T2 Arg2:T3	

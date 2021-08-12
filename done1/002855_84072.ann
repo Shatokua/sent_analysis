@@ -1,0 +1,8 @@
+T0	Neutral_all 0 6	Нжикам
+T1	Neutral_all 54 64	Головкиным
+T2	Neutral_all 164 172	Головкин
+T3	Neutral_all 239 247	Головкин
+T4	Neutral_all 332 351	Арсеном Гуламиряном
+T5	Neutral_all 354 366	Мишелем Соро
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

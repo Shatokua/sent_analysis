@@ -1,0 +1,6 @@
+T0	Neutral_all 47 54	Путиным
+T1	Neutral_all 118 125	Хиллари
+T2	Neutral_all 140 147	Путиным
+T3	Neutral_all 97 99	вы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

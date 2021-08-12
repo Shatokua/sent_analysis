@@ -1,0 +1,7 @@
+T0	Neutral_all 37 52	Василия Слипака
+T1	Neutral_all 88 93	Кучме
+T2	Neutral_all 54 56	Мы
+A1	Plural T2
+T3	Neutral_all 101 103	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

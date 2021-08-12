@@ -1,0 +1,5 @@
+T0	Neutral 0 5	Путин
+T1	Neutral 12 19	Клинтон
+T2	Neutral 141 143	Ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

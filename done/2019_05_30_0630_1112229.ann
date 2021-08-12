@@ -1,0 +1,5 @@
+T0	Neutral_all 11 25	Никита Юрьевич
+T1	Neutral_all 42 50	Ларицкий
+T2	Neutral_all 92 95	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

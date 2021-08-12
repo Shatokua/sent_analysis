@@ -1,0 +1,4 @@
+T100	Neutral_all 0 5	Путин
+T101	Neutral_all 28 35	Володин
+T102	Neutral_all 90 98	Володину
+R1	Anafor Arg1:T101 Arg2:T102

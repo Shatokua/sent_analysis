@@ -1,0 +1,8 @@
+T0	Neutral_all 20 36	Николай Петрович
+T1	Neutral_all 100 111	Караченцова
+T2	Neutral_all 113 115	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

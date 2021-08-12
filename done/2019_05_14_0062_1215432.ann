@@ -1,0 +1,8 @@
+T0	Neutral 9 20	Заболотного
+T1	Neutral_all 64 69	Янчик
+T3	Neutral_all 143 147	него
+A2	AnaforPerson T3
+T4	Neutral_all 206 208	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

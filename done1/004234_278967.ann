@@ -1,0 +1,14 @@
+T0	Neutral_all 16 23	Уайлдер
+T1	Neutral_all 44 58	Луисом Ортисом
+T2	Neutral_all 82 87	Фьюри
+T3	Neutral_all 148 156	Уайлдера
+T4	Neutral_all 165 172	Ортисом
+T5	Neutral_all 215 220	Фьюри
+T6	Neutral_all 258 265	Ортисом
+T7	Neutral_all 25 27	он
+A1	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T5
+R3	Anafor Arg1:T4 Arg2:T6
+R4	Anafor Arg1:T1 Arg2:T4
+R5	Anafor Arg1:T3 Arg2:T7

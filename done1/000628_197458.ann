@@ -1,0 +1,4 @@
+T0	Neutral_all 25 32	Джамала
+T1	Neutral_all 115 122	Джамалу
+T2	Neutral_all 210 226	Юлией Самойловой
+R1	Anafor Arg1:T0 Arg2:T1

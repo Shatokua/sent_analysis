@@ -1,0 +1,16 @@
+T0	Neutral_all 16 24	Марьянов
+T1	Neutral_all 209 225	Оксану Богданову
+T2	Neutral_all 46 50	него
+A1	AnaforPerson T2
+T3	Neutral_all 103 106	Его
+A2	AnaforPerson T3
+T4	Neutral_all 248 252	него
+A3	AnaforPerson T4
+T5	Neutral_all 313 315	Он
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T2
+R103	Anafor Arg1:T4 Arg2:T2
+R104	Anafor Arg1:T2 Arg2:T3

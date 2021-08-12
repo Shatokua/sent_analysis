@@ -1,0 +1,11 @@
+T0	Neutral_all 70 87	Алмазбек Атамбаев
+T1	Neutral_all 169 185	Исой Омуркуловым
+T2	Neutral_all 45 47	им
+A1	Plural T2
+T3	Neutral_all 90 93	они
+A2	Plural T3
+T4	Negative_all 187 190	Его
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

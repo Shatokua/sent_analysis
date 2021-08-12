@@ -1,0 +1,6 @@
+T0	Negative 105 110	Путин
+T1	Negative 0 2	Вы
+A1	AnaforPerson T1
+T2	Negative 114 119	вашей
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

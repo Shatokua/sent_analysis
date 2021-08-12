@@ -1,0 +1,6 @@
+T0	Neutral_all 43 52	Владимира
+T1	Neutral_all 62 68	Путина
+T2	Neutral_all 108 118	Хачатурова
+T3	Neutral_all 8 10	мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

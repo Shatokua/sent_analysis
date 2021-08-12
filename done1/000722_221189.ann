@@ -1,0 +1,30 @@
+T0	Neutral_all 203 211	Татьяной
+T1	Neutral_all 510 529	Игорь Александрович
+T2	Neutral_all 653 660	Татьяна
+T3	Neutral_all 735 742	Татьяне
+T5	Neutral 245 248	она
+A2	AnaforPerson T5
+T6	Neutral_all 353 355	её
+A3	AnaforPerson T6
+T7	Neutral 383 386	она
+A4	AnaforPerson T7
+T8	Neutral_all 433 435	её
+A5	AnaforPerson T8
+T9	Neutral_all 465 467	ей
+A6	AnaforPerson T9
+T10	Neutral_all 475 478	она
+A7	AnaforPerson T10
+T11	Neutral_all 663 665	её
+A8	AnaforPerson T11
+T12	Neutral_all 929 931	вы
+A9	Plural T12
+R1	Anafor Arg1:T0 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T6	
+R3	Anafor Arg1:T6 Arg2:T7	
+R4	Anafor Arg1:T7 Arg2:T8	
+R5	Anafor Arg1:T8 Arg2:T9	
+R6	Anafor Arg1:T9 Arg2:T10	
+R7	Anafor Arg1:T2 Arg2:T10	
+R8	Anafor Arg1:T2 Arg2:T11	
+R9	Anafor Arg1:T3 Arg2:T11	
+A1	AnaforPerson T12

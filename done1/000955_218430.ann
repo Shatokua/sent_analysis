@@ -1,0 +1,12 @@
+T0	Neutral_all 158 171	Сергей Иванов
+T1	Neutral_all 64 66	он
+T2	Neutral_all 209 211	он
+T3	Neutral_all 293 295	Он
+T4	Neutral_all 365 369	него
+T5	Neutral_all 437 439	он
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T4
+R103	Anafor Arg1:T3 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T5

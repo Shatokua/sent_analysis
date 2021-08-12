@@ -1,0 +1,6 @@
+T0	Positive 72 86	Андрея Фирсова
+T1	Positive 122 125	его
+A1	AnaforPerson T1
+T2	Neutral 154 157	них
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	

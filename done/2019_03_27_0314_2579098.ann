@@ -1,0 +1,6 @@
+T2	Neutral 67 77	Скрипалями
+T100	Neutral_all 117 130	Юлию Скрипаль
+T101	Neutral_all 219 227	Скрипаля
+T102	Neutral_all 184 186	ее
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

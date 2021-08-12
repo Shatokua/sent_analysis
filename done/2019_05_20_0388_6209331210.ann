@@ -1,0 +1,8 @@
+T0	Neutral 338 354	Усаму бен Ладена
+T1	Negative 11 14	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 328 331	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

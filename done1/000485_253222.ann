@@ -1,0 +1,5 @@
+T0	Neutral_all 177 185	Валттери
+T6	Neutral_all 137 139	вы
+A4	Plural T6
+A1	AnaforPerson T6
+T1	Neutral 469 484	Каруна Чандхока

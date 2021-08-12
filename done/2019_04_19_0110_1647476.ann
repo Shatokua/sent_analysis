@@ -1,0 +1,4 @@
+T1	Negative_all 47 61	Джастин [Трюдо
+T102	Negative 96 99	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

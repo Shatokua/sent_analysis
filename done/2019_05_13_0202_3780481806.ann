@@ -1,0 +1,12 @@
+T0	Positive 208 223	Хиллари Клинтон
+T1	Positive 30 32	вы
+A1	AnaforPerson T1
+T2	Positive 58 62	ваша
+A2	AnaforPerson T2
+T3	Neutral 109 112	вам
+A3	AnaforPerson T3
+T4	Positive 137 140	нее
+A4	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2	
+A5	Plural T3
+R2	Anafor Arg1:T4 Arg2:T0	

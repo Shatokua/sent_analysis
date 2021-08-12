@@ -1,0 +1,6 @@
+T1	Neutral_all 0 17	Чолпон Кененбаева
+T2	Neutral_all 59 62	нее
+A1	AnaforPerson T2
+T3	Neutral_all 242 244	Ей
+T4	Neutral_all 395 398	Его
+R1	Anafor Arg1:T1 Arg2:T2

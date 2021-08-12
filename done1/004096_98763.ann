@@ -1,0 +1,3 @@
+T0	Neutral_all 94 108	Роджера Стоуна
+T1	Neutral_all 204 210	Стоуна
+R1	Anafor Arg1:T0 Arg2:T1

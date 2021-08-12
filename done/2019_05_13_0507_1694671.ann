@@ -1,0 +1,10 @@
+T0	Positive 102 106	Анри
+T1	Positive 0 2	Он
+A1	AnaforPerson T1
+T2	Positive 24 26	он
+A2	AnaforPerson T2
+T3	Positive 137 139	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T0	
+R3	Anafor Arg1:T0 Arg2:T3	

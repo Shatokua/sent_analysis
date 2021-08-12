@@ -1,0 +1,9 @@
+T100	Neutral_all 83 100	Кайрат Кожамжаров
+T101	Neutral_all 240 259	Алиханом Байменовым
+T102	Neutral_all 346 361	Рашид Тусупеков
+T103	Positive 170 172	он
+A1	AnaforPerson T103
+T104	Neutral_all 280 282	Он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T104
+R101	Anafor Arg1:T100 Arg2:T103

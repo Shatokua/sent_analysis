@@ -1,0 +1,8 @@
+T0	Neutral_all 20 32	Малиновского
+T1	Neutral_all 69 76	Слепова
+T2	Neutral_all 92 94	он
+A1	AnaforPerson T2
+T3	Neutral_all 141 145	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2

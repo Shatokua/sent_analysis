@@ -1,0 +1,7 @@
+T0	Neutral_all 0 9	Порошенко
+T1	Neutral_all 160 169	Порошенко
+T2	Neutral_all 230 240	Иванишвили
+T3	Negative_all 61 63	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

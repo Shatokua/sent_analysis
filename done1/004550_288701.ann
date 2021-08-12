@@ -1,0 +1,4 @@
+T0	Neutral_all 85 104	Тиграна Паскевичяна
+T1	Neutral_all 306 314	Царукяна
+T2	Neutral_all 451 458	Царукян
+R1	Anafor Arg1:T2 Arg2:T1

@@ -1,0 +1,9 @@
+T1	Neutral 36 43	Саченко
+T100	Neutral_all 20 27	Луценко
+T102	Neutral_all 201 211	Терезе Мэй
+T103	Mixed 184 186	он
+A1	AnaforPerson T103
+T104	Mixed 230 233	его
+A2	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T104	

@@ -1,0 +1,5 @@
+T0	Neutral_all 145 157	Ольгу Бузову
+T1	Neutral_all 205 217	Ким Кардашян
+T2	Neutral_all 169 172	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

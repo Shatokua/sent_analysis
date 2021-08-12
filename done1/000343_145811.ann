@@ -1,0 +1,4 @@
+T1	Neutral_all 100 112	Шнурова С.В.
+T2	Neutral_all 464 476	Шнурова С.В.
+T100	Negative 0 11	Милонов В.В
+R1	Anafor Arg1:T1 Arg2:T2

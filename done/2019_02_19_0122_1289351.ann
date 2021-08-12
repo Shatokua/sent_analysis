@@ -1,0 +1,6 @@
+T101	Neutral 34 39	Обама
+T102	Positive 109 113	Адам
+T1	Negative 57 59	он
+R1	Anafor Arg1:T101 Arg2:T1	
+T3	Mixed 11 13	он
+R2	Anafor Arg1:T102 Arg2:T3	

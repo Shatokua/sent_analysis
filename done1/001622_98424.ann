@@ -1,0 +1,4 @@
+T1	Neutral_all 257 264	Барсова
+T2	Neutral 347 357	Трубецкому
+T100	Negative 33 43	Трубецкого
+R1	Anafor Arg1:T100 Arg2:T2	

@@ -1,0 +1,4 @@
+T0	Negative 20 29	Атамбаева
+T1	Negative 82 84	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

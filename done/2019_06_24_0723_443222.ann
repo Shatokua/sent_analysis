@@ -1,0 +1,5 @@
+T0	Neutral_all 111 116	Асада
+T1	Neutral_all 118 122	Асад
+T2	Neutral_all 93 96	они
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

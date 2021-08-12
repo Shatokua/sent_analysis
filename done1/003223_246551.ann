@@ -1,0 +1,4 @@
+T0	Negative 17 30	Джастин Бибер
+T1	Negative 59 63	нему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

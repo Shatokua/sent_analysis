@@ -1,0 +1,4 @@
+T0	Positive 19 27	Шарапова
+T1	Positive 57 60	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

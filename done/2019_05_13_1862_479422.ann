@@ -1,0 +1,4 @@
+T0	Positive 21 36	Владимир Якушев
+T1	Positive 94 98	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

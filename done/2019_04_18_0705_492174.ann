@@ -1,0 +1,7 @@
+T0	Negative 0 12	Иосиф Сталин
+T1	Negative 106 109	его
+A1	AnaforPerson T1
+T2	Negative 22 24	он
+A2	AnaforPerson T2
+R2	Anafor Arg1:T0 Arg2:T2	
+R1	Anafor Arg1:T2 Arg2:T1	

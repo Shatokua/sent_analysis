@@ -1,0 +1,7 @@
+T0	Positive 32 37	Илюша
+T1	Neutral 22 25	его
+A1	AnaforPerson T1
+T2	Positive 150 153	вас
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

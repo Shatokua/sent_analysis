@@ -1,0 +1,3 @@
+T0	Neutral_all 44 51	Улюкаев
+T1	Neutral_all 143 151	Улюкаева
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,16 @@
+T0	Neutral_all 0 10	Уэйн Брэди
+T1	Neutral_all 12 23	Колин Макри
+T2	Neutral_all 177 179	мы
+A1	Plural T2
+T3	Neutral_all 102 105	вам
+A2	Plural T3
+T4	Neutral_all 139 141	мы
+A3	Plural T4
+T5	Neutral_all 142 145	вам
+A4	Plural T5
+T104	Neutral_all 146 148	их
+A5	Plural T104
+R1	Anafor Arg1:T3 Arg2:T5
+R2	Anafor Arg1:T4 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T104
+R102	Anafor Arg1:T0 Arg2:T104

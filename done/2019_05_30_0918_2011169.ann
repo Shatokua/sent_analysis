@@ -1,0 +1,6 @@
+T0	Neutral_all 84 92	Акинфеев
+T1	Positive_all 119 124	Игорь
+T102	Neutral_all 129 132	нас
+A1	Plural T102
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,12 @@
+T0	Neutral_all 19 32	Ольги Бузовой
+T1	Neutral_all 59 74	Чулпан Хаматова
+T3	Neutral_all 124 126	ей
+A1	AnaforPerson T3
+T4	Neutral_all 161 163	ей
+A2	AnaforPerson T4
+T5	Mixed 186 189	она
+A3	AnaforPerson T5
+T102	Neutral 139 151	Ольга Бузова
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T5	

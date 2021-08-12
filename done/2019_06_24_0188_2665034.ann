@@ -1,0 +1,6 @@
+T0	Neutral_all 21 27	Иваном
+T1	Neutral_all 163 178	Игоря Губермана
+T2	Neutral_all 79 82	нас
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2

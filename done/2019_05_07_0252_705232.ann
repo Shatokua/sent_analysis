@@ -1,0 +1,11 @@
+T0	Neutral 3 16	Игорь Шувалов
+T1	Neutral 52 54	Мы
+A1	Plural T1
+T2	Neutral 90 92	их
+A2	Plural T2
+T3	Neutral 108 111	они
+A3	Plural T3
+T4	Neutral 139 142	них
+A4	Plural T4
+R1	Variant Arg1:T3 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T4	

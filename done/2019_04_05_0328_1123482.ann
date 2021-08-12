@@ -1,0 +1,4 @@
+T0	Negative_all 42 49	Луценко
+T1	Neutral_all 82 94	Юрия Луценко
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

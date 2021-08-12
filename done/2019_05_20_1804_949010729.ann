@@ -1,0 +1,13 @@
+T0	Neutral 22 27	Асада
+T1	Neutral 74 77	его
+A1	AnaforPerson T1
+T2	Neutral 86 89	его
+A2	AnaforPerson T2
+T3	Neutral 98 101	его
+A3	AnaforPerson T3
+T4	Neutral 195 198	ним
+A4	AnaforPerson T4
+R1	Variant Arg1:T0 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T2	
+R3	Variant Arg1:T2 Arg2:T3	
+R4	Variant Arg1:T3 Arg2:T4	

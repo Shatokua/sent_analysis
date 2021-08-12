@@ -1,0 +1,4 @@
+T0	Neutral_all 7 26	Аксеита Джанджакова
+T1	Neutral_all 235 242	Аксеита
+T2	Neutral_all 274 289	Ребия Сеттарова
+R1	Anafor Arg1:T0 Arg2:T1

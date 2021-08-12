@@ -1,0 +1,4 @@
+T100	Negative 8 14	Матиос
+T101	Negative 89 93	Юлей
+T102	Negative 95 110	Юлией Тимошенко
+R1	Anafor Arg1:T102 Arg2:T101	

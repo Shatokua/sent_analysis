@@ -1,0 +1,4 @@
+T0	Positive 124 146	Лидии Павловне Жаровой
+T101	Positive 191 194	она
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

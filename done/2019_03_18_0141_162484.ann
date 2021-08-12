@@ -1,0 +1,5 @@
+T0	Neutral 14 19	Трамп
+T1	Neutral 22 26	Пенс
+T102	Neutral_all 68 82	Владимир Путин
+T103	Neutral_all 145 151	Путина
+R101	Anafor Arg1:T102 Arg2:T103

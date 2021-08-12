@@ -1,0 +1,9 @@
+T0	Neutral_all 163 170	Шакиров
+T1	Neutral_all 214 226	Карла Маркса
+T2	Neutral_all 71 79	Шакирова
+T3	Neutral_all 238 241	Ему
+A1	AnaforPerson T3
+T4	Neutral_all 251 253	мы
+A2	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T3

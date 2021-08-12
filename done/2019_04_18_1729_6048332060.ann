@@ -1,0 +1,7 @@
+T0	Negative 128 134	Трампа
+T1	Neutral 50 53	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 0 3	Они
+A2	AnaforPerson T2
+A3	Plural T2

@@ -1,0 +1,6 @@
+T1	Neutral_all 0 29	Александр Владимирович (Орлов
+T2	Neutral_all 70 73	нас
+A1	Plural T2
+T3	Neutral_all 109 112	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,17 @@
+T0	Neutral_all 73 89	Марк Анатольевич
+T1	Neutral_all 144 153	Юлия Кима
+T2	Neutral_all 187 189	Он
+A1	AnaforPerson T2
+T3	Neutral_all 247 250	они
+A2	Plural T3
+T4	Neutral_all 287 289	им
+A3	Plural T4
+T5	Neutral_all 488 490	ты
+A4	AnaforPerson T5
+T105	Neutral_all 303 306	вам
+A5	Plural T105
+T106	Neutral_all 370 373	ваш
+A6	Plural T106
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T3 Arg2:T4
+R103	Anafor Arg1:T105 Arg2:T106

@@ -1,0 +1,10 @@
+T0	Neutral_all 20 24	Кати
+T1	Neutral_all 27 35	Петренко
+T2	Neutral_all 89 95	Игорем
+T3	Neutral_all 75 77	их
+A1	Plural T3
+T4	Neutral_all 84 86	Мы
+A2	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T0 Arg2:T4

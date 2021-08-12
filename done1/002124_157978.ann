@@ -1,0 +1,8 @@
+T0	Neutral_all 91 109	Руслана Перелыгина
+T1	Neutral_all 138 146	Клычкова
+T2	Neutral_all 358 367	Перелыгин
+T3	Neutral_all 431 442	Егор Строев
+T4	Neutral_all 520 530	Перелыгина
+T5	Neutral_all 555 569	Сергей Миронов
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4

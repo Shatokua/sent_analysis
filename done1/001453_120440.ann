@@ -1,0 +1,18 @@
+T0	Neutral_all 102 121	Евгением Кузнецовым
+T1	Neutral_all 64 66	мы
+A1	Plural T1
+T2	Neutral_all 89 91	Мы
+A2	Plural T2
+T3	Neutral_all 156 158	он
+A3	AnaforPerson T3
+T4	Negative_all 247 249	их
+A4	Plural T4
+T5	Neutral_all 300 302	вы
+A5	Plural T5
+T105	Neutral_all 274 278	него
+A6	AnaforPerson T105
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T105
+R104	Anafor Arg1:T2 Arg2:T1

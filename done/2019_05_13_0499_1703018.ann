@@ -1,0 +1,4 @@
+T0	Positive 87 102	Майкла Джексона
+T1	Neutral 104 107	Его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

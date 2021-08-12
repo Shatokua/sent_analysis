@@ -1,0 +1,8 @@
+T0	Neutral_all 205 222	Тиграном Авиняном
+T1	Neutral_all 126 128	мы
+A1	Plural T1
+T2	Neutral_all 131 134	ним
+A2	AnaforPerson T2
+T3	Neutral_all 171 173	Мы
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3

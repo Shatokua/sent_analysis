@@ -1,0 +1,14 @@
+T0	Neutral_all 234 240	Мадуро
+T1	Neutral 431 437	Гуайдо
+T2	Neutral_all 460 466	Мадуро
+T3	Neutral_all 8 11	вам
+A1	Plural T3
+T4	Neutral_all 189 192	они
+A2	Plural T4
+T5	Neutral_all 255 257	им
+A3	Plural T5
+A5	AnaforPerson T3
+R1	Anafor Arg1:T4 Arg2:T5	
+A6	AnaforPerson T4
+A7	AnaforPerson T5
+R2	Anafor Arg1:T0 Arg2:T2	

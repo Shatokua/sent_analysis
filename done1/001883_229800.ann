@@ -1,0 +1,7 @@
+T0	Neutral_all 70 82	Олег Табаков
+T1	Neutral_all 0 3	Нас
+A1	Plural T1
+T2	Neutral_all 181 183	Мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T1

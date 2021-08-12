@@ -1,0 +1,5 @@
+T0	Neutral_all 0 9	Грудинину
+T1	Neutral_all 143 159	Александр Ткачев
+T2	Neutral_all 20 23	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

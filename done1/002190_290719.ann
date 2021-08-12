@@ -1,0 +1,8 @@
+T0	Neutral_all 112 130	Анастасию Шевченко
+T3	Neutral_all 404 420	Антона Приходько
+T4	Neutral_all 422 435	Ольги Зениной
+T5	Neutral_all 438 451	Ирины Зениной
+T6	Neutral_all 252 255	она
+A1	AnaforPerson T6
+T1	Neutral_all 374 391	Елены Меньшениной
+R1	Anafor Arg1:T0 Arg2:T6

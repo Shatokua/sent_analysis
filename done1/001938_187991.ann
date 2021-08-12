@@ -1,0 +1,8 @@
+T0	Neutral_all 498 512	Аян Дуйсембаев
+T1	Neutral_all 45 47	Вы
+A1	Plural T1
+T2	Neutral_all 413 415	мы
+A2	Plural T2
+T3	Neutral_all 727 730	нам
+A3	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,10 @@
+T0	Positive_all 0 5	Путин
+T1	Positive_all 105 110	Путин
+T3	Neutral_all 23 25	Он
+A1	AnaforPerson T3
+T4	Negative 68 71	его
+A2	AnaforPerson T4
+T102	Negative 129 140	Барак Обама
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T4	

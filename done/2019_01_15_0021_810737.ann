@@ -1,0 +1,4 @@
+T100	Positive_all 0 8	Акинфеев
+T1	Mixed 49 59	Джанлуиджи
+T2	Mixed 61 68	Буффона
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T102	Neutral 61 64	ним
+A1	AnaforPerson T102
+T1	Negative 76 90	Борис) Джонсон
+R1	Anafor Arg1:T1 Arg2:T102	

@@ -1,0 +1,5 @@
+T0	Neutral 13 18	Керри
+T1	Neutral 206 220	Захрана Аллюша
+T2	Neutral 123 125	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

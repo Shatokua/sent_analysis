@@ -1,0 +1,13 @@
+T0	Negative_all 8 24	Александр Витько
+T1	Negative_all 182 188	Витько
+T2	Neutral_all 237 243	Витько
+T3	Negative_all 426 432	Витько
+T4	Neutral_all 329 331	Он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T2
+R104	Anafor Arg1:T2 Arg2:T4

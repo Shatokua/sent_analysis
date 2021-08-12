@@ -1,0 +1,11 @@
+T0	Neutral_all 6 32	Бориса Федоровича Годунова
+T1	Neutral_all 201 208	Пушкина
+T2	Neutral_all 247 252	Борис
+T5	Neutral_all 370 373	его
+A2	AnaforPerson T5
+T3	Neutral 417 425	Димитрия
+T104	Positive 133 135	он
+A3	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T104	
+R2	Anafor Arg1:T2 Arg2:T104	
+R3	Anafor Arg1:T2 Arg2:T5	

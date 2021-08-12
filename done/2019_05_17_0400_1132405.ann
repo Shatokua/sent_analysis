@@ -1,0 +1,3 @@
+T0	Neutral_all 0 7	Никитин
+T1	Neutral_all 164 171	Никитин
+R1	Anafor Arg1:T0 Arg2:T1

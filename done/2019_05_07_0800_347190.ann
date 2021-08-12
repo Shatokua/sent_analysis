@@ -1,0 +1,6 @@
+T0	Neutral 12 18	Нуланд
+T1	Neutral 46 48	Мы
+A1	Plural T1
+T2	Neutral 76 78	мы
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	

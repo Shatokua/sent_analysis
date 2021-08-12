@@ -1,0 +1,12 @@
+T4	Neutral 192 194	ты
+A1	AnaforPerson T4
+T100	Neutral_all 104 109	Тиной
+T101	Positive 174 178	Тина
+T102	Neutral_all 129 131	ей
+A3	AnaforPerson T102
+T103	Neutral_all 64 66	ее
+A4	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T100 Arg2:T102	
+R3	Anafor Arg1:T101 Arg2:T102	
+R4	Anafor Arg1:T101 Arg2:T4	

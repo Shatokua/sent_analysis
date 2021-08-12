@@ -1,0 +1,4 @@
+T0	Neutral 154 170	Александр Ткачев
+T1	Neutral 200 203	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

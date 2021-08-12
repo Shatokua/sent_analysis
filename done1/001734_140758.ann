@@ -1,0 +1,13 @@
+T0	Neutral_all 35 52	Эммануэля Макрона
+T1	Neutral_all 105 119	Шарль Де Голль
+T2	Neutral_all 70 73	ему
+A1	AnaforPerson T2
+T3	Neutral_all 126 128	он
+A2	AnaforPerson T3
+T4	Neutral_all 147 150	ему
+A3	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T2
+R3	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T4

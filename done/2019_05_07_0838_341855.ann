@@ -1,0 +1,6 @@
+T0	Neutral 38 45	Кирилла
+T1	Neutral 78 85	Кирилла
+T2	Neutral 67 69	Он
+T3	Neutral 117 119	Он
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T0 Arg2:T1	

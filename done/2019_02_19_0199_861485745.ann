@@ -1,0 +1,7 @@
+T101	Positive_all 128 144	Евгений Куйвашев
+T102	Neutral_all 152 169	Алексей Навальный
+T103	Neutral_all 220 230	Навального
+T104	Positive 0 2	Он
+A1	AnaforPerson T104
+R101	Anafor Arg1:T101 Arg2:T104
+R1	Anafor Arg1:T102 Arg2:T103	

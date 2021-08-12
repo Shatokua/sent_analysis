@@ -1,0 +1,8 @@
+T0	Neutral_all 368 376	Матросов
+T1	Neutral_all 391 409	Александр Матросов
+T2	Neutral_all 313 316	они
+A1	Plural T2
+T103	Neutral_all 343 346	они
+A2	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T2 Arg2:T103

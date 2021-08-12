@@ -1,0 +1,6 @@
+T0	Neutral 9 14	Перес
+T1	Neutral 309 324	Ицхаком Рабином
+T2	Neutral 327 342	Ясиром Арафатом
+T3	Positive 271 273	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

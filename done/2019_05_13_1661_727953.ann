@@ -1,0 +1,9 @@
+T0	Positive 0 10	Доннарумма
+T1	Positive 117 123	Джиджи
+T2	Positive 40 42	Он
+A1	AnaforPerson T2
+T3	Positive 83 85	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T1	

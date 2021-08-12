@@ -1,0 +1,3 @@
+T0	Neutral_all 0 14	Анна Щербакова
+T1	Neutral_all 190 200	Щербаковой
+R1	Anafor Arg1:T0 Arg2:T1

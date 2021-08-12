@@ -1,0 +1,6 @@
+T0	Negative_all 398 419	Владимира Владимирова
+T1	Neutral 128 138	Арашуковых
+T3	Neutral 469 479	Арашуковых
+A1	Plural T1
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3	

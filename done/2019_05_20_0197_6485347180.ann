@@ -1,0 +1,6 @@
+T1	Neutral 41 67	Антон Германович (Силуанов
+T2	Neutral 89 90	м
+A1	AnaforPerson T2
+T3	Negative 108 110	им
+A2	AnaforPerson T3
+A3	Plural T3

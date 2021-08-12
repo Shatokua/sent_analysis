@@ -1,0 +1,7 @@
+T0	Neutral_all 88 100	Бернарда Шоу
+T1	Neutral_all 121 124	ему
+A1	AnaforPerson T1
+T2	Neutral_all 137 139	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T2

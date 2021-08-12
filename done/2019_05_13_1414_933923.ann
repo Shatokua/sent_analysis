@@ -1,0 +1,7 @@
+T0	Positive 146 163	Иосифа Давидовича
+T1	Neutral 35 39	вами
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 185 188	его
+A3	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

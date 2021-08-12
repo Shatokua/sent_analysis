@@ -1,0 +1,13 @@
+T2	Negative 304 307	Его
+A1	AnaforPerson T2
+T3	Negative 341 350	Навальный
+T4	Negative 394 397	его
+A2	AnaforPerson T4
+T5	Neutral 2 4	он
+A3	AnaforPerson T5
+T100	Neutral_all 434 440	Путина
+T101	Negative_all 254 263	Навальный
+R2	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T101 Arg2:T5
+R1	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T3 Arg2:T4	

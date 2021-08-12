@@ -1,0 +1,6 @@
+T2	Mixed 326 332	Гинеру
+T100	Neutral_all 224 239	Николая Толстых
+T101	Negative 168 173	Гинер
+T103	Mixed_all 445 451	Гинера
+R1	Anafor Arg1:T101 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T103	

@@ -1,0 +1,8 @@
+T100	Negative_all 26 41	Хиллари Клинтон
+T101	Negative 42 53	Хума Абедин
+T102	Negative 76 79	она
+A2	AnaforPerson T102
+T103	Negative 126 129	Она
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

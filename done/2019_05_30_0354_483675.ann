@@ -1,0 +1,7 @@
+T0	Neutral_all 34 51	Иосифу Давыдовичу
+T1	Neutral_all 89 101	Александрова
+T2	Neutral_all 70 73	его
+A1	AnaforPerson T2
+T103	Neutral_all 139 142	они
+A2	Plural T103
+R1	Anafor Arg1:T0 Arg2:T2

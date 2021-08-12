@@ -1,0 +1,14 @@
+T0	Neutral_all 84 90	Путина
+T1	Neutral_all 144 149	Обаме
+T3	Neutral_all 78 82	него
+A2	AnaforPerson T3
+T4	Neutral_all 153 155	он
+A3	AnaforPerson T4
+T5	Neutral_all 156 159	его
+A4	AnaforPerson T5
+T102	Mixed 44 46	он
+A5	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T5	
+R4	Anafor Arg1:T102 Arg2:T3	

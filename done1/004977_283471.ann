@@ -1,0 +1,4 @@
+T0	Neutral_all 26 40	Юрия Васильева
+T1	Neutral_all 160 176	Владимира Путина
+T2	Neutral_all 662 676	Юрия Васильева
+R1	Anafor Arg1:T0 Arg2:T2

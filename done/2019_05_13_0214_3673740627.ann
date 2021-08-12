@@ -1,0 +1,5 @@
+T0	Positive 0 4	Лепс
+T1	Neutral 45 51	Путина
+T2	Positive 53 55	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

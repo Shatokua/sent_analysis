@@ -1,0 +1,7 @@
+T0	Neutral_all 195 204	Навальный
+T1	Neutral_all 207 216	Собяниным
+T102	Neutral_all 85 88	его
+A1	AnaforPerson T102
+T103	Neutral_all 113 116	его
+A2	AnaforPerson T103
+R101	Anafor Arg1:T102 Arg2:T103

@@ -1,0 +1,4 @@
+T1	Neutral 105 121	Хиллари [Клинтон
+T102	Negative 89 92	они
+A2	Plural T102
+A1	AnaforPerson T102

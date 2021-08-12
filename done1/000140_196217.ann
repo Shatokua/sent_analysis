@@ -1,0 +1,6 @@
+T0	Neutral_all 0 12	Фрэнк Уоррен
+T1	Neutral_all 26 41	Деонтей Уайлдер
+T2	Neutral_all 44 56	Тайсон Фьюри
+T3	Neutral_all 122 124	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,6 @@
+T0	Negative 22 32	Саакашвили
+T2	Negative 97 103	Трампа
+T101	Neutral_all 79 84	Путин
+T103	Negative_all 157 159	Он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T2 Arg2:T103

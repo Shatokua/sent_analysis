@@ -1,0 +1,4 @@
+T0	Neutral 17 24	Лужкова
+T1	Neutral 227 229	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

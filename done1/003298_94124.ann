@@ -1,0 +1,5 @@
+T0	Neutral_all 49 65	Полины Гагариной
+T1	Neutral_all 118 126	Лазарева
+T2	Neutral_all 130 134	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

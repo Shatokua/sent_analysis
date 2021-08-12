@@ -1,0 +1,5 @@
+T0	Neutral_all 46 51	Алисы
+T1	Neutral_all 88 103	Андрея Аршавина
+T102	Neutral_all 170 172	он
+A1	AnaforPerson T102
+R101	Anafor Arg1:T1 Arg2:T102

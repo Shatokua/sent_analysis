@@ -1,0 +1,4 @@
+T0	Positive_all 247 260	Юрию Судакову
+T101	Positive 272 274	он
+A3	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

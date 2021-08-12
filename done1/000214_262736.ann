@@ -1,0 +1,3 @@
+T0	Neutral_all 42 52	Вышковский
+T1	Neutral_all 94 115	Константин Вышковский
+R1	Anafor Arg1:T1 Arg2:T0

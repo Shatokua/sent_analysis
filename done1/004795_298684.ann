@@ -1,0 +1,4 @@
+T0	Neutral_all 22 36	Славу Лейбмана
+T1	Neutral_all 314 320	Ксении
+T2	Neutral_all 498 511	Ксения Собчак
+R1	Anafor Arg1:T2 Arg2:T1

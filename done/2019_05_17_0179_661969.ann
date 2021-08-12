@@ -1,0 +1,7 @@
+T0	Neutral_all 4 11	Богатов
+T1	Neutral_all 74 85	Канье Уэста
+T2	Neutral 0 2	Он
+A1	AnaforPerson T2
+T3	Neutral_all 107 109	вы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2	

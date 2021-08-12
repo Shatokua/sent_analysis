@@ -1,0 +1,7 @@
+T0	Neutral_all 17 26	Порошенко
+T1	Neutral_all 143 152	Тимошенко
+T2	Neutral_all 158 168	Саакашвили
+T3	Neutral_all 0 12	Коломойского
+T4	Neutral_all 52 55	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4

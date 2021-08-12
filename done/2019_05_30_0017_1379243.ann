@@ -1,0 +1,10 @@
+T0	Neutral_all 40 53	Юлию Скрипаль
+T1	Neutral_all 56 71	Сергея Скрипаля
+T2	Neutral_all 171 179	Скрипаль
+T3	Neutral_all 125 129	наши
+A1	Plural T3
+T4	Neutral_all 135 137	мы
+A2	Plural T4
+R1	Anafor Arg1:T4 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2

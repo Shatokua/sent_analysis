@@ -1,0 +1,6 @@
+T0	Neutral 87 103	Владимира Путина
+T1	Neutral 8 10	ты
+A1	AnaforPerson T1
+T2	Neutral 47 49	ты
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

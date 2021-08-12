@@ -1,0 +1,13 @@
+T0	Neutral_all 0 5	Костя
+T1	Neutral_all 120 129	Дейенерис
+T2	Neutral_all 132 150	Оксана Лаврентьева
+T3	Neutral_all 62 65	нас
+A1	Plural T3
+T4	Neutral_all 194 197	нас
+A2	Plural T4
+T105	Neutral_all 188 190	Вы
+A3	Plural T105
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T0 Arg2:T105

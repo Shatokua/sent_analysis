@@ -1,0 +1,9 @@
+T0	Positive_all 26 41	Алексея Ягудина
+T1	Neutral_all 115 119	Лешу
+T2	Neutral_all 49 52	его
+A1	AnaforPerson T2
+T3	Neutral_all 70 72	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2

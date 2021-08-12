@@ -1,0 +1,12 @@
+T0	Neutral 51 61	Пан Ги Мун
+T1	Neutral 106 112	Джарбе
+T2	Neutral 135 153	Хасану Абдельазыму
+T3	Neutral 196 206	Абдельазым
+T4	Neutral 270 276	Джарбе
+T5	Neutral 241 244	ему
+A1	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T5	
+T6	Neutral 47 49	он
+A2	AnaforPerson T6
+R2	Variant Arg1:T0 Arg2:T6	
+R3	Variant Arg1:T1 Arg2:T4	

@@ -1,0 +1,7 @@
+T0	Negative 38 50	Колесниченко
+T1	Neutral 131 133	он
+A1	AnaforPerson T1
+T2	Negative 176 179	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T2	

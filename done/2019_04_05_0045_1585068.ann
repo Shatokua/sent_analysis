@@ -1,0 +1,5 @@
+T0	Neutral 5 13	Черкасов
+T2	Neutral 16 19	его
+A1	AnaforPerson T2
+T101	Neutral_all 49 61	Оюба Титиева
+R1	Anafor Arg1:T0 Arg2:T2	

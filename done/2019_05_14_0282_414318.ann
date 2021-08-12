@@ -1,0 +1,5 @@
+T0	Neutral_all 3 11	Гройсман
+T1	Negative_all 94 106	Коломойского
+T2	Neutral_all 76 79	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

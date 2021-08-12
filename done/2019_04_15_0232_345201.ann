@@ -1,0 +1,8 @@
+T0	Neutral 19 23	Тина
+T101	Neutral_all 75 88	Наталья Билан
+T102	Negative_all 31 33	Вы
+A1	AnaforPerson T102
+T103	Neutral 14 17	Вам
+A2	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T103	
+R2	Anafor Arg1:T0 Arg2:T102	

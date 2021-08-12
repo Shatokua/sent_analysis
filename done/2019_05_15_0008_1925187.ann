@@ -1,0 +1,6 @@
+T0	Neutral_all 68 74	Филипп
+T1	Neutral_all 77 83	Басков
+T102	Negative 8 11	они
+A3	Plural T102
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T102	

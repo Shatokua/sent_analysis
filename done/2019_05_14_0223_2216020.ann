@@ -1,0 +1,9 @@
+T0	Mixed 0 4	Усик
+T1	Neutral_all 86 102	Деонтея Уайлдера
+T2	Neutral_all 108 121	Энтони Джошуа
+T3	Mixed 35 37	он
+A1	AnaforPerson T3
+T5	Negative 138 141	его
+A3	AnaforPerson T5
+R3	Anafor Arg1:T0 Arg2:T3	
+R1	Anafor Arg1:T3 Arg2:T5	

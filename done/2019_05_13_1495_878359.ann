@@ -1,0 +1,16 @@
+T0	Positive 15 19	Машу
+T1	Positive 29 31	ей
+A1	AnaforPerson T1
+T2	Neutral 126 129	она
+A2	AnaforPerson T2
+T3	Neutral 210 213	она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R3	Anafor Arg1:T2 Arg2:T3	
+T4	Positive 34 36	ее
+A4	AnaforPerson T4
+R2	Variant Arg1:T1 Arg2:T4	
+T5	Positive 105 107	ее
+A5	AnaforPerson T5
+R4	Variant Arg1:T4 Arg2:T5	
+R5	Variant Arg1:T5 Arg2:T2	

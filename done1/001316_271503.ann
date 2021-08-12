@@ -1,0 +1,4 @@
+T0	Neutral_all 195 220	Андрей Николаевич Сахаров
+T2	Neutral_all 253 256	Ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

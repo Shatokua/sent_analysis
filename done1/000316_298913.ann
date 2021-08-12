@@ -1,0 +1,6 @@
+T0	Neutral_all 48 68	Владимира Зеленского
+T1	Neutral_all 346 354	Ги Дебор
+T2	Neutral_all 374 386	Жан Бодрийяр
+T3	Neutral_all 101 103	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

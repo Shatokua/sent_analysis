@@ -1,0 +1,8 @@
+T5	Neutral_all 167 170	вам
+A4	Plural T5
+T1	Neutral_all 5 9	вами
+A5	Plural T1
+T6	Positive 193 219	Глорию фон Турн-унд-Таксис
+R2	Anafor Arg1:T1 Arg2:T5
+A1	AnaforPerson T1
+A2	AnaforPerson T5

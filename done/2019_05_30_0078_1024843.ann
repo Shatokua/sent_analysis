@@ -1,0 +1,7 @@
+T4	Neutral_all 5 8	она
+A1	AnaforPerson T4
+T5	Neutral_all 102 105	она
+A2	AnaforPerson T5
+T101	Neutral 133 151	Геннадия) Зюганова
+R3	Anafor Arg1:T4 Arg2:T5
+T1	Neutral 169 192	Владимира) Жириновского

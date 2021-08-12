@@ -1,0 +1,4 @@
+T0	Neutral_all 16 33	Филарет Денисенко
+T1	Neutral_all 89 97	Епифания
+T2	Neutral_all 122 129	Филарет
+R1	Anafor Arg1:T0 Arg2:T2

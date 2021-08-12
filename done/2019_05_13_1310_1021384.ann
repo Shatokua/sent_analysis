@@ -1,0 +1,6 @@
+T0	Neutral 9 15	Филипп
+T1	Neutral 32 38	Гарику
+T2	Neutral 41 46	Лизой
+T3	Positive 80 84	твоё
+A1	AnaforPerson T3
+R1	Variant Arg1:T0 Arg2:T3	

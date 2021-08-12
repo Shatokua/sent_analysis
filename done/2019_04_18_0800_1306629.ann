@@ -1,0 +1,6 @@
+T0	Negative 0 9	Геращенко
+T1	Negative 34 40	Аваков
+T2	Negative 43 52	Порошенко
+T4	Negative 22 25	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4	

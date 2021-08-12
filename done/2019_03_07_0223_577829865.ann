@@ -1,0 +1,8 @@
+T100	Neutral_all 25 33	Шувалова
+T101	Neutral_all 106 111	Путин
+T102	Neutral 146 150	него
+A1	AnaforPerson T102
+T103	Neutral_all 270 272	он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

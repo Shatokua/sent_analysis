@@ -1,0 +1,5 @@
+T1	Neutral 2 11	Улюкаевым
+A1	AnaforPerson T1
+T2	Neutral 103 106	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T100	Neutral_all 110 127	Вадима Потомского
+T101	Neutral_all 163 169	Денина
+T102	Positive 340 346	Денина
+R1	Anafor Arg1:T101 Arg2:T102	

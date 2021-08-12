@@ -1,0 +1,4 @@
+T0	Negative 46 62	Владимира Путина
+T1	Negative 231 243	Башара Асада
+T2	Neutral 278 283	Путин
+R1	Anafor Arg1:T0 Arg2:T2	

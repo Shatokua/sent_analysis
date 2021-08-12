@@ -1,0 +1,5 @@
+T0	Neutral_all 92 97	Трамп
+T1	Neutral_all 221 238	Владимир ВАСИЛЬЕВ
+T2	Neutral_all 124 127	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

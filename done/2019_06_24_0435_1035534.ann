@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Эрдоган
+T1	Neutral_all 105 120	Петру Порошенко
+T2	Neutral_all 74 76	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

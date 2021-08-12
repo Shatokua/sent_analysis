@@ -1,0 +1,10 @@
+T0	Neutral_all 118 134	Владимира Путина
+T1	Neutral_all 137 148	Ким Чен Ына
+T2	Neutral_all 276 278	мы
+A1	Plural T2
+T3	Neutral_all 588 591	нас
+A2	Plural T3
+T4	Neutral_all 723 725	мы
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3

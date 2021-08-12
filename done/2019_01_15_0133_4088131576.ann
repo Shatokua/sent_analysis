@@ -1,0 +1,4 @@
+T100	Neutral_all 93 107	Ильдар Халиков
+T101	Positive_all 26 41	Василь Гаязович
+T102	Positive 152 162	Шайхразиев
+R101	Anafor Arg1:T101 Arg2:T102

@@ -1,0 +1,5 @@
+T0	Neutral_all 319 331	Майклу Калви
+T1	Neutral_all 466 482	Филиппа Дельпаля
+T2	Neutral_all 375 378	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

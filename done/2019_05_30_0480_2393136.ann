@@ -1,0 +1,4 @@
+T0	Neutral_all 2 9	Бузовой
+T1	Neutral_all 106 114	Захарова
+T2	Positive_all 86 89	она
+R1	Anafor Arg1:T0 Arg2:T2

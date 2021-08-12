@@ -1,0 +1,12 @@
+T0	Neutral_all 0 7	Хлутков
+T1	Neutral_all 27 36	Щербакову
+T2	Neutral_all 142 152	Щербаковой
+T3	Negative_all 45 47	Он
+A1	AnaforPerson T3
+T4	Neutral_all 50 53	вас
+A2	Plural T4
+T5	Negative_all 64 67	Его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5

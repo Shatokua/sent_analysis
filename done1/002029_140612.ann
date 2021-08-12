@@ -1,0 +1,9 @@
+T0	Neutral_all 158 173	Петра Порошенко
+T1	Neutral_all 178 192	Юлии Тимошенко
+T2	Neutral_all 302 316	Юлия Тимошенко
+T3	Neutral_all 407 422	Петра Порошенко
+T4	Neutral_all 458 467	Тимошенко
+T5	Neutral_all 473 490	Викторе Януковиче
+R101	Anafor Arg1:T2 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T4
+R103	Anafor Arg1:T0 Arg2:T3

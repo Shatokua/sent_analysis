@@ -1,0 +1,7 @@
+T0	Neutral 11 19	Ливанова
+T1	Neutral 41 50	Сердюкова
+T2	Mixed 173 181	Сердюков
+T3	Neutral 91 94	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Variant Arg1:T1 Arg2:T2	

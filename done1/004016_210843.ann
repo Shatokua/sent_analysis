@@ -1,0 +1,6 @@
+T0	Neutral_all 349 361	Луис Бунюэль
+T1	Neutral_all 207 209	им
+A1	Plural T1
+T2	Neutral_all 219 222	они
+A2	Plural T2
+R101	Anafor Arg1:T2 Arg2:T1

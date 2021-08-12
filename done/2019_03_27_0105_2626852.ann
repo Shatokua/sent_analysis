@@ -1,0 +1,11 @@
+T5	Positive 42 45	нее
+A1	AnaforPerson T5
+T100	Positive_all 0 7	Верочка
+T101	Positive_all 28 31	Юлю
+T102	Positive_all 72 79	Верочка
+T103	Positive_all 88 91	Юля
+T104	Positive_all 135 142	Верочке
+R1	Anafor Arg1:T100 Arg2:T5	
+R2	Anafor Arg1:T102 Arg2:T5	
+R3	Anafor Arg1:T101 Arg2:T103	
+R4	Anafor Arg1:T102 Arg2:T104	

@@ -1,0 +1,25 @@
+T0	Negative 62 76	Елена Батурина
+T1	Negative 80 83	она
+A1	AnaforPerson T1
+T2	Neutral 128 130	ее
+A2	AnaforPerson T2
+T3	Neutral 141 144	нее
+A3	AnaforPerson T3
+T4	Neutral 180 183	Она
+A4	AnaforPerson T4
+T5	Neutral 228 231	она
+A5	AnaforPerson T5
+T6	Neutral 252 255	она
+A6	AnaforPerson T6
+T7	Negative 268 270	Ее
+A7	AnaforPerson T7
+T8	Negative 351 353	ее
+A8	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	
+R6	Anafor Arg1:T5 Arg2:T6	
+R7	Anafor Arg1:T6 Arg2:T7	
+R8	Anafor Arg1:T7 Arg2:T8	

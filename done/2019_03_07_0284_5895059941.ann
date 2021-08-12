@@ -1,0 +1,4 @@
+T100	Neutral 25 43	Рамзаном Кадыровым
+T101	Positive 141 161	Владимиру Кара-Мурзе
+T1	Negative 174 177	это
+R1	Anafor Arg1:T100 Arg2:T1	

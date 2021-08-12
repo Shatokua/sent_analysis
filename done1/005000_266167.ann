@@ -1,0 +1,5 @@
+T0	Neutral_all 29 45	Назили Мурадовой
+T1	Neutral_all 207 222	Назиля Мурадова
+T102	Neutral_all 328 331	они
+A1	Plural T102
+R1	Anafor Arg1:T1 Arg2:T0

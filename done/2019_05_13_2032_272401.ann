@@ -1,0 +1,4 @@
+T0	Positive 21 37	Борис Николаевич
+T1	Positive 103 106	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

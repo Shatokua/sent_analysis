@@ -1,0 +1,4 @@
+T1	Negative 39 58	Стаффану де Мистуре
+T2	Negative 76 79	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

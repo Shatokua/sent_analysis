@@ -1,0 +1,5 @@
+T0	Neutral 65 83	Владимира Ельченко
+T1	Neutral 95 109	Павла Климкина
+T2	Neutral 86 89	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

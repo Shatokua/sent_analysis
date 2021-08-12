@@ -1,0 +1,6 @@
+T0	Neutral_all 0 10	Канье Уэст
+T1	Neutral_all 74 81	Трампом
+T2	Neutral_all 152 169	Джаредом Кушнером
+T3	Neutral_all 83 85	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

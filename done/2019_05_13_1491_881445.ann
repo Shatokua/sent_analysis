@@ -1,0 +1,4 @@
+T0	Neutral 107 112	Данис
+T1	Neutral 126 128	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

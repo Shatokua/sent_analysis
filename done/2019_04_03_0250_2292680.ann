@@ -1,0 +1,4 @@
+T0	Neutral_all 19 25	Путину
+T1	Neutral_all 51 58	Кудрина
+T2	Neutral_all 90 97	Кудрина
+R1	Anafor Arg1:T1 Arg2:T2

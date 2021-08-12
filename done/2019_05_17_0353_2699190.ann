@@ -1,0 +1,7 @@
+T0	Neutral_all 31 41	Лейла Юнус
+T1	Negative_all 145 150	Алиев
+T2	Negative_all 208 213	Алиев
+T3	Neutral_all 119 122	Она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Neutral_all 0 15	Петру Порошенко
+T1	Neutral_all 117 121	него
+A1	AnaforPerson T1
+T2	Neutral_all 158 161	Они
+A2	Plural T2
+T3	Neutral_all 170 173	нас
+A3	Plural T3
+R2	Anafor Arg1:T0 Arg2:T1

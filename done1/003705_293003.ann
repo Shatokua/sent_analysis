@@ -1,0 +1,6 @@
+T0	Neutral_all 269 284	Евгений Ленивов
+T1	Neutral_all 404 406	их
+A1	Plural T1
+T101	Neutral_all 294 296	им
+A2	Plural T101
+R101	Anafor Arg1:T1 Arg2:T101

@@ -1,0 +1,8 @@
+T0	Neutral_all 13 18	Путин
+T1	Neutral_all 135 156	Владимир Владимирович
+T2	Neutral_all 65 68	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T2

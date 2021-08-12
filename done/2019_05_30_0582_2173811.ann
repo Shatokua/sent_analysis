@@ -1,0 +1,7 @@
+T0	Neutral_all 137 142	Павел
+T1	Neutral_all 145 154	Александр
+T2	Neutral_all 90 93	них
+A1	Plural T2
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

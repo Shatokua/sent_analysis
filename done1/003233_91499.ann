@@ -1,0 +1,5 @@
+T0	Neutral_all 111 126	Дмитрий Кулагин
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 49 53	него
+A2	AnaforPerson T2

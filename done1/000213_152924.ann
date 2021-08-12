@@ -1,0 +1,6 @@
+T2	Neutral_all 25 28	нам
+A1	Plural T2
+T1	Neutral_all 169 192	Ейкин Владимир Петрович
+T3	Neutral_all 221 224	нас
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2

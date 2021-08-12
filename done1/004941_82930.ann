@@ -1,0 +1,7 @@
+T0	Neutral_all 15 32	Конора Макгрегора
+T1	Neutral_all 35 48	Элом Яквинтой
+T2	Neutral_all 54 64	Макгрегора
+T3	Neutral_all 188 208	Хабиба Нурмагомедова
+T4	Neutral_all 214 221	Яквинты
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T2

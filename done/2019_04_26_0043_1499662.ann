@@ -1,0 +1,4 @@
+T1	Negative_all 23 34	Т.Мацейчуку
+T2	Negative_all 91 93	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

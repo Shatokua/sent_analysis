@@ -1,0 +1,6 @@
+T100	Negative_all 35 39	Асад
+T101	Negative 54 59	Асаду
+T102	Negative 96 99	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T102	

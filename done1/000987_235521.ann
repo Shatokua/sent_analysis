@@ -1,0 +1,5 @@
+T1	Neutral_all 111 125	Рифкат Шабанов
+T102	Neutral_all 390 393	нам
+A1	Plural T102
+T103	Neutral_all 573 576	его
+A2	AnaforPerson T103

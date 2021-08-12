@@ -1,0 +1,6 @@
+T0	Neutral 140 158	Владимиром Путиным
+T1	Negative 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral 105 107	Он
+A2	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,13 @@
+T0	Negative 63 74	Родченковым
+T1	Negative 76 82	Шмидам
+T2	Negative 84 93	Освальдам
+T3	Negative 96 98	им
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T0 Arg2:T3	
+T4	Negative 165 167	им
+A2	AnaforPerson T4
+R4	Anafor Arg1:T3 Arg2:T4	
+A3	Plural T4
+A4	Plural T3

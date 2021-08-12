@@ -1,0 +1,7 @@
+T0	Positive 79 93	Гейдара Алиева
+T1	Neutral 95 98	его
+A1	AnaforPerson T1
+T2	Positive 195 197	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

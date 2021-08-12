@@ -1,0 +1,7 @@
+T0	Neutral_all 147 162	Дональда Трампа
+T2	Neutral_all 262 266	Буша
+T3	Neutral_all 272 280	Клинтона
+T4	Negative_all 170 174	него
+A1	AnaforPerson T4
+T101	Negative 204 216	Барака Обамы
+R1	Anafor Arg1:T0 Arg2:T4

@@ -1,0 +1,7 @@
+T0	Neutral_all 13 18	Трамп
+T1	Neutral_all 60 72	Башара Асада
+T2	Neutral_all 74 76	мы
+A1	Plural T2
+T103	Neutral_all 129 131	мы
+A2	Plural T103
+R101	Anafor Arg1:T2 Arg2:T103

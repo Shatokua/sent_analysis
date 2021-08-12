@@ -1,0 +1,7 @@
+T100	Neutral_all 15 22	Суркова
+T101	Negative_all 34 40	Путина
+T102	Negative_all 43 52	Медведева
+T103	Neutral_all 59 67	Миронова
+T104	Neutral 108 110	он
+A1	AnaforPerson T104
+R101	Anafor Arg1:T103 Arg2:T104

@@ -1,0 +1,7 @@
+T0	Neutral_all 363 379	Кубана Кулматова
+T1	Neutral_all 382 396	Сапара Исакова
+T2	Neutral_all 404 407	они
+A1	Plural T2
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

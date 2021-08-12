@@ -1,0 +1,8 @@
+T1	Negative 493 500	Саргсян
+T100	Neutral_all 180 188	Осканяна
+T102	Neutral 202 204	он
+A2	AnaforPerson T102
+T103	Neutral 714 716	он
+A3	AnaforPerson T103
+R2	Anafor Arg1:T102 Arg2:T1	
+R1	Anafor Arg1:T1 Arg2:T103	

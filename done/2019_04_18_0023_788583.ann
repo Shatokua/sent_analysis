@@ -1,0 +1,6 @@
+T1	Negative 124 132	Ислямова
+T2	Neutral 9 12	них
+A1	Plural T2
+T3	Negative 23 26	они
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3	

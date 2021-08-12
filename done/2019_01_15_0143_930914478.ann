@@ -1,0 +1,7 @@
+T100	Negative_all 10 18	Янукович
+T101	Neutral_all 99 108	Тимошенко
+T102	Neutral_all 145 154	Тимошенко
+T103	Neutral_all 187 202	Евгения Щербаня
+T104	Negative 220 222	вы
+R101	Anafor Arg1:T100 Arg2:T104
+A1	AnaforPerson T104

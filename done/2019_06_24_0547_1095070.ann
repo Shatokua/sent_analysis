@@ -1,0 +1,6 @@
+T0	Neutral_all 22 29	Сталина
+T1	Neutral_all 170 182	Иосиф Сталин
+T2	Neutral_all 88 92	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T1	Positive 73 81	Карпиным
+T2	Neutral 93 95	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

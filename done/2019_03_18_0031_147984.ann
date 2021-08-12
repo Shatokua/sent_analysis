@@ -1,0 +1,3 @@
+T100	Neutral_all 71 86	Ольгой Юрьевной
+T101	Neutral_all 111 126	Ольга Васильева
+R1	Anafor Arg1:T101 Arg2:T100

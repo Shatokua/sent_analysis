@@ -1,0 +1,4 @@
+T0	Neutral 28 41	Дональд Трамп
+T1	Negative 102 104	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

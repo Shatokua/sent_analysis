@@ -1,0 +1,4 @@
+T0	Negative 20 37	Алексей Навальный
+T1	Negative 16 18	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

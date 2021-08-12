@@ -1,0 +1,4 @@
+T0	Neutral 5 12	Суркова
+T1	Neutral 32 35	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

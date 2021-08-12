@@ -1,0 +1,6 @@
+T2	Neutral_all 161 168	Боковой
+T3	Neutral_all 7 9	мы
+A1	Plural T3
+T1	Neutral_all 57 83	Людмилу Николаевну [Бокову
+T4	Neutral_all 101 108	Клишасу
+R1	Anafor Arg1:T1 Arg2:T2

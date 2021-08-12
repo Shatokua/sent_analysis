@@ -1,0 +1,7 @@
+T101	Neutral_all 28 36	Фурсенко
+T102	Negative_all 84 92	Голикову
+T103	Neutral 23 26	его
+A1	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T103
+T1	Neutral 139 141	ее
+R1	Anafor Arg1:T102 Arg2:T1	

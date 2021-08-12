@@ -1,0 +1,6 @@
+T0	Neutral_all 21 36	Алексей Костров
+T1	Neutral_all 212 227	Николая Иванова
+T2	Neutral_all 230 247	Михаила Литвинова
+T3	Neutral_all 158 160	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,5 @@
+T0	Neutral_all 246 262	Сергею Корчакову
+T1	Neutral_all 289 303	Николаю Мотину
+T2	Neutral_all 265 268	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Neutral_all 86 96	Роб Чапмэн
+T1	Neutral_all 51 54	она
+A1	AnaforPerson T1
+T2	Neutral_all 143 146	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

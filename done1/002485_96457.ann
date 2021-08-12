@@ -1,0 +1,6 @@
+T3	Neutral 0 3	Вам
+A1	AnaforPerson T3
+T4	Neutral_all 93 95	Вы
+A2	AnaforPerson T4
+T1	Neutral_all 138 166	Аршавину Алису Александровну
+R1	Anafor Arg1:T3 Arg2:T4	

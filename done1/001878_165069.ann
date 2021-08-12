@@ -1,0 +1,4 @@
+T0	Neutral_all 118 129	Павла Гриба
+T1	Neutral_all 228 231	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

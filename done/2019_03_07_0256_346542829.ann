@@ -1,0 +1,9 @@
+T100	Negative 281 305	Константин Львович Эрнст
+T101	Neutral_all 370 378	Киркоров
+T102	Neutral_all 468 477	Яблоковой
+T103	Neutral_all 348 352	него
+A1	AnaforPerson T103
+T104	Neutral_all 491 494	Она
+A2	AnaforPerson T104
+R1	Anafor Arg1:T102 Arg2:T104
+R101	Anafor Arg1:T100 Arg2:T103

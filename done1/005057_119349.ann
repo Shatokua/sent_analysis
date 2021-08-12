@@ -1,0 +1,6 @@
+T0	Neutral_all 293 307	Наталия Филева
+T1	Neutral_all 317 332	Валерий Карачев
+T2	Neutral_all 341 353	Андрей Дикун
+T3	Neutral_all 309 311	ее
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

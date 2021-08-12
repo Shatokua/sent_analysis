@@ -1,0 +1,11 @@
+T0	Neutral_all 10 25	Павла Изотовича
+T1	Neutral_all 109 117	Давыдько
+T2	Neutral_all 55 57	он
+A1	AnaforPerson T2
+T3	Neutral_all 121 123	он
+A2	AnaforPerson T3
+T4	Neutral_all 183 187	ними
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T3

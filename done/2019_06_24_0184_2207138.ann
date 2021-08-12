@@ -1,0 +1,13 @@
+T0	Neutral_all 68 80	Леонид Федун
+T1	Neutral_all 135 141	Федуна
+T2	Neutral_all 161 166	Федун
+T3	Neutral_all 110 112	их
+A1	Plural T3
+T4	Neutral_all 191 194	его
+A2	AnaforPerson T4
+T5	Neutral_all 209 211	он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T4

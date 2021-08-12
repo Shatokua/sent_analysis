@@ -1,0 +1,9 @@
+T0	Negative 123 138	Михаил Прохоров
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Negative 270 273	его
+A2	AnaforPerson T2
+T3	Negative 296 299	его
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

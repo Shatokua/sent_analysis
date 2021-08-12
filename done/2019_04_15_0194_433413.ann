@@ -1,0 +1,7 @@
+T0	Neutral_all 4 18	Ивана Грозного
+T1	Neutral_all 42 54	Иван Грозный
+T2	Neutral_all 138 152	Ивана Грозного
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T2

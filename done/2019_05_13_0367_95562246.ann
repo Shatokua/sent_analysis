@@ -1,0 +1,4 @@
+T0	Positive 36 46	О.Сорокина
+T1	Positive 51 53	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,4 @@
+T0	Neutral_all 17 36	Алмазбека Атамбаева
+T1	Neutral_all 141 143	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

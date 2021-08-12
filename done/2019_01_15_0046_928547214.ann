@@ -1,0 +1,9 @@
+T1	Neutral 220 229	Навальный
+T2	Neutral 231 237	Немцов
+T3	Neutral 239 247	Удальцов
+T4	Neutral 249 253	Яшин
+T5	Neutral 255 261	Собчак
+T100	Negative_all 7 13	Путина
+T6	Negative 2 5	его
+A1	AnaforPerson T6
+R1	Anafor Arg1:T100 Arg2:T6	

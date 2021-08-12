@@ -1,0 +1,7 @@
+T0	Neutral_all 32 44	Вадим Вяткин
+T1	Neutral_all 60 62	ты
+T2	Neutral_all 97 99	мы
+A1	Plural T2
+T3	Neutral_all 169 172	нас
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

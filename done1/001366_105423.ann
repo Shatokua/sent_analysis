@@ -1,0 +1,7 @@
+T0	Neutral_all 162 177	Линусом Умарком
+T1	Neutral_all 269 285	Антону Бурдасову
+T2	Neutral_all 19 22	нас
+A1	Plural T2
+T3	Neutral_all 96 98	мы
+A2	Plural T3
+R101	Anafor Arg1:T3 Arg2:T2

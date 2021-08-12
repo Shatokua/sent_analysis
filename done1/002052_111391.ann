@@ -1,0 +1,4 @@
+T0	Positive 89 103	Мари Йованович
+T1	Neutral_all 142 145	Она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

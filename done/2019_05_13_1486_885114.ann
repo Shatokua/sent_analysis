@@ -1,0 +1,7 @@
+T0	Positive 89 106	Верой Витальевной
+T1	Positive 0 2	Ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 139 142	ней
+A2	AnaforPerson T2
+R2	Variant Arg1:T0 Arg2:T2	

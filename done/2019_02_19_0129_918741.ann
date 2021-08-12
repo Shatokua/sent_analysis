@@ -1,0 +1,5 @@
+T101	Neutral 79 89	Солженицын
+T102	Positive_all 9 17	Горького
+T103	Positive_all 55 58	Его
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103

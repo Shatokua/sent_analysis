@@ -1,0 +1,6 @@
+T0	Neutral_all 416 434	Александр Георгиев
+T1	Neutral_all 9 12	нас
+A1	Plural T1
+T102	Neutral_all 470 473	нем
+A2	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T102

@@ -1,0 +1,13 @@
+T0	Neutral_all 41 53	Джеймса Дина
+T1	Neutral_all 146 158	Виталий Люкс
+T2	Neutral_all 481 485	него
+A1	AnaforPerson T2
+T3	Neutral_all 506 508	он
+A2	AnaforPerson T3
+T4	Neutral_all 534 538	него
+A3	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T2
+R3	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T4

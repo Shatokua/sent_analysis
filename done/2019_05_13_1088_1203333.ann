@@ -1,0 +1,7 @@
+T0	Positive 60 83	Темирлана Мачаликашвили
+T1	Neutral 140 143	его
+A1	AnaforPerson T1
+T2	Positive 231 234	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

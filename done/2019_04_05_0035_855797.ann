@@ -1,0 +1,5 @@
+T0	Neutral_all 65 76	Ким Чен Ына
+T1	Neutral_all 144 149	Трамп
+T2	Neutral_all 140 142	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

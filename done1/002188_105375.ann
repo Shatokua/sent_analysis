@@ -1,0 +1,5 @@
+T1	Neutral_all 57 80	Александром Емельяненко
+T2	Neutral_all 133 155	Александру Емельяненко
+T104	Neutral 15 20	Рябов
+T105	Neutral 23 37	Мирзамагомедов
+R101	Anafor Arg1:T1 Arg2:T2

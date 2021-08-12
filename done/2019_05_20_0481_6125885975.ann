@@ -1,0 +1,8 @@
+T0	Neutral 10 16	Сергей
+T1	Neutral 379 382	Они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 408 411	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

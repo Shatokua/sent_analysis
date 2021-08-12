@@ -1,0 +1,5 @@
+T0	Neutral 53 74	Абу Бакра аль-Багдади
+T2	Neutral 86 89	его
+A1	AnaforPerson T2
+T101	Neutral_all 130 148	Усамой бен Ладеном
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,5 @@
+T2	Negative 82 86	тебе
+A1	AnaforPerson T2
+T100	Neutral_all 6 13	Гнойный
+T101	Negative 64 68	Соня
+R1	Anafor Arg1:T101 Arg2:T2	

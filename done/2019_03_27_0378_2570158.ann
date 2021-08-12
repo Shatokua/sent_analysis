@@ -1,0 +1,5 @@
+T1	Neutral 55 59	Лиза
+T100	Positive 9 16	Валерии
+T102	Positive 102 105	она
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

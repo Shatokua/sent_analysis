@@ -1,0 +1,14 @@
+T0	Neutral_all 0 13	Кудайбергенов
+T1	Neutral_all 83 89	Киясов
+T2	Neutral_all 131 138	Киясова
+T3	Neutral_all 206 225	Арман Кудайбергенов
+T4	Neutral_all 233 244	Дениса Тена
+T5	Neutral_all 248 261	Нуралы Киясов
+T6	Neutral_all 328 337	Денис Тен
+T7	Neutral_all 49 52	его
+A1	AnaforPerson T7
+R1	Anafor Arg1:T6 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T0
+R3	Anafor Arg1:T1 Arg2:T2
+R4	Anafor Arg1:T5 Arg2:T1
+R5	Anafor Arg1:T4 Arg2:T7

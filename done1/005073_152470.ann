@@ -1,0 +1,7 @@
+T0	Neutral_all 14 30	Роберта Кочаряна
+T1	Neutral_all 104 107	его
+A1	AnaforPerson T1
+T2	Neutral_all 119 121	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

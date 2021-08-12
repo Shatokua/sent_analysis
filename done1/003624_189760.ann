@@ -1,0 +1,6 @@
+T0	Neutral_all 678 694	Анатолий Капский
+T1	Neutral_all 304 307	Они
+A1	Plural T1
+T2	Neutral_all 506 508	им
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

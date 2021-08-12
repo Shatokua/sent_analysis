@@ -1,0 +1,5 @@
+T0	Negative_all 8 25	Ричард Блюменталь
+T1	Neutral_all 172 178	Горсач
+T2	Neutral_all 162 165	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

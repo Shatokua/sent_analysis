@@ -1,0 +1,4 @@
+T0	Neutral 30 43	Майком Помпео
+T1	Positive 123 126	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

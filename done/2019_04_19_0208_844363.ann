@@ -1,0 +1,5 @@
+T0	Neutral_all 0 13	Джаред Кушнер
+T1	Neutral_all 177 183	Бэррон
+T2	Neutral_all 56 58	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

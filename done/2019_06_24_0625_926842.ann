@@ -1,0 +1,5 @@
+T0	Neutral_all 116 123	Чуркине
+T1	Positive 125 139	Виталий Чуркин
+T2	Negative_all 0 3	Его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0	

@@ -1,0 +1,4 @@
+T0	Negative 186 195	Тимошенко
+T1	Negative 128 131	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

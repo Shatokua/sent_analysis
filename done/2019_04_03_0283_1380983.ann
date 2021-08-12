@@ -1,0 +1,5 @@
+T1	Neutral 105 111	Собчак
+T100	Negative 0 14	Дмитрий Песков
+T102	Negative 188 190	ее
+A1	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

@@ -1,0 +1,7 @@
+T0	Neutral_all 74 88	Мирзов Резиуан
+T1	Neutral_all 135 151	Ильина Владимира
+T2	Neutral_all 242 252	Носова П.А
+T3	Neutral_all 324 338	Ильин Владимир
+T4	Neutral_all 376 392	Мирзова Резиуана
+R1	Anafor Arg1:T3 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T4

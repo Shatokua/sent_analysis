@@ -1,0 +1,7 @@
+T0	Neutral_all 257 269	Башара Асада
+T1	Neutral_all 502 507	Асада
+T2	Neutral_all 141 143	мы
+A1	Plural T2
+T3	Neutral_all 440 443	Они
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

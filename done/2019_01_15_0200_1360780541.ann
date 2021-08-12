@@ -1,0 +1,13 @@
+T0	Neutral 227 244	Александр Сидоров
+T2	Negative 170 173	она
+A1	AnaforPerson T2
+T4	Neutral 398 410	Роман Марков
+T6	Neutral 288 292	него
+A3	AnaforPerson T6
+T101	Negative_all 77 85	Комарову
+T102	Negative 55 58	нее
+T104	Negative_all 312 325	Дмитрий Попов
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T0 Arg2:T6	

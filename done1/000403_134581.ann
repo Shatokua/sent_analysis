@@ -1,0 +1,11 @@
+T0	Neutral_all 41 50	М.Абызову
+T1	Neutral_all 201 204	они
+A1	Plural T1
+T2	Neutral_all 427 431	него
+A2	AnaforPerson T2
+T3	Neutral_all 507 509	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

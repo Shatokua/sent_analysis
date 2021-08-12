@@ -1,0 +1,4 @@
+T0	Neutral 45 59	Фиделем Кастро
+T1	Neutral 61 64	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

@@ -1,0 +1,4 @@
+T0	Neutral_all 73 84	Ахмет Курал
+T101	Neutral 0 2	Он
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

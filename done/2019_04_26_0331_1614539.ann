@@ -1,0 +1,11 @@
+T0	Negative_all 74 85	Плахотнюком
+T1	Negative_all 87 94	Додоном
+T2	Neutral_all 49 51	мы
+A1	Plural T2
+T3	Neutral_all 97 99	их
+A2	Plural T3
+T4	Neutral_all 115 117	Мы
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,5 @@
+T3	Positive 65 73	Брансона
+T101	Neutral_all 123 128	Трамп
+T102	Positive 186 189	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T3 Arg2:T102	

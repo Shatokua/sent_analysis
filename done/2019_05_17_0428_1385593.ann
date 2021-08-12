@@ -1,0 +1,5 @@
+T0	Neutral_all 2 8	Дениса
+T1	Neutral_all 225 241	Татьяне Ивановне
+T2	Neutral_all 132 134	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

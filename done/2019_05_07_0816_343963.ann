@@ -1,0 +1,8 @@
+T0	Neutral 56 65	Аграмунту
+T1	Neutral 7 9	вы
+A1	Plural T1
+T2	Neutral 73 75	он
+A2	AnaforPerson T2
+T3	Neutral 149 152	нам
+A3	Plural T3
+R1	Variant Arg1:T0 Arg2:T2	

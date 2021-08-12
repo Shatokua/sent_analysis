@@ -1,0 +1,10 @@
+T0	Neutral 353 358	Федун
+T1	Neutral 376 380	него
+A1	AnaforPerson T1
+T2	Neutral 382 384	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 2 5	вам
+A3	AnaforPerson T3
+A4	Plural T3

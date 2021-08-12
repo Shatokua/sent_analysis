@@ -1,0 +1,4 @@
+T2	Neutral_all 315 326	Игорь Чайка
+T100	Positive 218 230	Игоря Додона
+T101	Positive 276 281	Чайку
+R1	Anafor Arg1:T2 Arg2:T101	

@@ -1,0 +1,8 @@
+T0	Neutral_all 25 44	Владимира Высоцкого
+T2	Neutral_all 0 2	Вы
+A1	Plural T2
+T3	Neutral_all 47 49	Ты
+A2	AnaforPerson T3
+T101	Negative 50 53	Зин
+R1	Anafor Arg1:T101 Arg2:T3	
+A3	AnaforPerson T2

@@ -1,0 +1,5 @@
+T0	Negative 0 7	Саркози
+T1	Positive 58 61	мне
+A1	AnaforPerson T1
+T2	Positive 87 89	мы
+A2	Plural T2

@@ -1,0 +1,6 @@
+T101	Neutral_all 86 100	Тайип) Эрдоган
+T102	Positive 192 194	Он
+A1	AnaforPerson T102
+T103	Neutral 223 225	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,6 @@
+T0	Neutral_all 45 50	Аарон
+T1	Neutral_all 136 146	Майкл Хаим
+T2	Neutral_all 172 174	её
+T3	Neutral_all 193 196	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

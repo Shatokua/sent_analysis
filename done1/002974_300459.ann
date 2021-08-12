@@ -1,0 +1,9 @@
+T0	Neutral_all 457 470	Махатма Ганди
+T1	Neutral_all 476 488	Индиры Ганди
+T2	Neutral_all 113 115	мы
+A1	Plural T2
+T3	Neutral_all 320 323	она
+A2	AnaforPerson T3
+T4	Neutral_all 398 400	мы
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4

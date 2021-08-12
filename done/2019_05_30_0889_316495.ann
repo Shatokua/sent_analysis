@@ -1,0 +1,4 @@
+T0	Neutral_all 49 65	Владимиру Путину
+T1	Positive_all 129 135	Путина
+T2	Neutral_all 25 35	Уго Чавеса
+R1	Anafor Arg1:T0 Arg2:T1

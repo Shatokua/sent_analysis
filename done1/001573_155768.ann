@@ -1,0 +1,10 @@
+T0	Neutral_all 456 469	Джимми Манува
+T1	Neutral_all 485 495	Блаховичем
+T2	Neutral_all 497 509	Маурисио Руа
+T3	Neutral_all 724 735	Хендерсоном
+T4	Neutral_all 583 586	ним
+A1	AnaforPerson T4
+T5	Positive 695 698	его
+A2	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5	

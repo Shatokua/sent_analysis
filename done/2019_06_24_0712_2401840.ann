@@ -1,0 +1,4 @@
+T0	Neutral_all 22 28	Мадуро
+T1	Neutral_all 89 104	Николаса Мадуро
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

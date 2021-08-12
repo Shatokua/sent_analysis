@@ -1,0 +1,5 @@
+T0	Negative 19 29	А.Корецкий
+T1	Neutral_all 95 102	Юревичу
+T2	Negative_all 15 17	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

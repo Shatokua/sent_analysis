@@ -1,0 +1,6 @@
+T0	Neutral 12 24	Политковскую
+T1	Neutral 64 77	Ходорковского
+T2	Neutral 116 126	Навального
+T3	Neutral 174 177	они
+A1	AnaforPerson T3
+A2	Plural T3

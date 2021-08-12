@@ -1,0 +1,3 @@
+T0	Neutral_all 0 5	Погба
+T1	Neutral_all 137 142	Погба
+R1	Anafor Arg1:T0 Arg2:T1

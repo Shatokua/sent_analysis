@@ -1,0 +1,6 @@
+T0	Neutral_all 10 28	Александр Плешаков
+T1	Neutral_all 68 70	мы
+A1	Plural T1
+T2	Neutral_all 121 124	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

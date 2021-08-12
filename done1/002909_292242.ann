@@ -1,0 +1,4 @@
+T0	Neutral_all 32 52	Абдулмумина Гаджиева
+T1	Neutral_all 215 219	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	Neutral 57 63	Путину
+T1	Negative 81 93	Башаре Асаде
+T2	Neutral 105 107	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

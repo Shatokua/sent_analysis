@@ -1,0 +1,5 @@
+T0	Negative 26 35	Дерипаски
+T1	Negative 55 64	Дерипаска
+T2	Negative 149 155	Трампа
+T102	Negative 156 172	Полом Манафортом
+R1	Anafor Arg1:T0 Arg2:T1	

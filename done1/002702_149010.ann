@@ -1,0 +1,8 @@
+T0	Neutral_all 173 185	Ивану Зюзину
+T1	Neutral_all 187 202	Вагану Абгаряну
+T2	Neutral_all 205 224	Максиму Владимирову
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T4	Neutral_all 226 228	Мы
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4

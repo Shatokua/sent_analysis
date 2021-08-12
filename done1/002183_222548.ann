@@ -1,0 +1,6 @@
+T0	Neutral_all 42 56	Владимир Путин
+T1	Neutral_all 0 2	Вы
+A1	AnaforPerson T1
+T2	Neutral_all 199 201	Вы
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Negative 110 112	он
+A1	AnaforPerson T1
+T100	Negative_all 72 82	Расмуссена
+T101	Neutral_all 129 135	Оруэлл
+R1	Anafor Arg1:T100 Arg2:T1

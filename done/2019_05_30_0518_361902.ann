@@ -1,0 +1,12 @@
+T0	Positive 26 33	Баттона
+T1	Neutral_all 79 87	Вандорна
+T2	Positive 184 191	Дженсон
+T3	Neutral_all 64 66	он
+A1	AnaforPerson T3
+T4	Neutral_all 109 111	он
+A2	AnaforPerson T4
+T5	Positive 155 163	Стоффель
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T2	
+R4	Anafor Arg1:T1 Arg2:T5	

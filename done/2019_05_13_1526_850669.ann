@@ -1,0 +1,7 @@
+T0	Positive 25 39	Райнса Прибуса
+T1	Positive 114 116	им
+A1	AnaforPerson T1
+T2	Positive 43 46	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T1	

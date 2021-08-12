@@ -1,0 +1,5 @@
+T0	Neutral_all 205 214	Иван Дорн
+T1	Neutral_all 10 12	вы
+A1	Plural T1
+T2	Neutral_all 97 99	ты
+A2	AnaforPerson T2

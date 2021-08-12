@@ -1,0 +1,13 @@
+T0	Neutral_all 76 90	Даниэль Кормье
+T1	Neutral_all 275 281	Кормье
+T2	Neutral_all 325 337	Дэной Уайтом
+T3	Neutral_all 543 551	Миочичем
+T4	Neutral_all 350 352	Мы
+A1	Plural T4
+T5	Neutral_all 432 434	Мы
+A2	Plural T5
+T6	Neutral_all 457 460	Они
+A3	Plural T6
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T1	Neutral 17 20	нас
+A1	Plural T1
+T2	Neutral 0 2	Вы
+A2	Plural T2
+T3	Neutral 147 149	Мы
+A3	Plural T3
+T4	Neutral 198 207	Макларена
+R1	Variant Arg1:T3 Arg2:T1	

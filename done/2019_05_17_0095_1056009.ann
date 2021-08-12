@@ -1,0 +1,11 @@
+T0	Neutral_all 0 15	Полину Гагарину
+T1	Neutral_all 36 48	Ольга Бузова
+T2	Neutral_all 62 67	Ольга
+T3	Neutral_all 114 120	Полины
+T4	Neutral_all 84 87	нас
+A1	Plural T4
+T5	Neutral_all 141 143	ей
+A2	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T5
+R3	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Negative_all 59 68	Гонтарева
+T1	Negative_all 120 129	Гонтарева
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

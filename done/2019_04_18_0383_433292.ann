@@ -1,0 +1,4 @@
+T0	Negative 8 18	Деканоидзе
+T1	Negative 109 112	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

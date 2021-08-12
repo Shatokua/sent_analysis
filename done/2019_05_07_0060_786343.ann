@@ -1,0 +1,4 @@
+T0	Neutral 23 31	Скрынник
+T1	Neutral 109 112	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

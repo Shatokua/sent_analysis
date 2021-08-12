@@ -1,0 +1,5 @@
+T3	Neutral 225 232	Кудрину
+T101	Negative_all 21 30	Медведева
+T102	Negative_all 77 83	Кудрин
+T104	Negative_all 242 247	Путин
+R1	Anafor Arg1:T102 Arg2:T3	

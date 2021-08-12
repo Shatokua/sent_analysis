@@ -1,0 +1,10 @@
+T0	Neutral 37 53	Леонидом Слуцким
+T1	Neutral 32 35	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 121 123	он
+A2	AnaforPerson T2
+T3	Neutral 185 187	он
+A3	AnaforPerson T3
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

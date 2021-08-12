@@ -1,0 +1,8 @@
+T100	Positive_all 26 33	Хиллари
+T101	Neutral_all 174 179	Трамп
+T102	Positive_all 35 38	Она
+A2	AnaforPerson T102
+T103	Positive 149 152	она
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

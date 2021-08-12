@@ -1,0 +1,8 @@
+T3	Neutral 44 46	ты
+T100	Neutral_all 121 133	Надю Карпову
+T101	Neutral_all 138 151	Аню Курникову
+T102	Positive 166 170	Надю
+T103	Positive_all 192 195	она
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	
+R2	Anafor Arg1:T100 Arg2:T102	

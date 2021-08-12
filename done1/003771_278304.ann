@@ -1,0 +1,10 @@
+T0	Neutral_all 217 225	Фёдорова
+T1	Neutral_all 247 265	Александр Саввинов
+T2	Neutral_all 6 9	его
+A1	AnaforPerson T2
+T3	Neutral_all 57 60	его
+A2	AnaforPerson T3
+T4	Neutral_all 183 186	нас
+A3	Plural T4
+R101	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T0 Arg2:T2

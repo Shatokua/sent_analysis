@@ -1,0 +1,8 @@
+T100	Negative 143 159	Минтимер Шаймиев
+T101	Neutral 22 29	Громова
+T102	Negative 184 194	Петр Сумин
+T103	Neutral_all 203 209	Громов
+T1	Neutral 276 279	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T1	

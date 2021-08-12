@@ -1,0 +1,8 @@
+T0	Neutral_all 282 296	Кевина Дюранта
+T1	Neutral_all 308 323	Дрэймонда Грина
+T2	Neutral_all 409 421	Стивен Карри
+T3	Neutral_all 73 76	они
+A1	Plural T3
+T4	Neutral_all 442 445	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4

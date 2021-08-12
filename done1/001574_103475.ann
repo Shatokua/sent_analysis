@@ -1,0 +1,14 @@
+T0	Neutral_all 56 74	Сергея Нетиевского
+T1	Neutral_all 173 179	Сергей
+T2	Neutral_all 27 29	мы
+A1	Plural T2
+T3	Neutral_all 88 92	ними
+A2	Plural T3
+T4	Neutral_all 132 135	нас
+A3	Plural T4
+T105	Neutral_all 190 193	них
+A4	Plural T105
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T4
+R102	Anafor Arg1:T0 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T105

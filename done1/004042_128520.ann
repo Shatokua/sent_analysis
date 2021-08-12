@@ -1,0 +1,9 @@
+T0	Neutral_all 35 54	Абдусамада Гамидова
+T1	Neutral_all 57 72	Раюдина Юсуфова
+T2	Neutral_all 109 112	них
+A1	Plural T2
+T103	Neutral_all 147 151	ними
+A2	Plural T103
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T103

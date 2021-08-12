@@ -1,0 +1,5 @@
+T0	Negative 34 48	Сергей Миронов
+#1	AnnotatorNotes T0	"подвергать риску"
+T1	Negative 532 535	ему
+A1	AnaforPerson T1
+#2	AnnotatorNotes T1	связи не поставил, т.к. "ему" относится к "сенатором"

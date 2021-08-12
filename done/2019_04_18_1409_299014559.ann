@@ -1,0 +1,4 @@
+T0	Negative 79 93	Николай Азаров
+T1	Negative 270 272	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

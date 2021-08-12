@@ -1,0 +1,6 @@
+T0	Positive_all 424 456	Сергею Константиновичу Ситникову
+T1	Neutral_all 121 124	ими
+A1	Plural T1
+T2	Neutral_all 366 372	вашему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

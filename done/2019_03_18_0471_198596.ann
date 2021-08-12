@@ -1,0 +1,4 @@
+T100	Neutral_all 20 25	Путин
+T101	Neutral_all 28 38	Берлускони
+T102	Neutral_all 75 85	Берлускони
+R1	Anafor Arg1:T101 Arg2:T102

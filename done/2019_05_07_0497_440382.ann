@@ -1,0 +1,5 @@
+T0	Neutral 170 176	Путину
+T1	Negative 158 160	он
+T2	Neutral 233 236	его
+A1	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

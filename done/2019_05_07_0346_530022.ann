@@ -1,0 +1,9 @@
+T0	Neutral 12 22	Поклонской
+T1	Neutral 52 55	нам
+A1	Plural T1
+T2	Neutral 105 107	Мы
+A2	Plural T2
+T3	Neutral 173 175	Мы
+A3	Plural T3
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T1	

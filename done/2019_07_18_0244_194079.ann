@@ -1,0 +1,7 @@
+T0	Neutral 0 7	Хиллари
+T1	Neutral 65 68	нее
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Neutral 84 86	вы
+A2	AnaforPerson T2
+A3	Plural T2

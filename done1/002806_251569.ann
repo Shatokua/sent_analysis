@@ -1,0 +1,4 @@
+T0	Neutral_all 145 159	Шамиля Басаева
+T1	Neutral_all 182 184	их
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

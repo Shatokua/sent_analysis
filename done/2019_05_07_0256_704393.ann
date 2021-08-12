@@ -1,0 +1,15 @@
+T0	Neutral 41 48	Слуцкий
+T1	Neutral 60 62	Мы
+A1	Plural T1
+T2	Positive 63 66	его
+A2	AnaforPerson T2
+T3	Neutral 82 84	Мы
+A3	Plural T3
+T4	Neutral 140 142	мы
+A4	Plural T4
+T5	Neutral 179 181	мы
+A5	Plural T5
+R1	Variant Arg1:T3 Arg2:T4	
+R2	Variant Arg1:T4 Arg2:T5	
+R3	Variant Arg1:T1 Arg2:T3	
+R4	Variant Arg1:T0 Arg2:T2	

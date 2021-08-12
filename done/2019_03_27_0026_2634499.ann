@@ -1,0 +1,6 @@
+T0	Neutral_all 0 13	Антон Шипулин
+T1	Neutral_all 94 99	Антон
+T2	Neutral_all 47 50	Ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

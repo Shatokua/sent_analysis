@@ -1,0 +1,6 @@
+T0	Negative_all 26 35	Дерипаски
+T1	Neutral_all 55 64	Дерипаска
+T2	Neutral_all 156 172	Полом Манафортом
+T3	Neutral_all 149 155	Трампа
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

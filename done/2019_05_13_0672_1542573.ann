@@ -1,0 +1,11 @@
+T0	Neutral 0 6	Евлоев
+T1	Neutral 40 44	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 122 125	они
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Positive 172 176	ними
+A4	AnaforPerson T3
+A5	Plural T3
+R2	Anafor Arg1:T2 Arg2:T3	

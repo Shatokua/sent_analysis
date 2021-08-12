@@ -1,0 +1,4 @@
+T0	Neutral_all 130 148	Гульнары Каримовой
+T1	Neutral_all 260 275	Ислама Каримова
+T2	Neutral_all 214 216	ее
+R1	Anafor Arg1:T0 Arg2:T2

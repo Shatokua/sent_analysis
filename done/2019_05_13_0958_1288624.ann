@@ -1,0 +1,4 @@
+T0	Positive 6 19	Роман Филипов
+T1	Positive 137 140	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

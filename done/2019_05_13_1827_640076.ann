@@ -1,0 +1,5 @@
+T0	Neutral 94 99	Обамы
+T1	Positive 115 121	Трампа
+T2	Positive 202 205	они
+A1	AnaforPerson T2
+A2	Plural T2

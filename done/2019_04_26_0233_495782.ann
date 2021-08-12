@@ -1,0 +1,7 @@
+T2	Neutral_all 105 108	нас
+A1	Plural T2
+T3	Neutral_all 125 127	мы
+A2	AnaforPerson T3
+T1	Negative_all 222 238	Петра] Порошенко
+R1	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T3

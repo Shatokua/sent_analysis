@@ -1,0 +1,5 @@
+T0	Neutral_all 63 76	Джона Болтона
+T1	Neutral_all 144 149	Монро
+T2	Neutral_all 110 112	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

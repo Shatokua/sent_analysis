@@ -1,0 +1,9 @@
+T0	Neutral_all 0 12	Андрей Чибис
+T1	Neutral_all 207 226	Владимиром Якушевым
+T2	Neutral_all 279 284	Чибис
+T3	Neutral_all 310 315	Чибис
+T4	Neutral_all 125 128	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

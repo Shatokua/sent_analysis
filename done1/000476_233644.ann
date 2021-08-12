@@ -1,0 +1,10 @@
+T0	Neutral_all 172 199	Владимир Владимирович Путин
+T1	Neutral_all 479 503	Игоря Васильевича Ляхова
+T2	Neutral_all 561 589	Юрия Эдуардовича Стрелецкого
+T3	Neutral_all 612 642	Евгения Викторовича Полонского
+T4	Neutral_all 656 658	мы
+A1	Plural T4
+A2	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T4

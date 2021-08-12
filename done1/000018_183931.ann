@@ -1,0 +1,7 @@
+T0	Negative_all 0 5	Хабиб
+T1	Positive_all 93 102	Харитонов
+T2	Positive_all 115 132	Конора Макгрегора
+T4	Neutral_all 206 211	Хабиб
+T103	Positive 170 176	Конора
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T103	

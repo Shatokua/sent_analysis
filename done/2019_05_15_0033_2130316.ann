@@ -1,0 +1,3 @@
+T0	Neutral_all 2 6	Саши
+T1	Neutral_all 71 75	Саша
+R1	Anafor Arg1:T1 Arg2:T0

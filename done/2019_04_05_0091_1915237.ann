@@ -1,0 +1,4 @@
+T100	Negative 6 16	Тереза Мэй
+T101	Neutral_all 180 188	Скрипали
+T102	Negative 199 202	Мэй
+R1	Anafor Arg1:T100 Arg2:T102	

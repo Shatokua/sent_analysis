@@ -1,0 +1,4 @@
+T0	Neutral 50 66	Михаил Борисович
+T1	Neutral 108 112	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Neutral_all 15 27	Уильям] Барр
+T2	Neutral_all 54 69	Род] Розенстайн
+T3	Neutral_all 30 33	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

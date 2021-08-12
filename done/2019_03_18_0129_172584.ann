@@ -1,0 +1,8 @@
+T3	Positive 33 42	Сухаревых
+T100	Positive_all 131 137	Сергея
+T101	Positive_all 159 177	Галину Ярославовну
+T102	Positive_all 140 143	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T3 Arg2:T100
+R3	Anafor Arg1:T3 Arg2:T101

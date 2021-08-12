@@ -1,0 +1,5 @@
+T0	Neutral_all 0 12	Д. Писаревым
+T1	Neutral_all 233 244	Д. Писареву
+T2	Neutral_all 348 355	Писарев
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

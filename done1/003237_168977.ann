@@ -1,0 +1,6 @@
+T0	Neutral_all 36 52	Оскара Петровича
+T1	Neutral_all 0 3	Нас
+A1	Plural T1
+T2	Neutral_all 62 65	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

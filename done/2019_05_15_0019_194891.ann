@@ -1,0 +1,8 @@
+T2	Neutral_all 105 117	Арсен Аваков
+T3	Neutral_all 148 166	Александр Турчинов
+T1	Neutral_all 51 66	Арсений) Яценюк
+T4	Neutral_all 174 177	они
+A1	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T4

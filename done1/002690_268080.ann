@@ -1,0 +1,6 @@
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T1	Neutral_all 29 41	Марию Бутину
+T3	Neutral_all 81 83	ее
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

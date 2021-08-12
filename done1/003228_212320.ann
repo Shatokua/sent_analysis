@@ -1,0 +1,8 @@
+T0	Neutral_all 51 66	Стива Свердлова
+T1	Neutral_all 216 221	Стива
+T2	Neutral_all 69 72	его
+A1	AnaforPerson T2
+T3	Neutral_all 156 158	мы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

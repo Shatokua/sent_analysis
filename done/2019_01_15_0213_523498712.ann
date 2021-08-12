@@ -1,0 +1,6 @@
+T100	Negative 121 129	Янукович
+T101	Neutral_all 17 26	Тимошенко
+T102	Negative 182 191	Лукашенко
+T1	Neutral 65 67	ей
+A1	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	

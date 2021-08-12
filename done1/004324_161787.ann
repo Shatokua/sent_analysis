@@ -1,0 +1,5 @@
+T0	Neutral_all 100 107	Мозякин
+T1	Neutral_all 147 155	Кошечкин
+T2	Neutral_all 203 216	Вася Кошечкин
+T103	Neutral_all 62 68	Коварж
+R1	Anafor Arg1:T2 Arg2:T1

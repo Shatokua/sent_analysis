@@ -1,0 +1,7 @@
+T0	Neutral_all 208 220	Достоевского
+T1	Neutral_all 248 267	Родион Раскольников
+T2	Neutral_all 28 30	мы
+A1	Plural T2
+T3	Neutral_all 339 341	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

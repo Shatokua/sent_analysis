@@ -1,0 +1,11 @@
+T0	Neutral_all 421 443	Сагынбека Абдрахманова
+T1	Neutral_all 153 156	они
+A1	Plural T1
+T2	Neutral_all 283 285	Мы
+A2	Plural T2
+T3	Neutral_all 467 469	Мы
+A3	Plural T3
+T104	Neutral_all 589 592	они
+A4	Plural T104
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T104

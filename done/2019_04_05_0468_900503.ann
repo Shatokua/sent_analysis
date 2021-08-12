@@ -1,0 +1,5 @@
+T0	Neutral_all 4 9	Трамп
+T3	Neutral_all 0 2	Он
+A1	AnaforPerson T3
+T1	Neutral_all 41 57	Джеймса] Мэттиса
+R1	Anafor Arg1:T0 Arg2:T3

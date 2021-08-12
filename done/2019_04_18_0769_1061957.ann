@@ -1,0 +1,7 @@
+T0	Negative 0 6	Сталин
+T1	Negative 49 51	Он
+A1	AnaforPerson T1
+T2	Negative 168 170	Он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T0	Neutral_all 0 4	Джен
+T1	Neutral_all 74 88	Джастином Теру
+T2	Neutral_all 97 99	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,17 @@
+T0	Neutral_all 172 187	Андрея Малахова
+T1	Neutral_all 50 53	Она
+T2	Neutral_all 56 60	него
+T3	Neutral_all 83 86	она
+T4	Neutral_all 121 124	Она
+T5	Neutral_all 147 149	её
+T6	Neutral 191 193	он
+A1	AnaforPerson T6
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T5
+A5	AnaforPerson T2
+A6	AnaforPerson T1
+A7	AnaforPerson T3
+A8	AnaforPerson T4
+A9	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T6	

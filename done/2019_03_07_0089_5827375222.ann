@@ -1,0 +1,4 @@
+T100	Positive 100 107	Роднина
+T101	Neutral_all 255 262	Роднину
+T102	Negative_all 337 348	Жириновский
+R1	Anafor Arg1:T100 Arg2:T101	

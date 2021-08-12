@@ -1,0 +1,5 @@
+T0	Neutral_all 0 18	Игорь Владимирович
+T1	Neutral_all 128 163	Владимиром Вольфовичем [Жириновским
+T2	Neutral_all 117 119	Вы
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

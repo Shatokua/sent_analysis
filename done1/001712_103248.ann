@@ -1,0 +1,6 @@
+T0	Neutral_all 59 75	Вячеслава Дерева
+T1	Neutral_all 133 149	Вячеславу Дереву
+T102	Neutral_all 158 161	его
+A1	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T102

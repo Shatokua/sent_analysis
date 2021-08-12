@@ -1,0 +1,19 @@
+T100	Neutral 10 29	Анатолий Евгеньевич
+T101	Neutral 37 52	Галина Игоревна
+T102	Neutral 502 516	Бориса Немцова
+T103	Positive 54 56	вы
+A1	AnaforPerson T103
+T104	Negative 191 193	вы
+A2	AnaforPerson T104
+T105	Positive 256 258	вы
+A3	AnaforPerson T105
+T106	Negative 442 444	вы
+A4	AnaforPerson T106
+R102	Anafor Arg1:T103 Arg2:T104
+R103	Anafor Arg1:T104 Arg2:T105
+R104	Anafor Arg1:T105 Arg2:T106
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T101 Arg2:T103	
+A5	Unclear T103
+A6	Unclear T105
+#1	AnnotatorNotes T105	САРКАЗМ, не брать в обучение

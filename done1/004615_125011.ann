@@ -1,0 +1,6 @@
+T0	Neutral_all 331 346	Бакыт Сагынбаев
+T1	Neutral_all 171 174	его
+A1	AnaforPerson T1
+T2	Neutral_all 260 262	их
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

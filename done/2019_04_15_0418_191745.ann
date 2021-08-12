@@ -1,0 +1,6 @@
+T0	Neutral_all 0 5	Трамп
+T1	Neutral_all 42 55	Дональд Трамп
+T2	Neutral_all 111 113	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,12 @@
+T100	Neutral_all 33 47	Джереми Реннер
+T101	Positive 71 76	Путин
+T102	Neutral_all 112 119	Реннера
+T103	Neutral_all 121 138	Леонардо Дикаприо
+T104	Neutral_all 176 182	Ленина
+T105	Neutral_all 156 158	Он
+A1	AnaforPerson T105
+T106	Neutral_all 59 63	него
+A2	AnaforPerson T106
+R2	Anafor Arg1:T103 Arg2:T105
+R1	Anafor Arg1:T101 Arg2:T106	
+R3	Anafor Arg1:T100 Arg2:T102	

@@ -1,0 +1,3 @@
+T0	Neutral_all 64 81	Звиад Гамсахурдиа
+T1	Neutral_all 360 378	Звиада Гамсахурдия
+R1	Anafor Arg1:T0 Arg2:T1

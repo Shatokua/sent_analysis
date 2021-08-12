@@ -1,0 +1,33 @@
+T0	Neutral_all 0 9	Погребняк
+T1	Neutral_all 123 135	Володя Ильин
+T2	Neutral_all 139 153	Андрей Панюков
+T3	Neutral_all 255 262	Панюков
+T4	Neutral_all 435 439	Паша
+T5	Neutral_all 459 469	Погребняка
+T6	Neutral_all 594 598	Паша
+T7	Neutral_all 782 786	Паша
+T11	Neutral_all 569 572	ним
+A4	AnaforPerson T11
+T12	Neutral_all 581 583	он
+A5	AnaforPerson T12
+T13	Neutral_all 640 642	он
+A6	AnaforPerson T13
+T17	Neutral_all 810 813	его
+A10	AnaforPerson T17
+T18	Neutral_all 868 870	Он
+A11	AnaforPerson T18
+T19	Neutral_all 965 968	его
+A12	AnaforPerson T19
+T108	Neutral 70 72	им
+A1	AnaforPerson T108
+R1	Anafor Arg1:T0 Arg2:T108	
+R2	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T5 Arg2:T4	
+R5	Anafor Arg1:T5 Arg2:T11	
+R6	Anafor Arg1:T6 Arg2:T11	
+R7	Anafor Arg1:T6 Arg2:T13	
+R8	Anafor Arg1:T7 Arg2:T13	
+R3	Anafor Arg1:T4 Arg2:T108	
+R9	Anafor Arg1:T7 Arg2:T17	
+R10	Anafor Arg1:T17 Arg2:T18	
+R11	Anafor Arg1:T18 Arg2:T19	

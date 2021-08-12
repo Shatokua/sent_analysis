@@ -1,0 +1,4 @@
+T0	Neutral_all 9 36	Подпорина Игоря Николаевича
+T1	Neutral_all 128 131	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

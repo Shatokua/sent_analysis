@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Тиллерсон
+T1	Neutral_all 46 52	Помпео
+T2	Neutral_all 136 142	Трампу
+T3	Neutral_all 102 104	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

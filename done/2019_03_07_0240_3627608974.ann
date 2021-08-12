@@ -1,0 +1,7 @@
+T100	Positive_all 15 24	Криштиану
+T101	Positive_all 26 31	Месси
+T102	Positive_all 34 40	Рибери
+T103	Negative 54 65	Левандовски
+T104	Negative 67 69	Он
+A2	AnaforPerson T104
+R101	Anafor Arg1:T103 Arg2:T104

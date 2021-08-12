@@ -1,0 +1,4 @@
+T0	Neutral_all 47 53	Асадом
+T1	Neutral_all 100 105	Асада
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

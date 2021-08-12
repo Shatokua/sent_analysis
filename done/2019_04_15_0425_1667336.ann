@@ -1,0 +1,7 @@
+T100	Negative 0 5	Трамп
+T101	Neutral_all 32 37	Обама
+T102	Positive 178 183	Трамп
+T103	Positive 190 192	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,31 @@
+T0	Neutral_all 0 16	Александр Шестун
+T1	Neutral_all 103 109	Шестун
+T2	Neutral_all 283 289	Шестун
+T3	Neutral_all 367 380	Ивана Ткачева
+T4	Neutral_all 383 400	Алексея Дорофеева
+T5	Neutral_all 471 477	Шестун
+T6	Neutral_all 57 61	него
+A1	AnaforPerson T6
+T7	Neutral_all 92 95	его
+A2	AnaforPerson T7
+T8	Neutral_all 127 129	он
+A3	AnaforPerson T8
+T9	Neutral_all 165 167	он
+A4	AnaforPerson T9
+T10	Neutral_all 227 230	Его
+A5	AnaforPerson T10
+T11	Neutral_all 332 335	ним
+A6	Plural T11
+A7	AnaforPerson T11
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T8
+R5	Anafor Arg1:T8 Arg2:T9
+R6	Anafor Arg1:T9 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T7
+R8	Anafor Arg1:T7 Arg2:T10
+R9	Anafor Arg1:T10 Arg2:T11
+R106	Anafor Arg1:T9 Arg2:T7
+R108	Anafor Arg1:T10 Arg2:T6
+R109	Anafor Arg1:T6 Arg2:T11

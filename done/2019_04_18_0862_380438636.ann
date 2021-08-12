@@ -1,0 +1,7 @@
+T0	Negative 16 26	Тюльпанова
+T3	Negative 38 41	его
+A1	AnaforPerson T3
+T4	Negative 266 268	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

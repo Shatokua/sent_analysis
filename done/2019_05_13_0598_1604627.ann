@@ -1,0 +1,7 @@
+T2	Positive 176 179	его
+A1	AnaforPerson T2
+T3	Positive 198 201	ему
+A2	AnaforPerson T3
+T1	Positive 138 166	Кухарука Руслана Николаевича
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

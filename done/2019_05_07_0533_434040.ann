@@ -1,0 +1,4 @@
+T0	Neutral 43 51	Савченко
+T1	Neutral 150 152	ей
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

@@ -1,0 +1,9 @@
+T0	Neutral 29 42	Ходорковского
+T1	Neutral 44 52	Лебедева
+T2	Neutral 54 64	Махнаткина
+T3	Neutral 73 81	Данилова
+T4	Neutral 5 7	он
+A1	AnaforPerson T4
+T5	Neutral 176 179	его
+A2	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T5	

@@ -1,0 +1,10 @@
+T0	Positive 298 303	Трамп
+T1	Negative 21 30	Макларена
+R1	Anafor Arg1:T1 Arg2:T0	
+T2	Neutral 119 122	них
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 258 261	них
+A3	AnaforPerson T3
+A4	Plural T3
+R2	Anafor Arg1:T2 Arg2:T3	

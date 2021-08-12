@@ -1,0 +1,4 @@
+T0	Neutral_all 9 24	Бориса Джонсона
+T2	Neutral_all 31 34	нас
+A1	Plural T2
+R101	Anafor Arg1:T0 Arg2:T2

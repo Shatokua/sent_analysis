@@ -1,0 +1,7 @@
+T100	Negative 157 166	Дерипаски
+T101	Neutral_all 192 197	Рыбке
+T102	Neutral_all 27 30	ней
+A1	AnaforPerson T102
+T103	Neutral_all 207 209	ее
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103	

@@ -1,0 +1,13 @@
+T100	Neutral 0 10	Юрий Попов
+T101	Neutral 12 24	Олег Изгагин
+T102	Neutral 27 50	Сиражутдин Абдулгаджиев
+T103	Neutral 139 154	Дмитрий Лиферов
+T104	Neutral 157 172	Алексей Ваганов
+T105	Positive 216 219	вам
+A1	Plural T105
+A2	AnaforPerson T105
+R1	Anafor Arg1:T100 Arg2:T105	
+R2	Anafor Arg1:T101 Arg2:T105	
+R3	Anafor Arg1:T102 Arg2:T105	
+R4	Anafor Arg1:T103 Arg2:T105	
+R5	Anafor Arg1:T104 Arg2:T105	

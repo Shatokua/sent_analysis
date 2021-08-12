@@ -1,0 +1,5 @@
+T1	Positive 151 169	Юнус-Бека Евкурова
+T100	Positive_all 17 33	Хасан Халмурзаев
+T102	Positive_all 86 89	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

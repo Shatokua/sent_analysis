@@ -1,0 +1,3 @@
+T0	Neutral 37 48	Вишневского
+T1	Neutral_all 91 96	Борис
+R1	Anafor Arg1:T0 Arg2:T1	

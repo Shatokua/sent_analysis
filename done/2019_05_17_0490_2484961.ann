@@ -1,0 +1,6 @@
+T0	Positive_all 0 6	Миллер
+T1	Neutral_all 25 39	Алексей Миллер
+T2	Neutral_all 70 77	Мюллера
+T3	Neutral_all 85 88	вам
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0

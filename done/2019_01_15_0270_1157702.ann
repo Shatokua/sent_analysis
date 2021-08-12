@@ -1,0 +1,8 @@
+T100	Positive_all 64 76	Юрий Гагарин
+T101	Neutral 0 8	Йоханнес
+T102	Positive 57 59	Вы
+T103	Positive 166 168	вы
+R102	Anafor Arg1:T102 Arg2:T103
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	
+A2	AnaforPerson T103

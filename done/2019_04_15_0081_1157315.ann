@@ -1,0 +1,5 @@
+T100	Negative 27 34	Собянин
+T101	Neutral_all 85 101	Владимиру Путину
+T102	Negative 23 25	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T102 Arg2:T100	

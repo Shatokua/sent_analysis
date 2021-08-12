@@ -1,0 +1,8 @@
+T0	Negative 0 7	Сноуден
+T1	Negative 103 105	ты
+A1	AnaforPerson T1
+#1	AnnotatorNotes T0	возможно негатив по смыслу?
+T2	Negative 14 16	ты
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T1	

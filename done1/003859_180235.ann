@@ -1,0 +1,4 @@
+T0	Neutral_all 173 190	Александру Бурову
+T1	Neutral_all 257 259	им
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

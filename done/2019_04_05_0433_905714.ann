@@ -1,0 +1,9 @@
+T100	Negative 54 63	Порошенко
+T101	Negative 65 71	Грицак
+T1	Negative 74 76	им
+A1	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T101 Arg2:T1	
+T2	Negative 124 127	они
+A2	AnaforPerson T2
+R3	Anafor Arg1:T1 Arg2:T2	

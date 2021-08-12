@@ -1,0 +1,15 @@
+T0	Negative 0 3	Леш
+T2	Negative 180 189	Навальный
+T1	Negative 174 178	тебя
+T3	Negative 85 87	Ты
+T4	Negative 5 7	ты
+R1	Anafor Arg1:T2 Arg2:T1	
+A1	AnaforPerson T1
+A2	AnaforPerson T3
+A3	AnaforPerson T4
+R5	Anafor Arg1:T0 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T3	
+T5	Negative 117 121	Твои
+A4	AnaforPerson T5
+R2	Anafor Arg1:T3 Arg2:T5	
+R4	Anafor Arg1:T5 Arg2:T1	

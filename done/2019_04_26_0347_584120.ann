@@ -1,0 +1,6 @@
+T0	Neutral_all 77 83	Ле Пен
+T1	Neutral_all 86 94	Меланшон
+T2	Negative 140 146	Ле Пен
+T3	Negative 149 159	Меланшоном
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T3	

@@ -1,0 +1,9 @@
+T0	Neutral_all 37 53	Иоанна Златоуста
+T1	Neutral_all 118 121	нас
+A1	Plural T1
+T2	Neutral_all 171 174	нас
+A2	Plural T2
+T3	Neutral_all 311 313	мы
+A3	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

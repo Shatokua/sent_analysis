@@ -1,0 +1,4 @@
+T0	Negative_all 19 27	Собянина
+T1	Negative_all 90 105	Сергея Собянина
+T2	Negative_all 108 121	Ксении Собчак
+R1	Anafor Arg1:T1 Arg2:T0

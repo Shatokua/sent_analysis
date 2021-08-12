@@ -1,0 +1,9 @@
+T0	Neutral 11 31	Никита Юрьевич Белых
+T1	Negative 80 83	ему
+A1	AnaforPerson T1
+T2	Neutral 119 121	он
+T3	Neutral 173 176	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

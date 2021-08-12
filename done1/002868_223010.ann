@@ -1,0 +1,10 @@
+T0	Neutral_all 497 513	Оксана Дмитриева
+T2	Neutral_all 262 265	нас
+A1	Plural T2
+T1	Neutral_all 309 312	нам
+A2	Plural T1
+T101	Neutral_all 357 360	нам
+A3	Plural T101
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T2

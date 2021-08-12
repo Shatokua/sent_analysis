@@ -1,0 +1,5 @@
+T0	Neutral 140 146	Чурова
+T1	Neutral 204 206	он
+A1	AnaforPerson T1
+T2	Neutral 152 154	вы
+A2	AnaforPerson T2

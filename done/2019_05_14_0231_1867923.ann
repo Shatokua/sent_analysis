@@ -1,0 +1,5 @@
+T0	Neutral_all 5 19	Пола Манафорта
+T1	Neutral_all 49 56	Трампом
+T2	Neutral_all 72 75	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

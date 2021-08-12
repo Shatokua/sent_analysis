@@ -1,0 +1,4 @@
+T0	Neutral_all 34 44	Кузьминова
+T1	Neutral_all 94 108	Михаил Швыдкой
+T2	Negative_all 244 251	Швыдкой
+R1	Anafor Arg1:T1 Arg2:T2

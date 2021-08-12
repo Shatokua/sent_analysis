@@ -1,0 +1,8 @@
+T100	Neutral_all 64 73	Порошенко
+T103	Neutral_all 126 134	Онищенко
+T104	Neutral_all 162 169	Кадыров
+T102	Neutral_all 95 98	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102
+T1	Neutral 108 124	Онищенко-Кадыров
+R2	Anafor Arg1:T1 Arg2:T103	

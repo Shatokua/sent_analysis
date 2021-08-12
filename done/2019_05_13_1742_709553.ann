@@ -1,0 +1,11 @@
+T0	Positive 117 127	Бобровский
+T1	Neutral 56 59	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 133 135	он
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 214 216	их
+A4	AnaforPerson T3
+A5	Plural T3
+R2	Anafor Arg1:T1 Arg2:T3	

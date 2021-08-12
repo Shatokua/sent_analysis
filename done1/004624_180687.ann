@@ -1,0 +1,7 @@
+T1	Neutral_all 233 235	ее
+A1	AnaforPerson T1
+T2	Neutral_all 271 274	нее
+A2	AnaforPerson T2
+T3	Neutral_all 397 406	В.Чикирев
+A3	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2

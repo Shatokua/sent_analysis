@@ -1,0 +1,12 @@
+T0	Neutral 47 53	Путина
+T1	Neutral 0 2	Мы
+A1	Plural T1
+T2	Neutral 84 86	мы
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 67 70	нам
+A3	Plural T3
+R2	Variant Arg1:T2 Arg2:T3	
+T4	Neutral 107 110	нам
+A4	Plural T4
+R3	Variant Arg1:T3 Arg2:T4	

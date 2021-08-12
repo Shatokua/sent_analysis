@@ -1,0 +1,4 @@
+T0	Neutral_all 27 44	Олегом Павловичем
+T1	Neutral_all 15 18	нас
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

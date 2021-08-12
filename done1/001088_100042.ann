@@ -1,0 +1,12 @@
+T0	Neutral_all 9 27	Владимир Зеленский
+T1	Neutral_all 69 84	Петра Порошенко
+T2	Negative_all 297 306	Зеленский
+T3	Neutral_all 309 318	Порошенко
+T4	Neutral_all 49 51	Вы
+A1	AnaforPerson T4
+T5	Neutral_all 347 350	нас
+A2	Plural T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T3 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T3

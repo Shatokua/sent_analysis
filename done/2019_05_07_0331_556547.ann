@@ -1,0 +1,4 @@
+T0	Neutral 48 66	Рексом Тиллерсоном
+T1	Neutral 4 7	они
+A1	Plural T1
+A2	AnaforPerson T1

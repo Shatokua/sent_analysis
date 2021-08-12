@@ -1,0 +1,50 @@
+T0	Neutral 0 9	Навальный
+T1	Negative 44 47	вас
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 60 62	вы
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Neutral 82 85	Его
+A5	AnaforPerson T3
+T4	Neutral 92 95	вас
+A6	AnaforPerson T4
+A7	Plural T4
+T5	Neutral 106 109	его
+A8	AnaforPerson T5
+T6	Neutral 132 137	ваших
+A9	AnaforPerson T6
+A10	Plural T6
+T7	Neutral 206 209	Его
+A11	AnaforPerson T7
+T8	Negative 264 266	вы
+A12	AnaforPerson T8
+A13	Plural T8
+T9	Neutral 289 292	его
+A14	AnaforPerson T9
+T10	Negative 340 342	вы
+A15	AnaforPerson T10
+A16	Plural T10
+T11	Negative 382 385	вас
+A17	AnaforPerson T11
+A18	Plural T11
+T12	Neutral 364 367	его
+A19	AnaforPerson T12
+T13	Positive 433 435	он
+A20	AnaforPerson T13
+T14	Negative 466 468	вы
+A21	AnaforPerson T14
+A22	Plural T14
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T5	
+R3	Anafor Arg1:T5 Arg2:T7	
+R4	Anafor Arg1:T7 Arg2:T9	
+R5	Anafor Arg1:T9 Arg2:T12	
+R6	Anafor Arg1:T12 Arg2:T13	
+R7	Anafor Arg1:T1 Arg2:T2	
+R8	Anafor Arg1:T2 Arg2:T4	
+R9	Anafor Arg1:T4 Arg2:T6	
+R10	Anafor Arg1:T6 Arg2:T8	
+R11	Anafor Arg1:T8 Arg2:T10	
+R12	Anafor Arg1:T10 Arg2:T11	
+R13	Anafor Arg1:T11 Arg2:T14	

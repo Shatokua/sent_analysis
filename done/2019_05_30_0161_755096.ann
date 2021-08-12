@@ -1,0 +1,5 @@
+T0	Positive_all 47 53	Макрон
+T1	Neutral_all 198 212	Анну Ярославну
+T2	Neutral_all 72 74	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

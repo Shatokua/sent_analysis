@@ -1,0 +1,13 @@
+T0	Neutral 50 65	Дональда Трампа
+T3	Neutral 84 86	он
+A1	AnaforPerson T3
+T4	Neutral 119 121	он
+A2	AnaforPerson T4
+T5	Neutral 211 215	него
+A3	AnaforPerson T5
+T101	Neutral_all 94 100	Путина
+T102	Neutral_all 167 172	Путин
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T102 Arg2:T101
+R4	Anafor Arg1:T4 Arg2:T5

@@ -1,0 +1,8 @@
+T0	Neutral_all 0 15	Петр Алексеевич
+T1	Neutral_all 111 120	Порошенко
+T2	Neutral_all 44 47	его
+A1	AnaforPerson T2
+T3	Neutral_all 198 200	мы
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

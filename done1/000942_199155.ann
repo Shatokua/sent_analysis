@@ -1,0 +1,7 @@
+T0	Neutral_all 147 164	Владимир Михайлов
+T1	Neutral_all 167 182	Валерий Ижицкий
+T102	Neutral 186 188	их
+A3	AnaforPerson T102
+A4	Plural T102
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T102	

@@ -1,0 +1,9 @@
+T0	Neutral_all 17 21	Бера
+T1	Neutral 88 96	Илья Бер
+T2	Neutral_all 139 141	он
+A1	AnaforPerson T2
+T3	Neutral_all 204 207	ему
+A2	AnaforPerson T3
+R3	Anafor Arg1:T2 Arg2:T3
+R1	Anafor Arg1:T1 Arg2:T0	
+R2	Anafor Arg1:T1 Arg2:T2	

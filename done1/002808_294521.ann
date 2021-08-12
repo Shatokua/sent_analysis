@@ -1,0 +1,16 @@
+T6	Neutral_all 412 425	Эгалегердиева
+T2	Neutral_all 238 240	им
+A1	Plural T2
+T3	Neutral_all 316 319	она
+A2	AnaforPerson T3
+T4	Neutral_all 499 502	она
+A3	AnaforPerson T4
+T105	Neutral 211 229	Эгалегердиева Л.В.
+T107	Neutral 131 145	Пшеничный С.Е.
+T101	Neutral 167 179	Жильцов В.И.
+A4	AnaforPerson T2
+R1	Anafor Arg1:T107 Arg2:T2	
+R4	Anafor Arg1:T101 Arg2:T2	
+R2	Anafor Arg1:T105 Arg2:T3	
+R3	Anafor Arg1:T6 Arg2:T3	
+R5	Anafor Arg1:T6 Arg2:T4	

@@ -1,0 +1,7 @@
+T0	Neutral_all 135 153	Вацлава Нежинского
+T1	Neutral_all 316 325	Дягилевым
+T2	Neutral_all 345 359	Анной Павловой
+T3	Neutral_all 363 373	Карсавиной
+T4	Neutral_all 210 212	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4

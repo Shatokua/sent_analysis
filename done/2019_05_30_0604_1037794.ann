@@ -1,0 +1,12 @@
+T0	Neutral_all 30 40	Зудхаймера
+T1	Neutral_all 133 143	Зудхаймера
+T2	Neutral_all 56 59	нас
+A1	Plural T2
+T3	Neutral_all 145 147	Он
+A2	AnaforPerson T3
+T4	Neutral_all 183 187	него
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T3
+R4	Anafor Arg1:T4 Arg2:T2

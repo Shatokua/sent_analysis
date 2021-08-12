@@ -1,0 +1,5 @@
+T0	Neutral_all 102 120	Деонтеем Уайлдером
+T1	Neutral_all 204 212	Владимир
+T2	Neutral_all 42 45	ему
+A1	Plural T2
+A2	AnaforPerson T2

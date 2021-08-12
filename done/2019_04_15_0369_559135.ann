@@ -1,0 +1,5 @@
+T1	Negative 131 136	Обамы
+T100	Neutral_all 31 36	Асада
+T102	Neutral_all 87 90	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

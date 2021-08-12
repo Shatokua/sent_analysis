@@ -1,0 +1,11 @@
+T0	Neutral_all 27 43	Михаила Данилова
+T1	Neutral_all 236 256	Михаила Анатольевича
+T2	Positive_all 68 71	его
+A1	AnaforPerson T2
+T3	Neutral_all 161 163	Мы
+A2	Plural T3
+T4	Neutral_all 173 176	его
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4

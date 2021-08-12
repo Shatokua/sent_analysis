@@ -1,0 +1,6 @@
+T0	Neutral_all 9 17	Сушкевич
+T1	Neutral_all 63 74	Елена Белая
+T2	Positive_all 331 334	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

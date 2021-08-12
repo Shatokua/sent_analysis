@@ -1,0 +1,4 @@
+T100	Negative_all 131 136	Трамп
+T101	Negative_all 160 166	Путину
+T102	Negative_all 182 187	Путин
+R1	Anafor Arg1:T102 Arg2:T101

@@ -1,0 +1,7 @@
+T0	Negative_all 4 11	Пашинян
+T1	Neutral_all 0 3	Ваш
+A1	Plural T1
+T2	Negative_all 54 56	вы
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

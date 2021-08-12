@@ -1,0 +1,5 @@
+T102	Negative 86 92	Путина
+T101	Negative_all 37 55	Дональдом) Трампом
+T103	Negative 94 96	Он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,4 @@
+T0	Neutral_all 18 26	Ростенко
+T1	Neutral_all 199 214	Андрей Олегович
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

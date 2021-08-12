@@ -1,0 +1,8 @@
+T0	Neutral_all 18 35	Эммануэля Макрона
+T1	Neutral_all 56 70	Ангелу Меркель
+T2	Neutral_all 37 52	Emmanuel Macron
+T3	Neutral_all 72 85	Angela Merkel
+T4	Neutral_all 275 278	нам
+A1	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

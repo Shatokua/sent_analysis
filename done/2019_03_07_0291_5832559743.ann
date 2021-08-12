@@ -1,0 +1,14 @@
+T100	Neutral_all 17 22	Обамы
+T101	Neutral_all 31 37	Путина
+T102	Positive 70 75	Обама
+A1	AnaforPerson T102
+T103	Positive 94 96	он
+A2	AnaforPerson T103
+T104	Positive 133 135	он
+A3	AnaforPerson T104
+T105	Neutral 153 155	он
+A4	AnaforPerson T105
+R101	Anafor Arg1:T102 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T104
+R103	Anafor Arg1:T104 Arg2:T105
+R104	Anafor Arg1:T100 Arg2:T102

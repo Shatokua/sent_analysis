@@ -1,0 +1,4 @@
+T0	Neutral_all 29 34	Антон
+T1	Neutral_all 91 104	Божена Рынска
+T2	Neutral_all 108 118	Красовский
+R1	Anafor Arg1:T2 Arg2:T0

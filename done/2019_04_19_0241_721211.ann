@@ -1,0 +1,3 @@
+T0	Neutral_all 28 33	Дзюбы
+T1	Positive_all 139 145	Артема
+R1	Anafor Arg1:T0 Arg2:T1

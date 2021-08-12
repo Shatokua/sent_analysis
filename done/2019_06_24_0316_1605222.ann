@@ -1,0 +1,9 @@
+T0	Neutral_all 11 17	Грицак
+T1	Neutral_all 72 89	Петру Алексеевичу
+T2	Neutral_all 119 122	они
+A1	Plural T2
+A2	AnaforPerson T2
+T103	Neutral_all 123 126	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T103

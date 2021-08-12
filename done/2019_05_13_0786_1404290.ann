@@ -1,0 +1,7 @@
+T0	Positive 96 102	Промес
+T1	Positive 149 153	него
+A1	AnaforPerson T1
+T2	Neutral 173 177	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

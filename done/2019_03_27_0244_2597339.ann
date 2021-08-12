@@ -1,0 +1,3 @@
+T0	Neutral_all 52 58	Ленина
+T1	Neutral_all 152 158	Ленина
+R1	Anafor Arg1:T0 Arg2:T1

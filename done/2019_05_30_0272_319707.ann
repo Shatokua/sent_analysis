@@ -1,0 +1,8 @@
+T0	Positive_all 76 88	Билл Клинтон
+T1	Positive_all 108 123	Хиллари Клинтон
+T2	Neutral_all 158 160	вы
+A1	Plural T2
+T3	Neutral_all 192 194	им
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T3

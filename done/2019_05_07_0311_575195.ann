@@ -1,0 +1,4 @@
+T0	Neutral 144 151	Путиным
+T1	Neutral 0 3	Она
+T2	Neutral 106 109	она
+R1	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral_all 54 70	Эдуард Успенский
+T1	Neutral_all 131 150	Леонидом Шварцманом
+T2	Neutral_all 161 167	Капков
+T3	Neutral_all 97 100	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

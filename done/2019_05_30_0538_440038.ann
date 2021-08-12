@@ -1,0 +1,8 @@
+T0	Neutral_all 34 48	Виталия Регора
+T1	Neutral_all 87 94	Виталий
+T2	Neutral_all 130 134	него
+A1	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T0
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

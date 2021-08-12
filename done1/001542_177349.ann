@@ -1,0 +1,9 @@
+T0	Neutral_all 63 78	Рината Ахметова
+T1	Neutral_all 2 6	него
+T2	Neutral_all 37 39	Он
+T3	Neutral_all 103 107	него
+T4	Neutral_all 188 191	его
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T2

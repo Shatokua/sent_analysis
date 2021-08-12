@@ -1,0 +1,6 @@
+T1	Negative_all 51 70	Наталья [Поклонская
+T2	Neutral_all 117 120	она
+A1	AnaforPerson T2
+T103	Neutral_all 194 197	нас
+A2	Plural T103
+R1	Anafor Arg1:T1 Arg2:T2

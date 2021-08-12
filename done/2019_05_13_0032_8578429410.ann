@@ -1,0 +1,19 @@
+T0	Positive 102 108	Мухина
+T1	Positive 110 118	Соколова
+T2	Neutral 122 124	их
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 163 166	Они
+A3	AnaforPerson T3
+A4	Plural T3
+T4	Neutral 240 242	им
+A5	AnaforPerson T4
+A6	Plural T4
+T5	Positive 266 268	их
+A7	AnaforPerson T5
+A8	Plural T5
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	

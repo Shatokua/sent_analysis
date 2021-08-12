@@ -1,0 +1,7 @@
+T1	Negative 12 38	Петр Алексеевич [Порошенко
+T101	Negative 98 103	вашим
+A1	AnaforPerson T101
+T102	Negative_all 8 10	вы
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T101	

@@ -1,0 +1,4 @@
+T0	Positive 16 29	Левандовского
+T1	Neutral 69 72	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

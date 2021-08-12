@@ -1,0 +1,5 @@
+T0	Neutral_all 16 21	Трамп
+T1	Neutral_all 47 56	Порошенко
+T2	Neutral 183 186	Его
+R1	Anafor Arg1:T1 Arg2:T2
+A1	AnaforPerson T2

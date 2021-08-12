@@ -1,0 +1,11 @@
+T0	Neutral_all 399 414	Ахмата Кадырова
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 322 325	нас
+A2	Plural T2
+T3	Neutral_all 345 347	мы
+A3	Plural T3
+T102	Neutral_all 304 306	им
+A4	Plural T102
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2

@@ -1,0 +1,11 @@
+T0	Neutral_all 56 72	Джулиана Ассанжа
+T1	Neutral_all 155 171	Джулиану Ассанжу
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 83 85	Мы
+A2	Plural T3
+T4	Neutral_all 236 239	ему
+A3	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T4

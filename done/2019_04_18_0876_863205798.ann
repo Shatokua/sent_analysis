@@ -1,0 +1,10 @@
+T1	Negative 289 300	Митрофанова
+T2	Negative 22 25	его
+A1	AnaforPerson T2
+T3	Neutral 56 59	его
+A2	AnaforPerson T3
+T4	Negative 131 133	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4	
+R2	Anafor Arg1:T4 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T2	

@@ -1,0 +1,8 @@
+T0	Neutral_all 16 23	Луценко
+T1	Neutral_all 63 75	Коломойского
+T2	Neutral_all 78 85	Луценко
+T3	Neutral_all 112 119	Луценко
+T4	Neutral_all 130 142	Коломойского
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T4

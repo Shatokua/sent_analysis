@@ -1,0 +1,11 @@
+T100	Positive_all 0 6	Сергей
+T101	Neutral_all 133 138	Артем
+T102	Neutral_all 101 103	Он
+A1	AnaforPerson T102
+T1	Neutral 32 34	он
+T2	Neutral 50 53	ему
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T102	
+T3	Neutral 158 161	ему
+R4	Anafor Arg1:T101 Arg2:T3	

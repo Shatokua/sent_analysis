@@ -1,0 +1,8 @@
+T3	Positive 90 102	Никки] Хейли
+T101	Positive_all 35 51	Дональда] Трампа
+T1	Positive 67 80	Майка] Помпео
+T2	Positive 106 108	их
+A1	AnaforPerson T2
+R1	Anafor Arg1:T101 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T3 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral_all 31 38	Хохлова
+T1	Neutral_all 193 199	Хохлов
+T2	Neutral_all 202 209	Широков
+T3	Neutral_all 138 142	ними
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0

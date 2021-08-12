@@ -1,0 +1,5 @@
+T0	Neutral_all 69 74	Ержан
+T1	Neutral_all 246 266	Улыкпаном Жолдасовым
+T2	Neutral_all 269 285	Ренатом Гайсиным
+T3	Neutral_all 326 332	Ержана
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,7 @@
+T100	Negative 107 115	Парасюка
+T101	Negative 118 124	Фарион
+T102	Neutral 81 83	он
+A2	AnaforPerson T102
+T103	Negative 135 138	ему
+A3	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

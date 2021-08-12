@@ -1,0 +1,12 @@
+T0	Neutral 0 27	Владимир Владимирович Путин
+T1	Neutral 80 83	вас
+A1	AnaforPerson T1
+T2	Neutral 155 159	вами
+A2	AnaforPerson T2
+A3	Plural T1
+A4	Plural T2
+T3	Neutral 221 224	вас
+A5	AnaforPerson T3
+A6	Plural T3
+R1	Variant Arg1:T1 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T3	

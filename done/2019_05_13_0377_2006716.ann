@@ -1,0 +1,6 @@
+T0	Positive 67 89	Иосиф Давыдович Кобзон
+T1	Positive 36 38	он
+A1	AnaforPerson T1
+T2	Positive 60 62	Он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

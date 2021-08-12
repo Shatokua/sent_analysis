@@ -1,0 +1,7 @@
+T1	Neutral_all 64 67	его
+A1	AnaforPerson T1
+T3	Neutral_all 159 162	ему
+A3	AnaforPerson T3
+T100	Neutral 18 32	Бойко-Великого
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T3	

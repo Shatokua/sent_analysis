@@ -1,0 +1,19 @@
+T0	Neutral_all 109 113	Рома
+T1	Neutral_all 190 198	Ерёменко
+T2	Neutral_all 330 342	Аяза Гулиева
+T3	Neutral_all 375 383	Ерёменко
+T4	Neutral_all 126 128	им
+A1	Plural T4
+T5	Neutral_all 220 223	его
+A2	AnaforPerson T5
+T6	Neutral_all 296 298	мы
+A3	Plural T6
+T7	Neutral_all 425 428	они
+A4	Plural T7
+T8	Neutral_all 458 461	его
+A5	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T8
+R104	Anafor Arg1:T3 Arg2:T8

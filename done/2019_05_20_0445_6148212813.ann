@@ -1,0 +1,7 @@
+T0	Neutral 25 33	Ястребов
+T1	Neutral 0 3	Его
+A1	AnaforPerson T1
+T2	Neutral 52 54	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T1	

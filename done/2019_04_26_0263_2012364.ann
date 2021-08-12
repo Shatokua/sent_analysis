@@ -1,0 +1,7 @@
+T1	Positive 10 26	Дональда (Трампа
+T2	Positive 36 38	он
+A1	AnaforPerson T2
+T3	Positive 129 132	его
+A2	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,11 @@
+T3	Neutral 104 106	ты
+A1	AnaforPerson T3
+T100	Neutral 20 25	Тумсо
+T101	Neutral_all 117 129	Ахмате-хаджи
+T102	Negative_all 140 144	тебе
+A2	AnaforPerson T102
+T103	Neutral_all 44 46	ты
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T102	

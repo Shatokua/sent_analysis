@@ -1,0 +1,8 @@
+T0	Neutral_all 23 42	Антон Сидоров-Дорсо
+T2	Neutral_all 251 255	Егор
+T3	Neutral_all 258 262	Анна
+T4	Neutral_all 263 271	Колосовы
+T101	Neutral 213 228	Эммануэль Розье
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T4
+A1	Plural T4

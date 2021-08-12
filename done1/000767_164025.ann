@@ -1,0 +1,4 @@
+T0	Neutral_all 165 178	Ахмадиевой Д.
+T1	Neutral_all 239 241	им
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

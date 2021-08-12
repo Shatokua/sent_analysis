@@ -1,0 +1,4 @@
+T0	Neutral_all 9 24	Игоря Подпорина
+T1	Neutral_all 46 49	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

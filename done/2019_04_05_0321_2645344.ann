@@ -1,0 +1,4 @@
+T101	Negative 58 74	Николаса) Мадуро
+T102	Negative 77 80	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

@@ -1,0 +1,6 @@
+T0	Negative 166 174	Султанов
+T1	Neutral 32 35	вас
+A1	Plural T1
+T2	Neutral 78 81	Вас
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

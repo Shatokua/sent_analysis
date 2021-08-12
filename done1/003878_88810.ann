@@ -1,0 +1,5 @@
+T0	Neutral_all 163 176	Виктор Шляхов
+T1	Neutral_all 393 399	Шляхов
+T2	Neutral_all 0 3	Ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1

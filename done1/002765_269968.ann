@@ -1,0 +1,9 @@
+T0	Neutral_all 79 96	Светлана Калинина
+T1	Neutral_all 149 151	мы
+A1	Plural T1
+T2	Neutral_all 283 285	мы
+A2	Plural T2
+T3	Neutral_all 545 548	вам
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

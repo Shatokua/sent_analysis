@@ -1,0 +1,7 @@
+T0	Negative 132 141	Януковича
+T1	Negative 149 152	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 60 63	них
+A2	AnaforPerson T2
+A3	Plural T2

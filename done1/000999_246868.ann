@@ -1,0 +1,5 @@
+T0	Neutral_all 50 65	Дональда Трампа
+T1	Neutral_all 67 69	Мы
+A1	Plural T1
+T2	Negative_all 252 255	они
+A2	Plural T2

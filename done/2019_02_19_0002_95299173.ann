@@ -1,0 +1,8 @@
+T101	Neutral_all 98 117	Ахмат-Хаджи Кадыров
+T102	Neutral 433 460	Владимир Владимирович Путин
+T103	Neutral_all 199 201	Он
+A1	AnaforPerson T103
+T104	Positive_all 462 464	Он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T103
+R102	Anafor Arg1:T102 Arg2:T104

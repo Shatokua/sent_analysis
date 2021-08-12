@@ -1,0 +1,9 @@
+T0	Neutral_all 301 317	Махмудом Аббасом
+T101	Neutral_all 319 322	Она
+A1	AnaforPerson T101
+T102	Neutral_all 426 429	Она
+A2	AnaforPerson T102
+T103	Neutral_all 533 536	она
+A3	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

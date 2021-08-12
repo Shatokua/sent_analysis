@@ -1,0 +1,6 @@
+T0	Neutral_all 52 59	Ельцина
+T1	Neutral_all 73 85	Жириновского
+T2	Neutral_all 100 118	Владимир Вольфович
+T3	Neutral_all 142 144	им
+A1	Plural T3
+R1	Anafor Arg1:T2 Arg2:T1

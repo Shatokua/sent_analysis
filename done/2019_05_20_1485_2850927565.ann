@@ -1,0 +1,4 @@
+T0	Neutral 20 29	Васильева
+T1	Neutral 110 112	ею
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,8 @@
+T0	Neutral_all 27 42	Дмитрия Гудкова
+T1	Neutral_all 47 59	Максима Каца
+T2	Neutral_all 108 117	Свиридова
+T3	Neutral_all 242 250	Свиридов
+T104	Neutral_all 300 303	его
+A1	AnaforPerson T104
+R1	Anafor Arg1:T3 Arg2:T2
+R102	Anafor Arg1:T3 Arg2:T104

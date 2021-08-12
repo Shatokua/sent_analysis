@@ -1,0 +1,23 @@
+T0	Neutral_all 17 28	Патрис Эвра
+T1	Neutral_all 306 309	Они
+A1	Plural T1
+T2	Neutral_all 390 392	Вы
+A2	Plural T2
+T3	Neutral_all 622 624	Мы
+A3	Plural T3
+T4	Neutral_all 711 713	вы
+A4	Plural T4
+T5	Neutral_all 858 862	вами
+A5	Plural T5
+T6	Neutral_all 864 867	вам
+A6	Plural T6
+T7	Neutral_all 888 890	Вы
+A7	Plural T7
+T108	Neutral_all 930 934	ваша
+A8	Plural T108
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T7
+R3	Anafor Arg1:T7 Arg2:T6
+R4	Anafor Arg1:T6 Arg2:T5
+R104	Anafor Arg1:T6 Arg2:T108
+R105	Anafor Arg1:T108 Arg2:T5

@@ -1,0 +1,7 @@
+T0	Neutral_all 0 9	П.Пинчуку
+T1	Neutral_all 86 102	Эдуарда Кагосяна
+T2	Neutral_all 122 136	Темура Мамулии
+T3	Neutral_all 265 281	Дениса Мурдалова
+T4	Neutral_all 105 108	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4

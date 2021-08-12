@@ -1,0 +1,8 @@
+T1	Neutral_all 93 96	его
+A1	AnaforPerson T1
+T2	Neutral_all 172 174	Мы
+A2	Plural T2
+T102	Neutral_all 125 127	их
+A3	Plural T102
+T104	Neutral_all 352 377	Мухаммедкалыя Абылгазиева
+R101	Anafor Arg1:T104 Arg2:T1

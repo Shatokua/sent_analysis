@@ -1,0 +1,6 @@
+T0	Positive_all 49 54	Тимур
+T1	Neutral_all 150 166	Мариной Федункив
+T2	Neutral_all 169 187	Аристархом Венесом
+T3	Positive 56 58	ты
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,16 @@
+T0	Neutral_all 77 84	Макрона
+T1	Negative_all 135 143	Макроном
+T2	Neutral_all 39 42	нам
+A1	Plural T2
+T3	Neutral_all 146 149	нас
+A2	Plural T3
+T103	Neutral_all 101 105	нашу
+A3	Plural T103
+T104	Neutral_all 119 123	наши
+A4	Plural T104
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T2 Arg2:T103
+R103	Anafor Arg1:T103 Arg2:T104
+R104	Anafor Arg1:T104 Arg2:T3

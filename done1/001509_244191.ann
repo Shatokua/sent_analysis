@@ -1,0 +1,6 @@
+T0	Positive 34 48	Билли Макнилла
+T1	Positive 192 198	Цезарь
+T102	Positive 200 202	Ты
+A1	AnaforPerson T102
+R101	Anafor Arg1:T1 Arg2:T102
+R1	Anafor Arg1:T0 Arg2:T1	

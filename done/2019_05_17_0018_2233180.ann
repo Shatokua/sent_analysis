@@ -1,0 +1,5 @@
+T0	Neutral_all 9 15	Д.Паку
+T1	Neutral_all 46 53	Денисом
+T2	Neutral_all 54 56	мы
+A1	Plural T2
+R101	Anafor Arg1:T1 Arg2:T2

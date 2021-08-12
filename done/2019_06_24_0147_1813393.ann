@@ -1,0 +1,11 @@
+T0	Neutral_all 16 21	Усика
+T1	Positive_all 180 189	Александр
+T3	Neutral_all 98 100	он
+A2	AnaforPerson T3
+T4	Neutral_all 136 138	он
+A3	AnaforPerson T4
+T102	Neutral 53 56	они
+A4	Plural T102
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T4	

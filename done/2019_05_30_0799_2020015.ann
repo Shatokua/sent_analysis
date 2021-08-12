@@ -1,0 +1,6 @@
+T0	Neutral_all 12 19	Шаройко
+T1	Neutral_all 44 57	Павла Шаройко
+T2	Neutral_all 121 123	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

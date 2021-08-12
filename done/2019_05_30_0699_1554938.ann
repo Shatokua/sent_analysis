@@ -1,0 +1,5 @@
+T0	Neutral_all 19 33	Алла Борисовна
+T1	Neutral_all 44 60	Татьяны Снежиной
+T2	Neutral_all 119 122	нее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

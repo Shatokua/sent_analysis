@@ -1,0 +1,5 @@
+T0	Positive_all 101 117	Артема Чистякова
+T1	Neutral_all 141 148	Промеса
+T2	Neutral_all 126 128	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

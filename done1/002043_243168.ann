@@ -1,0 +1,9 @@
+T0	Neutral_all 102 115	Канату Исаеву
+T1	Neutral_all 171 189	Руслану Казакбаеву
+T2	Neutral_all 255 274	Алмазбек Атамбаевым
+T3	Neutral_all 135 139	него
+A1	AnaforPerson T3
+T4	Neutral_all 239 241	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T3

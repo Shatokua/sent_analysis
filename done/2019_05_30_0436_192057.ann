@@ -1,0 +1,5 @@
+T0	Neutral_all 17 42	Сергей Михайлович Миронов
+T1	Neutral_all 160 176	Павел Михайлович
+T2	Neutral_all 179 182	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

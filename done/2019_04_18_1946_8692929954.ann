@@ -1,0 +1,7 @@
+T0	Negative 131 140	Порошенко
+T1	Negative 143 146	его
+A1	AnaforPerson T1
+T2	Negative 158 161	они
+A2	AnaforPerson T2
+A3	Plural T2
+R1	Variant Arg1:T0 Arg2:T1	

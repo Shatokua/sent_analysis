@@ -1,0 +1,5 @@
+T0	Neutral_all 27 49	Игорь Геннадьевич Ерин
+T1	Neutral_all 438 455	Игорь Геннадьевич
+T102	Neutral_all 414 416	их
+A1	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1

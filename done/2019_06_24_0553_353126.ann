@@ -1,0 +1,5 @@
+T3	Neutral_all 195 198	его
+A2	AnaforPerson T3
+T100	Negative 18 24	Кастро
+T101	Neutral 132 137	Обамы
+R1	Anafor Arg1:T101 Arg2:T3	

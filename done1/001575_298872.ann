@@ -1,0 +1,6 @@
+T0	Neutral_all 465 479	Людмилы Скорик
+T1	Neutral_all 180 183	нас
+A1	Plural T1
+T2	Neutral_all 308 310	мы
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

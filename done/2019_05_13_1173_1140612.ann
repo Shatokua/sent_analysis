@@ -1,0 +1,4 @@
+T0	Neutral 44 74	Георгия Сергеевича Полтавченко
+T1	Positive 97 100	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

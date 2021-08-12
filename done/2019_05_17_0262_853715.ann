@@ -1,0 +1,5 @@
+T0	Neutral_all 24 32	Каспаров
+T1	Neutral_all 79 86	Карлсен
+T2	Neutral_all 139 143	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

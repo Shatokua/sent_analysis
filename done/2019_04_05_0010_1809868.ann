@@ -1,0 +1,10 @@
+T2	Neutral 0 3	Ему
+T100	Neutral_all 149 156	Мюллера
+T101	Neutral_all 169 175	Мюллер
+T102	Neutral 5 11	Строку
+T103	Neutral 82 86	него
+A1	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T100
+A2	AnaforPerson T2
+R2	Anafor Arg1:T102 Arg2:T2	
+R3	Anafor Arg1:T102 Arg2:T103	

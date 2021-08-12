@@ -1,0 +1,7 @@
+T0	Neutral_all 66 73	Тихона.
+T1	Neutral_all 89 99	Мединскому
+T2	Neutral_all 101 110	Мединский
+T3	Neutral_all 120 125	Урину
+T4	Neutral_all 74 79	Тихон
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T4 Arg2:T0

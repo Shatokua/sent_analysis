@@ -1,0 +1,12 @@
+T0	Neutral_all 71 81	С. Бодрова
+T1	Neutral_all 84 97	А. Балабанова
+T2	Positive_all 155 173	Алексея Балабанова
+T3	Neutral_all 341 358	Алексей Балабанов
+T4	Positive_all 400 413	Сергей Бодров
+T5	Positive_all 430 432	им
+A1	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T0
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T1
+R4	Anafor Arg1:T0 Arg2:T5
+R5	Anafor Arg1:T1 Arg2:T5

@@ -1,0 +1,12 @@
+T0	Neutral_all 20 25	Федор
+T1	Neutral_all 145 157	Ольга Бузова
+T2	Neutral_all 9 11	ты
+A1	AnaforPerson T2
+T3	Neutral_all 99 101	ты
+A2	AnaforPerson T3
+T4	Neutral_all 77 80	нее
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T4

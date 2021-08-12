@@ -1,0 +1,6 @@
+T0	Positive_all 40 44	Дана
+T1	Neutral 234 238	Дана
+T2	Neutral 137 139	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

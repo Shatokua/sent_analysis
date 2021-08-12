@@ -1,0 +1,7 @@
+T0	Neutral_all 183 198	Анатолием Стати
+T1	Neutral_all 200 215	Габриэлем Стати
+T2	Neutral_all 336 341	Стати
+T103	Neutral_all 757 762	Стати
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T103

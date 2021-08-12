@@ -1,0 +1,7 @@
+T1	Neutral_all 53 82	Виктор Александрович (Тупикин
+T2	Neutral_all 48 51	Вам
+A1	AnaforPerson T2
+T102	Neutral_all 230 234	вами
+A2	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T102

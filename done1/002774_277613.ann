@@ -1,0 +1,3 @@
+T0	Neutral_all 72 84	Иссу Цечоева
+T101	Neutral 297 304	Цечоева
+R101	Anafor Arg1:T0 Arg2:T101

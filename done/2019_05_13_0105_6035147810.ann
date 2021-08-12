@@ -1,0 +1,8 @@
+T0	Positive 0 27	Владимир Владимирович Путин
+T1	Positive 136 142	Сталин
+T2	Positive 67 69	он
+A1	AnaforPerson T2
+T3	Positive 89 91	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

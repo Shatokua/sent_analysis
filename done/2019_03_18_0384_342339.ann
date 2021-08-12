@@ -1,0 +1,9 @@
+T1	Neutral 148 166	Владимир Сергеевич
+T100	Neutral_all 14 32	Владимир Сергеевич
+T102	Neutral_all 53 56	его
+A1	AnaforPerson T102
+T103	Neutral 115 118	Вас
+A2	AnaforPerson T103
+R2	Anafor Arg1:T1 Arg2:T102
+R103	Anafor Arg1:T103 Arg2:T102
+R1	Anafor Arg1:T100 Arg2:T1	

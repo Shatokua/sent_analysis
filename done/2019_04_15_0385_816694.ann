@@ -1,0 +1,9 @@
+T0	Negative_all 137 142	Путин
+T1	Negative_all 160 168	Стрелков
+T2	Negative_all 223 228	Путин
+T3	Neutral_all 37 39	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T3 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T3

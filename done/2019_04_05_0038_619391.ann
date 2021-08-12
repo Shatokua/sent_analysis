@@ -1,0 +1,15 @@
+T4	Neutral 66 68	он
+A1	AnaforPerson T4
+T100	Neutral_all 15 20	Обама
+T101	Neutral_all 50 57	Флинном
+T102	Negative 166 171	Обамы
+T103	Negative 182 188	Флинну
+T105	Neutral_all 85 88	его
+A2	AnaforPerson T105
+T106	Neutral_all 106 109	ему
+A3	AnaforPerson T106
+R1	Anafor Arg1:T100 Arg2:T4	
+R2	Anafor Arg1:T101 Arg2:T105	
+R3	Anafor Arg1:T105 Arg2:T106	
+R4	Anafor Arg1:T103 Arg2:T106	
+R5	Anafor Arg1:T102 Arg2:T4	

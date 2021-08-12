@@ -1,0 +1,6 @@
+T0	Neutral_all 0 22	Владимир Александрович
+T1	Neutral_all 48 52	вами
+A1	AnaforPerson T1
+T2	Neutral_all 289 291	им
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Neutral_all 790 806	Эммануэль Макрон
+T1	Neutral_all 874 877	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

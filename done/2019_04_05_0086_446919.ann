@@ -1,0 +1,4 @@
+T1	Neutral_all 86 104	Зелимхан Хасимиков
+T2	Neutral_all 107 125	Саид Геримсултанов
+T3	Neutral_all 158 167	Хасимиков
+R1	Anafor Arg1:T1 Arg2:T3

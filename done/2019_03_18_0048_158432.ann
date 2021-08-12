@@ -1,0 +1,8 @@
+T100	Neutral_all 5 15	Исинбаевой
+T101	Neutral_all 67 77	Исинбаевой
+T102	Neutral_all 0 2	Он
+A1	AnaforPerson T102
+T103	Neutral_all 46 48	Он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103
+R2	Anafor Arg1:T100 Arg2:T101

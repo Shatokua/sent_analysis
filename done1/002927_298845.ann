@@ -1,0 +1,4 @@
+T0	Neutral_all 31 42	Дениса Тена
+T1	Neutral_all 88 92	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,11 @@
+T0	Neutral_all 99 112	Максим Галкин
+T1	Neutral_all 139 147	Началова
+T2	Neutral_all 12 16	тебя
+A1	AnaforPerson T2
+T3	Neutral 26 28	ты
+A2	AnaforPerson T3
+T4	Neutral_all 224 226	ее
+A3	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T4	

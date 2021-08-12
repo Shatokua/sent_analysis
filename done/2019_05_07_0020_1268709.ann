@@ -1,0 +1,9 @@
+T0	Neutral 97 127	Дмитрия Анатольевича Медведева
+T1	Neutral 146 148	им
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 10 14	вами
+A2	AnaforPerson T2
+T3	Neutral 159 162	его
+A3	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T3	

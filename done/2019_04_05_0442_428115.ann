@@ -1,0 +1,7 @@
+T100	Negative 0 5	Обама
+T102	Negative 71 76	Обамы
+T101	Negative 37 44	Хиллари
+T103	Negative 46 48	Он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T102 Arg2:T103	

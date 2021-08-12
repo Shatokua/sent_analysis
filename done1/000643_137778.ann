@@ -1,0 +1,7 @@
+T0	Positive_all 246 262	Деонтее Уайлдере
+T1	Neutral_all 380 393	Тайсону Фьюри
+T2	Neutral_all 346 348	вы
+A1	Plural T2
+T3	Neutral_all 424 427	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

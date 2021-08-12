@@ -1,0 +1,10 @@
+T0	Neutral_all 0 16	Нурсулу Ахметова
+T1	Neutral_all 174 193	Алмазбеку Атамбаеву
+T2	Neutral_all 152 155	Они
+A1	Plural T2
+T3	Neutral_all 195 197	Он
+A2	AnaforPerson T3
+T102	Neutral_all 65 68	она
+A3	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T102

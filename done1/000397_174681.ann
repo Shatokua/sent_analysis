@@ -1,0 +1,4 @@
+T0	Neutral 114 129	Марина Куликова
+T1	Positive_all 281 283	её
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

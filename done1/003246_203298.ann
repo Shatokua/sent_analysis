@@ -1,0 +1,7 @@
+T0	Neutral_all 18 33	Петра Порошенко
+T101	Neutral_all 140 142	вы
+A1	AnaforPerson T101
+T102	Neutral_all 145 149	ваша
+A2	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T102

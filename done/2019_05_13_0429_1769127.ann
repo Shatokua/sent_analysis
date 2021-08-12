@@ -1,0 +1,8 @@
+T0	Positive 49 55	Серена
+T1	Positive 0 4	Анжи
+T2	Positive 42 47	тобой
+A1	AnaforPerson T2
+T3	Positive 74 76	Ты
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T3	

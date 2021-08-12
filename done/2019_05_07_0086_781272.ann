@@ -1,0 +1,4 @@
+T0	Neutral 18 28	Бельянинов
+T1	Neutral 74 78	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

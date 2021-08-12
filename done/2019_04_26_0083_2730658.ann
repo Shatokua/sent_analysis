@@ -1,0 +1,5 @@
+T0	Negative_all 22 39	Макса Ферстаппена
+T1	Neutral_all 179 183	Макс
+T2	Neutral_all 159 162	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

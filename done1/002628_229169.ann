@@ -1,0 +1,4 @@
+T0	Neutral_all 41 59	Дмитрию Губерниеву
+T101	Mixed 95 97	он
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

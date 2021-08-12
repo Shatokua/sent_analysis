@@ -1,0 +1,7 @@
+T1	Neutral 4 11	Карякин
+T2	Neutral 0 2	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 41 43	Он
+A2	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T3	

@@ -1,0 +1,7 @@
+T0	Neutral_all 74 91	Евгения Павловича
+T1	Neutral_all 57 59	он
+A1	AnaforPerson T1
+T2	Neutral_all 39 42	ним
+A2	Plural T2
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

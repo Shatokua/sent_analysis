@@ -1,0 +1,13 @@
+T0	Neutral_all 119 123	Усик
+T1	Neutral_all 181 189	Поветкин
+T2	Neutral_all 206 219	Энтони Джошуа
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T4	Neutral_all 225 227	он
+A2	AnaforPerson T4
+T5	Neutral_all 247 250	Они
+A3	Plural T5
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T2 Arg2:T5
+R102	Anafor Arg1:T5 Arg2:T0

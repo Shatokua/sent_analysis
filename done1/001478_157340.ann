@@ -1,0 +1,4 @@
+T0	Neutral_all 2 8	Шохина
+T1	Neutral_all 103 109	Репика
+T2	Neutral_all 111 124	Алексей Репик
+R1	Anafor Arg1:T2 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Neutral 13 21	Леденева
+T1	Neutral 60 76	Ведерникову М. Ю
+T102	Neutral 121 128	Леденев
+R1	Anafor Arg1:T0 Arg2:T102	

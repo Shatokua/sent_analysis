@@ -1,0 +1,6 @@
+T0	Neutral 56 61	Обаме
+T1	Neutral 8 10	он
+A1	AnaforPerson T1
+T2	Neutral 29 32	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

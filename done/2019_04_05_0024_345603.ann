@@ -1,0 +1,4 @@
+T0	Neutral_all 49 57	Фетисова
+T1	Neutral_all 83 89	Попова
+T2	Neutral_all 91 98	Фетисов
+R1	Anafor Arg1:T2 Arg2:T0

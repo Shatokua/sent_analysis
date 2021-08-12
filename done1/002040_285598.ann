@@ -1,0 +1,8 @@
+T0	Neutral_all 147 164	Ленара Музафарова
+T1	Neutral_all 305 307	он
+A1	AnaforPerson T1
+T2	Neutral_all 345 349	него
+A2	AnaforPerson T2
+T102	Neutral_all 339 341	мы
+A3	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2

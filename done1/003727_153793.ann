@@ -1,0 +1,8 @@
+T0	Neutral_all 134 151	Шерзодом Юсуповым
+T1	Neutral_all 182 188	Юсупов
+T2	Neutral_all 206 208	он
+T3	Neutral_all 276 278	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

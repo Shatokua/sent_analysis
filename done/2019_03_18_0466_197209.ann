@@ -1,0 +1,4 @@
+T100	Neutral_all 125 133	Тимченко
+T101	Neutral_all 135 143	Тимченко
+T102	Neutral_all 27 34	Собчака
+R1	Anafor Arg1:T100 Arg2:T101

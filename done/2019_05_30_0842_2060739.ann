@@ -1,0 +1,9 @@
+T0	Neutral_all 139 146	Эльгарт
+T1	Neutral_all 156 165	Баталовым
+T3	Neutral_all 121 123	их
+A2	Plural T3
+T102	Neutral 84 87	Они
+A3	Plural T102
+A1	AnaforPerson T102
+A4	AnaforPerson T3
+R1	Anafor Arg1:T102 Arg2:T3	

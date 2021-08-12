@@ -1,0 +1,5 @@
+T1	Negative 76 79	его
+A1	AnaforPerson T1
+T100	Negative_all 0 14	Владимир Путин
+T102	Neutral_all 175 180	Обаму
+R1	Anafor Arg1:T100 Arg2:T1	

@@ -1,0 +1,8 @@
+T100	Neutral_all 19 30	Саша Травка
+T101	Negative 143 150	Монэгэн
+T102	Negative 152 159	Оганова
+T105	Neutral_all 57 60	она
+A1	AnaforPerson T105
+R1	Anafor Arg1:T100 Arg2:T105
+T1	Negative 162 166	Жени
+T2	Negative 167 171	Вити

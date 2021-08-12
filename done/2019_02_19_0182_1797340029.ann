@@ -1,0 +1,8 @@
+T101	Neutral 47 57	Плахотнюка
+T1	Neutral 163 165	он
+R1	Anafor Arg1:T101 Arg2:T1	
+T2	Negative 70 73	его
+A1	AnaforPerson T2
+T3	Negative 231 236	этого
+A2	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3	

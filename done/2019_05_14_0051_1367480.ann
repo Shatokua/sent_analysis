@@ -1,0 +1,5 @@
+T0	Negative_all 30 37	Климкин
+T1	Neutral_all 89 97	Чугункин
+T2	Neutral_all 7 10	нас
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

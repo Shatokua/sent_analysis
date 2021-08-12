@@ -1,0 +1,10 @@
+T0	Neutral 18 38	Левона Тер-Петросяна
+T1	Neutral_all 217 230	Тер-Петросяна
+T2	Neutral 302 315	Никол Пашинян
+T3	Neutral 81 83	он
+A1	AnaforPerson T3
+T4	Neutral_all 284 287	ним
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T4	

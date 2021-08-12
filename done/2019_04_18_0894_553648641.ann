@@ -1,0 +1,10 @@
+T0	Neutral 65 75	Башар Асад
+T2	Negative 94 97	Его
+A2	AnaforPerson T2
+T3	Negative 161 163	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+T1	Neutral 85 87	их
+A1	AnaforPerson T1
+A4	Plural T1

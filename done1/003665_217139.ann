@@ -1,0 +1,15 @@
+T0	Neutral_all 337 352	Мария Шовкопляс
+T1	Neutral_all 20 22	мы
+A1	Plural T1
+T2	Neutral_all 318 320	мы
+A2	Plural T2
+T3	Neutral_all 383 386	она
+A3	AnaforPerson T3
+T4	Neutral_all 610 612	ей
+A4	AnaforPerson T4
+T5	Neutral_all 663 666	она
+A5	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T4
+R4	Anafor Arg1:T1 Arg2:T2

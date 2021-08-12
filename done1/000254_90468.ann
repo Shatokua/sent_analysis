@@ -1,0 +1,10 @@
+T0	Neutral_all 5 13	Черкасов
+T1	Neutral_all 44 59	Андрей Черкасов
+T2	Neutral_all 133 148	Андрей Черкасов
+T3	Neutral_all 62 64	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T2

@@ -1,0 +1,5 @@
+T0	Neutral_all 50 63	Андрей Усиков
+T1	Neutral_all 150 157	Усикова
+T2	Neutral_all 2 5	нас
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T0	Neutral_all 206 217	Меган Маркл
+T1	Neutral_all 244 247	она
+A1	AnaforPerson T1
+T2	Neutral_all 308 311	она
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

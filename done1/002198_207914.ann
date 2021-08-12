@@ -1,0 +1,29 @@
+T0	Neutral_all 152 156	Бэйл
+T1	Neutral_all 218 223	Гарет
+T2	Neutral_all 513 532	Альфредо Ди Стефано
+T3	Neutral_all 535 550	Зинедину Зидану
+T4	Neutral_all 574 580	Зидана
+T5	Neutral_all 630 635	Бэйла
+T6	Neutral_all 715 721	Гарета
+T7	Neutral_all 108 111	они
+A1	Plural T7
+T8	Neutral_all 178 181	ему
+A2	AnaforPerson T8
+T9	Neutral_all 259 261	Он
+A3	AnaforPerson T9
+T10	Neutral_all 496 499	они
+A4	Plural T10
+T11	Neutral_all 605 608	его
+A5	AnaforPerson T11
+T12	Neutral_all 693 696	ему
+A6	AnaforPerson T12
+R1	Anafor Arg1:T0 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T8
+R4	Anafor Arg1:T7 Arg2:T10
+R5	Anafor Arg1:T3 Arg2:T4
+R6	Anafor Arg1:T4 Arg2:T11
+R7	Anafor Arg1:T5 Arg2:T12
+R3	Anafor Arg1:T1 Arg2:T6
+R8	Anafor Arg1:T6 Arg2:T9
+R104	Anafor Arg1:T5 Arg2:T1
+R107	Anafor Arg1:T9 Arg2:T8

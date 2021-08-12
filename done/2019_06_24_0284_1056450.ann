@@ -1,0 +1,5 @@
+T1	Negative 154 166	Бориса Грица
+T2	Negative_all 103 107	него
+A1	AnaforPerson T2
+T100	Negative 17 36	Алексею Венедиктову
+R1	Anafor Arg1:T100 Arg2:T2	

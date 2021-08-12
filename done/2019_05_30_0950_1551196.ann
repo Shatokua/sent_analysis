@@ -1,0 +1,7 @@
+T0	Negative_all 52 59	Козлову
+T1	Neutral_all 128 140	Иван Абрамов
+T2	Neutral_all 2 5	нас
+A1	Plural T2
+T3	Neutral_all 77 80	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 0 9	Абу-Мазен
+T1	Neutral_all 27 36	Бени Ганц
+T2	Neutral_all 114 123	Абу Мазен
+T3	Neutral_all 132 135	ему
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

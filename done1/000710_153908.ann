@@ -1,0 +1,3 @@
+T0	Neutral_all 28 41	П.Милосердова
+T1	Neutral_all 139 152	П.Милосердову
+R1	Anafor Arg1:T0 Arg2:T1

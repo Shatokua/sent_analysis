@@ -1,0 +1,4 @@
+T101	Neutral 32 64	Алексеем Леонидовичем (Кудриным)
+T102	Neutral_all 66 68	он
+A1	AnaforPerson T102
+R101	Anafor Arg1:T101 Arg2:T102

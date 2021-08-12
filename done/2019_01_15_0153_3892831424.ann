@@ -1,0 +1,12 @@
+T1	Neutral 5 10	Путин
+T100	Neutral_all 134 144	Мельникова
+T102	Negative_all 191 201	Навального
+T103	Neutral_all 265 274	Навальный
+T104	Neutral_all 284 292	Немцовым
+T105	Neutral_all 295 305	Касьяновым
+T106	Neutral 328 331	его
+T107	Negative 347 349	он
+R101	Anafor Arg1:T103 Arg2:T106
+A2	AnaforPerson T106
+A1	AnaforPerson T107
+R1	Anafor Arg1:T106 Arg2:T107	

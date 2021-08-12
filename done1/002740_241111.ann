@@ -1,0 +1,12 @@
+T0	Neutral_all 0 7	Петр Ян
+T1	Neutral_all 9 20	Шон О'Мэлли
+T2	Neutral_all 50 60	Рики Симон
+T3	Neutral_all 62 73	Крон Грейси
+T4	Neutral_all 75 91	Рузвельт Робертс
+T5	Neutral_all 93 104	Джефф О'Нил
+T6	Neutral_all 106 116	Бен Аскрен
+T7	Neutral_all 174 188	Робби Лоулером
+T10	Neutral_all 150 153	его
+A1	AnaforPerson T10
+T8	Neutral_all 212 233	Забит (Магомедшарипов
+R1	Anafor Arg1:T6 Arg2:T10

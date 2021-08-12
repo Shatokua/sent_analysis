@@ -1,0 +1,10 @@
+T0	Neutral_all 257 267	Рамазанова
+T1	Neutral_all 543 551	А.Ладина
+T2	Neutral_all 877 880	они
+A1	Plural T2
+T3	Neutral_all 901 904	они
+A2	Plural T3
+T4	Neutral_all 947 950	они
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

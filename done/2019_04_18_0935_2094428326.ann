@@ -1,0 +1,11 @@
+T0	Neutral 240 246	Рахмон
+T1	Neutral 364 374	Наджибуллу
+T2	Neutral 153 155	им
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 266 268	Он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+T4	Neutral 355 358	его
+A4	AnaforPerson T4
+R2	Anafor Arg1:T3 Arg2:T4	

@@ -1,0 +1,7 @@
+T0	Positive 100 109	Томас Бах
+T1	Positive 165 167	он
+A1	AnaforPerson T1
+T2	Positive 234 236	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T0	Neutral_all 44 57	Олегу Сенцову
+T1	Neutral_all 229 236	Сенцова
+T2	Neutral_all 141 144	она
+R1	Anafor Arg1:T0 Arg2:T1

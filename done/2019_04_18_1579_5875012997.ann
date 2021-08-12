@@ -1,0 +1,8 @@
+T0	Negative 20 34	Арсений Яценюк
+T1	Neutral 125 128	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+#1	AnnotatorNotes T1	непонятно негатив или нейтраль
+T2	Negative 293 295	им
+A3	AnaforPerson T2
+A4	Plural T2

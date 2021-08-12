@@ -1,0 +1,4 @@
+T100	Negative 8 15	Клинтон
+T101	Neutral_all 85 91	Путину
+T102	Negative 178 183	Путин
+R1	Anafor Arg1:T101 Arg2:T102	

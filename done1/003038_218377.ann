@@ -1,0 +1,6 @@
+T0	Neutral_all 40 55	Виктор Иванович
+T1	Neutral_all 214 229	Виктор Иванович
+T2	Neutral_all 286 289	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

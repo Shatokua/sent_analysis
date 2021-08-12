@@ -1,0 +1,5 @@
+T100	Negative 1 15	Кондолиза Райс
+T101	Negative 83 93	Саакашвили
+T102	Negative 78 81	ему
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

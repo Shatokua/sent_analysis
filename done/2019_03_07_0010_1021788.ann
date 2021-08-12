@@ -1,0 +1,4 @@
+T1	Neutral 47 58	Магнитского
+T100	Neutral 0 5	Путин
+T2	Negative 78 80	он
+R1	Anafor Arg1:T100 Arg2:T2	

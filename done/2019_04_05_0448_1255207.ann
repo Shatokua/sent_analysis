@@ -1,0 +1,4 @@
+T100	Negative 13 24	Марк Вагнер
+T101	Negative 88 94	Вагнер
+T102	Negative 188 194	Стилом
+R1	Anafor Arg1:T100 Arg2:T101	

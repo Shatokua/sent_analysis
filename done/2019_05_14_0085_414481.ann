@@ -1,0 +1,5 @@
+T0	Neutral_all 115 122	Надежду
+T1	Neutral_all 192 199	Надежда
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

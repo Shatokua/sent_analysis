@@ -1,0 +1,4 @@
+T1	Positive 8 13	Света
+T2	Positive 70 75	твоей
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

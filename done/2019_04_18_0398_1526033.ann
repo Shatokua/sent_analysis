@@ -1,0 +1,9 @@
+T0	Negative 27 43	Касема Сулеймани
+T1	Negative 64 67	Они
+A1	Plural T1
+T2	Negative 86 89	они
+A2	Plural T2
+T3	Negative 111 113	их
+A3	Plural T3
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,45 @@
+T0	Neutral_all 0 13	Михаил Абызов
+T1	Neutral_all 168 183	Михаилу Абызову
+T2	Neutral_all 332 338	Абызов
+T3	Neutral_all 510 523	Михаил Абызов
+T4	Neutral_all 56 59	ним
+A1	AnaforPerson T4
+T5	Neutral_all 231 234	его
+A2	AnaforPerson T5
+T6	Neutral_all 273 275	он
+A3	AnaforPerson T6
+T7	Neutral_all 360 363	его
+A4	AnaforPerson T7
+T8	Neutral_all 413 416	его
+A5	AnaforPerson T8
+T9	Neutral_all 540 543	его
+A6	AnaforPerson T9
+T10	Neutral_all 552 554	он
+A7	AnaforPerson T10
+T11	Neutral_all 587 589	он
+A8	AnaforPerson T11
+T12	Neutral_all 612 616	него
+A9	AnaforPerson T12
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T10
+R5	Anafor Arg1:T10 Arg2:T11
+R8	Anafor Arg1:T9 Arg2:T8
+R9	Anafor Arg1:T8 Arg2:T7
+R6	Anafor Arg1:T11 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T12
+R10	Anafor Arg1:T12 Arg2:T9
+R11	Anafor Arg1:T7 Arg2:T5
+R12	Anafor Arg1:T5 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T2
+R104	Anafor Arg1:T2 Arg2:T6
+R105	Anafor Arg1:T6 Arg2:T11
+R106	Anafor Arg1:T11 Arg2:T4
+R107	Anafor Arg1:T4 Arg2:T5
+R108	Anafor Arg1:T5 Arg2:T7
+R109	Anafor Arg1:T7 Arg2:T8
+R110	Anafor Arg1:T8 Arg2:T9
+R111	Anafor Arg1:T9 Arg2:T10
+R112	Anafor Arg1:T10 Arg2:T12

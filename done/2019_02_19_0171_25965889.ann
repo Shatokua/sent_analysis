@@ -1,0 +1,6 @@
+T3	Negative 305 311	Сурков
+T4	Negative 357 359	он
+A1	AnaforPerson T4
+T101	Neutral_all 22 39	Дмитрия Медведева
+T102	Neutral_all 53 60	Бакиева
+R1	Anafor Arg1:T3 Arg2:T4

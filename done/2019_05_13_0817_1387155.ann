@@ -1,0 +1,4 @@
+T0	Neutral 0 8	Моуринью
+T1	Positive 38 41	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

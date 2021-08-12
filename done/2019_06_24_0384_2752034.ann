@@ -1,0 +1,6 @@
+T0	Neutral_all 98 104	Ленина
+T1	Neutral_all 231 237	Ленина
+T2	Neutral_all 133 135	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

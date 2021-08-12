@@ -1,0 +1,6 @@
+T100	Neutral_all 23 28	Обама
+T101	Negative 144 149	Обамы
+T102	Negative 139 142	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	

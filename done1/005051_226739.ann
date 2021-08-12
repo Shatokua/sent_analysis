@@ -1,0 +1,10 @@
+T0	Neutral_all 430 442	Ольга Чехова
+T1	Neutral_all 636 650	Ольгой Чеховой
+T2	Neutral_all 353 355	он
+A1	AnaforPerson T2
+T3	Neutral_all 375 378	Они
+A2	Plural T3
+T4	Neutral_all 71 73	её
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T4

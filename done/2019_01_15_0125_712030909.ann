@@ -1,0 +1,5 @@
+T1	Neutral 0 12	Г.Явлинского
+T100	Negative_all 132 139	В.Чуров
+T2	Negative 235 237	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T2	

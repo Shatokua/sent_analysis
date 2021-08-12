@@ -1,0 +1,10 @@
+T0	Neutral_all 42 48	Путина
+T1	Neutral_all 68 85	Евгения Пригожина
+T2	Neutral_all 87 92	Путин
+T3	Neutral_all 54 57	его
+A1	AnaforPerson T3
+T4	Neutral_all 93 96	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

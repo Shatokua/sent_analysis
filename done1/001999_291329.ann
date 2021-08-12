@@ -1,0 +1,13 @@
+T0	Neutral_all 282 293	Джинни Басс
+T1	Neutral_all 136 138	Мы
+A1	Plural T1
+T2	Positive_all 326 329	она
+A2	AnaforPerson T2
+T3	Neutral_all 408 411	них
+A3	Plural T3
+T4	Neutral_all 427 430	нам
+A4	Plural T4
+T102	Neutral_all 213 215	вы
+A5	Plural T102
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T4

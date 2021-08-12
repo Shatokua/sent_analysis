@@ -1,0 +1,8 @@
+T101	Neutral_all 57 62	Гюлен
+T102	Neutral_all 111 119	Брансона
+T103	Neutral 73 76	его
+A1	AnaforPerson T103
+T104	Neutral 106 109	его
+A2	AnaforPerson T104
+R101	Anafor Arg1:T101 Arg2:T103
+R102	Anafor Arg1:T102 Arg2:T104

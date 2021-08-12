@@ -1,0 +1,13 @@
+T0	Neutral_all 445 459	Ивана Голунова
+T1	Neutral_all 11 13	мы
+A1	Plural T1
+T2	Neutral_all 241 244	Они
+A2	Plural T2
+T3	Neutral_all 53 56	она
+T4	Neutral_all 351 353	Мы
+A3	Plural T4
+T103	Neutral_all 273 276	нас
+A4	Plural T103
+R1	Anafor Arg1:T1 Arg2:T4
+R101	Anafor Arg1:T1 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T4

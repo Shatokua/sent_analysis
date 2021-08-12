@@ -1,0 +1,12 @@
+T0	Neutral_all 47 59	Деревянченко
+T1	Neutral_all 90 99	Головкина
+T2	Neutral_all 126 146	Ванесом Мартиросяном
+T3	Neutral_all 189 195	Канело
+T4	Neutral_all 241 251	Головкиным
+T5	Neutral_all 157 160	его
+A1	AnaforPerson T5
+T105	Neutral_all 104 107	GGG
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T1 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T105
+R103	Anafor Arg1:T105 Arg2:T5

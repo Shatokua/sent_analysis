@@ -1,0 +1,9 @@
+T0	Neutral_all 6 14	Самедова
+T1	Neutral_all 17 23	Ещенко
+T2	Neutral_all 80 83	они
+A1	Plural T2
+T3	Neutral_all 180 182	Мы
+A2	Plural T3
+T4	Neutral_all 188 191	вас
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4

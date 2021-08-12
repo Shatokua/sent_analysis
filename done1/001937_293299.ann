@@ -1,0 +1,11 @@
+T0	Neutral_all 108 121	Жоржа Дантеса
+T1	Neutral_all 322 328	Дантес
+T2	Neutral_all 163 165	он
+A1	AnaforPerson T2
+T3	Neutral_all 253 255	он
+A2	AnaforPerson T3
+T104	Neutral_all 58 66	Дантесов
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T104
+R103	Anafor Arg1:T104 Arg2:T2

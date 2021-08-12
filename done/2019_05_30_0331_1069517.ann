@@ -1,0 +1,6 @@
+T0	Neutral_all 15 21	Ленина
+T1	Neutral_all 66 84	Рамзану Ахматовичу
+T2	Neutral_all 99 111	Хаджи-Мурата
+T3	Neutral_all 139 148	Кадыровым
+R1	Anafor Arg1:T3 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T3

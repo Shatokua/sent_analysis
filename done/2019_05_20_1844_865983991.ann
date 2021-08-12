@@ -1,0 +1,7 @@
+T0	Neutral 54 64	Потомского
+T1	Neutral 20 23	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 81 83	он
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

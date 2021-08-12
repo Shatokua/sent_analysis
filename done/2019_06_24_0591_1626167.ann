@@ -1,0 +1,6 @@
+T0	Neutral_all 34 49	Игоря Кононенко
+T1	Neutral_all 51 63	Юрия Луценко
+T2	Neutral_all 65 79	Арсена Авакова
+T3	Neutral_all 29 32	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

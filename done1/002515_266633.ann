@@ -1,0 +1,7 @@
+T0	Positive_all 105 114	Свиридова
+T1	Neutral_all 356 370	Владимир Путин
+T2	Neutral_all 57 67	Свиридовым
+T3	Neutral_all 161 163	мы
+A1	Plural T3
+R1	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T2

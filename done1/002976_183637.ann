@@ -1,0 +1,12 @@
+T0	Neutral_all 0 18	Алексей Венедиктов
+T1	Neutral_all 118 133	Алексей Голубев
+T2	Neutral_all 220 231	Венедиктова
+T3	Neutral_all 74 78	него
+A1	AnaforPerson T3
+T4	Neutral_all 105 108	Его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T3

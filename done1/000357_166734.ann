@@ -1,0 +1,7 @@
+T1	Neutral_all 415 418	его
+A1	AnaforPerson T1
+T2	Neutral_all 342 344	он
+A2	AnaforPerson T2
+T100	Neutral 307 324	Владимира Илюхина
+R2	Anafor Arg1:T2 Arg2:T1
+R1	Anafor Arg1:T100 Arg2:T2	

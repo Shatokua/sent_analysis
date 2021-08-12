@@ -1,0 +1,7 @@
+T0	Neutral_all 75 84	Анастасия
+T1	Mixed 135 148	Сергей Шнуров
+T2	Neutral_all 164 173	Волочкову
+T3	Neutral_all 27 30	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T2	

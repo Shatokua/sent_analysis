@@ -1,0 +1,6 @@
+T0	Neutral_all 39 47	Рябинина
+T1	Neutral_all 64 81	Александр Рябинин
+T2	Negative_all 117 119	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

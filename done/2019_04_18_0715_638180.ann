@@ -1,0 +1,6 @@
+T0	Negative 41 46	Серов
+T1	Neutral 12 15	его
+A1	AnaforPerson T1
+T2	Negative 114 123	Смольного
+A2	Unclear T1
+#1	AnnotatorNotes T1	непонятно к кому относится

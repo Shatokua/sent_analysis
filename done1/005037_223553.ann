@@ -1,0 +1,4 @@
+T0	Neutral_all 9 37	Голунова Ивана Валентиновича
+T1	Neutral_all 105 108	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

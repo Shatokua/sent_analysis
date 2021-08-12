@@ -1,0 +1,14 @@
+T0	Neutral_all 142 148	Русого
+T1	Neutral_all 209 218	Кобяковым
+T2	Neutral_all 224 239	Михаил Иванович
+T3	Neutral_all 257 263	Зайцем
+T4	Neutral_all 186 189	его
+A1	AnaforPerson T4
+T105	Negative 252 254	вы
+A3	AnaforPerson T105
+A4	Plural T105
+T6	Neutral 102 106	него
+A5	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T4	
+R2	Anafor Arg1:T2 Arg2:T105	
+R3	Anafor Arg1:T3 Arg2:T105	

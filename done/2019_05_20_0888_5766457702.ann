@@ -1,0 +1,4 @@
+T0	Neutral 43 57	Бориса Немцова
+T1	Neutral 76 79	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

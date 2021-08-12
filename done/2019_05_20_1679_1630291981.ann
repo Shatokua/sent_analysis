@@ -1,0 +1,6 @@
+T0	Neutral 138 148	Джон Керри
+T1	Neutral 167 169	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Mixed 391 394	его
+A2	AnaforPerson T2

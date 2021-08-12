@@ -1,0 +1,5 @@
+T0	Neutral_all 82 99	Владимир Васильев
+T1	Neutral_all 285 295	Здунова А.
+T2	Neutral_all 225 228	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

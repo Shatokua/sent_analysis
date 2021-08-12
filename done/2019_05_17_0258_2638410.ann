@@ -1,0 +1,10 @@
+T0	Neutral_all 9 20	Коломойский
+T1	Neutral_all 30 39	Порошенко
+T2	Neutral_all 65 77	Голобородько
+T3	Neutral_all 89 109	Владимира Зеленского
+T4	Neutral_all 191 201	Зеленского
+T105	Neutral_all 54 56	Он
+A1	AnaforPerson T105
+R1	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T2
+R103	Anafor Arg1:T0 Arg2:T105

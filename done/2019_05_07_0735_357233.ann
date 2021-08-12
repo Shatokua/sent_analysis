@@ -1,0 +1,14 @@
+T0	Neutral 0 5	Путин
+T1	Neutral 70 72	вы
+A1	AnaforPerson T1
+T2	Neutral 76 79	них
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 95 98	они
+A4	AnaforPerson T3
+A5	Plural T3
+T4	Mixed 136 138	их
+A6	AnaforPerson T4
+A7	Plural T4
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T4	

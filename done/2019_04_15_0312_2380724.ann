@@ -1,0 +1,4 @@
+T0	Negative_all 0 14	Сергей Соседов
+T1	Neutral_all 51 60	Пугачевой
+T2	Negative_all 84 92	Соседова
+R1	Anafor Arg1:T0 Arg2:T2

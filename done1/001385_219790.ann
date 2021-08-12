@@ -1,0 +1,9 @@
+T0	Neutral_all 156 171	Никола Пашиняна
+T1	Neutral_all 207 223	Арарата Мирзояна
+T2	Neutral_all 266 282	Араика Арутюняна
+T3	Neutral_all 339 342	них
+A1	AnaforPerson T3
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T3

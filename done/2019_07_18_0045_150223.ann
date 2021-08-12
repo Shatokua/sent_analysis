@@ -1,0 +1,6 @@
+T0	Neutral 0 13	Дональд Трамп
+T1	Neutral 54 56	вы
+A1	AnaforPerson T1
+T2	Positive 65 67	он
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

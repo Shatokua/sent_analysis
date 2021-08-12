@@ -1,0 +1,13 @@
+T0	Neutral_all 29 36	Пашинян
+T1	Neutral_all 498 513	Никола Пашиняна
+T2	Neutral_all 697 705	Пашиняна
+T3	Neutral_all 111 114	нас
+A1	Plural T3
+T4	Neutral_all 342 344	мы
+A2	Plural T4
+T105	Neutral_all 919 921	мы
+A3	Plural T105
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T4 Arg2:T3
+R101	Anafor Arg1:T105 Arg2:T4

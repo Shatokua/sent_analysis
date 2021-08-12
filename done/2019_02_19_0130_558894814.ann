@@ -1,0 +1,10 @@
+T101	Neutral 28 37	Януковича
+T102	Neutral_all 166 175	Тимошенко
+T103	Neutral_all 179 186	Луценко
+T104	Neutral_all 373 381	Янукович
+T105	Neutral_all 293 299	Пшонку
+T1	Neutral 51 54	его
+R1	Anafor Arg1:T101 Arg2:T1	
+T2	Negative 154 156	он
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T104	

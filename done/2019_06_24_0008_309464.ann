@@ -1,0 +1,8 @@
+T0	Negative_all 168 183	Сергей Левочкин
+T1	Negative_all 197 211	Дмитрий Фирташ
+T2	Neutral_all 76 79	нас
+A1	Plural T2
+T3	Negative_all 100 103	вам
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T3

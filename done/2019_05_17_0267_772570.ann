@@ -1,0 +1,4 @@
+T3	Neutral_all 178 181	его
+A2	AnaforPerson T3
+T1	Neutral 161 175	Тайип] Эрдоган
+R1	Anafor Arg1:T1 Arg2:T3	

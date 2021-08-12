@@ -1,0 +1,11 @@
+T0	Neutral_all 29 40	Полтавченко
+T1	Neutral_all 107 113	Собчак
+T2	Neutral_all 10 13	она
+A1	AnaforPerson T2
+T3	Neutral_all 115 118	Она
+A2	AnaforPerson T3
+T4	Neutral_all 159 161	ей
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

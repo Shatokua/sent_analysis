@@ -1,0 +1,5 @@
+T100	Negative 5 13	Савченко
+T101	Positive 70 81	Жанны Д'Арк
+T102	Negative 85 88	нее
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	

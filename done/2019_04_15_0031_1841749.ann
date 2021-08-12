@@ -1,0 +1,5 @@
+T101	Neutral_all 129 135	Трампа
+T102	Positive 66 68	он
+A1	AnaforPerson T102
+T1	Positive 7 20	Эндрю Брансон
+R1	Anafor Arg1:T1 Arg2:T102	

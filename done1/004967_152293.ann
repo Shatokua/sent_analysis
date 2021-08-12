@@ -1,0 +1,7 @@
+T0	Neutral_all 480 494	Андрей Колядин
+T1	Neutral_all 744 751	Клишаса
+T2	Neutral_all 770 772	он
+A1	AnaforPerson T2
+T102	Neutral_all 79 83	ними
+A2	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2

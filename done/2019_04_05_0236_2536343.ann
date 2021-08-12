@@ -1,0 +1,9 @@
+T3	Negative 91 94	его
+A2	AnaforPerson T3
+T100	Negative 0 6	Мадуро
+T101	Negative 96 102	Мадуро
+T102	Negative 9 12	его
+A3	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T3	
+R3	Anafor Arg1:T101 Arg2:T3	

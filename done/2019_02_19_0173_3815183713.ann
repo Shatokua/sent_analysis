@@ -1,0 +1,5 @@
+T3	Neutral 153 156	ему
+A1	AnaforPerson T3
+T101	Negative_all 0 5	Обама
+T102	Positive_all 108 113	Путин
+R1	Anafor Arg1:T102 Arg2:T3

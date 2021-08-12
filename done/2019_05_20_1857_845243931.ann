@@ -1,0 +1,4 @@
+T0	Neutral 169 179	Чернецкого
+T1	Neutral 150 153	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T1 Arg2:T0	

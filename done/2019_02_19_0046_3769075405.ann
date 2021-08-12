@@ -1,0 +1,4 @@
+T101	Negative_all 163 171	Михайлов
+T102	Mixed 178 184	Шанцев
+T1	Negative 14 16	он
+R1	Anafor Arg1:T102 Arg2:T1	

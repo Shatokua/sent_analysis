@@ -1,0 +1,4 @@
+T0	Negative 29 36	Немцова
+T1	Negative 8 11	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

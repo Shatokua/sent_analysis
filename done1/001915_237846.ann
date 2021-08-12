@@ -1,0 +1,6 @@
+T0	Neutral_all 653 663	А.Жунусову
+T1	Neutral_all 851 860	А.Жунусов
+T2	Neutral_all 5 7	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T2

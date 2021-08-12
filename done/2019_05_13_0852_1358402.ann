@@ -1,0 +1,4 @@
+T0	Neutral 73 87	Валерий Карпин
+T1	Positive 175 178	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

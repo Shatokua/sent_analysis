@@ -1,0 +1,9 @@
+T100	Neutral_all 0 6	Маттео
+T101	Neutral_all 176 182	Маттео
+T102	Neutral 114 117	ему
+A1	AnaforPerson T102
+T103	Neutral 135 137	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T101 Arg2:T103	

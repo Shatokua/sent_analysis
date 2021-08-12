@@ -1,0 +1,18 @@
+T0	Neutral_all 59 66	Турбина
+T1	Neutral_all 68 72	Леша
+T2	Neutral_all 114 118	Леша
+T3	Neutral_all 81 83	ты
+A1	AnaforPerson T3
+T4	Neutral_all 84 87	его
+T5	Neutral_all 98 100	он
+T6	Neutral_all 101 105	тебе
+A2	AnaforPerson T6
+R1	Anafor Arg1:T5 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T6
+R4	Anafor Arg1:T2 Arg2:T1
+R5	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3
+R104	Anafor Arg1:T4 Arg2:T5

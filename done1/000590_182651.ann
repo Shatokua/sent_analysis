@@ -1,0 +1,10 @@
+T0	Neutral_all 216 224	Васильев
+T1	Neutral_all 330 343	Юрий Васильев
+T2	Neutral_all 56 59	они
+A1	Plural T2
+T3	Neutral_all 263 265	их
+A2	Plural T3
+T4	Neutral_all 401 403	их
+A3	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T0

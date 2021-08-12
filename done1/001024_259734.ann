@@ -1,0 +1,7 @@
+T0	Neutral_all 116 129	Ощепковой Л.Д
+T2	Neutral_all 146 161	Дмитрий Дедюкин
+T3	Neutral_all 209 224	Дмитриевой Д.С.
+T8	Neutral_all 306 322	Надежда Дедюкина
+T9	Neutral_all 379 394	Ощепковой Л.Д,,
+T1	Neutral_all 256 265	Новак Л.М
+R1	Anafor Arg1:T0 Arg2:T9

@@ -1,0 +1,17 @@
+T0	Neutral_all 0 6	Саидов
+T1	Neutral_all 117 134	Ибрагимом Алиевым
+T2	Neutral_all 177 183	Саидов
+T3	Neutral_all 194 200	Алиеву
+T4	Neutral_all 298 303	Алиев
+T5	Neutral_all 82 85	Они
+A1	Plural T5
+T6	Neutral_all 208 211	ему
+A2	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T6
+R3	Anafor Arg1:T1 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T5
+R6	Anafor Arg1:T6 Arg2:T5
+R103	Anafor Arg1:T1 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T3

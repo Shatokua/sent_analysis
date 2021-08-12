@@ -1,0 +1,10 @@
+T1	Neutral_all 184 186	Он
+A1	AnaforPerson T1
+T3	Neutral_all 309 311	ее
+T4	Neutral_all 324 326	ее
+R1	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T3	
+A2	AnaforPerson T3
+A3	AnaforPerson T4
+T2	Neutral 101 111	Лучин Д.А.
+R2	Anafor Arg1:T2 Arg2:T1	

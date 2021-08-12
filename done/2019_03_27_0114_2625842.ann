@@ -1,0 +1,9 @@
+T100	Positive_all 78 90	Хелен Миррен
+T101	Positive_all 92 105	Джон Траволта
+T102	Positive_all 178 185	Полунин
+T103	Positive 108 110	он
+A1	AnaforPerson T103
+T104	Positive 217 219	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T102 Arg2:T104	
+R2	Anafor Arg1:T101 Arg2:T103	

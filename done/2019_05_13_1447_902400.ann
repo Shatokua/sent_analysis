@@ -1,0 +1,4 @@
+T0	Positive 0 6	Андрей
+T1	Positive 27 31	тебя
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

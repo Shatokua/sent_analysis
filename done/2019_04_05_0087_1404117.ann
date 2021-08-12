@@ -1,0 +1,10 @@
+T100	Neutral_all 55 64	Навальный
+T101	Neutral_all 106 115	Дерипаска
+T102	Neutral_all 129 138	Дерипаски
+T103	Neutral 65 68	его
+A1	AnaforPerson T103
+T104	Neutral_all 140 142	он
+A2	AnaforPerson T104
+R2	Anafor Arg1:T102 Arg2:T104
+R1	Anafor Arg1:T101 Arg2:T102
+R3	Anafor Arg1:T101 Arg2:T103	

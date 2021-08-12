@@ -1,0 +1,5 @@
+T0	Neutral_all 43 58	Анатолий Локоть
+T1	Mixed 122 128	Локоть
+T103	Negative 60 62	вы
+A2	Plural T103
+R1	Anafor Arg1:T0 Arg2:T1	

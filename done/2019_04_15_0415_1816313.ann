@@ -1,0 +1,7 @@
+T4	Neutral 82 84	Он
+A1	AnaforPerson T4
+T100	Neutral_all 13 20	Леброна
+T101	Negative_all 71 80	Дон Лемон
+T102	Mixed 101 107	Джеймс
+T103	Positive_all 153 166	Майкл Джордан
+R2	Anafor Arg1:T101 Arg2:T4

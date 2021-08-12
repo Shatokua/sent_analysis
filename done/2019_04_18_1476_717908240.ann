@@ -1,0 +1,13 @@
+T0	Negative 19 24	Чуров
+T1	Negative 0 2	Вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 30 34	ваша
+A2	AnaforPerson T2
+R2	Anafor Arg1:T0 Arg2:T2	
+T3	Negative 128 130	вы
+A3	AnaforPerson T3
+T4	Negative 192 194	Вы
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+A4	AnaforPerson T4

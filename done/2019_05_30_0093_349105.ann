@@ -1,0 +1,4 @@
+T0	Positive 13 18	Путин
+T1	Neutral_all 85 96	Барак Обама
+T2	Mixed 135 141	Путина
+R1	Anafor Arg1:T0 Arg2:T2	

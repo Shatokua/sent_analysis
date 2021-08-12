@@ -1,0 +1,6 @@
+T3	Neutral 151 153	он
+A1	AnaforPerson T3
+T100	Neutral_all 39 47	Янукович
+T101	Neutral_all 187 196	Тимошенко
+T102	Neutral_all 200 207	Луценко
+R1	Anafor Arg1:T100 Arg2:T3

@@ -1,0 +1,10 @@
+T1	Neutral 18 20	вы
+A1	AnaforPerson T1
+T2	Neutral 71 73	вы
+T3	Negative 92 95	вас
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+T4	Neutral 6 12	Макрон
+R1	Anafor Arg1:T4 Arg2:T1	
+A2	AnaforPerson T2
+A3	AnaforPerson T3

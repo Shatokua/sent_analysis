@@ -1,0 +1,4 @@
+T100	Neutral_all 26 31	Путин
+T101	Neutral_all 34 38	Джон
+T102	Neutral_all 150 162	Элтона Джона
+R101	Anafor Arg1:T102 Arg2:T101

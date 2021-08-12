@@ -1,0 +1,5 @@
+T0	Negative 0 10	Ким Чен Ын
+T1	Neutral 86 88	Он
+#1	AnnotatorNotes T1	возможно Negative
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

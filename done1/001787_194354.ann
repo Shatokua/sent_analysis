@@ -1,0 +1,6 @@
+T0	Neutral_all 42 52	Саакашвили
+T1	Neutral_all 213 218	Мишей
+T2	Neutral_all 221 229	Бидзиной
+T3	Neutral_all 278 296	Бидзине Иванишвили
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T1

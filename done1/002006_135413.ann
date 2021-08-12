@@ -1,0 +1,5 @@
+T0	Neutral_all 137 155	Алтымыша Ибраимова
+T1	Neutral_all 174 183	Ибраимову
+T2	Neutral_all 330 333	нас
+A1	Plural T2
+R101	Anafor Arg1:T0 Arg2:T1

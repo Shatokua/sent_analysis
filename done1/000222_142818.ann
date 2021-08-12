@@ -1,0 +1,11 @@
+T0	Neutral_all 57 70	А.Д. Бегловым
+T7	Neutral_all 337 357	Александр Дмитриевич
+T8	Neutral_all 414 432	Рамзана Ахматовича
+T1	Neutral_all 113 126	Р.А. Кадырова
+T2	Neutral_all 282 301	Ахмат-Хаджи Кадыров
+T3	Neutral_all 440 442	мы
+A1	Plural T3
+R1	Anafor Arg1:T7 Arg2:T0
+R2	Anafor Arg1:T8 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T8

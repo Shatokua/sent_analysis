@@ -1,0 +1,13 @@
+T100	Positive 4 27	Михал Михалыч Жванецкий
+T101	Positive 45 70	Михал Михалыча Жванецкого
+R1	Anafor Arg1:T100 Arg2:T101	
+T1	Positive 131 139	Безруков
+A1	Unclear T1
+T2	Positive 141 149	Михалков
+A2	Unclear T2
+T3	Positive 151 162	Жириновский
+A3	Unclear T3
+T4	Positive 164 169	Эрнст
+A4	Unclear T4
+T5	Positive 171 180	Жванецкий
+A5	Unclear T5

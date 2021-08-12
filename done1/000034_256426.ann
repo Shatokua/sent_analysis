@@ -1,0 +1,28 @@
+T0	Neutral_all 58 62	Пака
+T1	Neutral_all 65 72	Гайсина
+T2	Neutral_all 118 123	Паком
+T3	Neutral_all 163 166	Пак
+T4	Neutral_all 194 203	Кокорин А
+T5	Neutral_all 232 241	Кокорин К
+T6	Neutral_all 295 298	Пак
+T7	Neutral_all 311 317	Гайсин
+T8	Neutral_all 339 343	Пака
+T9	Neutral_all 503 507	Пака
+T10	Neutral_all 510 517	Гайсина
+T11	Neutral_all 355 358	они
+A1	Plural T11
+R1	Anafor Arg1:T3 Arg2:T6
+R2	Anafor Arg1:T6 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T8
+R5	Anafor Arg1:T8 Arg2:T9
+R6	Anafor Arg1:T9 Arg2:T11
+R7	Anafor Arg1:T7 Arg2:T1
+R8	Anafor Arg1:T1 Arg2:T10
+R9	Anafor Arg1:T10 Arg2:T11
+R102	Anafor Arg1:T2 Arg2:T3
+R104	Anafor Arg1:T1 Arg2:T7
+R105	Anafor Arg1:T6 Arg2:T8
+R106	Anafor Arg1:T8 Arg2:T11
+R107	Anafor Arg1:T7 Arg2:T11
+R109	Anafor Arg1:T7 Arg2:T10

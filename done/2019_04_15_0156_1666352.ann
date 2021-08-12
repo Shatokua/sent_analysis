@@ -1,0 +1,4 @@
+T0	Neutral 10 15	Обама
+T101	Negative 51 56	Путин
+T102	Neutral_all 78 83	Обаму
+R1	Anafor Arg1:T0 Arg2:T102	

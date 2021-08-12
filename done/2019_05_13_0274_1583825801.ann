@@ -1,0 +1,14 @@
+T0	Positive 125 141	Валерия Гергиева
+T1	Positive 161 175	Ольгу Бородину
+T2	Positive 209 217	Нуриевым
+T3	Neutral 80 82	вы
+A1	AnaforPerson T3
+A2	Plural T3
+T4	Neutral 115 117	вы
+A3	AnaforPerson T4
+A4	Plural T4
+T5	Neutral 149 151	вы
+A5	AnaforPerson T5
+A6	Plural T5
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T4 Arg2:T5	

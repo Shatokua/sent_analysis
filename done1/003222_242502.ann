@@ -1,0 +1,7 @@
+T0	Neutral_all 6 14	Аваковым
+T1	Neutral_all 30 34	Пети
+T2	Neutral_all 69 84	Петра Порошенко
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1

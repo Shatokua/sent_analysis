@@ -1,0 +1,10 @@
+T0	Neutral_all 757 774	Дмитрия Медведева
+T1	Neutral_all 67 70	нас
+A1	Plural T1
+T2	Neutral_all 73 77	вами
+A2	Plural T2
+T3	Neutral_all 488 490	их
+A3	Plural T3
+T4	Neutral_all 804 806	он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4

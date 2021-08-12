@@ -1,0 +1,4 @@
+T0	Positive 4 19	Михаил Задорнов
+T1	Positive 79 83	него
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

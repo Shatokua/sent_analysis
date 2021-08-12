@@ -1,0 +1,5 @@
+T0	Neutral_all 0 5	Путин
+T1	Neutral_all 109 118	Нарышкина
+T2	Neutral_all 155 158	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

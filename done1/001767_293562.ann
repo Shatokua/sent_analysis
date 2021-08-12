@@ -1,0 +1,8 @@
+T0	Neutral_all 52 69	Саулюс Сквернялис
+T1	Neutral_all 82 97	Валерия Иванова
+T2	Neutral_all 599 603	Меля
+T3	Neutral_all 606 613	Иванова
+T4	Neutral_all 650 659	Палецкиса
+T105	Neutral_all 462 464	их
+A1	Plural T105
+R101	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,4 @@
+T1	Neutral 70 73	ему
+A1	AnaforPerson T1
+T2	Neutral 25 40	Ахметжан Есимов
+R1	Variant Arg1:T2 Arg2:T1	

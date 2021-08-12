@@ -1,0 +1,10 @@
+T0	Neutral_all 214 224	Олег Попов
+T1	Neutral_all 228 240	Юрий Никулин
+T2	Neutral_all 251 253	Мы
+A1	Plural T2
+T3	Neutral_all 321 324	нас
+A2	Plural T3
+T4	Neutral_all 337 340	нам
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

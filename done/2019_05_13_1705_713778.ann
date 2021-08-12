@@ -1,0 +1,7 @@
+T0	Positive 94 100	Льюиса
+T1	Positive 124 127	его
+A1	AnaforPerson T1
+T2	Neutral 222 225	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

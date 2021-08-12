@@ -1,0 +1,24 @@
+T0	Neutral_all 126 139	Явер Микаилов
+T1	Neutral_all 60 63	них
+A1	Plural T1
+T2	Neutral_all 122 125	них
+A2	Plural T2
+T3	Neutral_all 164 167	его
+A3	AnaforPerson T3
+T4	Neutral_all 235 238	ним
+A4	AnaforPerson T4
+T5	Neutral_all 316 318	Мы
+A5	Plural T5
+T6	Neutral_all 333 336	ему
+A6	AnaforPerson T6
+T7	Neutral_all 459 462	нам
+A7	Plural T7
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1
+R3	Anafor Arg1:T0 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T6
+R6	Anafor Arg1:T5 Arg2:T7
+R101	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T3 Arg2:T6
+R104	Anafor Arg1:T6 Arg2:T4

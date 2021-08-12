@@ -1,0 +1,16 @@
+T0	Neutral_all 82 87	Асаду
+T2	Neutral_all 149 152	вам
+A1	AnaforPerson T2
+T101	Negative 109 125	Касема Сулеймани
+T102	Negative 145 148	Они
+A2	Plural T102
+T103	Negative 168 171	них
+A3	Plural T103
+T104	Neutral 190 192	их
+A4	Plural T104
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	
+A5	AnaforPerson T102
+A6	AnaforPerson T103
+A7	AnaforPerson T104

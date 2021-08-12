@@ -1,0 +1,4 @@
+T0	Negative 44 50	Путина
+T1	Negative 78 80	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

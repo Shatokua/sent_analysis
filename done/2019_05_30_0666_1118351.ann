@@ -1,0 +1,11 @@
+T0	Negative_all 49 59	Берлускони
+T1	Neutral_all 122 137	Саддама Хусейна
+T2	Neutral_all 158 164	Путина
+T3	Neutral_all 150 152	он
+A1	AnaforPerson T3
+T4	Neutral_all 167 170	они
+A2	Plural T4
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T4

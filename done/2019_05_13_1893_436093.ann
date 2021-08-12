@@ -1,0 +1,4 @@
+T0	Positive 17 31	Владимир Путин
+T1	Positive 35 37	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

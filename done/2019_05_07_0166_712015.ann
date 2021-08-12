@@ -1,0 +1,4 @@
+T0	Neutral 172 180	Карякину
+T1	Neutral 167 170	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

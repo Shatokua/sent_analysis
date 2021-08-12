@@ -1,0 +1,8 @@
+T0	Positive_all 16 32	Сергей Игнашевич
+T3	Neutral_all 168 174	Сергей
+T4	Positive 65 67	он
+A1	AnaforPerson T4
+T101	Neutral 121 142	Уле-Эйнар) Бьорндален
+R2	Anafor Arg1:T0 Arg2:T4	
+R1	Anafor Arg1:T3 Arg2:T4	
+A2	AnaforPerson T3

@@ -1,0 +1,7 @@
+T0	Neutral 77 87	Владимиром
+T1	Neutral 72 74	мы
+A1	Plural T1
+T2	Neutral 101 103	Мы
+A2	Plural T2
+R1	Variant Arg1:T2 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T0	

@@ -1,0 +1,19 @@
+T101	Neutral_all 213 218	Обаме
+T102	Neutral_all 234 237	его
+A1	AnaforPerson T102
+T103	Neutral_all 262 265	его
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T103
+T1	Negative 8 10	он
+A3	AnaforPerson T1
+T2	Negative 128 130	Он
+A4	AnaforPerson T2
+T3	Negative 164 168	него
+A5	AnaforPerson T3
+R3	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T2 Arg2:T3	
+T4	Negative 259 261	он
+T5	Neutral 231 233	он
+R5	Anafor Arg1:T3 Arg2:T5	
+R6	Anafor Arg1:T5 Arg2:T4	

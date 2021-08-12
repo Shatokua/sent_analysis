@@ -1,0 +1,3 @@
+T0	Positive_all 52 75	Владимир Абрамович Этуш
+T1	Positive_all 131 144	Владимир Этуш
+R1	Anafor Arg1:T0 Arg2:T1

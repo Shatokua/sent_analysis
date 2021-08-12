@@ -1,0 +1,5 @@
+T2	Negative 59 62	его
+A1	AnaforPerson T2
+T100	Negative_all 50 56	Коляды
+T101	Neutral_all 91 108	Александр Самарин
+R1	Anafor Arg1:T100 Arg2:T2

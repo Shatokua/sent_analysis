@@ -1,0 +1,8 @@
+T0	Neutral 187 202	Кирилл Маркевич
+T1	Neutral 320 337	Виктора Басаргина
+T2	Neutral 204 206	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 343 346	нем
+A2	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,5 @@
+T0	Neutral_all 75 85	Зеленского
+T3	Positive 99 101	он
+A2	AnaforPerson T3
+T101	Negative 116 125	Порошенко
+R1	Anafor Arg1:T0 Arg2:T3

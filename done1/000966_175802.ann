@@ -1,0 +1,9 @@
+T0	Neutral_all 114 129	Валима Машурова
+T1	Neutral_all 220 231	С. Хорошуна
+T2	Neutral_all 259 266	Машуров
+T3	Neutral_all 341 349	Хорошуну
+T4	Neutral_all 411 421	В.Машурова
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T0
+R3	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T4 Arg2:T2

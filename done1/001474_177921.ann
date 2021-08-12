@@ -1,0 +1,10 @@
+T0	Neutral_all 110 127	Михаилу Таранцову
+T1	Neutral_all 256 269	Павел Соколов
+T2	Neutral_all 18 21	они
+A1	Plural T2
+T3	Neutral_all 147 150	ему
+A2	AnaforPerson T3
+T4	Neutral_all 212 214	Он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3

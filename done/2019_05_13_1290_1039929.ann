@@ -1,0 +1,4 @@
+T0	Positive 18 33	Светлана Орлова
+T1	Positive 35 38	Она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

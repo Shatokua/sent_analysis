@@ -1,0 +1,4 @@
+T0	Neutral 39 53	Григорию Лепсу
+T1	Positive 188 191	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

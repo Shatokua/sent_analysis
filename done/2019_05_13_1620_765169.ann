@@ -1,0 +1,4 @@
+T0	Positive 7 24	Андрея Звягинцева
+T1	Positive 115 118	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

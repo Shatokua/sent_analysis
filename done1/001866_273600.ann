@@ -1,0 +1,4 @@
+T0	Positive 41 50	Тани Мале
+T4	Positive 131 133	ее
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4	

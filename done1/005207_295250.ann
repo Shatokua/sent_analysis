@@ -1,0 +1,5 @@
+T0	Neutral_all 39 55	Кирилла Минулина
+T1	Neutral_all 159 166	Стадлер
+T2	Neutral_all 131 134	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Negative_all 49 67	Бидзину Иванишвили
+T1	Negative_all 88 106	Бидзина Иванишвили
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

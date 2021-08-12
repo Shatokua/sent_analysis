@@ -1,0 +1,20 @@
+T0	Neutral_all 173 178	Гасли
+T1	Neutral_all 411 415	Пьер
+T2	Neutral_all 550 555	Гасли
+T3	Neutral_all 558 574	Романом Грожаном
+T4	Neutral_all 611 617	Оконом
+T5	Neutral_all 653 668	Лэнсом Строллом
+T6	Neutral_all 671 677	Хартли
+T7	Neutral_all 720 726	Хартли
+T9	Neutral_all 820 839	Стоффелем Вандорном
+T10	Neutral_all 842 861	Маркусом Эрикссоном
+T12	Positive 239 241	он
+A2	AnaforPerson T12
+T16	Neutral_all 603 608	Гасли
+T108	Neutral 798 805	Брендон
+R8	Anafor Arg1:T6 Arg2:T7
+R110	Anafor Arg1:T7 Arg2:T108
+R1	Anafor Arg1:T0 Arg2:T12	
+R2	Anafor Arg1:T1 Arg2:T12	
+R3	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T2 Arg2:T16	

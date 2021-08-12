@@ -1,0 +1,11 @@
+T0	Neutral_all 57 72	Андрей Караулов
+T1	Neutral_all 96 104	Петухова
+T2	Neutral_all 171 178	Петухов
+T3	Neutral_all 51 55	нами
+A1	Plural T3
+T4	Neutral_all 150 152	мы
+A2	Plural T4
+T5	Neutral_all 198 200	Мы
+A3	Plural T5
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T2 Arg2:T1

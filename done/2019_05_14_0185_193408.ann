@@ -1,0 +1,13 @@
+T0	Neutral_all 54 69	Хиллари Клинтон
+T1	Neutral_all 113 120	Клинтон
+T2	Neutral_all 100 103	ему
+A1	AnaforPerson T2
+T3	Neutral_all 136 139	нее
+A2	AnaforPerson T3
+T4	Neutral_all 140 142	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T2 Arg2:T4

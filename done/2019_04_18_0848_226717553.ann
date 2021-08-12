@@ -1,0 +1,4 @@
+T1	Negative 4 11	Ельцине
+T2	Negative 41 43	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Positive 206 217	Ирина Винер
+T1	Positive 8 10	ее
+A1	AnaforPerson T1
+T2	Positive 86 89	она
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T0	Neutral_all 58 71	Павел Шикунов
+T1	Neutral_all 146 148	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

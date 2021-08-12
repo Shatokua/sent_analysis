@@ -1,0 +1,8 @@
+T0	Neutral_all 50 63	Андрей Козлов
+T1	Neutral_all 225 231	Андрею
+T2	Neutral_all 250 256	Андрея
+T3	Neutral_all 281 299	Александр Иванович
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T1

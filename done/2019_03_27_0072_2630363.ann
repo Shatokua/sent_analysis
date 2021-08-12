@@ -1,0 +1,6 @@
+T0	Positive 55 64	Медведева
+T1	Positive 67 72	Алина
+T102	Positive_all 79 95	Софья Самодурова
+T2	Positive 149 153	себя
+R1	Anafor Arg1:T102 Arg2:T2	
+A1	AnaforPerson T2

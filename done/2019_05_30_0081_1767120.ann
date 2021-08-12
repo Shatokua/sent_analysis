@@ -1,0 +1,3 @@
+T1	Neutral_all 194 206	Барака Обамы
+T100	Neutral 77 82	Обама
+R1	Anafor Arg1:T1 Arg2:T100	

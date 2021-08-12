@@ -1,0 +1,20 @@
+T0	Neutral_all 109 136	Владимир Владимирович Путин
+T1	Neutral_all 35 37	мы
+A1	Plural T1
+T2	Neutral_all 138 140	Мы
+A2	Plural T2
+T3	Neutral_all 197 200	нас
+A3	Plural T3
+T4	Neutral_all 282 284	мы
+A4	Plural T4
+T5	Neutral_all 285 288	вам
+A5	Plural T5
+T103	Neutral_all 174 176	вы
+A6	Plural T103
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T103 Arg2:T5
+R104	Anafor Arg1:T2 Arg2:T3
+R105	Anafor Arg1:T3 Arg2:T4

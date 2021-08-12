@@ -1,0 +1,7 @@
+T0	Positive_all 0 14	Сергей Доренко
+T1	Neutral_all 58 60	Он
+A1	AnaforPerson T1
+T102	Positive 148 150	Он
+A3	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T102

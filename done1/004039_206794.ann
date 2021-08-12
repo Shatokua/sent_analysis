@@ -1,0 +1,4 @@
+T0	Neutral_all 0 18	Джонатан Макдауэлл
+T1	Neutral_all 20 37	Jonathan McDowell
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

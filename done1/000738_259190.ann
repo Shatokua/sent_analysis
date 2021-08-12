@@ -1,0 +1,8 @@
+T0	Neutral_all 251 267	Мурад Бекмурзаев
+T1	Neutral_all 397 399	он
+A1	AnaforPerson T1
+T102	Neutral_all 344 346	им
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T1

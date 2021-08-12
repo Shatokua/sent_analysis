@@ -1,0 +1,5 @@
+T0	Neutral_all 16 31	Сахават Мамедов
+T1	Neutral_all 98 115	Видади Джабраилов
+T2	Neutral_all 86 89	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

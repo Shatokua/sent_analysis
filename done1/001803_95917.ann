@@ -1,0 +1,14 @@
+T1	Neutral_all 214 245	Бастрыкина Александра Ивановича
+T3	Neutral_all 373 391	Александр Иванович
+T4	Neutral_all 72 75	они
+A1	Plural T4
+T5	Negative_all 326 328	он
+A2	AnaforPerson T5
+T100	Negative 9 18	Добрынина
+T102	Negative 266 273	Шнурова
+T106	Neutral_all 445 449	него
+R2	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T5 Arg2:T106
+A3	AnaforPerson T4
+R1	Anafor Arg1:T102 Arg2:T5	
+A4	AnaforPerson T106

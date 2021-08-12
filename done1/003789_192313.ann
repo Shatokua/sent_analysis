@@ -1,0 +1,4 @@
+T0	Neutral_all 88 97	Порошенко
+T1	Neutral_all 131 140	Порошенко
+T2	Neutral_all 271 291	Владимира Зеленского
+R1	Anafor Arg1:T0 Arg2:T1

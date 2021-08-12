@@ -1,0 +1,5 @@
+T0	Neutral_all 1 10	Ани Лорак
+T2	Neutral_all 94 103	Ани Лорак
+T101	Neutral 62 67	Лорак
+R1	Anafor Arg1:T0 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T2	

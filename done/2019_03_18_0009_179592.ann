@@ -1,0 +1,3 @@
+T100	Neutral_all 0 18	Ислам Абдуганиевич
+T101	Neutral_all 65 72	Каримов
+R1	Anafor Arg1:T100 Arg2:T101

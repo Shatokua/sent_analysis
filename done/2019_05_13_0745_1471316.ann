@@ -1,0 +1,16 @@
+T0	Positive 36 55	Геннадий Леонидович
+T1	Positive 10 13	вас
+A1	AnaforPerson T1
+T2	Positive 16 19	ваш
+A2	AnaforPerson T2
+T3	Positive 78 82	вами
+A3	AnaforPerson T3
+T4	Positive 181 183	вы
+A4	AnaforPerson T4
+A5	Plural T4
+T5	Positive 213 216	Вам
+A6	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	
+R3	Anafor Arg1:T0 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T5	

@@ -1,0 +1,6 @@
+T0	Neutral_all 41 55	Пола Манафорта
+T1	Neutral_all 77 93	Рональда Рейгана
+T2	Neutral_all 95 105	Боба Доула
+T3	Neutral_all 169 177	Манафорт
+R1	Anafor Arg1:T3 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,4 @@
+T0	Neutral 38 54	Михаилом Бабичем
+T1	Neutral 75 77	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

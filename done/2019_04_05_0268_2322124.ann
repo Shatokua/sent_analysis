@@ -1,0 +1,9 @@
+T100	Negative 13 19	Марата
+T101	Negative 96 103	Башаров
+T102	Negative 57 59	он
+A2	AnaforPerson T102
+T103	Negative_all 175 177	он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	
+R3	Anafor Arg1:T101 Arg2:T103	

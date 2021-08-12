@@ -1,0 +1,7 @@
+T1	Negative 0 7	Сноуден
+T2	Negative 28 31	его
+A1	AnaforPerson T2
+T3	Negative 68 70	Он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T3	

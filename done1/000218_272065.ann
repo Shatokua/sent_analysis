@@ -1,0 +1,7 @@
+T0	Neutral_all 0 15	Петр Алексеевич
+T1	Neutral 17 20	вам
+A1	AnaforPerson T1
+T2	Neutral_all 97 100	вам
+A2	AnaforPerson T2
+A3	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1	

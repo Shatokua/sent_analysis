@@ -1,0 +1,9 @@
+T0	Neutral_all 31 50	Деннису Кристенсену
+T1	Neutral_all 165 176	Кристенсена
+T3	Positive 199 201	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+T2	Positive 189 192	ему
+A1	AnaforPerson T2
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T2	

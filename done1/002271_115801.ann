@@ -1,0 +1,6 @@
+T1	Neutral_all 61 74	Майка Мэлоуна
+T2	Neutral_all 77 93	Грегом Поповичем
+T3	Neutral_all 46 48	вы
+A1	Plural T3
+T100	Neutral 26 39	Майка Тайсона
+A4	AnaforPerson T3

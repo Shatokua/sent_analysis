@@ -1,0 +1,6 @@
+T0	Negative_all 0 5	Трамп
+T1	Neutral_all 42 60	Владимиром Путиным
+T2	Negative_all 62 67	Трамп
+T3	Negative_all 137 142	Трамп
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

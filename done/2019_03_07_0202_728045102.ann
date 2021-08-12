@@ -1,0 +1,7 @@
+T3	Negative 211 213	Он
+A1	AnaforPerson T3
+T100	Negative_all 145 151	Умаров
+T101	Neutral_all 242 247	Путин
+T102	Positive_all 287 310	Владимира Владимировича
+R1	Anafor Arg1:T100 Arg2:T3
+R102	Anafor Arg1:T101 Arg2:T102

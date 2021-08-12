@@ -1,0 +1,7 @@
+T3	Positive 246 251	Кучма
+T101	Negative_all 0 14	Петр Порошенко
+T102	Neutral_all 149 162	Леонида Кучмы
+T104	Neutral 106 108	он
+A1	AnaforPerson T104
+R101	Anafor Arg1:T101 Arg2:T104
+R1	Anafor Arg1:T102 Arg2:T3	

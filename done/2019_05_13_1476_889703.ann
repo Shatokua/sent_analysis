@@ -1,0 +1,10 @@
+T0	Positive 0 4	Дима
+T1	Positive 9 13	тебя
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Neutral 69 74	твоим
+A2	AnaforPerson T2
+T3	Positive 95 99	тебя
+A3	AnaforPerson T3
+R2	Variant Arg1:T1 Arg2:T2	
+R3	Variant Arg1:T2 Arg2:T3	

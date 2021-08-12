@@ -1,0 +1,7 @@
+T0	Neutral_all 10 15	Пенса
+T1	Neutral_all 64 68	Пенс
+T2	Neutral_all 70 81	Столтенберг
+T3	Neutral_all 112 114	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T0

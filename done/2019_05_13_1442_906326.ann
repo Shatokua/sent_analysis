@@ -1,0 +1,7 @@
+T0	Positive 69 75	Рюмина
+T1	Neutral 147 149	на
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 42 44	их
+A2	AnaforPerson T2
+A3	Plural T2

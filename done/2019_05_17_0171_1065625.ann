@@ -1,0 +1,8 @@
+T0	Neutral_all 0 6	Волкер
+T1	Neutral_all 198 207	Порошенко
+T2	Neutral_all 70 72	он
+A1	AnaforPerson T2
+T3	Neutral_all 227 230	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

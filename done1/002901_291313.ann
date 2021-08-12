@@ -1,0 +1,10 @@
+T0	Neutral_all 743 760	Федерика Могерини
+T5	Neutral_all 782 785	ней
+A5	AnaforPerson T5
+T6	Neutral_all 840 843	она
+A6	AnaforPerson T6
+T7	Neutral 857 859	ее
+A7	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T6	
+R3	Anafor Arg1:T6 Arg2:T7	

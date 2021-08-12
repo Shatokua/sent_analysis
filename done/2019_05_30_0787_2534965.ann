@@ -1,0 +1,7 @@
+T2	Neutral 95 98	Они
+A1	Plural T2
+T1	Neutral_all 127 140	Бараку) Обаме
+T103	Neutral 144 146	он
+A4	AnaforPerson T103
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T103	

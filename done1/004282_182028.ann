@@ -1,0 +1,6 @@
+T0	Neutral_all 12 25	Алла Пугачева
+T1	Neutral_all 8 11	его
+A1	AnaforPerson T1
+T2	Neutral_all 107 109	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Neutral_all 8 19	Юрий Аксюта
+T1	Neutral_all 133 136	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

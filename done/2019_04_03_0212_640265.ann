@@ -1,0 +1,5 @@
+T1	Neutral 222 228	Ле Пен
+T100	Neutral_all 93 99	Макрон
+T102	Neutral_all 181 185	него
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

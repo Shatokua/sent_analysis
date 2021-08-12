@@ -1,0 +1,21 @@
+T0	Neutral_all 57 61	Макс
+T1	Neutral_all 103 113	Ферстаппен
+T2	Neutral_all 116 122	Боттас
+T3	Neutral_all 195 202	Боттаса
+T4	Neutral_all 265 276	Ферстаппена
+T5	Neutral_all 386 391	Макса
+T6	Neutral_all 394 400	Льюиса
+T7	Neutral_all 572 582	Ники Лауда
+T14	Positive 707 710	его
+A7	AnaforPerson T14
+T116	Positive 647 651	нему
+A8	AnaforPerson T116
+T117	Positive 653 655	Он
+A9	AnaforPerson T117
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R1	Anafor Arg1:T1 Arg2:T0	
+R5	Anafor Arg1:T7 Arg2:T116	
+R6	Anafor Arg1:T116 Arg2:T117	
+R7	Anafor Arg1:T117 Arg2:T14	

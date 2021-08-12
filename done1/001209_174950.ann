@@ -1,0 +1,12 @@
+T0	Neutral_all 84 96	Юра Бедненко
+T1	Neutral_all 25 28	его
+T2	Neutral_all 40 43	она
+T3	Neutral_all 60 62	он
+A1	AnaforPerson T3
+T4	Neutral_all 114 116	ей
+T5	Neutral_all 149 152	она
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T1
+R3	Anafor Arg1:T5 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T5
+R102	Anafor Arg1:T5 Arg2:T4

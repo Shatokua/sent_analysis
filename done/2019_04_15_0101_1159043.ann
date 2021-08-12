@@ -1,0 +1,12 @@
+T100	Negative_all 0 9	Порошенко
+T101	Neutral_all 23 31	Янукович
+T102	Neutral_all 46 56	Януковичем
+T103	Negative 77 86	Порошенко
+T104	Neutral_all 119 121	он
+A1	AnaforPerson T104
+T105	Neutral_all 135 137	он
+A2	AnaforPerson T105
+R1	Anafor Arg1:T101 Arg2:T102
+R2	Anafor Arg1:T100 Arg2:T103	
+R3	Anafor Arg1:T104 Arg2:T103	
+R4	Anafor Arg1:T105 Arg2:T104	

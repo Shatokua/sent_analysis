@@ -1,0 +1,4 @@
+T100	Neutral_all 3 11	Савченко
+T101	Negative_all 69 77	Савченко
+R1	Anafor Arg1:T100 Arg2:T101
+R101	Anafor Arg1:T101 Arg2:T100

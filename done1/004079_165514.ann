@@ -1,0 +1,11 @@
+T0	Neutral_all 202 216	Сергей Лагойда
+T1	Neutral_all 264 280	Павел Прокопович
+T2	Neutral_all 285 301	Павел Прокопович
+T3	Neutral_all 19 22	его
+A1	AnaforPerson T3
+T4	Neutral_all 97 100	нас
+A2	Plural T4
+T5	Neutral_all 184 186	их
+A3	Plural T5
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T3

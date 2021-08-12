@@ -1,0 +1,6 @@
+T0	Neutral_all 13 19	Боттас
+T1	Neutral_all 59 65	Боттас
+T2	Neutral_all 185 205	Себастьяном Феттелем
+T3	Neutral_all 158 160	мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

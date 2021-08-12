@@ -1,0 +1,6 @@
+T0	Neutral_all 52 66	Джона Маккейна
+T1	Neutral_all 69 81	Линдси Грэма
+T2	Negative 92 95	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,21 @@
+T0	Neutral_all 279 293	Сержа Саргсяна
+T1	Neutral_all 349 364	Никола Пашиняна
+T2	Neutral_all 486 500	Сержа Саргсяна
+T5	Neutral_all 118 121	они
+A3	Plural T5
+T6	Neutral_all 189 192	они
+A4	Plural T6
+T9	Neutral_all 310 313	его
+A7	AnaforPerson T9
+T10	Neutral_all 440 442	он
+A8	AnaforPerson T10
+T106	Neutral_all 159 161	их
+A9	Plural T106
+A1	AnaforPerson T5
+R1	Anafor Arg1:T5 Arg2:T106	
+A2	AnaforPerson T106
+R2	Anafor Arg1:T106 Arg2:T6	
+A5	AnaforPerson T6
+R3	Anafor Arg1:T0 Arg2:T9	
+R4	Anafor Arg1:T1 Arg2:T10	
+R5	Anafor Arg1:T2 Arg2:T9	

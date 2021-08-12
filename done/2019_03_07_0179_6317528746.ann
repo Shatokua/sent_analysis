@@ -1,0 +1,8 @@
+T100	Positive 93 100	Дональд
+T101	Neutral 130 137	Хиллари
+T102	Negative 157 160	она
+A1	AnaforPerson T102
+T103	Negative_all 201 204	Она
+A2	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

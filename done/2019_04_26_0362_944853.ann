@@ -1,0 +1,15 @@
+T0	Neutral_all 6 13	Дуровых
+T1	Neutral_all 62 67	Антон
+T2	Negative_all 122 128	Дурова
+T3	Neutral_all 44 47	его
+A1	AnaforPerson T3
+T4	Neutral_all 74 77	нам
+A2	Plural T4
+T5	Neutral_all 112 114	мы
+A3	Plural T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T5 Arg2:T4
+R101	Anafor Arg1:T4 Arg2:T5
+R103	Anafor Arg1:T2 Arg2:T1
+R104	Anafor Arg1:T1 Arg2:T3

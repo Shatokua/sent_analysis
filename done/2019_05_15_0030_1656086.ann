@@ -1,0 +1,8 @@
+T0	Neutral 24 31	Максима
+T1	Neutral 183 187	Макс
+T3	Neutral_all 122 124	вы
+A2	Plural T3
+T2	Neutral 32 34	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

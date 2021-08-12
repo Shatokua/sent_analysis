@@ -1,0 +1,7 @@
+T101	Negative 107 115	Прохоров
+T102	Negative 299 305	Путину
+T103	Neutral_all 197 199	он
+A1	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T103
+T1	Negative 255 258	ему
+R1	Anafor Arg1:T103 Arg2:T1	

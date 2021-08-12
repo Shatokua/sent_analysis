@@ -1,0 +1,3 @@
+T100	Negative_all 25 31	Гюлена
+T101	Negative 130 136	Гюлена
+R101	Anafor Arg1:T100 Arg2:T101

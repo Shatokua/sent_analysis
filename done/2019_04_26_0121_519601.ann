@@ -1,0 +1,7 @@
+T0	Neutral_all 53 59	Ле Пен
+T1	Neutral_all 120 127	Путиным
+T2	Neutral_all 33 35	мы
+A1	Plural T2
+T3	Neutral_all 73 76	нас
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

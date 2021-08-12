@@ -1,0 +1,8 @@
+T0	Neutral_all 0 18	Оле Гуннар Сульшер
+T1	Neutral_all 86 97	Мэтта Басби
+T2	Neutral_all 266 278	Рафа Бенитес
+T3	Neutral_all 166 169	его
+A1	AnaforPerson T3
+T4	Neutral_all 393 396	нам
+A2	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3

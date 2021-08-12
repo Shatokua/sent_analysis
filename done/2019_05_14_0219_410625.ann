@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Надежде
+T1	Neutral_all 114 130	Надежды Савченко
+T2	Neutral_all 132 135	Нам
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

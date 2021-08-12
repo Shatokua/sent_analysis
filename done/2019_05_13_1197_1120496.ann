@@ -1,0 +1,4 @@
+T0	Positive 21 24	Яна
+T1	Positive 52 55	ней
+A1	AnaforPerson T1
+R2	Anafor Arg1:T0 Arg2:T1	

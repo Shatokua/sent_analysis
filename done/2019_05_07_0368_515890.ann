@@ -1,0 +1,11 @@
+T0	Neutral 51 66	Хиллари Клинтон
+T1	Neutral 87 89	вы
+A1	Plural T1
+T2	Neutral 5 7	вы
+A2	Plural T2
+T3	Neutral 74 76	её
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+A4	AnaforPerson T2
+R2	Variant Arg1:T2 Arg2:T1	
+A5	AnaforPerson T1

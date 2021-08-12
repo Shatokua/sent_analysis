@@ -1,0 +1,4 @@
+T0	Neutral_all 38 55	Дарии Воскобоевой
+T1	Neutral_all 75 77	ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

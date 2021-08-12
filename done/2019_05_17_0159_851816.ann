@@ -1,0 +1,5 @@
+T0	Neutral_all 21 33	Айвазовского
+T1	Neutral_all 61 70	Порошенко
+T2	Neutral_all 73 76	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T100	Negative 15 26	Джеймс Коми
+T101	Negative 76 91	Хиллари Клинтон
+T102	Negative 122 124	ее
+A2	AnaforPerson T102
+T103	Mixed 93 95	Он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T100 Arg2:T103	

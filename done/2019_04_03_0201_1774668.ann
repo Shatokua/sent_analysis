@@ -1,0 +1,5 @@
+T0	Negative_all 12 27	Дональда Трампа
+T1	Neutral_all 107 113	Путина
+T2	Negative_all 82 84	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

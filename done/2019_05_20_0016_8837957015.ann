@@ -1,0 +1,4 @@
+T0	Neutral 46 52	Путина
+T1	Neutral 55 61	Трампа
+T2	Neutral 205 211	Трампа
+R1	Variant Arg1:T1 Arg2:T2	

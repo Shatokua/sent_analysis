@@ -1,0 +1,4 @@
+T0	Neutral_all 11 21	Юрия Бойко
+T1	Neutral_all 52 61	Порошенко
+T2	Neutral_all 85 95	Юрия Бойко
+R1	Anafor Arg1:T0 Arg2:T2

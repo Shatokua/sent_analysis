@@ -1,0 +1,4 @@
+T0	Neutral 27 35	Кадырова
+T2	Neutral 117 125	Кадырова
+T101	Neutral_all 88 104	Владимира Путина
+R1	Anafor Arg1:T0 Arg2:T2	

@@ -1,0 +1,15 @@
+T0	Neutral_all 9 16	Сущенко
+T1	Neutral_all 113 120	Сущенко
+T2	Neutral_all 51 54	его
+A1	AnaforPerson T2
+T3	Neutral_all 58 68	Вышинского
+T4	Neutral_all 98 101	они
+A2	Plural T4
+T5	Neutral_all 108 111	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T2

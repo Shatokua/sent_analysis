@@ -1,0 +1,7 @@
+T0	Neutral 37 52	Маргарет Тэтчер
+T1	Neutral 76 88	Бальцеровича
+T2	Neutral 90 102	Коморовского
+T3	Neutral 104 117	Квасьневского
+T4	Neutral 62 64	ее
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4	

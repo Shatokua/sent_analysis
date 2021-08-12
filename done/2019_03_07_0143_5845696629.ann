@@ -1,0 +1,6 @@
+T0	Neutral 41 53	Сашко Билого
+T1	Neutral 64 71	Музычко
+T3	Negative 206 210	него
+A1	AnaforPerson T3
+T102	Neutral_all 112 118	Яценюк
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,3 @@
+T0	Neutral_all 57 64	Сысоева
+T1	Neutral_all 235 241	Сысоев
+R1	Anafor Arg1:T1 Arg2:T0

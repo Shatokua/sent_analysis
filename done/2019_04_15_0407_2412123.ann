@@ -1,0 +1,6 @@
+T1	Neutral 140 151	Джон Болтон
+T2	Neutral 112 114	он
+A1	AnaforPerson T2
+T100	Negative_all 15 26	Джон Болтон
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

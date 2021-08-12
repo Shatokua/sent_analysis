@@ -1,0 +1,3 @@
+T0	Neutral_all 157 172	Романа Захарова
+T1	Neutral_all 392 405	Захаров Роман
+R1	Anafor Arg1:T1 Arg2:T0

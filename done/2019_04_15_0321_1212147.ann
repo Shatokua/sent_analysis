@@ -1,0 +1,3 @@
+T0	Neutral_all 35 44	Масляевой
+T1	Negative_all 56 64	Масляева
+R1	Anafor Arg1:T1 Arg2:T0

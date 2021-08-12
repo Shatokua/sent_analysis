@@ -1,0 +1,4 @@
+T0	Neutral_all 99 115	Дмитрия Шавелева
+T1	Neutral_all 117 119	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

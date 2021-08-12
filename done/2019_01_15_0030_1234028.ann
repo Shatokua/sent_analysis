@@ -1,0 +1,5 @@
+T1	Positive 107 110	ним
+A1	AnaforPerson T1
+T100	Positive_all 12 18	Кросби
+T102	Neutral 150 154	Троц
+R1	Anafor Arg1:T100 Arg2:T1	

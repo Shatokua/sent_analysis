@@ -1,0 +1,4 @@
+T0	Neutral_all 23 37	Ангелы Меркель
+T1	Neutral_all 96 103	Макрона
+T2	Neutral_all 176 182	Макрон
+R1	Anafor Arg1:T2 Arg2:T1

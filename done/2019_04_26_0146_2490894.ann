@@ -1,0 +1,17 @@
+T0	Positive_all 0 13	Джереми Харди
+T1	Neutral_all 192 199	Джереми
+T2	Neutral_all 45 47	Он
+A1	AnaforPerson T2
+T3	Positive_all 112 114	Ты
+A2	AnaforPerson T3
+T4	Neutral_all 125 128	нас
+A3	Plural T4
+T5	Neutral_all 145 147	Ты
+A4	AnaforPerson T5
+T106	Neutral_all 158 161	нас
+A5	Plural T106
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T2
+R105	Anafor Arg1:T4 Arg2:T106

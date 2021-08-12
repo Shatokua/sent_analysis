@@ -1,0 +1,15 @@
+T0	Neutral_all 99 111	Сергей Шойгу
+T1	Neutral_all 29 32	нас
+A1	Plural T1
+T2	Neutral_all 350 353	нас
+A2	Plural T2
+T3	Neutral_all 369 371	Мы
+A3	Plural T3
+T4	Neutral_all 428 431	нас
+A4	Plural T4
+R1	Anafor Arg1:T3 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R101	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T1

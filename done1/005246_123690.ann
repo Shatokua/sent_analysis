@@ -1,0 +1,7 @@
+T0	Neutral_all 289 305	Роберте Кочаряне
+T1	Neutral_all 343 350	Кочарян
+T2	Neutral_all 408 415	Кочарян
+T3	Neutral_all 209 211	Мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

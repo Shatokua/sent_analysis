@@ -1,0 +1,8 @@
+T0	Neutral_all 52 79	Владимир Владимирович Путин
+T1	Neutral_all 212 214	мы
+A1	Plural T1
+T2	Neutral_all 217 221	вами
+A2	Plural T2
+T3	Neutral_all 297 299	мы
+A3	Plural T3
+R101	Anafor Arg1:T1 Arg2:T3

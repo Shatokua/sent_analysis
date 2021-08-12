@@ -1,0 +1,6 @@
+T100	Negative 19 26	Маккейн
+T101	Neutral 81 87	Трампа
+T102	Neutral 88 94	Путину
+T103	Negative 108 112	себя
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	

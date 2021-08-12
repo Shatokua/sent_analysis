@@ -1,0 +1,4 @@
+T0	Neutral_all 504 524	Сооронбаю Жээнбекову
+T2	Neutral_all 251 253	Вы
+A2	Plural T2
+A1	AnaforPerson T2

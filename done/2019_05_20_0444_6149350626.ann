@@ -1,0 +1,10 @@
+T0	Neutral 121 128	Клинтон
+T1	Neutral 0 3	Она
+A1	AnaforPerson T1
+T2	Neutral 33 36	она
+A2	AnaforPerson T2
+T3	Neutral 152 155	нее
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T1	

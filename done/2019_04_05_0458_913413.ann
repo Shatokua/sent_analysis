@@ -1,0 +1,10 @@
+T100	Neutral_all 4 12	Воробьев
+T101	Negative 155 162	Лужкова
+T102	Neutral_all 164 175	Юрий Лужков
+T103	Neutral_all 0 2	Он
+A1	AnaforPerson T103
+T104	Negative 92 94	Он
+A2	AnaforPerson T104
+R2	Anafor Arg1:T100 Arg2:T103
+R3	Anafor Arg1:T100 Arg2:T104	
+R1	Anafor Arg1:T102 Arg2:T101	

@@ -1,0 +1,16 @@
+T0	Negative 168 178	Родченкова
+T1	Negative 189 192	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 253 255	он
+A2	AnaforPerson T2
+T3	Negative 268 270	он
+A3	AnaforPerson T3
+T4	Negative 312 315	его
+A4	AnaforPerson T4
+T5	Neutral 353 356	его
+A5	AnaforPerson T5
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	

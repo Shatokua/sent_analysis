@@ -1,0 +1,6 @@
+T0	Neutral 0 10	Де Мистура
+T1	Neutral 82 84	Мы
+A1	Plural T1
+T2	Neutral 85 88	ему
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

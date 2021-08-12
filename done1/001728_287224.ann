@@ -1,0 +1,15 @@
+T0	Neutral_all 23 39	Николай Иванович
+T1	Mixed 209 225	Николай Иванович
+T2	Neutral_all 2 4	Вы
+T4	Neutral_all 86 90	Вами
+A3	AnaforPerson T4
+T5	Neutral_all 117 120	них
+A4	Plural T5
+T6	Neutral_all 155 157	Вы
+A5	AnaforPerson T6
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T4	
+A2	AnaforPerson T5
+R3	Anafor Arg1:T4 Arg2:T6	
+R4	Anafor Arg1:T1 Arg2:T6	

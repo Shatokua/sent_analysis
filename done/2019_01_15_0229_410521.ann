@@ -1,0 +1,5 @@
+T2	Negative 177 180	его
+A1	AnaforPerson T2
+T100	Negative_all 80 97	Аргынбек Малабаев
+T101	Neutral_all 152 160	Атамбаву
+R1	Anafor Arg1:T100 Arg2:T2

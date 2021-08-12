@@ -1,0 +1,6 @@
+T0	Neutral 28 34	Ющенко
+T1	Neutral 36 44	Янукович
+T2	Neutral 46 51	Путин
+T3	Neutral 155 158	они
+A1	AnaforPerson T3
+A2	Plural T3

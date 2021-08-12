@@ -1,0 +1,4 @@
+T0	Neutral_all 8 23	Дональда Трампа
+T1	Neutral_all 83 86	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

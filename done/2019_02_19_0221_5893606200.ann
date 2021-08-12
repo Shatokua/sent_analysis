@@ -1,0 +1,5 @@
+T101	Neutral_all 44 57	Дональд Трамп
+T102	Neutral_all 95 102	Путиным
+T103	Neutral 106 109	его
+A1	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T103

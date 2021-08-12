@@ -1,0 +1,4 @@
+T0	Neutral_all 268 286	Александра Ивачева
+T1	Neutral_all 385 392	Ладыгин
+T2	Neutral_all 398 414	Александр Ивачев
+R1	Anafor Arg1:T2 Arg2:T0

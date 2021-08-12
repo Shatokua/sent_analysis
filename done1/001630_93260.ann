@@ -1,0 +1,10 @@
+T0	Neutral_all 36 45	Тани Мале
+T1	Neutral_all 57 72	Тилли Мастерсон
+T2	Neutral_all 0 3	Нам
+A1	Plural T2
+T3	Neutral_all 111 113	мы
+A2	Plural T3
+T4	Neutral_all 125 127	ее
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T2

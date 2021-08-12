@@ -1,0 +1,7 @@
+T3	Negative 156 159	его
+A1	AnaforPerson T3
+T100	Neutral_all 0 8	Мосийчук
+T101	Negative 83 91	Левочкин
+T102	Negative 145 153	Левочкин
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T3	

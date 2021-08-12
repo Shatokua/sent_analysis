@@ -1,0 +1,18 @@
+T0	Neutral_all 0 10	Осипу Шору
+T3	Neutral 92 109	Остап Ибрагимович
+T4	Neutral_all 147 161	Остапа Бендера
+T5	Neutral_all 163 170	И. Ильф
+T6	Neutral_all 173 182	Е. Петров
+T1	Neutral_all 39 84	Остап-Сулейман Ибрагим Берта Мария Бендер-бей
+T2	Neutral_all 86 88	он
+A1	AnaforPerson T2
+T7	Neutral_all 12 14	Он
+A2	AnaforPerson T7
+T8	Neutral_all 111 113	он
+A3	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T7	
+R2	Anafor Arg1:T1 Arg2:T7	
+R3	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T3 Arg2:T2	
+R5	Anafor Arg1:T3 Arg2:T8	
+R6	Anafor Arg1:T4 Arg2:T8	

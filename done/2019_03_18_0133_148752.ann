@@ -1,0 +1,7 @@
+T100	Neutral_all 11 21	Джордж Буш
+T101	Neutral_all 40 56	Владимира Путина
+T102	Neutral_all 123 128	Путин
+T103	Negative_all 148 152	него
+A1	AnaforPerson T103
+R2	Anafor Arg1:T102 Arg2:T103
+R101	Anafor Arg1:T101 Arg2:T102

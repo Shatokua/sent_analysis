@@ -1,0 +1,8 @@
+T0	Positive 17 31	Григорию Лепсу
+T1	Positive 167 170	ваш
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 140 144	вами
+A3	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1	
+A4	Plural T2

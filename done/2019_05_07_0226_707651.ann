@@ -1,0 +1,5 @@
+T1	Neutral 121 129	Клишиной
+T2	Neutral 144 146	ее
+A1	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 235 237	он

@@ -1,0 +1,9 @@
+T0	Neutral 216 223	Хиллари
+T1	Neutral 44 47	вас
+A1	AnaforPerson T1
+T2	Neutral 95 97	вы
+A2	AnaforPerson T2
+T3	Neutral 120 122	вы
+A3	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

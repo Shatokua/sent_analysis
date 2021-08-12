@@ -1,0 +1,6 @@
+T0	Neutral_all 62 74	Ирина Середа
+T1	Neutral_all 176 178	ее
+A1	AnaforPerson T1
+T2	Neutral_all 303 305	их
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

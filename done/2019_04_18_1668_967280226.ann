@@ -1,0 +1,4 @@
+T0	Neutral 17 31	Алексей Кудрин
+T1	Negative 236 239	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

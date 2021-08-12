@@ -1,0 +1,18 @@
+T0	Neutral_all 40 48	Волового
+T1	Neutral_all 66 73	Барышев
+T2	Neutral_all 76 84	Тефтелев
+T3	Neutral_all 222 231	Тефтелева
+T4	Neutral_all 234 242	Барышева
+T5	Neutral_all 312 320	Тефтелев
+T6	Neutral_all 346 367	Владимира Елистратова
+T7	Neutral_all 291 294	них
+A1	Plural T7
+A2	AnaforPerson T7
+T8	Neutral_all 333 336	его
+A3	AnaforPerson T8
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T8
+R5	Anafor Arg1:T8 Arg2:T7
+R6	Anafor Arg1:T4 Arg2:T7

@@ -1,0 +1,10 @@
+T0	Neutral_all 40 46	Конора
+T1	Neutral_all 115 120	Хабиб
+T2	Positive_all 139 144	Хабиб
+T3	Neutral_all 211 217	Конора
+T4	Positive_all 154 156	Он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R103	Anafor Arg1:T2 Arg2:T4

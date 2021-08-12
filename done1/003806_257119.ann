@@ -1,0 +1,17 @@
+T0	Neutral_all 434 449	Никита Белянкин
+T1	Neutral_all 180 182	им
+A1	Plural T1
+T2	Neutral_all 203 205	их
+A2	Plural T2
+T3	Neutral_all 226 229	Они
+A3	Plural T3
+T4	Neutral_all 509 511	Он
+A4	AnaforPerson T4
+T5	Neutral_all 582 585	его
+A5	AnaforPerson T5
+T6	Neutral_all 712 714	он
+A6	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T3 Arg2:T1
+R4	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	Neutral_all 152 156	Кима
+T1	Neutral_all 213 224	Ким Чен Ына
+T2	Neutral_all 306 324	Владимиром Путиным
+T3	Neutral_all 236 238	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3

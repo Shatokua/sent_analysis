@@ -1,0 +1,7 @@
+T0	Neutral 17 24	Трампом
+T1	Neutral 0 2	Мы
+A1	Plural T1
+T2	Neutral 83 86	нас
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T0	

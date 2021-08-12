@@ -1,0 +1,7 @@
+T0	Neutral 28 34	Ксения
+T1	Neutral 61 63	вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 7 10	вам
+A2	AnaforPerson T2
+R2	Anafor Arg1:T0 Arg2:T2	

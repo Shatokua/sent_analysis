@@ -1,0 +1,6 @@
+T0	Neutral 100 109	Турчинову
+T1	Negative 73 75	он
+T2	Neutral 149 152	его
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 200 204	нами
+A1	Plural T3

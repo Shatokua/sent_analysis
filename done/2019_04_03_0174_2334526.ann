@@ -1,0 +1,9 @@
+T3	Neutral 139 141	ее
+T100	Neutral_all 35 40	Сашей
+T101	Negative 60 66	Гордон
+T102	Negative 69 79	Белогурова
+T103	Neutral 139 141	ее
+A1	AnaforPerson T103
+T104	Neutral 93 96	ним
+A2	AnaforPerson T104
+R101	Anafor Arg1:T100 Arg2:T104

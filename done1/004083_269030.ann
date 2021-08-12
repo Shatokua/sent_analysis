@@ -1,0 +1,9 @@
+T0	Neutral_all 102 119	Криштиану Роналду
+T1	Neutral_all 149 163	Килиана Мбаппе
+T2	Neutral_all 174 187	Лионель Месси
+T3	Neutral_all 190 201	Луис Суарес
+T4	Neutral_all 85 87	мы
+A1	Plural T4
+T5	Neutral_all 266 268	мы
+A2	Plural T5
+R1	Anafor Arg1:T4 Arg2:T5

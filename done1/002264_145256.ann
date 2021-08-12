@@ -1,0 +1,13 @@
+T0	Neutral_all 0 18	Анатолий Борисович
+T1	Neutral_all 35 38	Вас
+A1	AnaforPerson T1
+T2	Neutral_all 119 121	Вы
+A2	AnaforPerson T2
+T3	Neutral_all 196 198	Вы
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T1

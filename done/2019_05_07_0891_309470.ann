@@ -1,0 +1,7 @@
+T0	Neutral 14 30	Франсуа Олландом
+T1	Neutral 0 2	Мы
+A1	Plural T1
+T2	Neutral 127 130	нам
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	
+R2	Variant Arg1:T0 Arg2:T2	

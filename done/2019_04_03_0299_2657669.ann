@@ -1,0 +1,8 @@
+T1	Neutral 109 111	Зе
+T4	Neutral 99 101	По
+T100	Neutral_all 43 52	Порошенко
+T102	Negative 123 132	Порошенко
+T103	Neutral_all 31 40	Зеленский
+T105	Negative 173 175	он
+A2	AnaforPerson T105
+R1	Anafor Arg1:T102 Arg2:T105	

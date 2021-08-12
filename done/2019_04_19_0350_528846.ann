@@ -1,0 +1,6 @@
+T1	Negative_all 133 140	Климкин
+T100	Neutral 0 7	Климкин
+T102	Neutral_all 52 55	они
+A1	Plural T102
+R1	Anafor Arg1:T100 Arg2:T1	
+A2	AnaforPerson T102

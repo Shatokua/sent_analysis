@@ -1,0 +1,4 @@
+T2	Neutral_all 84 86	он
+A1	AnaforPerson T2
+T1	Neutral_all 53 72	Владимиром] Путиным
+R1	Anafor Arg1:T1 Arg2:T2

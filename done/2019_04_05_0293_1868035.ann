@@ -1,0 +1,6 @@
+T100	Negative 0 14	Мухтар Аблязов
+T101	Negative 208 217	Аблязовым
+T102	Negative 220 223	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T102	

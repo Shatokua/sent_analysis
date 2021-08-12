@@ -1,0 +1,19 @@
+T0	Neutral_all 0 6	Лавров
+T1	Neutral_all 146 163	Сергей Викторович
+T2	Neutral_all 94 97	Они
+A1	Plural T2
+T3	Neutral_all 126 129	его
+A2	AnaforPerson T3
+T4	Neutral_all 164 166	им
+A3	Plural T4
+T5	Neutral_all 185 187	Он
+A4	AnaforPerson T5
+T6	Neutral_all 34 36	вы
+A5	Plural T6
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T3
+R4	Anafor Arg1:T2 Arg2:T4
+R5	Anafor Arg1:T6 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T5

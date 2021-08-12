@@ -1,0 +1,5 @@
+T0	Neutral_all 84 99	Турбьерн Ягланд
+T2	Neutral_all 105 108	ему
+A1	AnaforPerson T2
+T1	Negative_all 135 153	Фетхуллаха) Гюлена
+R1	Anafor Arg1:T0 Arg2:T2

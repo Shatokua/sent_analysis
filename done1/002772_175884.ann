@@ -1,0 +1,11 @@
+T0	Neutral_all 119 140	Константина Пискарева
+T1	Neutral_all 220 239	Сергея Александрова
+T2	Neutral_all 241 259	Сергея Барабашкина
+T3	Neutral_all 261 275	Юрия Бережнова
+T4	Neutral_all 277 296	Александра Замятина
+T5	Neutral_all 298 312	Дамира Капкова
+T6	Neutral_all 314 330	Андрея Столярова
+T7	Neutral_all 332 339	Дмитрия
+T8	Neutral_all 342 356	Николая Юровых
+T9	Neutral_all 168 181	Костя Большой
+R1	Anafor Arg1:T0 Arg2:T9

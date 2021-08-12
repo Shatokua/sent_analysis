@@ -1,0 +1,8 @@
+T1	Neutral_all 128 142	Махмуда Аббаса
+T2	Neutral 182 185	Они
+A1	Plural T2
+T4	Negative 226 228	их
+A3	Plural T4
+T100	Negative 84 95	Абу Мазеном
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T2 Arg2:T4	

@@ -1,0 +1,4 @@
+T0	Neutral_all 283 293	Д. Хабаров
+T1	Neutral_all 462 465	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

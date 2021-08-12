@@ -1,0 +1,6 @@
+T0	Neutral_all 68 83	Владимир Илюхин
+T1	Neutral_all 200 202	мы
+A1	Plural T1
+T2	Neutral_all 254 257	Нам
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

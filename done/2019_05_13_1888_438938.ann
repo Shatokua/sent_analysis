@@ -1,0 +1,4 @@
+T0	Neutral 62 77	Оксана Юлдашева
+T1	Positive 106 108	ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

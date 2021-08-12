@@ -1,0 +1,5 @@
+T0	Neutral_all 28 37	Тимошенко
+T1	Neutral_all 59 64	Бойко
+T2	Neutral_all 105 109	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

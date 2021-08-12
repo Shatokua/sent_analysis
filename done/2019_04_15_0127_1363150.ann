@@ -1,0 +1,3 @@
+T0	Neutral_all 25 33	Воробьев
+T1	Neutral_all 65 80	Андрей Воробьев
+R1	Anafor Arg1:T1 Arg2:T0

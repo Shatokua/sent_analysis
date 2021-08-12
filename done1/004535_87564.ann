@@ -1,0 +1,13 @@
+T0	Neutral_all 23 29	Сергея
+T1	Neutral_all 100 111	Юрий Лужков
+T2	Neutral_all 196 212	Евгений Примаков
+T3	Neutral_all 257 264	Лужкова
+T4	Neutral_all 267 276	Примакова
+T5	Neutral_all 292 309	Борис Березовский
+T6	Neutral_all 332 346	Сергея Доренко
+T7	Neutral_all 311 313	он
+A1	AnaforPerson T7
+R1	Anafor Arg1:T5 Arg2:T7
+R2	Anafor Arg1:T6 Arg2:T0
+R3	Anafor Arg1:T1 Arg2:T3
+R4	Anafor Arg1:T2 Arg2:T4

@@ -1,0 +1,10 @@
+T0	Mixed 18 37	Николай Анатольевич
+T1	Neutral 121 124	вас
+A1	AnaforPerson T1
+T2	Neutral 164 166	он
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Mixed 39 41	вы
+A3	AnaforPerson T3
+R3	Anafor Arg1:T0 Arg2:T3	
+R1	Anafor Arg1:T3 Arg2:T1	

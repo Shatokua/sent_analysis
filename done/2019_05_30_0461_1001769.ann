@@ -1,0 +1,6 @@
+T0	Neutral_all 75 100	Игоря Леонидовича Бабенко
+T1	Neutral_all 103 134	Светланы Алексеевны Поверичевой
+T2	Neutral_all 141 143	их
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

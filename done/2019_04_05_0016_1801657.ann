@@ -1,0 +1,9 @@
+T0	Neutral_all 35 41	Трампа
+T1	Neutral_all 58 64	Путина
+T2	Neutral_all 122 127	Трамп
+T3	Neutral_all 134 140	Путина
+T4	Neutral_all 157 160	его
+A1	AnaforPerson T4
+R2	Anafor Arg1:T2 Arg2:T0
+R1	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

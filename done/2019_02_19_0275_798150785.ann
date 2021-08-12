@@ -1,0 +1,7 @@
+T5	Negative 139 147	Филарету
+T6	Neutral 164 173	Андромаха
+T101	Neutral_all 34 51	Виктора Януковича
+T102	Negative_all 100 106	Герман
+T103	Neutral_all 182 189	Гектора
+T104	Negative_all 193 201	Филарета
+R1	Anafor Arg1:T5 Arg2:T104	

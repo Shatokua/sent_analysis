@@ -1,0 +1,6 @@
+T0	Neutral_all 124 138	А.В. Шипиловым
+T1	Neutral_all 170 184	С.Ю. Дегтяреву
+T2	Neutral_all 75 79	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T2

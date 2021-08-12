@@ -1,0 +1,8 @@
+T0	Negative_all 0 12	Ходорковский
+T1	Neutral_all 65 75	О. Джемаля
+T2	Negative_all 78 80	Он
+A1	AnaforPerson T2
+T3	Neutral_all 90 92	их
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

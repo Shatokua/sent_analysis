@@ -1,0 +1,4 @@
+T0	Neutral_all 104 115	Яна Червона
+T1	Neutral_all 118 132	Сергей Милютин
+T2	Neutral_all 192 195	Яну
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T100	Negative_all 20 31	Джош Эрнест
+T101	Neutral_all 78 92	Бараком Обамой
+T102	Negative_all 152 158	Эрнест
+A1	AnaforPerson T102
+T103	Neutral 61 63	он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T100 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T102

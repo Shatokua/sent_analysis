@@ -1,0 +1,12 @@
+T0	Positive 74 90	Евгений Куйвашев
+T1	Neutral 46 49	его
+A1	AnaforPerson T1
+T2	Positive 122 125	его
+A2	AnaforPerson T2
+T3	Positive 147 150	его
+A3	AnaforPerson T3
+T4	Positive 188 190	Он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

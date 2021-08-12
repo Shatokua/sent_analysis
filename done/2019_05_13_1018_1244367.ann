@@ -1,0 +1,4 @@
+T0	Positive 64 70	Максим
+T1	Positive 143 147	тебя
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

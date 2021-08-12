@@ -1,0 +1,5 @@
+T0	Neutral_all 66 84	Си Джей Макколлома
+T1	Neutral_all 43 46	вам
+A1	Plural T1
+T2	Neutral_all 86 101	C.J. McCollom’s
+R1	Anafor Arg1:T0 Arg2:T2

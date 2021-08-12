@@ -1,0 +1,6 @@
+T0	Neutral_all 39 46	Лейбман
+T1	Neutral_all 71 77	Ксению
+T2	Negative 164 181	Людмиле Нарусовой
+T3	Neutral 119 121	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

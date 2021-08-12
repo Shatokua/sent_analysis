@@ -1,0 +1,4 @@
+T100	Negative 8 13	Трамп
+T101	Neutral_all 24 28	Киму
+T102	Neutral_all 85 89	Кима
+R1	Anafor Arg1:T101 Arg2:T102

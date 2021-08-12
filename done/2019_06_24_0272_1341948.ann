@@ -1,0 +1,5 @@
+T0	Negative 27 37	Терезы Мэй
+T1	Neutral_all 164 172	Скрипаля
+T2	Neutral_all 107 110	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

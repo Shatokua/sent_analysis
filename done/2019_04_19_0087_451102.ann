@@ -1,0 +1,6 @@
+T0	Neutral_all 27 33	Путина
+T1	Neutral_all 36 42	Трампа
+T2	Neutral_all 90 96	Трампа
+T3	Neutral_all 99 106	Меркель
+T4	Neutral_all 134 142	Олландом
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T0	Neutral_all 132 148	Владимира Путина
+T1	Neutral_all 180 201	Михаилом Ведерниковым
+T2	Neutral_all 29 32	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

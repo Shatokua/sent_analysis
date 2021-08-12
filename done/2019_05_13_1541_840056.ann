@@ -1,0 +1,7 @@
+T0	Positive 13 17	Шону
+T1	Positive 105 108	ему
+A1	AnaforPerson T1
+T2	Positive 21 24	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T1	

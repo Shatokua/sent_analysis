@@ -1,0 +1,11 @@
+T0	Negative 339 347	Янукович
+T2	Negative 320 326	Азаров
+T101	Negative_all 47 53	Азаров
+T103	Negative 293 299	Кто-то
+T104	Neutral_all 505 511	Ющенко
+T105	Neutral_all 518 523	Кучмы
+T106	Neutral_all 530 538	Кравчука
+R1	Anafor Arg1:T2 Arg2:T103	
+R2	Anafor Arg1:T0 Arg2:T103	
+R3	Anafor Arg1:T101 Arg2:T2	
+A1	AnaforPerson T103

@@ -1,0 +1,11 @@
+T0	Neutral_all 169 182	Данил Кутузов
+T1	Neutral_all 108 111	они
+A1	Plural T1
+T2	Neutral_all 19 22	нам
+A2	Plural T2
+T3	Neutral_all 269 271	их
+A3	Plural T3
+T101	Neutral_all 82 84	Им
+A4	Plural T101
+R1	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T101

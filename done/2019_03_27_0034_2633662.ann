@@ -1,0 +1,8 @@
+T100	Positive 49 65	Марко ван Бастен
+T101	Positive 78 85	Роналдо
+T102	Positive_all 140 154	Паоло Мальдини
+T103	Positive_all 157 170	Франко Барези
+T1	Positive 191 194	них
+A1	AnaforPerson T1
+R1	Anafor Arg1:T102 Arg2:T1	
+R2	Anafor Arg1:T103 Arg2:T1	

@@ -1,0 +1,4 @@
+T0	Neutral_all 20 38	Загребельский В. В
+T1	Neutral_all 96 108	Ляляева С. Ф
+T2	Neutral_all 156 169	Ляляева С. Ф.
+R1	Anafor Arg1:T1 Arg2:T2

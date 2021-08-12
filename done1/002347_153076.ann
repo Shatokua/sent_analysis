@@ -1,0 +1,4 @@
+T2	Neutral_all 95 121	Барданов Олег Владимирович
+T3	Neutral_all 146 158	Коломин В. И
+T1	Neutral_all 58 80	Коломин Владимир Ильич
+R1	Anafor Arg1:T1 Arg2:T3

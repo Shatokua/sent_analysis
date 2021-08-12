@@ -1,0 +1,7 @@
+T0	Neutral_all 124 133	Данкверта
+T1	Neutral_all 197 206	Данкверта
+T2	Neutral_all 6 8	мы
+A1	Plural T2
+T3	Neutral_all 18 22	ними
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

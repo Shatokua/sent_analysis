@@ -1,0 +1,17 @@
+T2	Neutral 28 31	Его
+A1	AnaforPerson T2
+T100	Neutral 66 74	Чепрасов
+T102	Neutral_all 106 114	Алексеев
+T103	Neutral_all 120 128	Соловьев
+T1	Neutral 54 57	Его
+A3	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T2	
+R4	Anafor Arg1:T100 Arg2:T1	
+T3	Neutral 94 97	его
+A4	AnaforPerson T3
+R5	Anafor Arg1:T102 Arg2:T3	
+T4	Negative 167 170	них
+A2	AnaforPerson T4
+R2	Anafor Arg1:T100 Arg2:T4	
+R3	Anafor Arg1:T102 Arg2:T4	
+R6	Anafor Arg1:T103 Arg2:T4	

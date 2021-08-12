@@ -1,0 +1,8 @@
+T0	Positive 98 109	Тьерри Анри
+T2	Positive 80 82	он
+A1	AnaforPerson T2
+T3	Positive 168 171	его
+A2	AnaforPerson T3
+T101	Positive_all 40 53	Килиан Мбаппе
+R1	Anafor Arg1:T101 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

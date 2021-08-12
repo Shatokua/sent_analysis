@@ -1,0 +1,5 @@
+T0	Neutral 6 12	Шумера
+T101	Negative 73 79	Пелоси
+T102	Negative 92 94	ее
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

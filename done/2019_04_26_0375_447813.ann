@@ -1,0 +1,13 @@
+T0	Neutral_all 6 19	Кончаловскому
+T1	Neutral_all 67 79	Кончаловский
+T2	Neutral_all 126 138	Кончаловский
+T3	Neutral_all 85 88	они
+A1	Plural T3
+T4	Neutral_all 140 142	он
+A2	Plural T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T0

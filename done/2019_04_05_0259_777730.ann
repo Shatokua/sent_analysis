@@ -1,0 +1,6 @@
+T100	Positive 0 7	Меркель
+T101	Neutral_all 48 55	Путиным
+T102	Neutral_all 58 65	Трампом
+T103	Neutral_all 116 119	нее
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	

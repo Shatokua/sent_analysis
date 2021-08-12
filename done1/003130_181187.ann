@@ -1,0 +1,37 @@
+T0	Neutral_all 32 35	Юли
+T1	Neutral_all 190 198	Началова
+T2	Neutral_all 304 311	Ланской
+T3	Neutral_all 419 426	Катькой
+T4	Neutral_all 464 477	Игоря Крутого
+T5	Neutral_all 581 585	Дима
+T6	Neutral_all 594 597	Юле
+T7	Neutral_all 36 38	он
+A1	AnaforPerson T7
+T8	Neutral_all 59 62	ней
+A2	AnaforPerson T8
+T9	Neutral_all 90 94	ними
+A3	Plural T9
+T10	Neutral_all 97 99	ее
+A4	AnaforPerson T10
+T11	Neutral_all 335 338	она
+A5	AnaforPerson T11
+T12	Neutral_all 514 517	Они
+A6	Plural T12
+T13	Neutral_all 666 672	Катьке
+T114	Neutral_all 636 641	тобой
+A7	AnaforPerson T114
+R1	Anafor Arg1:T2 Arg2:T7
+R2	Anafor Arg1:T3 Arg2:T12
+R3	Anafor Arg1:T2 Arg2:T12
+R4	Anafor Arg1:T3 Arg2:T13
+R5	Anafor Arg1:T0 Arg2:T1
+R6	Anafor Arg1:T1 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T8
+R8	Anafor Arg1:T8 Arg2:T10
+R9	Anafor Arg1:T10 Arg2:T11
+R101	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T6
+R104	Anafor Arg1:T10 Arg2:T8
+R103	Anafor Arg1:T6 Arg2:T11
+R105	Anafor Arg1:T11 Arg2:T10
+R106	Anafor Arg1:T5 Arg2:T7

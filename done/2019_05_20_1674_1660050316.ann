@@ -1,0 +1,7 @@
+T0	Neutral 34 41	Саввиди
+T1	Neutral 85 88	ним
+A1	AnaforPerson T1
+T2	Neutral 180 182	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

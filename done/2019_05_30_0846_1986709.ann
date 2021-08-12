@@ -1,0 +1,3 @@
+T0	Neutral_all 142 153	Полтавченко
+T1	Neutral_all 166 185	Георгий Полтавченко
+R1	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,7 @@
+T0	Positive 0 20	Максим Станиславович
+T1	Positive 22 24	Вы
+A1	AnaforPerson T1
+T2	Positive 101 104	Вам
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

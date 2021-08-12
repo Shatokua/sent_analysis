@@ -1,0 +1,7 @@
+T0	Neutral 5 10	Дуров
+T1	Neutral 33 38	Жаров
+T2	Negative 157 159	их
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

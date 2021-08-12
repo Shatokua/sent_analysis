@@ -1,0 +1,5 @@
+T0	Neutral_all 19 30	Чака Шумера
+T1	Neutral 50 62	Барак) Обама
+T2	Negative_all 193 196	Они
+A1	Plural T2
+A2	AnaforPerson T2

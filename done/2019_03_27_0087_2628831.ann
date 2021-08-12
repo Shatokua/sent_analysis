@@ -1,0 +1,6 @@
+T2	Positive 187 191	тебе
+A1	AnaforPerson T2
+T100	Positive_all 96 101	Трамп
+T101	Positive_all 203 208	Трамп
+R2	Anafor Arg1:T101 Arg2:T2
+R1	Anafor Arg1:T100 Arg2:T2	

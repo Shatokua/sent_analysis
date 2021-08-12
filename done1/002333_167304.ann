@@ -1,0 +1,8 @@
+T0	Neutral_all 34 49	Петр Алексеевич
+T1	Neutral_all 88 90	ее
+A1	AnaforPerson T1
+T2	Neutral_all 126 128	ей
+A2	AnaforPerson T2
+T3	Neutral_all 175 178	нас
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

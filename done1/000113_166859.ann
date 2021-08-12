@@ -1,0 +1,5 @@
+T0	Neutral 95 111	Нюта Федермессер
+T1	Neutral_all 146 156	Навального
+T2	Neutral 188 190	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

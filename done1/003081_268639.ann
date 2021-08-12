@@ -1,0 +1,5 @@
+T0	Neutral_all 35 54	Владислава Пошморга
+T1	Neutral_all 152 160	Пошморга
+T2	Neutral_all 212 229	Варвары Киселевой
+T3	Neutral_all 279 294	Сергею Солонину
+R1	Anafor Arg1:T0 Arg2:T1

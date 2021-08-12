@@ -1,0 +1,4 @@
+T100	Neutral_all 30 44	Эрнст Мавлютов
+T101	Neutral_all 70 89	Геннадию Сергеевичу
+T102	Neutral_all 123 139	Геннадий Бахарев
+R1	Anafor Arg1:T102 Arg2:T101

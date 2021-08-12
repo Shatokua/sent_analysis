@@ -1,0 +1,6 @@
+T0	Neutral_all 85 101	Гедеван Попхадзе
+T1	Neutral_all 121 123	он
+A1	AnaforPerson T1
+T2	Neutral_all 225 228	они
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

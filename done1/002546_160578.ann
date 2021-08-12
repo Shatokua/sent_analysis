@@ -1,0 +1,6 @@
+T0	Neutral_all 189 209	Светланой Кузнецовой
+T1	Neutral_all 257 260	нее
+A1	AnaforPerson T1
+T102	Neutral_all 304 306	их
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,3 @@
+T0	Neutral_all 64 74	Поклонской
+T1	Negative_all 181 191	Поклонской
+R1	Anafor Arg1:T0 Arg2:T1

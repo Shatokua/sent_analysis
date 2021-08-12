@@ -1,0 +1,7 @@
+T0	Neutral_all 12 20	Кремлева
+T1	Neutral_all 23 37	Евгения Мезина
+T2	Neutral_all 105 122	Александра Мезина
+T3	Neutral_all 89 91	их
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T3

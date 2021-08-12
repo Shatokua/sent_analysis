@@ -1,0 +1,7 @@
+T0	Neutral_all 231 246	Валентина Гафта
+T1	Neutral_all 393 398	Гафта
+T2	Neutral_all 355 358	вам
+A1	AnaforPerson T2
+T3	Neutral_all 385 387	Вы
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1

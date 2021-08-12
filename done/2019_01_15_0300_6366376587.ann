@@ -1,0 +1,14 @@
+T3	Neutral 182 185	ему
+A1	AnaforPerson T3
+T100	Neutral_all 51 60	Порошенко
+T102	Negative 200 207	Яценюка
+T103	Neutral_all 237 244	Яценюка
+T1	Neutral 78 81	ему
+A2	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+T2	Neutral 121 128	Арсений
+T4	Neutral 130 136	Яценюк
+R2	Anafor Arg1:T2 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T3	
+R4	Anafor Arg1:T4 Arg2:T102	
+R5	Anafor Arg1:T102 Arg2:T103	

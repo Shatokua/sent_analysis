@@ -1,0 +1,5 @@
+T1	Neutral_all 127 149	Хабибом Нурмагомедовым
+T2	Neutral_all 86 88	он
+A1	AnaforPerson T2
+T100	Negative 25 40	Конор Макгрегор
+R1	Anafor Arg1:T100 Arg2:T2	

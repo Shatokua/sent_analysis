@@ -1,0 +1,3 @@
+T0	Negative_all 74 84	Саакашвили
+T1	Negative_all 176 186	Саакашвили
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Neutral 73 80	Путиным
+T1	Positive 99 104	Путин
+T2	Positive 107 113	Лавров
+R1	Variant Arg1:T0 Arg2:T1	

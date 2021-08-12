@@ -1,0 +1,3 @@
+T100	Neutral_all 28 47	Дмитрий Анатольевич
+T101	Neutral_all 102 110	Медведев
+R1	Anafor Arg1:T100 Arg2:T101

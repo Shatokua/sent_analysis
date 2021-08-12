@@ -1,0 +1,4 @@
+T2	Neutral_all 72 76	него
+A1	AnaforPerson T2
+T101	Neutral 11 42	Бориса Дмитриевича (Колесникова
+R1	Anafor Arg1:T101 Arg2:T2	

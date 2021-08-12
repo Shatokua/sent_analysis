@@ -1,0 +1,9 @@
+T3	Positive 143 146	Лео
+T100	Mixed 0 7	Роналду
+T101	Positive_all 65 70	Месси
+T102	Positive 72 81	Криштиану
+T104	Positive_all 166 168	Он
+A1	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T104	
+R3	Anafor Arg1:T100 Arg2:T102	

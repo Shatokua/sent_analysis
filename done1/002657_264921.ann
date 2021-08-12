@@ -1,0 +1,8 @@
+T0	Neutral_all 25 38	Махершалу Али
+T1	Neutral_all 41 53	Идриса Эльбу
+T2	Neutral_all 86 99	Джеймса Бонда
+T3	Neutral_all 111 117	Серены
+T4	Neutral_all 68 71	Они
+A1	Plural T4
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T4

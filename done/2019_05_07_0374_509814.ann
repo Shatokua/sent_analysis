@@ -1,0 +1,7 @@
+T0	Neutral 0 18	Валентина Ивановна
+T1	Neutral 28 30	вы
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 60 63	вам
+R2	Anafor Arg1:T1 Arg2:T2	
+A1	AnaforPerson T1
+A2	AnaforPerson T2

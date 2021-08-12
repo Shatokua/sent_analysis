@@ -1,0 +1,8 @@
+T0	Neutral_all 433 447	Мария Лазарева
+T1	Neutral_all 0 3	Она
+A1	AnaforPerson T1
+T2	Neutral_all 302 305	Они
+A2	Plural T2
+T102	Neutral_all 164 167	нас
+A3	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1

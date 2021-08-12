@@ -1,0 +1,7 @@
+T0	Neutral_all 35 39	Поля
+T1	Neutral_all 78 83	Погба
+T2	Neutral_all 114 118	Поля
+T103	Positive 167 169	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T103	

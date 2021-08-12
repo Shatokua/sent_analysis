@@ -1,0 +1,7 @@
+T0	Neutral_all 40 57	Пётру Алексеевичу
+T1	Neutral_all 122 126	Михо
+T2	Neutral_all 149 159	Саакашвили
+T3	Neutral_all 97 100	ему
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T2 Arg2:T1

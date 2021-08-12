@@ -1,0 +1,4 @@
+T0	Neutral_all 181 194	Роман Лобанов
+T101	Neutral_all 301 304	ним
+A1	AnaforPerson T101
+R101	Anafor Arg1:T0 Arg2:T101

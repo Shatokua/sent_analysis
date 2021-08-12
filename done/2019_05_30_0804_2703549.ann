@@ -1,0 +1,12 @@
+T0	Neutral_all 0 6	Володя
+T1	Neutral_all 8 30	Владимир Александрович
+T2	Neutral_all 51 73	Владимир Александрович
+T3	Neutral_all 75 97	Владимир Александрович
+T4	Neutral_all 36 39	вам
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R103	Anafor Arg1:T3 Arg2:T0
+R104	Anafor Arg1:T0 Arg2:T4

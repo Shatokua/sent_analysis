@@ -1,0 +1,10 @@
+T2	Neutral_all 300 312	Нима Сафапур
+T3	Neutral_all 369 383	Роман Привалов
+T4	Neutral_all 2 4	вы
+A1	Plural T4
+T5	Neutral_all 347 350	его
+A2	AnaforPerson T5
+T100	Neutral 209 225	Алекс Густафссон
+T101	Neutral 229 242	Гегард Мусаси
+R1	Anafor Arg1:T2 Arg2:T5
+A4	AnaforPerson T4

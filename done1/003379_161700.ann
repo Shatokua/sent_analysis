@@ -1,0 +1,5 @@
+T0	Neutral_all 39 50	Луис Энрике
+T1	Neutral_all 69 80	Емельяненко
+T2	Neutral_all 35 37	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

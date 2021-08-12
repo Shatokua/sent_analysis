@@ -1,0 +1,4 @@
+T100	Neutral_all 0 13	Роберт Мюллер
+T102	Negative 55 66	Джеймс Коми
+T101	Neutral_all 129 136	Мюллера
+R1	Anafor Arg1:T100 Arg2:T101

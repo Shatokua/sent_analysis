@@ -1,0 +1,13 @@
+T0	Neutral_all 386 396	Оксана Тен
+T1	Neutral_all 438 452	Нуралы Киясова
+T2	Neutral_all 519 529	Оксану Тен
+T3	Neutral_all 777 788	Дениса Тена
+T4	Neutral_all 538 541	она
+A1	AnaforPerson T4
+T5	Neutral_all 576 578	её
+A2	AnaforPerson T5
+T6	Neutral_all 606 609	вам
+A3	Plural T6
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T4 Arg2:T5

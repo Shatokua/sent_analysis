@@ -1,0 +1,5 @@
+T0	Neutral_all 123 137	Сергей Аргунов
+T1	Neutral_all 235 251	Вадима Аверченко
+T2	Neutral_all 168 171	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

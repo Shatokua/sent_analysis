@@ -1,0 +1,6 @@
+T0	Negative 8 15	Клинтон
+T1	Negative 141 143	их
+A1	Plural T1
+T2	Negative 155 157	их
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

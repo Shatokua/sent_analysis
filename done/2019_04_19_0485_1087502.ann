@@ -1,0 +1,10 @@
+T0	Neutral_all 40 46	Собчак
+T1	Neutral_all 120 129	Навальный
+T2	Neutral_all 153 162	Явлинский
+T3	Neutral_all 178 184	Собчак
+T4	Neutral_all 0 2	Мы
+A1	Plural T4
+T5	Neutral_all 206 210	нами
+A2	Plural T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T5

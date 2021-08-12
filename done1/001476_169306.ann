@@ -1,0 +1,7 @@
+T0	Neutral_all 406 422	Алексей Минчонок
+T1	Neutral_all 609 612	нас
+A1	Plural T1
+T2	Neutral_all 799 802	его
+T3	Neutral_all 832 834	он
+R1	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T3

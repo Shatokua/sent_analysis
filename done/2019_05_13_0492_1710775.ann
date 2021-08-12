@@ -1,0 +1,7 @@
+T0	Positive 41 69	Виктора Аркадьевича Петухова
+T1	Positive 158 160	Он
+A1	AnaforPerson T1
+T2	Positive 182 185	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

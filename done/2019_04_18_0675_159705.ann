@@ -1,0 +1,5 @@
+T0	Neutral 62 72	Мавлютовым
+T1	Neutral 87 89	он
+A1	Unclear T1
+R1	Anafor Arg1:T0 Arg2:T1	
+#1	AnnotatorNotes T1	Возможно Mixed

@@ -1,0 +1,6 @@
+T0	Neutral 66 73	Немцова
+T1	Neutral 2 4	их
+A1	Plural T1
+T2	Neutral 97 99	он
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

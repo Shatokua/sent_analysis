@@ -1,0 +1,7 @@
+T0	Neutral_all 348 359	Коломойский
+T1	Neutral_all 631 649	Вячеслава Володина
+T2	Neutral_all 446 448	мы
+A1	Plural T2
+T3	Neutral_all 475 478	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

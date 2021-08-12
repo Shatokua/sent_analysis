@@ -1,0 +1,7 @@
+T2	Neutral 344 346	он
+A1	AnaforPerson T2
+T101	Neutral_all 139 144	Обама
+T102	Neutral 135 137	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T2
+R101	Anafor Arg1:T101 Arg2:T102

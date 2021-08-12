@@ -1,0 +1,6 @@
+T0	Neutral_all 72 88	Роберта Кочаряна
+T1	Neutral_all 234 236	он
+A1	AnaforPerson T1
+T101	Neutral_all 133 136	его
+A2	AnaforPerson T101
+R101	Anafor Arg1:T0 Arg2:T101

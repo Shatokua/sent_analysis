@@ -1,0 +1,3 @@
+T1	Negative 117 131	Петр Порошенко
+T100	Negative 88 97	Порошенко
+R1	Anafor Arg1:T1 Arg2:T100	

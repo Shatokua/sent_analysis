@@ -1,0 +1,6 @@
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T1	Neutral_all 16 46	Алексеем Борисовичем (Миллером
+T3	Neutral_all 144 146	им
+A2	Plural T3
+R101	Anafor Arg1:T1 Arg2:T2

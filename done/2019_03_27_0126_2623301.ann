@@ -1,0 +1,4 @@
+T0	Neutral_all 29 39	Назарбаева
+T1	Neutral_all 84 103	Касым-Жомарт Токаев
+T2	Neutral_all 145 164	Нурсултан Назарбаев
+R1	Anafor Arg1:T2 Arg2:T0

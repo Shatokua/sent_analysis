@@ -1,0 +1,6 @@
+T100	Negative 44 53	Тимошенко
+T101	Negative 61 67	Собчак
+T102	Neutral_all 90 96	Трампа
+T103	Neutral_all 118 122	него
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103

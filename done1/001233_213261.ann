@@ -1,0 +1,14 @@
+T0	Neutral_all 146 159	Тони Фергюсон
+T1	Neutral_all 186 202	Джордж Сент-Пьер
+T2	Neutral_all 215 230	Конор МакГрегор
+T3	Neutral_all 280 298	Флойдом Мейвезером
+T4	Positive_all 367 380	Макс Холлоуэй
+T5	Positive_all 383 395	Дастин Порье
+T6	Neutral_all 21 24	они
+A1	Plural T6
+T7	Neutral_all 317 319	мы
+A2	Plural T7
+T108	Neutral_all 455 459	ними
+A3	Plural T108
+R101	Anafor Arg1:T5 Arg2:T108
+R102	Anafor Arg1:T4 Arg2:T108

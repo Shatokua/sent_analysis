@@ -1,0 +1,6 @@
+T100	Neutral_all 365 384	Александр Бастрыкин
+T101	Neutral_all 266 283	Борис Гребенщиков
+T102	Neutral 348 363	Булата Окуджавы
+T1	Neutral 299 302	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	

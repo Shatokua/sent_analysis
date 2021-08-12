@@ -1,0 +1,9 @@
+T0	Neutral 79 89	Нойштедтер
+T1	Neutral 141 144	нас
+A1	Plural T1
+T2	Neutral 203 206	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	
+T3	Neutral 26 30	него
+A3	AnaforPerson T3
+R2	Variant Arg1:T2 Arg2:T3	

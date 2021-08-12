@@ -1,0 +1,7 @@
+T1	Neutral 11 30	Владислава] Резника
+T2	Neutral_all 69 71	вы
+A1	Plural T2
+T3	Neutral_all 122 126	него
+A2	AnaforPerson T3
+A3	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T3	

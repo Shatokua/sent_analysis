@@ -1,0 +1,15 @@
+T0	Neutral_all 246 259	Иисуса Христа
+T1	Neutral_all 188 191	нас
+A1	Plural T1
+T2	Neutral_all 235 237	мы
+A2	Plural T2
+T3	Neutral_all 266 268	мы
+A3	Plural T3
+T4	Neutral_all 277 280	его
+A4	AnaforPerson T4
+T5	Neutral_all 298 300	мы
+A5	Plural T5
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T1

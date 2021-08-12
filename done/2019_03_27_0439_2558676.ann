@@ -1,0 +1,7 @@
+T3	Neutral 222 226	тебя
+A1	AnaforPerson T3
+T100	Neutral_all 94 107	Сергей Шнуров
+T101	Neutral_all 129 135	Наташу
+T102	Negative 228 234	Шнуров
+R1	Anafor Arg1:T102 Arg2:T3	
+R2	Anafor Arg1:T100 Arg2:T3	

@@ -1,0 +1,6 @@
+T0	Neutral_all 61 75	Андрей Данилко
+T1	Neutral_all 100 114	Верку Сердючку
+T2	Mixed_all 118 127	Зеленский
+T3	Mixed_all 143 157	Верка Сердючка
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T1

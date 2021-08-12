@@ -1,0 +1,4 @@
+T0	Neutral_all 0 7	Кокорин
+T1	Neutral_all 254 271	Александр Кокорин
+T2	Neutral_all 311 323	Павел Мамаев
+R1	Anafor Arg1:T1 Arg2:T0

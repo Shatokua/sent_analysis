@@ -1,0 +1,5 @@
+T1	Neutral_all 51 60	Страшнова
+T2	Neutral_all 113 116	ему
+A1	AnaforPerson T2
+T100	Neutral 24 31	Лаптева
+R1	Anafor Arg1:T1 Arg2:T2

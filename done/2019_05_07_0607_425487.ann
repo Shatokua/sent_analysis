@@ -1,0 +1,5 @@
+T0	Neutral 38 47	Турчинову
+T1	Negative 11 13	он
+T2	Neutral 87 90	его
+A1	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

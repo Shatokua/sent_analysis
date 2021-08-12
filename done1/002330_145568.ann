@@ -1,0 +1,7 @@
+T0	Neutral_all 41 55	Астрид Эриксон
+T1	Neutral_all 85 88	она
+A1	AnaforPerson T1
+T2	Neutral_all 159 163	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

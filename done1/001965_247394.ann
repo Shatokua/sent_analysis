@@ -1,0 +1,14 @@
+T0	Neutral_all 83 97	Андрей Бочаров
+T1	Neutral_all 253 271	Александра Беглова
+T2	Neutral_all 301 318	Олега Хорохордина
+T3	Neutral_all 371 389	Олега Кувшинникова
+T4	Neutral_all 419 440	Владимира Владимирова
+T5	Neutral_all 525 542	Валерия Лимаренко
+T6	Neutral_all 593 607	Игорь Бабушкин
+T7	Neutral_all 652 661	Олег Шеин
+T8	Neutral_all 690 705	Алексей Текслер
+T9	Neutral_all 721 733	Денис Паслер
+T10	Neutral_all 828 841	Бату Хасикова
+T11	Neutral_all 619 623	него
+A1	AnaforPerson T11
+R1	Anafor Arg1:T6 Arg2:T11

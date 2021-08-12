@@ -1,0 +1,4 @@
+T0	Positive 86 91	Навас
+T1	Mixed 104 107	Ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

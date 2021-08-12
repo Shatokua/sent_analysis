@@ -1,0 +1,6 @@
+T0	Neutral_all 25 36	Игорь Додон
+T1	Mixed 92 102	Плахотнюка
+T2	Neutral_all 245 256	Плахотнюком
+T3	Neutral_all 533 542	Плахотнюк
+R2	Anafor Arg1:T1 Arg2:T2	
+R1	Anafor Arg1:T2 Arg2:T3	

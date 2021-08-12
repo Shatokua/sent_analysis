@@ -1,0 +1,4 @@
+T1	Neutral_all 78 107	Резника Владислава Матусовича
+T2	Neutral_all 141 144	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

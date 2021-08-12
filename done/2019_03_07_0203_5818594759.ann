@@ -1,0 +1,8 @@
+T100	Neutral_all 14 32	Вячеслава Володина
+T101	Positive_all 125 133	Табакову
+T102	Neutral_all 34 36	Он
+A1	AnaforPerson T102
+T103	Neutral 209 212	ему
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102
+R102	Anafor Arg1:T101 Arg2:T103

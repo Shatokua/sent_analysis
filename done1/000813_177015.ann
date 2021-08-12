@@ -1,0 +1,6 @@
+T0	Neutral_all 106 122	Майи Рчеулишвили
+T1	Neutral_all 32 35	нас
+A1	Plural T1
+T2	Neutral_all 132 135	нас
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

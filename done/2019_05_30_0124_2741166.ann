@@ -1,0 +1,7 @@
+T0	Neutral_all 50 60	Свинарчуки
+T1	Neutral_all 62 73	Гладковские
+T2	Neutral_all 99 110	Коломойский
+T3	Neutral_all 20 32	Коломойского
+T104	Neutral_all 35 38	вам
+A1	Plural T104
+R101	Anafor Arg1:T2 Arg2:T3

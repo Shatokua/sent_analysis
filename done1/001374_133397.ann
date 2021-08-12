@@ -1,0 +1,12 @@
+T0	Neutral_all 314 328	Ивана Имгрунта
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 155 157	мы
+A2	Plural T2
+T3	Neutral_all 234 236	мы
+A3	Plural T3
+T4	Neutral_all 330 332	Он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

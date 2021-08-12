@@ -1,0 +1,7 @@
+T0	Neutral_all 41 51	Щербаковым
+T3	Neutral_all 97 105	Щербаков
+T1	Neutral_all 53 70	Всеволод (Хаценко
+T2	Neutral_all 136 139	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

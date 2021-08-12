@@ -1,0 +1,13 @@
+T0	Neutral 0 6	Гудков
+T1	Neutral 87 89	Он
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 112 115	Его
+A1	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	
+A2	AnaforPerson T1
+T4	Neutral 207 209	он
+A4	AnaforPerson T4
+R3	Anafor Arg1:T2 Arg2:T4	
+T5	Neutral 221 223	Он
+A5	AnaforPerson T5
+R4	Anafor Arg1:T4 Arg2:T5	

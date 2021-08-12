@@ -1,0 +1,6 @@
+T1	Neutral_all 95 98	Аню
+T2	Neutral 111 114	она
+A1	AnaforPerson T2
+T100	Positive 10 16	Анечки
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Positive_all 0 12	Джина Хэспел
+T2	Neutral_all 53 55	Вы
+A1	Plural T2
+T101	Positive 205 217	Джину Хэспел
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T101	

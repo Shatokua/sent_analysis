@@ -1,0 +1,15 @@
+T0	Neutral 80 100	Валентиной Матвиенко
+T1	Neutral 7 10	его
+A1	AnaforPerson T1
+T2	Neutral 63 65	Он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 102 105	Она
+A3	AnaforPerson T3
+T4	Neutral 106 109	его
+A4	AnaforPerson T4
+R2	Anafor Arg1:T2 Arg2:T4	
+R3	Anafor Arg1:T0 Arg2:T3	
+T5	Neutral 121 123	Он
+A5	AnaforPerson T5
+R4	Anafor Arg1:T4 Arg2:T5	

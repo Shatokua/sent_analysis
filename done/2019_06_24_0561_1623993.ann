@@ -1,0 +1,7 @@
+T0	Negative_all 103 110	Турчака
+T1	Neutral_all 210 229	Михаила Ведерникова
+T2	Neutral_all 44 46	Мы
+A1	Plural T2
+T3	Neutral_all 121 123	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

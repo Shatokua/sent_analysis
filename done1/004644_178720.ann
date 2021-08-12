@@ -1,0 +1,6 @@
+T0	Neutral_all 90 102	Ису Хамхоева
+T1	Neutral_all 271 282	Иса Хамхоев
+T2	Neutral_all 205 208	ним
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T2

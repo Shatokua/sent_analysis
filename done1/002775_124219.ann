@@ -1,0 +1,11 @@
+T1	Neutral_all 391 408	Вагиз Хидиятуллин
+T2	Positive_all 468 485	Вагизу Назировичу
+T3	Positive 198 201	ему
+A1	AnaforPerson T3
+T4	Positive 536 538	их
+A2	AnaforPerson T4
+A3	Plural T4
+T100	Neutral 133 150	Валерию Глушакову
+R1	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T100 Arg2:T3	

@@ -1,0 +1,5 @@
+T0	Neutral 32 37	Каина
+T1	Neutral 45 60	Зураба Церетели
+T2	Neutral 89 93	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

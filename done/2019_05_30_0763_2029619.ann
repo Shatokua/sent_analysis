@@ -1,0 +1,4 @@
+T0	Neutral_all 55 75	Хабиба Нурмагомедова
+T1	Neutral_all 78 95	Конора Макгрегора
+T2	Neutral_all 167 173	Хабиба
+R1	Anafor Arg1:T0 Arg2:T2

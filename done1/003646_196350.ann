@@ -1,0 +1,9 @@
+T0	Neutral_all 245 254	Януковича
+T1	Neutral_all 257 262	Лукаш
+T2	Neutral_all 265 272	Портнов
+T3	Neutral_all 298 315	Виктора Януковича
+T4	Neutral_all 316 327	Елена Лукаш
+T5	Neutral_all 407 421	Андрей Портнов
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T4 Arg2:T1
+R3	Anafor Arg1:T5 Arg2:T2

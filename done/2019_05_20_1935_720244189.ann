@@ -1,0 +1,15 @@
+T0	Neutral 0 8	Прохоров
+T1	Neutral 89 95	Путина
+T2	Neutral 45 47	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 107 110	ним
+A2	AnaforPerson T3
+A3	Plural T3
+T4	Neutral 134 137	его
+A4	AnaforPerson T4
+T5	Neutral 154 156	Он
+A5	AnaforPerson T5
+R2	Anafor Arg1:T2 Arg2:T5	
+R3	Anafor Arg1:T1 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

@@ -1,0 +1,12 @@
+T0	Neutral 160 168	Бабурина
+T1	Neutral 200 208	Онищенко
+T2	Neutral 255 261	Гудков
+T103	Neutral 170 172	он
+A1	AnaforPerson T103
+T104	Neutral 282 286	него
+A2	AnaforPerson T104
+T105	Neutral 306 308	он
+A3	AnaforPerson T105
+R103	Anafor Arg1:T104 Arg2:T105
+R1	Anafor Arg1:T0 Arg2:T103	
+R2	Anafor Arg1:T2 Arg2:T104	

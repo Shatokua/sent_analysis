@@ -1,0 +1,4 @@
+T101	Positive 52 68	Дональда] Трампа
+T102	Positive 125 128	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

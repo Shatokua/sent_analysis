@@ -1,0 +1,12 @@
+T0	Neutral_all 0 13	Олег Иванович
+T1	Neutral_all 155 163	Романцев
+T2	Neutral_all 21 24	нам
+A1	Plural T2
+T3	Neutral_all 62 64	мы
+A2	Plural T3
+T104	Neutral_all 213 215	он
+A3	AnaforPerson T104
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T104

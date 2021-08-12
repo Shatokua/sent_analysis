@@ -1,0 +1,4 @@
+T0	Neutral 9 14	Путин
+T1	Neutral 98 101	ним
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

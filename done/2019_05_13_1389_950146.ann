@@ -1,0 +1,7 @@
+T0	Positive 87 102	Иосиф Давыдович
+T1	Neutral 82 85	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 135 138	ним
+A2	AnaforPerson T2
+R2	Variant Arg1:T0 Arg2:T2	

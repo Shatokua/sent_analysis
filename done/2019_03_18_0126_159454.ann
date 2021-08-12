@@ -1,0 +1,7 @@
+T100	Positive_all 41 68	Рамзана Ахматовича Кадырова
+T101	Positive_all 136 144	Абдуллах
+T103	Positive_all 119 123	него
+A1	AnaforPerson T103
+T102	Positive_all 183 192	Кадыровых
+R1	Anafor Arg1:T100 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T102

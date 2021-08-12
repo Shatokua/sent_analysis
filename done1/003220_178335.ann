@@ -1,0 +1,10 @@
+T0	Neutral_all 219 233	Сергей Вихарев
+T1	Neutral_all 622 624	он
+A1	AnaforPerson T1
+T2	Neutral_all 838 840	он
+A2	AnaforPerson T2
+T103	Neutral_all 1027 1030	ему
+A3	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R103	Anafor Arg1:T2 Arg2:T103

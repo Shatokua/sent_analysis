@@ -1,0 +1,8 @@
+T100	Positive 0 18	Владимир Зеленский
+T101	Negative 152 161	Порошенко
+T102	Negative 164 167	его
+A3	AnaforPerson T102
+T103	Positive 84 87	его
+A4	AnaforPerson T103
+R2	Anafor Arg1:T100 Arg2:T103	
+R1	Anafor Arg1:T101 Arg2:T102	

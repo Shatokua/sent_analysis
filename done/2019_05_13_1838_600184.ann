@@ -1,0 +1,6 @@
+T0	Positive 182 188	Путина
+T1	Positive 0 2	Он
+A1	AnaforPerson T1
+T2	Positive 148 150	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

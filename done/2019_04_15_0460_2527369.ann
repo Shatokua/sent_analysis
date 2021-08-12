@@ -1,0 +1,6 @@
+T100	Neutral_all 49 58	Бродского
+T101	Negative 89 97	Бродский
+T102	Neutral 235 237	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101	
+R3	Anafor Arg1:T101 Arg2:T102	

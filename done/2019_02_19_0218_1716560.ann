@@ -1,0 +1,4 @@
+T2	Neutral 146 164	Филарете Денисенко
+T101	Neutral_all 75 94	патриарх Варфоломей
+T1	Neutral 165 167	он
+R1	Anafor Arg1:T101 Arg2:T1	

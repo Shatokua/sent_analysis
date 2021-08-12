@@ -1,0 +1,5 @@
+T0	Neutral_all 86 95	Абрамович
+T1	Neutral_all 111 116	Блоху
+T2	Neutral_all 181 199	Романа Аркадьевича
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T0

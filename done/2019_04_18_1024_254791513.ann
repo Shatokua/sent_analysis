@@ -1,0 +1,6 @@
+T0	Negative 41 49	Янукович
+T1	Negative 51 57	Азаров
+T2	Negative 59 64	Клюев
+T3	Negative 78 81	Они
+T4	Neutral 138 140	их
+R1	Anafor Arg1:T3 Arg2:T4	

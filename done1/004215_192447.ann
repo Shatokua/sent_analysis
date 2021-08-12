@@ -1,0 +1,8 @@
+T2	Neutral_all 198 215	Федор Емельяненко
+T101	Neutral_all 82 87	Федор
+T103	Neutral_all 73 75	ты
+A1	AnaforPerson T103
+T104	Neutral_all 104 106	Ты
+A2	AnaforPerson T104
+R101	Anafor Arg1:T101 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T104

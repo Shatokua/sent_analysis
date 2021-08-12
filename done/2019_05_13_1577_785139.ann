@@ -1,0 +1,4 @@
+T0	Positive 106 130	Юнус-Беку Баматгиреевичу
+T1	Positive 142 144	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

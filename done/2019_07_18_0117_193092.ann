@@ -1,0 +1,4 @@
+T1	Neutral 6 16	Черчесовым
+T2	Neutral 98 100	Он
+A1	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

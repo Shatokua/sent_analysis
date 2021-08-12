@@ -1,0 +1,5 @@
+T1	Neutral 256 262	Трампу
+T2	Negative 336 338	Ее
+A1	AnaforPerson T2
+T100	Negative 92 107	Хиллари Клинтон
+R1	Anafor Arg1:T100 Arg2:T2	

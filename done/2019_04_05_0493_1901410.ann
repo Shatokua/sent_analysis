@@ -1,0 +1,6 @@
+T102	Positive 178 183	Денис
+T101	Positive 46 59	Денис (Мацуев
+T103	Positive 211 214	его
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

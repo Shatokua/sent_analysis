@@ -1,0 +1,7 @@
+T0	Positive 70 87	Кирилла Капризова
+T1	Positive 89 91	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 132 135	ему
+A2	AnaforPerson T2
+R2	Variant Arg1:T1 Arg2:T2	

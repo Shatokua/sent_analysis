@@ -1,0 +1,6 @@
+T0	Neutral_all 33 45	Трапезникова
+T1	Neutral_all 48 56	Пушилина
+T2	Neutral_all 148 158	Захарченко
+T103	Neutral_all 180 183	его
+A1	AnaforPerson T103
+R101	Anafor Arg1:T2 Arg2:T103

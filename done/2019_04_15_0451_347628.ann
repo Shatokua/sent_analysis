@@ -1,0 +1,9 @@
+T100	Neutral_all 25 32	Платини
+T101	Positive_all 94 101	Платини
+T102	Neutral_all 48 51	его
+A2	AnaforPerson T102
+T103	Positive 113 115	он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	
+R3	Anafor Arg1:T101 Arg2:T103	

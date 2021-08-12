@@ -1,0 +1,5 @@
+T0	Neutral_all 33 39	Федора
+T1	Neutral_all 41 58	Фёдор Емельяненко
+T2	Neutral_all 66 80	Райана Бейдера
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

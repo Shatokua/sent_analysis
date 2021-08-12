@@ -1,0 +1,15 @@
+T2	Neutral 31 34	его
+A1	AnaforPerson T2
+T100	Neutral_all 21 28	Малкина
+T101	Positive 208 213	Женей
+T102	Positive 68 71	его
+A3	AnaforPerson T102
+T103	Positive_all 117 120	его
+A4	AnaforPerson T103
+T104	Positive 149 152	ним
+A5	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T102	
+R3	Anafor Arg1:T102 Arg2:T103	
+R4	Anafor Arg1:T103 Arg2:T104	
+R5	Anafor Arg1:T101 Arg2:T104	

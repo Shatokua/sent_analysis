@@ -1,0 +1,4 @@
+T0	Neutral 146 151	Барак
+T1	Neutral 72 75	его
+T2	Neutral 97 100	его
+R1	Variant Arg1:T1 Arg2:T2	

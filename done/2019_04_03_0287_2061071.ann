@@ -1,0 +1,5 @@
+T2	Positive 198 202	нему
+T100	Positive 0 13	Дональд Трамп
+T101	Positive 127 133	Трампа
+R1	Anafor Arg1:T100 Arg2:T101	
+A1	AnaforPerson T2

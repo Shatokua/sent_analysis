@@ -1,0 +1,6 @@
+T0	Neutral_all 46 54	Желтиков
+T1	Neutral_all 142 152	Серебряков
+T2	Neutral_all 153 160	Моренец
+T3	Neutral_all 363 380	Ричарда Макларена
+T4	Neutral_all 520 528	Желтиков
+R1	Anafor Arg1:T0 Arg2:T4

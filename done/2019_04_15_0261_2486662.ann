@@ -1,0 +1,7 @@
+T0	Positive 37 50	Максим Резник
+T101	Negative_all 113 119	Беглов
+T102	Neutral_all 148 154	Резник
+T103	Positive_all 33 35	он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T103	
+R2	Anafor Arg1:T0 Arg2:T102	

@@ -1,0 +1,13 @@
+T0	Neutral_all 77 85	Савченко
+T1	Neutral_all 193 201	Савченко
+T2	Neutral_all 6 8	мы
+A1	Plural T2
+T3	Neutral_all 137 140	нас
+A2	Plural T3
+T4	Neutral_all 142 144	мы
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3
+R102	Anafor Arg1:T2 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T4

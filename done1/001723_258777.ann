@@ -1,0 +1,4 @@
+T0	Neutral_all 64 78	Ивана Голунова
+T1	Neutral_all 21 24	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

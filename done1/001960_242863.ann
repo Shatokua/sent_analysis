@@ -1,0 +1,16 @@
+T0	Neutral_all 46 72	Анатолия Екадомова-Ефимова
+T1	Neutral_all 179 198	Анатолия Сергеевича
+T2	Neutral_all 286 301	Семена Гудзенко
+T3	Neutral_all 303 322	Михаила Исаковского
+T4	Neutral_all 324 344	Константина Симонова
+T5	Neutral_all 385 402	Евгения Евтушенко
+T6	Neutral_all 404 418	Михаила Шлаина
+T7	Neutral_all 421 440	Владимира Высоцкого
+T8	Neutral_all 75 78	его
+A1	AnaforPerson T8
+T9	Neutral_all 136 138	он
+A2	AnaforPerson T9
+R1	Anafor Arg1:T0 Arg2:T9
+R2	Anafor Arg1:T9 Arg2:T8
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T9

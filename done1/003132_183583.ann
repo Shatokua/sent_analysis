@@ -1,0 +1,7 @@
+T1	Neutral_all 123 141	Владимир Зеленский
+T2	Neutral_all 263 267	Ильф
+T3	Neutral_all 270 276	Петров
+T100	Negative 0 14	Петр Порошенко
+T104	Negative 62 64	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T104	

@@ -1,0 +1,5 @@
+T0	Neutral_all 362 375	Ричард Никсон
+T1	Neutral_all 409 415	Никсон
+T2	Neutral_all 157 160	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

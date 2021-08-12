@@ -1,0 +1,5 @@
+T0	Neutral_all 19 27	Минченко
+T1	Neutral_all 47 55	Леонтьев
+T2	Neutral_all 34 37	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

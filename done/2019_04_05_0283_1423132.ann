@@ -1,0 +1,8 @@
+T100	Negative 18 35	Адольфом Гитлером
+T101	Negative 117 123	Гитлер
+T102	Negative 6 9	его
+A1	AnaforPerson T102
+T103	Negative 89 91	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T102 Arg2:T103	

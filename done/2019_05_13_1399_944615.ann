@@ -1,0 +1,4 @@
+T0	Positive 16 22	Дзюбой
+T1	Positive 127 130	ним
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

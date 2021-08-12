@@ -1,0 +1,8 @@
+T100	Positive_all 0 6	Венгер
+T101	Positive 121 125	него
+T102	Positive 186 189	его
+T104	Positive_all 373 380	Суареса
+T105	Positive_all 383 392	Старриджа
+A1	AnaforPerson T101
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T102	

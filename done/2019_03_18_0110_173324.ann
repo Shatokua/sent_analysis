@@ -1,0 +1,5 @@
+T102	Neutral_all 146 164	Владимиром Путиным
+T101	Negative 31 46	Дональд (Трамп)
+T103	Neutral_all 166 168	Он
+A1	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T103

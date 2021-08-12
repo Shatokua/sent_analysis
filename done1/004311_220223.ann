@@ -1,0 +1,33 @@
+T0	Neutral_all 6 14	Миллером
+T1	Neutral_all 56 64	Боб Арум
+T2	Neutral_all 76 81	Фьюри
+T3	Neutral_all 141 146	Фьюри
+T4	Neutral_all 177 186	Уайлдером
+T5	Neutral_all 215 220	Фьюри
+T6	Neutral_all 250 261	Тома Шварца
+T7	Neutral_all 386 394	Боб Арум
+T8	Neutral_all 430 438	Уайлдера
+T9	Neutral_all 539 553	Луисом Ортисом
+T10	Neutral_all 602 607	Фьюри
+T11	Neutral_all 624 643	Джарреллом Миллером
+T12	Neutral_all 708 717	Уайлдером
+T13	Neutral_all 188 191	Они
+A1	Plural T13
+T14	Neutral_all 328 331	Они
+A2	Plural T14
+T15	Neutral_all 494 496	мы
+A3	Plural T15
+T16	Neutral_all 683 685	он
+A4	AnaforPerson T16
+R1	Anafor Arg1:T1 Arg2:T13
+R2	Anafor Arg1:T13 Arg2:T14
+R3	Anafor Arg1:T7 Arg2:T1
+R4	Anafor Arg1:T2 Arg2:T3
+R5	Anafor Arg1:T3 Arg2:T5
+R6	Anafor Arg1:T5 Arg2:T10
+R7	Anafor Arg1:T10 Arg2:T16
+R8	Anafor Arg1:T4 Arg2:T8
+R9	Anafor Arg1:T8 Arg2:T12
+R10	Anafor Arg1:T11 Arg2:T0
+R106	Anafor Arg1:T1 Arg2:T7
+R108	Anafor Arg1:T12 Arg2:T4

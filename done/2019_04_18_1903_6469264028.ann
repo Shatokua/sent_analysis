@@ -1,0 +1,17 @@
+T0	Negative 141 155	Юлия Тимошенко
+T1	Neutral 264 266	ей
+A1	AnaforPerson T1
+T2	Neutral 288 291	нее
+A2	AnaforPerson T2
+T3	Neutral 342 344	ее
+A3	AnaforPerson T3
+T4	Mixed 422 425	нее
+A4	AnaforPerson T4
+T5	Neutral 463 466	нее
+A5	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes T4	дорваться -> негатив?

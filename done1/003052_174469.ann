@@ -1,0 +1,10 @@
+T0	Neutral_all 114 133	Елена Пересторонина
+T1	Neutral_all 235 248	Ирина Бутенко
+T2	Neutral_all 296 310	Пересторониной
+T3	Neutral_all 312 315	Она
+A1	AnaforPerson T3
+T4	Neutral_all 331 333	мы
+A2	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T3

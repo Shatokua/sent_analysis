@@ -1,0 +1,4 @@
+T0	Neutral_all 59 66	Шишкина
+T1	Neutral_all 349 356	Шишкину
+T2	Neutral_all 377 395	Антону Зингаревичу
+R1	Anafor Arg1:T0 Arg2:T1

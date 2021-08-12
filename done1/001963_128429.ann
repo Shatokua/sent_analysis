@@ -1,0 +1,9 @@
+T0	Neutral_all 91 106	Гагику Царукяну
+T1	Neutral_all 188 190	он
+A1	AnaforPerson T1
+T2	Neutral_all 285 287	Мы
+A2	Plural T2
+T3	Neutral_all 318 320	Мы
+A3	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1

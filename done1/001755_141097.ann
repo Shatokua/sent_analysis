@@ -1,0 +1,13 @@
+T0	Neutral_all 114 128	Якова Калугина
+T1	Neutral_all 130 133	Его
+A1	AnaforPerson T1
+T2	Neutral_all 147 150	его
+A2	AnaforPerson T2
+T3	Neutral_all 212 215	его
+A3	AnaforPerson T3
+T4	Neutral_all 259 261	он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T4 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1
+R3	Anafor Arg1:T0 Arg2:T4
+R103	Anafor Arg1:T3 Arg2:T2

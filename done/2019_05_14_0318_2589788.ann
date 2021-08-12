@@ -1,0 +1,5 @@
+T0	Positive_all 40 49	Пугачевой
+T1	Positive_all 98 106	Пугачева
+T2	Neutral_all 109 112	нас
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

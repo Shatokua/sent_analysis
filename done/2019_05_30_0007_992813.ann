@@ -1,0 +1,4 @@
+T0	Neutral_all 43 49	Кличко
+T1	Neutral_all 52 60	Виталием
+T2	Negative_all 72 78	Кличко
+R1	Anafor Arg1:T0 Arg2:T2

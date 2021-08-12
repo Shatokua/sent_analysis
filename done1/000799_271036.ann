@@ -1,0 +1,4 @@
+T1	Neutral_all 27 40	И. Заковряжин
+T2	Neutral_all 104 107	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

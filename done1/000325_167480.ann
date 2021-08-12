@@ -1,0 +1,8 @@
+T0	Neutral_all 181 190	Смолякова
+T1	Neutral_all 456 469	Стипе Миочича
+T2	Neutral_all 472 486	Деррика Льюиса
+T3	Neutral_all 61 64	Они
+A1	Plural T3
+T4	Neutral_all 103 106	они
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4

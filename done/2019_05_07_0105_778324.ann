@@ -1,0 +1,7 @@
+T0	Neutral 0 17	Сергей Валерьевич
+T1	Neutral 87 90	вам
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 77 80	они
+A2	Plural T2
+A3	AnaforPerson T2

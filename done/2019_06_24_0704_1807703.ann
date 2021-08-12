@@ -1,0 +1,10 @@
+T0	Neutral_all 29 44	Ирина Гордиенко
+T1	Neutral_all 106 112	Орхана
+T2	Neutral_all 131 136	Орхан
+T3	Neutral_all 13 16	его
+A1	AnaforPerson T3
+T4	Neutral_all 73 76	она
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T0 Arg2:T4

@@ -1,0 +1,5 @@
+T0	Neutral_all 0 5	Путин
+T1	Neutral_all 13 22	Бречалова
+T2	Neutral_all 144 164	Александра Соловьева
+T3	Neutral_all 175 184	Бречалову
+R1	Anafor Arg1:T1 Arg2:T3

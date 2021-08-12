@@ -1,0 +1,12 @@
+T3	Neutral 126 128	он
+A1	AnaforPerson T3
+T100	Neutral_all 45 53	Скрипаль
+T101	Negative 179 187	Скрипаль
+T102	Neutral 59 61	он
+A3	AnaforPerson T102
+T104	Negative 158 160	Он
+A4	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T104	
+R4	Anafor Arg1:T101 Arg2:T104	

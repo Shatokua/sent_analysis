@@ -1,0 +1,10 @@
+T0	Neutral 16 24	Удальцов
+T1	Neutral 27 36	Навальный
+T2	Neutral 79 81	их
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Negative 221 224	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T2	

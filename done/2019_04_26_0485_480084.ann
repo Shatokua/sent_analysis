@@ -1,0 +1,7 @@
+T0	Neutral_all 23 29	Трампа
+T1	Neutral_all 31 39	Могерини
+T2	Neutral_all 131 137	Трампа
+T3	Neutral_all 59 62	нем
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

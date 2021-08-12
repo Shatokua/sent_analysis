@@ -1,0 +1,6 @@
+T1	Neutral_all 188 204	Вячеслав Макаров
+T2	Neutral_all 178 186	Макарове
+T3	Neutral_all 213 216	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

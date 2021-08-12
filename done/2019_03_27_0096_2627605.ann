@@ -1,0 +1,3 @@
+T0	Positive_all 100 105	Трамп
+T1	Positive_all 191 196	Трамп
+R1	Anafor Arg1:T0 Arg2:T1

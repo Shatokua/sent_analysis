@@ -1,0 +1,4 @@
+T0	Neutral_all 16 28	Осипову А.С.
+T1	Neutral_all 208 214	Осипов
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

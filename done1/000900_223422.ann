@@ -1,0 +1,6 @@
+T0	Neutral 131 137	Крылов
+T1	Neutral_all 220 239	П.А. Плавильщиковым
+T2	Neutral_all 242 257	С.Н. Сандуновым
+T3	Neutral_all 284 286	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

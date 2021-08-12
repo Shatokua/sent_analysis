@@ -1,0 +1,3 @@
+T100	Negative 0 8	Ефремову
+T101	Negative 180 188	Ефремова
+R1	Anafor Arg1:T100 Arg2:T101	

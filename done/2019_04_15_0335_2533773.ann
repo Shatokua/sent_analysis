@@ -1,0 +1,5 @@
+T0	Positive_all 55 66	Хуан Гуаидо
+T1	Negative_all 135 141	Мадуро
+T2	Negative_all 144 147	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

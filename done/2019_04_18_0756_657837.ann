@@ -1,0 +1,19 @@
+T0	Negative 0 9	Порошенко
+T1	Negative 12 21	Тимошенко
+T2	Negative 48 51	они
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Negative 100 103	они
+A3	AnaforPerson T3
+A4	Plural T3
+T4	Negative 152 155	Они
+A5	AnaforPerson T4
+A6	Plural T4
+T5	Negative 209 212	они
+A7	AnaforPerson T5
+A8	Plural T5
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T4 Arg2:T5	
+R4	Anafor Arg1:T1 Arg2:T2	
+R5	Anafor Arg1:T0 Arg2:T2	

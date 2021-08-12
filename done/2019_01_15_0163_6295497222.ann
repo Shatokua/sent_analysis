@@ -1,0 +1,9 @@
+T3	Negative 166 169	Его
+A1	AnaforPerson T3
+T100	Neutral_all 42 48	Путина
+T101	Neutral_all 50 57	Суркова
+T102	Neutral_all 60 67	Лаврова
+T104	Negative 239 241	он
+R1	Anafor Arg1:T100 Arg2:T3	
+A2	AnaforPerson T104
+R2	Anafor Arg1:T3 Arg2:T104	

@@ -1,0 +1,7 @@
+T0	Neutral_all 14 27	Сергей Лавров
+T1	Neutral_all 45 61	Владимира Путина
+T2	Neutral_all 62 73	Ким Чен Ыну
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T103	Neutral_all 108 112	нашу
+A2	Plural T103

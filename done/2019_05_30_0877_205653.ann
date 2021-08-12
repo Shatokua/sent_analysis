@@ -1,0 +1,14 @@
+T0	Neutral_all 59 65	Обамой
+T1	Neutral_all 85 93	Байденом
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 29 31	мы
+A2	Plural T3
+T4	Negative_all 95 98	Они
+A3	Plural T4
+T5	Neutral_all 188 191	нас
+A4	Plural T5
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T4

@@ -1,0 +1,6 @@
+T0	Neutral_all 112 131	Анатолию Макагонову
+T1	Neutral_all 158 160	мы
+A1	Plural T1
+T102	Neutral_all 274 277	его
+A2	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T102

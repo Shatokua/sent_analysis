@@ -1,0 +1,5 @@
+T1	Positive_all 177 185	Кристина
+T2	Neutral_all 94 97	нее
+A1	AnaforPerson T2
+T100	Neutral 42 57	Чулпан Хаматова
+R1	Anafor Arg1:T100 Arg2:T2	

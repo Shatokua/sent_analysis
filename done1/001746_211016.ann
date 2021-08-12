@@ -1,0 +1,5 @@
+T0	Neutral_all 63 67	Осин
+T1	Neutral_all 105 116	Крис Кельми
+T2	Neutral_all 0 2	Он
+T3	Neutral_all 36 39	его
+R1	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,6 @@
+T3	Neutral 87 90	ему
+A1	AnaforPerson T3
+T100	Negative 0 9	Порошенко
+T101	Neutral_all 65 75	Саакашвили
+T102	Negative 210 219	Януковича
+R1	Anafor Arg1:T101 Arg2:T3

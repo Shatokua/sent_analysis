@@ -1,0 +1,9 @@
+T0	Neutral_all 140 157	Сергей Бобровский
+T1	Neutral_all 2 5	нас
+A1	Plural T1
+T2	Neutral_all 203 205	мы
+A2	Plural T2
+T3	Neutral_all 217 220	его
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1

@@ -1,0 +1,6 @@
+T3	Neutral_all 5 7	Вы
+A1	AnaforPerson T3
+T1	Neutral_all 376 389	Томанова А.Ю.
+T103	Neutral_all 411 415	Ваши
+A2	AnaforPerson T103
+R101	Anafor Arg1:T3 Arg2:T103

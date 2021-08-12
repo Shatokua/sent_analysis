@@ -1,0 +1,4 @@
+T0	Neutral_all 101 113	Мария Рузина
+T1	Neutral_all 194 201	Рузиной
+T2	Neutral_all 393 396	его
+R1	Anafor Arg1:T0 Arg2:T1

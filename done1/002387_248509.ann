@@ -1,0 +1,20 @@
+T0	Neutral_all 141 156	Людмила Бурдыко
+T1	Neutral_all 203 216	Галина Змушко
+T2	Neutral_all 234 236	ей
+A1	AnaforPerson T2
+T3	Neutral_all 317 320	она
+A2	AnaforPerson T3
+T4	Neutral_all 393 395	ее
+A3	AnaforPerson T4
+T5	Neutral_all 535 537	мы
+A4	Plural T5
+T102	Neutral_all 52 54	ее
+A5	AnaforPerson T102
+T107	Neutral_all 603 605	ты
+A6	AnaforPerson T107
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T2
+R102	Anafor Arg1:T3 Arg2:T107
+R104	Anafor Arg1:T107 Arg2:T4

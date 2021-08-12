@@ -1,0 +1,3 @@
+T100	Neutral_all 119 129	Захарченко
+T101	Neutral_all 232 242	Захарченко
+R1	Anafor Arg1:T100 Arg2:T101

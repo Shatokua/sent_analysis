@@ -1,0 +1,9 @@
+T0	Neutral_all 64 83	Марлена Мартыновича
+T1	Neutral_all 162 178	Владимиру Путину
+T2	Neutral_all 214 221	Хуциева
+T3	Neutral_all 252 254	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T2 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T3

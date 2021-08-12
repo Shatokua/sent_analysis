@@ -1,0 +1,26 @@
+T0	Neutral_all 67 85	Фёдора Емельяненко
+T1	Neutral_all 313 320	Фёдором
+T2	Neutral_all 186 189	ему
+A1	AnaforPerson T2
+T3	Positive_all 406 408	Он
+A2	AnaforPerson T3
+T4	Neutral_all 461 465	него
+A3	AnaforPerson T4
+T5	Neutral_all 499 503	него
+A4	AnaforPerson T5
+T6	Neutral_all 536 538	он
+A5	AnaforPerson T6
+T7	Neutral_all 560 562	мы
+A6	Plural T7
+T8	Neutral_all 577 579	он
+A7	AnaforPerson T8
+T103	Neutral_all 280 282	мы
+A8	Plural T103
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T6
+R4	Anafor Arg1:T6 Arg2:T8
+R5	Anafor Arg1:T8 Arg2:T2
+R6	Anafor Arg1:T2 Arg2:T4
+R7	Anafor Arg1:T4 Arg2:T5
+R108	Anafor Arg1:T103 Arg2:T7

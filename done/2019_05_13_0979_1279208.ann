@@ -1,0 +1,4 @@
+T0	Positive 44 60	Сергея Петровича
+T1	Positive 77 80	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

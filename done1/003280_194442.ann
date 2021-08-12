@@ -1,0 +1,35 @@
+T1	Neutral_all 104 111	Феттель
+T2	Neutral_all 243 249	Леклер
+T3	Neutral_all 259 268	Райкконен
+T5	Neutral_all 416 423	Феттель
+T6	Neutral_all 446 452	Алонсо
+T7	Neutral_all 456 462	Леклер
+T8	Neutral_all 482 487	Льюис
+T9	Neutral_all 492 499	Феттеля
+T10	Neutral_all 133 136	Ему
+A1	AnaforPerson T10
+T11	Neutral 208 210	он
+A2	AnaforPerson T11
+T12	Neutral_all 287 291	него
+A3	AnaforPerson T12
+T13	Mixed 515 517	он
+A4	AnaforPerson T13
+T14	Neutral_all 561 563	Он
+A5	AnaforPerson T14
+T15	Neutral_all 632 636	него
+A6	AnaforPerson T15
+T100	Positive 82 88	Леклер
+T104	Neutral 371 377	Алонсо
+T113	Neutral 378 386	Хэмилтон
+R2	Anafor Arg1:T5 Arg2:T9
+R3	Anafor Arg1:T9 Arg2:T13
+R4	Anafor Arg1:T13 Arg2:T14
+R5	Anafor Arg1:T14 Arg2:T15
+R1	Anafor Arg1:T1 Arg2:T10	
+R6	Anafor Arg1:T10 Arg2:T11	
+R7	Anafor Arg1:T100 Arg2:T2	
+R8	Anafor Arg1:T2 Arg2:T12	
+R9	Anafor Arg1:T11 Arg2:T5	
+R10	Anafor Arg1:T104 Arg2:T6	
+R11	Anafor Arg1:T12 Arg2:T7	
+R12	Anafor Arg1:T113 Arg2:T8	

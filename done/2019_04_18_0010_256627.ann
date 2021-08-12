@@ -1,0 +1,10 @@
+T0	Neutral 0 7	Бэсеску
+T1	Neutral 88 91	ним
+A1	AnaforPerson T1
+T2	Negative 240 244	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+T3	Negative 136 139	его
+A3	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T2	

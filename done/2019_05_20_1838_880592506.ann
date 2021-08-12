@@ -1,0 +1,5 @@
+T0	Neutral 304 312	Крицкого
+T1	Neutral 314 322	Липовича
+T2	Neutral 132 136	ними
+A1	AnaforPerson T2
+A2	Plural T2

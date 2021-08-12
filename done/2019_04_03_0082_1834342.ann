@@ -1,0 +1,8 @@
+T3	Neutral 145 149	него
+T100	Neutral_all 34 43	Лазаренко
+T101	Neutral_all 77 92	Павел Лазаренко
+T103	Neutral 10 13	его
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T100	
+R2	Anafor Arg1:T103 Arg2:T3	
+A1	AnaforPerson T3

@@ -1,0 +1,10 @@
+T2	Negative 279 294	Хиллари Клинтон
+T3	Negative 358 361	она
+A1	AnaforPerson T3
+T100	Neutral_all 188 194	Путина
+T101	Negative 134 141	Клинтон
+T1	Negative 144 146	ее
+A2	AnaforPerson T1
+R2	Anafor Arg1:T101 Arg2:T1	
+R1	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

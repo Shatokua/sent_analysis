@@ -1,0 +1,14 @@
+T0	Neutral_all 45 52	Немцова
+T1	Neutral_all 476 490	Михаил Кылварт
+T2	Neutral_all 164 167	Его
+A1	AnaforPerson T2
+T3	Neutral_all 685 690	Кросс
+T4	Neutral_all 693 696	его
+A2	AnaforPerson T4
+T5	Neutral_all 750 753	они
+A3	Plural T5
+T6	Neutral_all 794 796	их
+A4	Plural T6
+R1	Anafor Arg1:T5 Arg2:T6
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,7 @@
+T0	Positive 114 127	Софье Великой
+T1	Positive 62 64	вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 191 193	ее
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

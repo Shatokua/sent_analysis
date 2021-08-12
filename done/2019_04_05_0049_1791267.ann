@@ -1,0 +1,9 @@
+T100	Negative_all 44 53	Невзорова
+T101	Negative 117 124	Шнурова
+T102	Neutral 13 15	он
+A1	AnaforPerson T102
+T103	Neutral_all 27 37	Невзоровым
+T104	Negative 127 129	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T104	

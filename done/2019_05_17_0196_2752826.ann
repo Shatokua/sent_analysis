@@ -1,0 +1,8 @@
+T0	Neutral_all 0 7	Букреев
+T1	Neutral_all 30 40	Суханкиной
+T2	Negative_all 93 95	Он
+A1	AnaforPerson T2
+T3	Neutral_all 208 211	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

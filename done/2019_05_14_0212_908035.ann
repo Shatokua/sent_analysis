@@ -1,0 +1,4 @@
+T0	Neutral_all 90 97	Сталина
+T1	Neutral_all 99 113	Иосифа Сталина
+T2	Negative 165 179	Владимир Путин
+R1	Anafor Arg1:T1 Arg2:T0

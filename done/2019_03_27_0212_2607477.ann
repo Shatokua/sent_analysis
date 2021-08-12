@@ -1,0 +1,5 @@
+T102	Neutral_all 63 74	Ириной Шейк
+T101	Neutral 15 34	[Криштиану] Роналду
+T103	Neutral_all 43 45	он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103	

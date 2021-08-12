@@ -1,0 +1,7 @@
+T0	Neutral_all 31 37	Уилсон
+T1	Neutral 80 87	Овечкин
+T2	Neutral_all 167 174	Овечкин
+T3	Neutral_all 147 150	ним
+A1	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3
+R1	Anafor Arg1:T1 Arg2:T3	

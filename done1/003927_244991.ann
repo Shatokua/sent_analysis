@@ -1,0 +1,6 @@
+T0	Neutral_all 64 80	Джулиана Ассанжа
+T1	Neutral_all 257 264	Ассанжу
+T2	Neutral_all 116 119	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

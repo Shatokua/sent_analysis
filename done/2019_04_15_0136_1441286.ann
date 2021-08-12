@@ -1,0 +1,4 @@
+T1	Neutral 7 37	Зураб Константинович (Церетели
+T102	Neutral_all 83 91	Андрияка
+T103	Neutral_all 93 108	Сергей Андрияка
+R1	Anafor Arg1:T103 Arg2:T102

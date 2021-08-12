@@ -1,0 +1,4 @@
+T0	Neutral_all 38 54	Владимира Путина
+T1	Neutral_all 78 80	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

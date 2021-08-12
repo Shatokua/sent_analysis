@@ -1,0 +1,6 @@
+T1	Neutral_all 67 94	Алексея Борисовича [Миллера
+T2	Neutral_all 141 144	вас
+A1	Plural T2
+T3	Neutral_all 210 213	вас
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

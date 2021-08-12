@@ -1,0 +1,8 @@
+T100	Positive_all 8 19	Лола Льдова
+T101	Positive 78 89	Лолу Льдову
+T102	Positive 125 134	Ахматовой
+R1	Anafor Arg1:T100 Arg2:T101	
+T1	Positive 145 148	они
+R2	Anafor Arg1:T101 Arg2:T1	
+R3	Anafor Arg1:T102 Arg2:T1	
+A1	AnaforPerson T1

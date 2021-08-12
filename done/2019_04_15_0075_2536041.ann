@@ -1,0 +1,5 @@
+T0	Neutral_all 38 47	Дональд -
+T1	Neutral_all 54 59	Трамп
+T2	Neutral_all 111 123	Ким Чен Ыном
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

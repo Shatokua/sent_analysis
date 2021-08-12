@@ -1,0 +1,6 @@
+T0	Neutral_all 91 100	Голиковой
+T1	Neutral_all 110 119	Скворцова
+T2	Neutral_all 143 152	Голиковой
+T3	Neutral_all 167 176	Скворцова
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

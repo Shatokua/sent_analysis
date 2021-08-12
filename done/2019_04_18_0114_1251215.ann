@@ -1,0 +1,4 @@
+T0	Negative 76 89	Яков Свердлов
+T1	Negative 122 125	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

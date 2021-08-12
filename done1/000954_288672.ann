@@ -1,0 +1,4 @@
+T0	Positive_all 14 26	Серхио Рамос
+T1	Neutral_all 137 152	Фабио Каннаваро
+T2	Positive_all 255 260	Рамос
+R1	Anafor Arg1:T0 Arg2:T2

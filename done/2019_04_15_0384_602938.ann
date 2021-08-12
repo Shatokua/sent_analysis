@@ -1,0 +1,5 @@
+T1	Neutral 127 160	Валентина Викторовна) Переверзева
+T100	Neutral_all 0 24	Татьяна Юрьевна Синюгина
+T102	Neutral_all 108 110	ее
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

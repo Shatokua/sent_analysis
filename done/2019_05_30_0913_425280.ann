@@ -1,0 +1,5 @@
+T1	Positive 42 58	Надежда Савченко
+T2	Neutral_all 113 120	Надежду
+T100	Neutral 33 40	Надежда
+R1	Anafor Arg1:T1 Arg2:T100	
+R2	Anafor Arg1:T1 Arg2:T2	

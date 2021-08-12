@@ -1,0 +1,5 @@
+T0	Neutral 48 53	Путин
+T1	Neutral 143 155	Борис Ельцин
+T2	Neutral 124 127	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

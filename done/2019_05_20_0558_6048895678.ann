@@ -1,0 +1,5 @@
+T0	Neutral 72 78	Сурков
+T1	Neutral 81 88	Аксенов
+T2	Neutral 311 313	их
+A1	AnaforPerson T2
+A2	Plural T2

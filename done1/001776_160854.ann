@@ -1,0 +1,6 @@
+T0	Neutral_all 242 252	Терезы Мэй
+T1	Neutral_all 74 77	они
+A1	Plural T1
+T2	Neutral_all 317 320	она
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

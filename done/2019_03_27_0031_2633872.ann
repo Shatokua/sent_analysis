@@ -1,0 +1,9 @@
+T0	Positive_all 9 13	Заур
+T1	Positive_all 189 194	Заура
+T2	Neutral_all 53 55	Он
+A1	AnaforPerson T2
+T3	Neutral_all 125 127	Он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2

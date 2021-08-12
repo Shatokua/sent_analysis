@@ -1,0 +1,9 @@
+T100	Negative 58 72	Петр Порошенко
+T101	Negative 128 137	Порошенко
+T102	Negative 75 78	его
+A3	AnaforPerson T102
+T103	Negative 215 219	него
+A4	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	
+R3	Anafor Arg1:T101 Arg2:T103	

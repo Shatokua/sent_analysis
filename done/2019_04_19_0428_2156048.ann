@@ -1,0 +1,7 @@
+T0	Neutral_all 53 59	Гитлер
+T2	Neutral_all 154 160	Гитлер
+T101	Negative 91 97	Трампу
+T104	Neutral 201 203	он
+A3	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T101 Arg2:T104	

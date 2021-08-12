@@ -1,0 +1,7 @@
+T0	Neutral 46 51	Обаму
+T1	Neutral 76 83	Хиллари
+T2	Neutral 93 100	Клинтон
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Negative 120 123	Они
+A1	AnaforPerson T3
+A2	Plural T3

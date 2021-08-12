@@ -1,0 +1,9 @@
+T0	Neutral_all 0 4	Саша
+T1	Neutral_all 86 91	Насти
+T2	Neutral_all 92 95	его
+A1	AnaforPerson T2
+T3	Neutral_all 117 120	они
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T3

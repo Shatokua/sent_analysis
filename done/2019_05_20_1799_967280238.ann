@@ -1,0 +1,4 @@
+T0	Neutral 26 32	Кудрин
+T1	Neutral 147 149	им
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

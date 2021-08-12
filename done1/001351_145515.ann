@@ -1,0 +1,10 @@
+T0	Neutral_all 185 194	Чиркунова
+T1	Neutral_all 208 227	Максима Решетникова
+T2	Neutral_all 70 73	его
+A1	AnaforPerson T2
+T3	Neutral_all 243 246	его
+A2	AnaforPerson T3
+T4	Neutral_all 6 9	нам
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2

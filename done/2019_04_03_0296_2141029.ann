@@ -1,0 +1,9 @@
+T3	Negative 234 240	Дрогба
+T100	Negative_all 0 6	Дрогба
+T101	Negative 33 48	Филиппо Индзаги
+T102	Neutral_all 144 160	Фернандо Торреса
+T1	Negative 27 30	Они
+A1	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T101 Arg2:T1	
+R3	Anafor Arg1:T100 Arg2:T3	

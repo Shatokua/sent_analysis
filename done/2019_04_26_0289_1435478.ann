@@ -1,0 +1,5 @@
+T0	Neutral_all 61 70	Пугачевой
+T1	Neutral_all 78 84	Никите
+T2	Neutral_all 114 116	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

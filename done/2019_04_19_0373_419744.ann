@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Криштиану
+T1	Neutral_all 112 119	Бензема
+T2	Neutral_all 132 134	он
+T103	Neutral_all 83 85	Мы
+A1	Plural T103
+R1	Anafor Arg1:T1 Arg2:T2

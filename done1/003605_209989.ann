@@ -1,0 +1,8 @@
+T0	Neutral_all 203 225	Михаиле Ильиче Кошкине
+T1	Neutral_all 227 229	Мы
+A1	Plural T1
+T2	Neutral_all 376 378	Мы
+A2	Plural T2
+T102	Neutral_all 321 324	нее
+A3	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Neutral_all 38 51	Саня Зинченко
+T1	Neutral_all 64 79	Бернарду Силвой
+T2	Neutral_all 97 104	Роналду
+T3	Neutral_all 154 161	Роналду
+T4	Neutral_all 239 242	ним
+A1	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

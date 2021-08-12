@@ -1,0 +1,12 @@
+T1	Neutral 51 69	Эмилем [Свендсеном
+T100	Neutral_all 30 36	Тарьея
+T2	Neutral 45 48	они
+A1	Plural T2
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 197 200	они
+A2	Plural T3
+T4	Neutral 223 226	Они
+A3	Plural T4
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

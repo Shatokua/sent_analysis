@@ -1,0 +1,11 @@
+T0	Neutral_all 43 52	Коновалов
+T1	Neutral_all 64 72	Сивирину
+T2	Neutral_all 126 135	Сивириной
+T3	Neutral_all 185 204	Татьяна Москалькова
+T4	Neutral_all 379 381	ее
+A1	AnaforPerson T4
+T5	Neutral_all 316 319	Она
+A2	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T2 Arg2:T5

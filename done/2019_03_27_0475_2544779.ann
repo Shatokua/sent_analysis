@@ -1,0 +1,9 @@
+T100	Positive 33 47	Владимир Путин
+T101	Positive_all 66 79	Леброн Джеймс
+T102	Positive_all 81 83	Он
+A2	AnaforPerson T102
+T103	Positive 129 131	он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102
+A4	Unclear T100
+R2	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,7 @@
+T100	Neutral_all 36 50	Павел Грудинин
+T101	Neutral_all 63 68	Путин
+T102	Neutral_all 172 181	Грудинина
+T103	Neutral 2 5	его
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T100 Arg2:T102	

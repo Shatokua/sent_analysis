@@ -1,0 +1,4 @@
+T0	Positive 11 17	Глинка
+T1	Positive 62 64	ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

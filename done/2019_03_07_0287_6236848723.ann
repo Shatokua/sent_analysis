@@ -1,0 +1,5 @@
+T0	Negative 57 62	Пауэр
+T101	Neutral 95 111	Виталия) Чуркина
+T102	Negative_all 147 149	ей
+A1	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102

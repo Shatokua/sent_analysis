@@ -1,0 +1,6 @@
+T0	Neutral 87 105	Сергею Васильевичу
+T1	Neutral 55 64	Ефремовым
+T2	Positive 174 177	ему
+A1	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

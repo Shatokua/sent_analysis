@@ -1,0 +1,13 @@
+T1	Neutral_all 398 415	Данила Козловский
+T2	Negative 474 480	Данька
+T3	Negative 460 462	он
+A1	AnaforPerson T3
+T100	Neutral 215 224	Оля Зуева
+T103	Neutral_all 231 233	ты
+A2	AnaforPerson T103
+T104	Neutral_all 253 257	твое
+A3	AnaforPerson T104
+R102	Anafor Arg1:T103 Arg2:T104
+R3	Anafor Arg1:T100 Arg2:T103	
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T2 Arg2:T3	

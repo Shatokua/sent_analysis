@@ -1,0 +1,12 @@
+T1	Neutral_all 279 294	Бонни Чарпентье
+T2	Neutral_all 318 328	Менделеева
+T3	Neutral_all 348 351	она
+A1	AnaforPerson T3
+T4	Neutral_all 379 381	вы
+T100	Positive 139 167	Дмитрия Ивановича Менделеева
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T3	
+A3	AnaforPerson T4
+T5	Neutral 408 412	вами
+A2	AnaforPerson T5
+R3	Anafor Arg1:T4 Arg2:T5	

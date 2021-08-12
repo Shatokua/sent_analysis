@@ -1,0 +1,6 @@
+T2	Neutral_all 47 51	ними
+A1	Plural T2
+T1	Neutral_all 108 122	Дональд) Трамп
+T3	Neutral_all 151 153	мы
+A2	Plural T3
+R101	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,4 @@
+T0	Neutral 8 14	Андрей
+T1	Positive 29 31	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T1 Arg2:T0	

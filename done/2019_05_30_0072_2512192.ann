@@ -1,0 +1,8 @@
+T0	Neutral_all 18 33	Андреем Нэстасе
+T1	Negative_all 91 105	Виктором Цопой
+T2	Negative_all 73 75	он
+A1	AnaforPerson T2
+T3	Negative_all 122 125	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

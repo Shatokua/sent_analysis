@@ -1,0 +1,5 @@
+T0	Neutral_all 169 181	Кривенко Д.А
+T1	Neutral_all 281 293	Кривенко Д.А
+T2	Neutral_all 120 122	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

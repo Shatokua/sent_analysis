@@ -1,0 +1,5 @@
+T100	Positive 81 93	Саша Лютиков
+T101	Neutral_all 180 190	Александра
+T102	Neutral 0 2	Он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	

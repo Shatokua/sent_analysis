@@ -1,0 +1,7 @@
+T2	Negative 431 434	Его
+A1	AnaforPerson T2
+T100	Neutral_all 372 380	Сноудена
+T101	Negative 182 190	Роджерсу
+T102	Negative_all 408 415	Роджерс
+R2	Anafor Arg1:T101 Arg2:T102	
+R1	Anafor Arg1:T102 Arg2:T2	

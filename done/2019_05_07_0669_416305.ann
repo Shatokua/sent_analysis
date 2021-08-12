@@ -1,0 +1,5 @@
+T0	Neutral 97 110	Виталий Мутко
+T1	Neutral 25 28	его
+T2	Neutral 49 51	их
+A1	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	

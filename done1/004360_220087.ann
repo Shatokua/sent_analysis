@@ -1,0 +1,17 @@
+T0	Neutral_all 63 67	Наны
+T3	Neutral_all 187 196	Екатерина
+T4	Neutral_all 209 213	Нана
+T1	Neutral_all 68 81	Денису Тюнину
+T2	Neutral_all 83 85	её
+A1	AnaforPerson T2
+T5	Neutral_all 278 280	её
+A2	AnaforPerson T5
+T6	Neutral_all 321 324	она
+A3	AnaforPerson T6
+R1	Anafor Arg1:T4 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T6
+R102	Anafor Arg1:T0 Arg2:T6
+R103	Anafor Arg1:T6 Arg2:T5
+R104	Anafor Arg1:T5 Arg2:T2

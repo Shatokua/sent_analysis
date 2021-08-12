@@ -1,0 +1,7 @@
+T101	Neutral 53 67	Арсений Яценюк
+T102	Neutral_all 182 196	Юлия Тимошенко
+T103	Positive_all 225 241	Арсений Петрович
+T104	Positive_all 404 411	Арсений
+R1	Anafor Arg1:T101 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T104	
+A1	Unclear T101

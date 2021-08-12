@@ -1,0 +1,4 @@
+T1	Neutral_all 90 109	Владимиром] Путиным
+T102	Neutral_all 161 163	мы
+A1	Plural T102
+R101	Anafor Arg1:T1 Arg2:T102

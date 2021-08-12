@@ -1,0 +1,12 @@
+T0	Neutral_all 28 43	Тазабек Икрамов
+T1	Neutral_all 164 172	Икрамову
+T2	Neutral_all 255 257	он
+A1	AnaforPerson T2
+T3	Neutral_all 272 276	него
+A2	AnaforPerson T3
+T4	Neutral_all 305 307	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T3

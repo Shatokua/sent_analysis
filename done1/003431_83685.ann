@@ -1,0 +1,7 @@
+T0	Neutral_all 206 222	Фердинанду Грахе
+T1	Neutral_all 312 326	Кашаф Мухтаров
+T2	Neutral_all 97 101	нами
+A1	Plural T2
+T3	Neutral_all 398 400	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

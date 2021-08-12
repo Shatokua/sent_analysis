@@ -1,0 +1,11 @@
+T0	Neutral_all 259 267	Голунова
+T1	Neutral_all 337 351	Ивана Голунова
+T2	Neutral_all 290 293	его
+A1	AnaforPerson T2
+T3	Neutral_all 387 389	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T0 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T2

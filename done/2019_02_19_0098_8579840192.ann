@@ -1,0 +1,7 @@
+T1	Negative 38 47	Порошенко
+T3	Negative 191 193	он
+A1	AnaforPerson T3
+T4	Negative 252 255	его
+A2	AnaforPerson T4
+T102	Neutral_all 171 182	Машу Гайдар
+R2	Anafor Arg1:T3 Arg2:T4

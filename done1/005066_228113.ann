@@ -1,0 +1,19 @@
+T0	Neutral_all 20 34	Юрий Машканцев
+T1	Neutral_all 176 186	Машканцева
+T2	Neutral_all 343 349	Никиты
+T3	Neutral_all 392 401	Павлом Е.
+T4	Neutral_all 404 422	Виталием Летягиным
+T5	Neutral_all 459 475	Виталия Летягина
+T6	Neutral_all 209 211	он
+A1	AnaforPerson T6
+T7	Neutral_all 237 239	им
+A2	Plural T7
+T8	Neutral_all 311 313	им
+A3	Plural T8
+T9	Neutral_all 351 353	её
+A4	AnaforPerson T9
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T6
+R4	Anafor Arg1:T7 Arg2:T8
+R104	Anafor Arg1:T5 Arg2:T4

@@ -1,0 +1,4 @@
+T0	Neutral_all 133 162	Александра Юрьевича Анидалова
+T1	Neutral_all 87 91	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

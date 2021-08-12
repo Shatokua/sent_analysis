@@ -1,0 +1,11 @@
+T0	Neutral_all 56 67	Си Цзиньпин
+T1	Neutral_all 156 163	Трампом
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 18 21	его
+A2	AnaforPerson T3
+T4	Neutral_all 106 108	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T4 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T4
+R101	Anafor Arg1:T3 Arg2:T4

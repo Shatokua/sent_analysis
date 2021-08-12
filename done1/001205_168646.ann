@@ -1,0 +1,6 @@
+T0	Neutral_all 133 144	Вуди Аллена
+T1	Neutral_all 0 4	Тебе
+T2	Neutral_all 41 45	тебе
+T3	Neutral_all 180 182	вы
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

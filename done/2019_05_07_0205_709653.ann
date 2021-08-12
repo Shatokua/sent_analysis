@@ -1,0 +1,4 @@
+T0	Neutral 2 5	Юли
+T1	Neutral 89 91	ее
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

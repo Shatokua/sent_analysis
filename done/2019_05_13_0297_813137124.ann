@@ -1,0 +1,12 @@
+T0	Neutral 0 11	Ахмат-Хаджи
+T2	Positive 188 209	Ахмата-Хаджи Кадырова
+T3	Positive 212 228	Владимира Путина
+T4	Positive 346 357	Ахмат-Хаджи
+T5	Positive 530 541	Ахмат-Хаджи
+T6	Positive 634 650	Рамзана Кадырова
+T1	Positive 238 241	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T2 Arg2:T1	
+R2	Variant Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T1 Arg2:T4	
+R4	Variant Arg1:T4 Arg2:T5	

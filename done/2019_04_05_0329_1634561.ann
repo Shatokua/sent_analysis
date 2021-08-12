@@ -1,0 +1,4 @@
+T100	Negative 22 29	Мураева
+T101	Neutral_all 46 54	Сенцовым
+T102	Neutral_all 69 76	Сенцова
+R1	Anafor Arg1:T101 Arg2:T102

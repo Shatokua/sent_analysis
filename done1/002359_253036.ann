@@ -1,0 +1,4 @@
+T0	Positive 383 397	Закира Даудова
+T2	Positive 440 443	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

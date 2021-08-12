@@ -1,0 +1,7 @@
+T1	Neutral 76 81	Путин
+T2	Neutral 97 102	Обама
+T3	Neutral 104 110	Лавров
+T4	Negative 4 9	Обама
+T5	Negative 11 14	Ваш
+A1	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T5	

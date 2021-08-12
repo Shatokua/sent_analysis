@@ -1,0 +1,6 @@
+T1	Neutral_all 102 111	Гройсмана
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T100	Neutral_all 29 44	Петра Порошенко
+T103	Neutral_all 65 68	она
+A2	AnaforPerson T103

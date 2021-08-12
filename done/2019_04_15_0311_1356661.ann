@@ -1,0 +1,4 @@
+T100	Neutral_all 0 15	Сергей Скрипаль
+T101	Neutral_all 96 110	Владимир Путин
+T102	Neutral 150 158	Скрипаль
+R1	Anafor Arg1:T100 Arg2:T102	

@@ -1,0 +1,9 @@
+T1	Positive 163 167	Федя
+T2	Neutral_all 57 59	он
+A1	AnaforPerson T2
+T3	Neutral_all 85 89	него
+A2	AnaforPerson T3
+T100	Positive 26 39	Фёдора Чалова
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T3	

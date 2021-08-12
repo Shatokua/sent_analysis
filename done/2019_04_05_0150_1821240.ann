@@ -1,0 +1,5 @@
+T0	Neutral_all 32 43	Майк Помпео
+T1	Neutral_all 93 105	Ким Чен Ыном
+T2	Neutral_all 164 179	Дональда Трампа
+T3	Neutral_all 188 199	Ким Чен Ыну
+R1	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,6 @@
+T0	Neutral_all 2 7	Обамы
+T1	Neutral_all 58 76	Владимиром Путиным
+T2	Neutral_all 36 39	них
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

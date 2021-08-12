@@ -1,0 +1,6 @@
+T0	Neutral_all 143 156	Руслан Хомчак
+T1	Neutral_all 217 230	Игоря Красоту
+T2	Neutral_all 256 268	Олега Микаца
+T3	Neutral_all 246 249	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

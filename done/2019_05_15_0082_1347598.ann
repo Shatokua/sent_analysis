@@ -1,0 +1,6 @@
+T0	Neutral_all 44 51	Кокорин
+T1	Neutral_all 86 94	Кокорина
+T2	Neutral_all 132 134	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

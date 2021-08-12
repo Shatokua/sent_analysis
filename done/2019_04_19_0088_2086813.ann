@@ -1,0 +1,3 @@
+T0	Neutral_all 82 93	Санта Клаус
+T2	Neutral_all 180 192	Санта Клауса
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T2	Neutral 76 79	Его
+A1	AnaforPerson T2
+T100	Neutral_all 0 15	Виктор Бондарев
+T101	Neutral_all 155 159	Лиза
+T102	Neutral_all 133 145	Александрова
+R1	Anafor Arg1:T100 Arg2:T2	

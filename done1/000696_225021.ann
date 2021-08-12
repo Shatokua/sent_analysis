@@ -1,0 +1,9 @@
+T0	Neutral_all 1 16	Мейерхольд В.Э.
+T1	Neutral_all 192 201	Бухариным
+T2	Neutral_all 204 211	Рыковым
+T3	Neutral_all 228 243	Иошида Иошимасу
+T4	Neutral_all 295 307	Мейерхольдом
+T5	Neutral_all 379 383	Грей
+T6	Neutral_all 333 344	Мейерхольда
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T6

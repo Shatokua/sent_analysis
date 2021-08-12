@@ -1,0 +1,9 @@
+T3	Positive_all 101 104	они
+A1	Plural T3
+T100	Positive 35 50	Валерия Чкалова
+T101	Positive 52 65	Козьму Минина
+T102	Positive 68 84	Максима Горького
+A2	AnaforPerson T3
+R1	Anafor Arg1:T100 Arg2:T3	
+R2	Anafor Arg1:T101 Arg2:T3	
+R3	Anafor Arg1:T102 Arg2:T3	

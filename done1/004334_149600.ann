@@ -1,0 +1,16 @@
+T0	Neutral_all 64 71	Володей
+T1	Neutral_all 73 91	Владимир Пресняков
+T2	Neutral_all 52 54	Мы
+A1	Plural T2
+T3	Positive_all 137 144	Юленька
+A2	AnaforPerson T3
+T4	Neutral_all 193 196	ней
+A3	AnaforPerson T4
+T5	Neutral_all 245 247	ей
+A4	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R4	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T3 Arg2:T5
+R102	Anafor Arg1:T5 Arg2:T4

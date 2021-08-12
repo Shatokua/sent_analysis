@@ -1,0 +1,5 @@
+T0	Neutral_all 8 15	Тайсону
+T1	Neutral_all 32 40	Уайлдеру
+T2	Neutral_all 85 87	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

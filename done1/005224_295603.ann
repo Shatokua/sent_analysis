@@ -1,0 +1,17 @@
+T0	Neutral_all 10 22	Асоян Нодари
+T1	Neutral_all 24 40	Нодар Руставский
+T2	Neutral_all 78 80	ты
+A1	AnaforPerson T2
+T3	Neutral_all 92 94	ты
+A2	Plural T3
+A3	AnaforPerson T3
+T4	Neutral_all 152 157	тобой
+A4	AnaforPerson T4
+T5	Neutral_all 192 194	ты
+A5	Plural T5
+A6	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T4
+R104	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	Positive 10 16	Юдзуру
+T1	Positive 37 43	Хавьер
+T2	Positive 71 75	Сому
+T3	Positive 45 47	ты
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	

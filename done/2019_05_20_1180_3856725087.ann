@@ -1,0 +1,10 @@
+T0	Neutral 196 203	Лаврова
+T1	Neutral 176 178	Он
+A1	AnaforPerson T1
+T2	Neutral 264 266	их
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 287 289	их
+A4	AnaforPerson T3
+A5	Plural T3
+R1	Variant Arg1:T2 Arg2:T3	

@@ -1,0 +1,6 @@
+T0	Negative 34 43	Майк Пенс
+T1	Negative 96 99	вас
+A1	Plural T1
+T2	Negative 126 128	вы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,12 @@
+T0	Neutral_all 40 52	Генри Сехудо
+T1	Neutral_all 62 80	Джозефа Бенавидеса
+T2	Neutral_all 98 105	Джои Би
+T4	Positive_all 262 271	Бенавидес
+T5	Neutral_all 152 156	него
+A1	AnaforPerson T5
+T3	Neutral_all 239 242	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T2

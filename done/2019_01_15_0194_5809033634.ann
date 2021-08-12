@@ -1,0 +1,5 @@
+T2	Negative 8 10	он
+A1	AnaforPerson T2
+T100	Neutral_all 143 152	Филипенко
+T101	Negative 12 19	Петухов
+R1	Anafor Arg1:T101 Arg2:T2	

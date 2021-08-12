@@ -1,0 +1,6 @@
+T100	Neutral_all 48 53	Петра
+T101	Negative 57 62	Грося
+T102	Neutral_all 108 125	Владимир Гройсман
+T103	Neutral 17 19	он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T101	

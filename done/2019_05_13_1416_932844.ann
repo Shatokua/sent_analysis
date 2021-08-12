@@ -1,0 +1,4 @@
+T0	Neutral 138 145	Кобзона
+T1	Positive 0 2	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T1 Arg2:T0	

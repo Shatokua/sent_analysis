@@ -1,0 +1,7 @@
+T0	Neutral_all 11 17	Трампу
+T1	Neutral_all 40 43	Ким
+T2	Neutral_all 51 56	Трамп
+T3	Neutral_all 47 49	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3

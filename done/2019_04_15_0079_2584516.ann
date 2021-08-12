@@ -1,0 +1,7 @@
+T100	Neutral_all 5 11	Сталин
+T101	Neutral_all 43 50	Сталина
+T102	Neutral 112 118	Сталин
+T103	Neutral 88 94	Сталин
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T102	

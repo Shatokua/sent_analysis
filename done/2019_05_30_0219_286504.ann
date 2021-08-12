@@ -1,0 +1,7 @@
+T0	Neutral_all 20 28	Аваковым
+T1	Negative 93 100	Луценко
+T2	Negative 74 77	они
+A1	Plural T2
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

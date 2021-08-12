@@ -1,0 +1,4 @@
+T0	Neutral_all 40 57	Манвела Григоряна
+T103	Neutral_all 90 92	им
+A1	AnaforPerson T103
+R101	Anafor Arg1:T0 Arg2:T103

@@ -1,0 +1,6 @@
+T0	Negative_all 145 152	Кокорин
+T1	Negative_all 154 160	Мамаев
+T2	Negative_all 163 165	их
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

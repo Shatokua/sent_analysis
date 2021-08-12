@@ -1,0 +1,10 @@
+T0	Neutral_all 219 235	Фрэнсиса Пауэрса
+T1	Neutral_all 261 276	Сергей Сафронов
+T2	Neutral_all 90 92	Мы
+A1	Plural T2
+T3	Neutral_all 293 296	нем
+A2	AnaforPerson T3
+T103	Neutral_all 250 253	наш
+A3	Plural T103
+R1	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T2 Arg2:T103

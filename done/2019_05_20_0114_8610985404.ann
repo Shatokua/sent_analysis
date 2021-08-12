@@ -1,0 +1,8 @@
+T0	Neutral 77 81	Гусь
+T1	Neutral 371 386	Линусом Умарком
+T2	Neutral 567 569	Он
+A1	AnaforPerson T2
+T3	Neutral 487 490	ним
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T2	

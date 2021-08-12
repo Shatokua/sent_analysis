@@ -1,0 +1,10 @@
+T1	Positive 10 18	Маргарет
+T2	Positive 0 3	Вас
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Positive 94 96	Вы
+A2	AnaforPerson T3
+T4	Positive 161 164	Вас
+A3	AnaforPerson T4
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

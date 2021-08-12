@@ -1,0 +1,20 @@
+T0	Neutral_all 66 71	Настя
+T1	Neutral_all 90 94	Жени
+T2	Neutral_all 157 169	Андрей Разин
+T3	Neutral_all 183 201	Наталью Черемисину
+T4	Neutral_all 231 236	Елену
+T5	Neutral_all 0 3	Она
+T6	Neutral_all 13 16	она
+T7	Neutral_all 239 241	ее
+A1	AnaforPerson T7
+T8	Neutral_all 249 251	Мы
+A2	Plural T8
+T9	Neutral_all 340 342	им
+A3	Plural T9
+T110	Neutral_all 355 357	им
+A4	Plural T110
+R1	Anafor Arg1:T5 Arg2:T6
+R2	Anafor Arg1:T4 Arg2:T7
+R3	Anafor Arg1:T2 Arg2:T8
+R4	Anafor Arg1:T3 Arg2:T8
+R102	Anafor Arg1:T9 Arg2:T110

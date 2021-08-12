@@ -1,0 +1,10 @@
+T0	Neutral_all 225 237	Джони Деппом
+T1	Positive_all 14 16	Вы
+T2	Positive_all 51 54	вам
+T103	Neutral_all 163 166	Ваш
+A1	AnaforPerson T103
+T104	Neutral_all 219 222	вас
+A2	AnaforPerson T104
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T103
+R103	Anafor Arg1:T103 Arg2:T104

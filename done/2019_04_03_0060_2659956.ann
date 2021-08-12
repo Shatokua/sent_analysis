@@ -1,0 +1,6 @@
+T1	Neutral 89 99	Майя Санду
+T100	Negative_all 42 56	Влад Плахотнюк
+T102	Negative 113 123	Плахотнюка
+T103	Negative 184 195	Плахотнюком
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

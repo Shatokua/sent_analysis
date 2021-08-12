@@ -1,0 +1,20 @@
+T0	Neutral_all 163 181	Пренса-Дезир Гуано
+T1	Neutral_all 183 198	Калиду Кулибали
+T2	Neutral_all 200 216	Рахима Стерлинга
+T3	Neutral_all 218 229	Дэнни Роуза
+T4	Neutral_all 412 414	Мы
+A1	Plural T4
+T5	Neutral_all 817 819	Мы
+A2	Plural T5
+T6	Neutral_all 918 921	они
+A3	Plural T6
+T7	Neutral_all 991 993	Мы
+A4	Plural T7
+T8	Neutral_all 1023 1026	нас
+A5	Plural T8
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T7
+R3	Anafor Arg1:T7 Arg2:T8
+R101	Anafor Arg1:T4 Arg2:T7
+R102	Anafor Arg1:T7 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T8

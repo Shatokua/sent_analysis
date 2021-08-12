@@ -1,0 +1,6 @@
+T1	Positive 93 98	Козак
+T100	Positive_all 0 8	Голикова
+T102	Positive_all 118 125	Гордеев
+T103	Positive 170 173	его
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,4 @@
+T0	Neutral_all 78 93	Жореса Алферова
+T1	Neutral_all 173 175	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

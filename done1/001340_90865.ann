@@ -1,0 +1,7 @@
+T0	Neutral_all 178 192	Алекс Фергюсон
+T1	Neutral_all 311 313	мы
+A1	Plural T1
+T2	Neutral_all 482 484	мы
+A2	Plural T2
+T3	Neutral_all 500 503	Они
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T100	Neutral 10 15	Трамп
+T101	Positive_all 188 194	Трампа
+R1	Anafor Arg1:T100 Arg2:T101	

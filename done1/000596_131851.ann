@@ -1,0 +1,7 @@
+T0	Neutral_all 147 165	Владимира Федорова
+T1	Neutral_all 289 307	Владимира Федорова
+T2	Neutral_all 308 326	Виктории Федоровой
+T3	Neutral_all 341 344	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

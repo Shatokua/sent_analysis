@@ -1,0 +1,6 @@
+T0	Neutral_all 310 325	Игорь Кривченко
+T2	Neutral_all 109 111	мы
+A1	Plural T2
+T1	Neutral_all 450 453	нас
+A2	Plural T1
+R1	Anafor Arg1:T2 Arg2:T1

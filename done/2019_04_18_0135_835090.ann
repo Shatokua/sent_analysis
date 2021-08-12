@@ -1,0 +1,6 @@
+T0	Negative 122 127	Джефф
+T1	Negative 82 85	его
+A1	AnaforPerson T1
+T2	Negative 171 174	его
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

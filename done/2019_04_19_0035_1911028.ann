@@ -1,0 +1,5 @@
+T0	Neutral_all 52 67	Альберта Бакова
+T1	Neutral_all 70 86	Михаила Болотина
+T2	Neutral_all 88 91	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

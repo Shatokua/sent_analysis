@@ -1,0 +1,6 @@
+T0	Negative 32 48	Владимиру Путину
+T1	Negative 60 64	ваши
+A1	Plural T1
+T2	Negative 151 154	вам
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

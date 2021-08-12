@@ -1,0 +1,8 @@
+T0	Neutral_all 10 28	Анастасии Шевченко
+T1	Neutral_all 114 116	вы
+A1	Plural T1
+T2	Neutral_all 181 183	ее
+A2	AnaforPerson T2
+T3	Neutral_all 350 358	Шевченко
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

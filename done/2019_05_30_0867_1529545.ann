@@ -1,0 +1,10 @@
+T0	Neutral_all 18 30	Диму Колдуна
+T1	Neutral_all 75 90	Сережу Лазарева
+T2	Neutral_all 6 8	мы
+A1	Plural T2
+T3	Neutral_all 58 61	его
+A2	AnaforPerson T3
+T4	Neutral_all 117 120	нас
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T4

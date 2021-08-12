@@ -1,0 +1,4 @@
+T0	Neutral_all 84 94	Пономарева
+T1	Neutral_all 145 160	Ильи Пономарева
+T2	Neutral_all 163 179	Марии Максаковой
+R1	Anafor Arg1:T1 Arg2:T0

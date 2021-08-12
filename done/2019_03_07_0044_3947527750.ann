@@ -1,0 +1,4 @@
+T100	Neutral 24 40	Анатолием Кляном
+T101	Negative_all 137 148	Коломойский
+T1	Neutral 113 116	его
+R1	Anafor Arg1:T100 Arg2:T1	

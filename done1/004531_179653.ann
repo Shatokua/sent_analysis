@@ -1,0 +1,6 @@
+T0	Neutral_all 28 43	Роберта Мюллера
+T1	Neutral_all 71 73	мы
+A1	Plural T1
+T2	Neutral_all 162 164	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

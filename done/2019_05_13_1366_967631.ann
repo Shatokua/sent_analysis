@@ -1,0 +1,4 @@
+T0	Neutral 126 137	Исы Чиниева
+T1	Positive 141 145	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

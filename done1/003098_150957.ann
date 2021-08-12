@@ -1,0 +1,5 @@
+T0	Neutral_all 0 6	Макрон
+T1	Neutral_all 61 76	Маттео Сальвини
+T2	Neutral_all 136 138	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

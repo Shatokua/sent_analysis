@@ -1,0 +1,16 @@
+T1	Positive 59 61	Он
+A1	AnaforPerson T1
+T2	Neutral 137 141	него
+A2	AnaforPerson T2
+T3	Neutral 147 149	он
+A3	AnaforPerson T3
+R3	Anafor Arg1:T2 Arg2:T3	
+T4	Positive 0 5	Денис
+R1	Variant Arg1:T4 Arg2:T1	
+T5	Positive 82 86	него
+A4	AnaforPerson T5
+R2	Variant Arg1:T1 Arg2:T5	
+R4	Variant Arg1:T5 Arg2:T2	
+T6	Neutral 197 201	него
+A5	AnaforPerson T6
+R5	Variant Arg1:T3 Arg2:T6	

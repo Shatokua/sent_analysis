@@ -1,0 +1,7 @@
+T0	Positive 8 21	Ходорковского
+T1	Positive 2 6	него
+A1	AnaforPerson T1
+T2	Positive 51 54	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

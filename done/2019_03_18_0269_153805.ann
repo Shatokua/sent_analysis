@@ -1,0 +1,14 @@
+T0	Neutral 15 20	Путин
+T1	Neutral 67 72	Путин
+T2	Neutral 31 33	ее
+A1	AnaforPerson T2
+T3	Neutral 83 85	ее
+A2	AnaforPerson T3
+T4	Neutral 108 110	ее
+A3	AnaforPerson T4
+T102	Neutral 95 97	он
+A4	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T102	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

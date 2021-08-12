@@ -1,0 +1,4 @@
+T0	Positive 0 6	Азаров
+T1	Positive 147 149	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

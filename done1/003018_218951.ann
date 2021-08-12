@@ -1,0 +1,6 @@
+T0	Neutral_all 158 171	Ивана Илясова
+T1	Neutral_all 240 243	его
+A1	AnaforPerson T1
+T2	Neutral_all 266 269	них
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

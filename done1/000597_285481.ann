@@ -1,0 +1,12 @@
+T0	Neutral_all 22 45	Инна Олеговна Погребняк
+T1	Neutral_all 149 151	мы
+A1	Plural T1
+T2	Neutral_all 215 218	нас
+A2	Plural T2
+T3	Neutral_all 303 306	они
+A3	Plural T3
+T101	Neutral_all 107 112	нашей
+A4	Plural T101
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T2

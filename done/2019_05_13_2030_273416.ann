@@ -1,0 +1,4 @@
+T0	Positive 37 40	его
+T1	Positive 74 88	Рекс Тиллерсон
+A1	AnaforPerson T0
+R1	Anafor Arg1:T1 Arg2:T0	

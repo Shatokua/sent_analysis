@@ -1,0 +1,4 @@
+T0	Neutral 50 80	Наталье Николаевне Карамашевой
+T1	Positive 87 89	ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

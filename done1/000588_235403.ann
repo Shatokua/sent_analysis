@@ -1,0 +1,8 @@
+T2	Neutral_all 241 272	Филипповой Прасковьи Алексеевны
+T1	Neutral_all 80 107	Гришина Михаила Алексеевича
+T3	Neutral_all 111 113	он
+A1	AnaforPerson T3
+T4	Neutral_all 319 321	её
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T3

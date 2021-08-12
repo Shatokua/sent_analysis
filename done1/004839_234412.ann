@@ -1,0 +1,8 @@
+T0	Neutral_all 13 17	Крис
+T1	Neutral_all 19 30	Кристина Си
+T2	Neutral_all 6 10	тебя
+A1	AnaforPerson T2
+T3	Neutral_all 86 89	нее
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3

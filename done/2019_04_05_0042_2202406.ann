@@ -1,0 +1,10 @@
+T2	Neutral 5 7	ты
+T3	Neutral 65 69	тебя
+T4	Neutral 83 85	ты
+T100	Neutral_all 46 62	Борис Николаевич
+T101	Negative_all 116 125	Навальный
+T102	Negative 162 164	Он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

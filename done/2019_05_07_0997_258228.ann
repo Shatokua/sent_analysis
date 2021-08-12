@@ -1,0 +1,7 @@
+T0	Neutral 0 6	Немцов
+T1	Neutral 67 70	его
+A1	AnaforPerson T1
+T2	Neutral 155 157	ты
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T1	

@@ -1,0 +1,13 @@
+T0	Neutral_all 522 529	Лобовым
+T1	Neutral_all 818 831	Артему Лобову
+T2	Neutral_all 1006 1011	Артем
+T3	Neutral_all 23 26	нас
+A1	Plural T3
+T4	Neutral_all 300 302	мы
+A2	Plural T4
+T5	Neutral_all 889 892	Ему
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R4	Anafor Arg1:T4 Arg2:T3

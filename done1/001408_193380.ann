@@ -1,0 +1,17 @@
+T0	Negative_all 226 236	Саша Алиев
+T1	Neutral_all 211 214	ему
+A1	AnaforPerson T1
+T2	Negative_all 331 333	Он
+A2	AnaforPerson T2
+T3	Negative_all 532 534	ты
+A3	AnaforPerson T3
+T4	Negative_all 838 840	Он
+A4	AnaforPerson T4
+T104	Neutral_all 822 825	его
+A5	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T1
+R103	Anafor Arg1:T4 Arg2:T104
+R104	Anafor Arg1:T104 Arg2:T3

@@ -1,0 +1,19 @@
+T0	Neutral 145 150	Борей
+T1	Negative 5 7	он
+T2	Negative 35 38	ним
+T3	Negative 49 51	Он
+A1	AnaforPerson T3
+A2	AnaforPerson T2
+A3	AnaforPerson T1
+T4	Neutral 86 88	он
+A4	AnaforPerson T4
+T5	Neutral 138 141	его
+A5	AnaforPerson T5
+T6	Negative 196 199	его
+A6	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T6	
+R2	Anafor Arg1:T0 Arg2:T5	
+R3	Anafor Arg1:T5 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T3	
+R5	Anafor Arg1:T3 Arg2:T2	
+R6	Anafor Arg1:T2 Arg2:T1	

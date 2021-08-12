@@ -1,0 +1,4 @@
+T0	Negative_all 62 82	Сооронбая Жээнбекова
+T1	Negative_all 85 88	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

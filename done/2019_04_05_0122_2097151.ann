@@ -1,0 +1,3 @@
+T0	Neutral_all 4 11	Гайдара
+T1	Positive_all 63 69	Гайдар
+R1	Anafor Arg1:T1 Arg2:T0

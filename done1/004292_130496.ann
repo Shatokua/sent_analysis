@@ -1,0 +1,11 @@
+T0	Neutral_all 50 64	Сергей Пугачев
+T1	Neutral_all 17 20	они
+A1	Plural T1
+T2	Neutral_all 193 195	им
+A2	Plural T2
+T3	Neutral_all 219 221	Их
+A3	Plural T3
+T4	Neutral_all 292 294	их
+A4	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

@@ -1,0 +1,7 @@
+T0	Neutral_all 4 18	Владимир Путин
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral_all 70 72	вы
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1	
+A3	AnaforPerson T2

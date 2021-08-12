@@ -1,0 +1,4 @@
+T0	Neutral_all 141 155	Андрей Варичев
+T1	Neutral_all 159 161	Мы
+A1	Plural T1
+R101	Anafor Arg1:T0 Arg2:T1

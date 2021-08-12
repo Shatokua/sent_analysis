@@ -1,0 +1,4 @@
+T0	Negative 0 8	Удальцов
+T1	Negative 81 84	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

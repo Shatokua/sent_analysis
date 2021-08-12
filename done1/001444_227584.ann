@@ -1,0 +1,4 @@
+T0	Neutral_all 23 36	Борис Ливанов
+T1	Neutral_all 137 144	Ливанов
+T102	Neutral_all 235 241	Аврора
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Positive 33 51	Антону Эдуардовичу
+T1	Positive 119 121	им
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

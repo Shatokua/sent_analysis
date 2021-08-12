@@ -1,0 +1,10 @@
+T0	Neutral_all 129 135	Путина
+T1	Negative_all 157 167	Памфиловой
+T2	Neutral_all 137 139	Мы
+A1	Plural T2
+T103	Neutral_all 51 55	наши
+A2	Plural T103
+T104	Neutral_all 84 89	наших
+A3	Plural T104
+R101	Anafor Arg1:T2 Arg2:T104
+R102	Anafor Arg1:T104 Arg2:T103

@@ -1,0 +1,10 @@
+T0	Neutral_all 13 29	Павла Погребняка
+T1	Neutral_all 61 64	Ари
+T2	Neutral_all 84 99	Александр Дюков
+T3	Neutral_all 111 121	Погребняку
+T4	Neutral_all 40 43	его
+A1	AnaforPerson T4
+T5	Neutral_all 160 162	Мы
+A2	Plural T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

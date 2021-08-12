@@ -1,0 +1,6 @@
+T0	Neutral_all 34 43	Порошенко
+T1	Neutral_all 140 154	Юлия Тимошенко
+T2	Neutral_all 455 464	Порошенко
+T3	Neutral_all 480 483	Они
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

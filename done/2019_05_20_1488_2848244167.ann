@@ -1,0 +1,9 @@
+T0	Neutral 0 12	Джон Кеннеди
+T1	Neutral 268 275	Кеннеди
+T2	Neutral 169 171	он
+A1	AnaforPerson T2
+T3	Neutral 215 218	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Variant Arg1:T1 Arg2:T3	

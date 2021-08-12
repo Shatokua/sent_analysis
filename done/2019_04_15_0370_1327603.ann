@@ -1,0 +1,5 @@
+T101	Neutral_all 99 113	Кондолизы Райс
+T102	Neutral 38 58	Джордж Буш – младший
+T103	Neutral_all 124 127	ему
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

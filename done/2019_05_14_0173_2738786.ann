@@ -1,0 +1,4 @@
+T2	Positive 90 99	Владимира
+T3	Neutral 160 166	Путина
+T1	Positive 21 40	Владимир [Зеленский
+R1	Anafor Arg1:T1 Arg2:T2

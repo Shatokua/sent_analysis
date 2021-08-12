@@ -1,0 +1,12 @@
+T0	Neutral_all 0 12	Виктор Лента
+T1	Neutral_all 262 267	Мунье
+T5	Neutral 662 664	Он
+A3	AnaforPerson T5
+T102	Negative 627 644	Эммануэля Макрона
+T103	Neutral_all 364 366	их
+A4	Plural T103
+T105	Negative 647 650	его
+A5	AnaforPerson T105
+A11	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T105	
+R2	Anafor Arg1:T105 Arg2:T5	

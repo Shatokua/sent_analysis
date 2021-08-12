@@ -1,0 +1,7 @@
+T0	Neutral 115 132	Майклом Джексоном
+T2	Neutral_all 207 210	они
+A2	AnaforPerson T2
+T101	Neutral 134 136	он
+A3	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	
+A1	Plural T2

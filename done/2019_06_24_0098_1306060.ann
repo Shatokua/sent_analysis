@@ -1,0 +1,7 @@
+T1	Negative 79 98	Михаила] Саакашвили
+T2	Negative 129 132	они
+A1	Plural T2
+T3	Neutral_all 219 222	них
+A2	Plural T3
+A3	AnaforPerson T2
+A4	AnaforPerson T3

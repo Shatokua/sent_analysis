@@ -1,0 +1,10 @@
+T0	Positive 0 18	Анатолий Борисович
+T1	Mixed 126 128	он
+A1	AnaforPerson T1
+T2	Mixed 132 135	его
+A2	AnaforPerson T2
+T3	Neutral 240 243	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

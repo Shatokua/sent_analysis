@@ -1,0 +1,6 @@
+T0	Neutral_all 57 76	Екатерина Апряткина
+T1	Neutral_all 80 82	Мы
+A1	Plural T1
+T2	Neutral_all 169 172	нам
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

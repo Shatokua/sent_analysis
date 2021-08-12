@@ -1,0 +1,10 @@
+T0	Positive 25 35	Касаткиной
+T1	Neutral_all 80 95	Елены Остапенко
+T2	Neutral_all 102 107	Дарьи
+T3	Positive 48 51	она
+T4	Neutral_all 126 128	Ей
+A1	AnaforPerson T4
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T2 Arg2:T4	

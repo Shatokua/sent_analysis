@@ -1,0 +1,8 @@
+T0	Neutral_all 435 448	Теодору Кроне
+T1	Neutral_all 159 162	них
+A1	Plural T1
+T2	Neutral_all 254 256	Вы
+A2	Plural T2
+T3	Neutral_all 450 452	вы
+A3	Plural T3
+R101	Anafor Arg1:T2 Arg2:T3

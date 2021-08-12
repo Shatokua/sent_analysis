@@ -1,0 +1,12 @@
+T0	Neutral_all 147 164	Алмазбек Атамбаев
+T1	Neutral_all 423 431	Атамбаев
+T2	Neutral_all 94 96	мы
+A1	Plural T2
+T3	Neutral_all 439 441	их
+A2	Plural T3
+T103	Neutral_all 331 333	вы
+A3	Plural T103
+T104	Neutral_all 383 385	вы
+A4	Plural T104
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T103 Arg2:T104

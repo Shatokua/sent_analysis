@@ -1,0 +1,4 @@
+T0	Neutral 105 111	Трампа
+T1	Neutral 100 103	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

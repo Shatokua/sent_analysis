@@ -1,0 +1,4 @@
+T0	Neutral_all 59 74	Петра Порошенко
+T101	Negative 86 88	он
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

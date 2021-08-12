@@ -1,0 +1,5 @@
+T2	Positive 66 69	его
+A1	AnaforPerson T2
+T100	Positive_all 31 36	Месси
+T101	Positive_all 39 46	Давыдов
+R1	Anafor Arg1:T101 Arg2:T2

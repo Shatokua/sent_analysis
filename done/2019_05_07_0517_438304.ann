@@ -1,0 +1,4 @@
+T0	Neutral 2 20	Владимиром Путиным
+T1	Neutral 27 29	мы
+A1	Plural T1
+R1	Variant Arg1:T0 Arg2:T1	

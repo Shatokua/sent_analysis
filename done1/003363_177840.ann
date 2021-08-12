@@ -1,0 +1,4 @@
+T1	Neutral_all 205 207	он
+A1	AnaforPerson T1
+T2	Neutral_all 231 235	нами
+A2	Plural T2

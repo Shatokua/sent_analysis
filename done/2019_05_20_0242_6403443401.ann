@@ -1,0 +1,8 @@
+T0	Neutral 0 4	Поль
+T1	Neutral 213 220	Платини
+T2	Neutral 44 47	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 59 61	Их
+A2	AnaforPerson T3
+A3	Plural T3

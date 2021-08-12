@@ -1,0 +1,5 @@
+T0	Negative 35 42	Каддафи
+T1	Neutral_all 162 172	Ким Чен Ын
+T2	Negative_all 30 33	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

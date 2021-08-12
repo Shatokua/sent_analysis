@@ -1,0 +1,4 @@
+T0	Neutral 0 17	Анатолий Гриценко
+T2	Neutral 112 114	он
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

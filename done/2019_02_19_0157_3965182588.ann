@@ -1,0 +1,10 @@
+T101	Neutral_all 12 18	Олланд
+T102	Negative_all 113 119	Путина
+T103	Negative_all 238 245	Путиным
+T104	Negative_all 274 279	Путин
+T105	Neutral 269 272	ним
+A1	AnaforPerson T105
+R101	Anafor Arg1:T103 Arg2:T105
+T1	Negative 132 135	его
+R1	Anafor Arg1:T102 Arg2:T1	
+A2	AnaforPerson T1

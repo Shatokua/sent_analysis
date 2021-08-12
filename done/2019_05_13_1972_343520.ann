@@ -1,0 +1,7 @@
+T0	Positive 120 134	Хилари Клинтон
+T1	Neutral 100 103	них
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 156 160	вами
+A3	AnaforPerson T2
+A4	Plural T2

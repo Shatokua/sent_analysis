@@ -1,0 +1,6 @@
+T1	Neutral_all 64 97	Владимира Вольфовича Жириновского
+T2	Neutral_all 158 162	него
+A1	AnaforPerson T2
+T3	Neutral_all 311 313	мы
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

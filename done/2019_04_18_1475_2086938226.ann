@@ -1,0 +1,4 @@
+T0	Negative 24 32	Ливанова
+T1	Negative 52 55	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

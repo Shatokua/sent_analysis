@@ -1,0 +1,4 @@
+T0	Neutral_all 61 67	Путина
+T1	Neutral_all 83 97	Герхард Шредер
+T2	Neutral_all 127 133	Путина
+R1	Anafor Arg1:T0 Arg2:T2

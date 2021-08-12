@@ -1,0 +1,4 @@
+T1	Neutral 28 37	Гройсмана
+T102	Negative_all 137 146	Порошенко
+T103	Negative_all 212 221	Порошенко
+R1	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,6 @@
+T1	Neutral_all 47 50	его
+A1	AnaforPerson T1
+T2	Neutral_all 216 218	Мы
+A2	Plural T2
+T3	Neutral_all 241 253	Катушев А.Н.
+R1	Anafor Arg1:T3 Arg2:T1

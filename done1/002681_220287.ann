@@ -1,0 +1,16 @@
+T0	Neutral_all 16 31	Дмитрия Фирташа
+T1	Neutral_all 282 288	Фирташ
+T2	Neutral_all 326 332	Фирташ
+T3	Neutral_all 33 36	его
+A1	AnaforPerson T3
+T4	Neutral_all 368 371	его
+A2	AnaforPerson T4
+T5	Neutral_all 411 414	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T3
+R103	Anafor Arg1:T2 Arg2:T3
+R104	Anafor Arg1:T3 Arg2:T4

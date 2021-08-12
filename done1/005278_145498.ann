@@ -1,0 +1,4 @@
+T0	Neutral_all 0 8	И.Шишкин
+T101	Neutral_all 152 155	ему
+A1	AnaforPerson T101
+R101	Anafor Arg1:T0 Arg2:T101

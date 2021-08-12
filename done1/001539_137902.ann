@@ -1,0 +1,3 @@
+T0	Neutral_all 317 328	Евстигнееву
+T1	Neutral_all 450 469	Евгения Евстигнеева
+R1	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,5 @@
+T0	Neutral_all 119 137	Кирилла Вышинского
+T1	Neutral_all 185 202	Андрея Доманского
+T2	Neutral_all 172 175	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

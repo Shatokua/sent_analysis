@@ -1,0 +1,4 @@
+T0	Neutral_all 73 87	Тони Фергюсона
+T1	Neutral_all 144 147	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

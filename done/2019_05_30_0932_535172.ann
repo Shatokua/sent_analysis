@@ -1,0 +1,8 @@
+T0	Neutral_all 44 51	Кичеджи
+T2	Neutral_all 0 2	Вы
+A1	Plural T2
+T4	Positive 98 100	он
+A3	AnaforPerson T4
+T101	Positive 53 64	Полтавченко
+A5	AnaforPerson T2
+R1	Anafor Arg1:T101 Arg2:T4	

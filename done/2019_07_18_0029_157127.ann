@@ -1,0 +1,11 @@
+T0	Neutral 142 150	Тимченко
+T1	Neutral 38 41	Они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 83 86	них
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 152 154	он
+A5	AnaforPerson T3
+R2	Variant Arg1:T0 Arg2:T3	

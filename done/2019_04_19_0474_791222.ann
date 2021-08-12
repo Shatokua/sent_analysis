@@ -1,0 +1,9 @@
+T1	Neutral_all 37 57	Эммануэлем) Макроном
+T2	Neutral_all 119 138	Владимиром) Путиным
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T4	Neutral_all 63 65	мы
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T4 Arg2:T2

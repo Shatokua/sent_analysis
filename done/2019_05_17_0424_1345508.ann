@@ -1,0 +1,3 @@
+T0	Neutral 14 21	Парубий
+T1	Neutral_all 35 49	Андрей Парубий
+R1	Anafor Arg1:T1 Arg2:T0	

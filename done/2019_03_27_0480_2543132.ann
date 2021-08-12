@@ -1,0 +1,8 @@
+T1	Neutral 40 48	Маршалом
+T100	Neutral_all 33 37	Дудя
+T102	Negative_all 129 136	Лещенки
+T103	Negative_all 138 147	Пригожины
+T104	Negative_all 149 156	Валерии
+T105	Negative_all 158 167	Майдановы
+T106	Negative_all 72 78	Маршал
+R1	Anafor Arg1:T1 Arg2:T106	

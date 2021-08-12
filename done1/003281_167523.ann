@@ -1,0 +1,4 @@
+T0	Neutral_all 53 74	Нурсултана Назарбаева
+T1	Neutral_all 301 311	Назарбаева
+T2	Neutral_all 334 347	Жомарт Ертаев
+R1	Anafor Arg1:T0 Arg2:T1

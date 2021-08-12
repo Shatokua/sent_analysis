@@ -1,0 +1,5 @@
+T0	Positive 14 20	Путина
+T1	Positive 42 47	Путин
+T2	Neutral_all 127 133	Путина
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

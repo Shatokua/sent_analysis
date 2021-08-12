@@ -1,0 +1,10 @@
+T0	Positive 16 20	Хлои
+T1	Positive 48 51	нее
+A1	AnaforPerson T1
+T2	Positive 53 56	Она
+A2	AnaforPerson T2
+T3	Positive 72 75	Она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

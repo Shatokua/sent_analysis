@@ -1,0 +1,6 @@
+T1	Positive 31 48	Анатолий) Аксаков
+T2	Positive 108 125	Галина) Хованская
+T3	Positive 186 199	Леонид) Левин
+T104	Positive 76 79	его
+A2	AnaforPerson T104
+R1	Anafor Arg1:T1 Arg2:T104	

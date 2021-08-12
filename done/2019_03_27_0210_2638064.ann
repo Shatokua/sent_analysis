@@ -1,0 +1,4 @@
+T0	Neutral_all 41 55	Андрей Садовой
+T1	Neutral_all 118 135	Анатолия Гриценко
+T2	Neutral_all 79 86	Садовой
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T100	Neutral_all 24 41	Дмитрия Медведева
+T101	Positive_all 62 65	его
+A1	AnaforPerson T101
+R1	Anafor Arg1:T100 Arg2:T101

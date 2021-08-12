@@ -1,0 +1,5 @@
+T100	Negative 11 20	Чак Шумер
+T101	Neutral_all 65 77	Джеймсе Коми
+T102	Neutral_all 60 63	нем
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102

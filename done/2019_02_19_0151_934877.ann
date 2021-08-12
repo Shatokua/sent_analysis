@@ -1,0 +1,6 @@
+T3	Positive 202 209	Познера
+T101	Neutral_all 34 42	Познером
+T102	Neutral_all 100 120	Аркадием Абрамовичем
+T1	Neutral 141 144	Ему
+R1	Anafor Arg1:T3 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T101	

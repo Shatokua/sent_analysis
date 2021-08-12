@@ -1,0 +1,5 @@
+T0	Neutral_all 28 34	Трампа
+T1	Neutral_all 91 102	Садика Хана
+T2	Neutral_all 66 69	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

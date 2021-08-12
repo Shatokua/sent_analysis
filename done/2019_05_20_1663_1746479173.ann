@@ -1,0 +1,13 @@
+T0	Neutral 14 23	Магомедов
+T1	Neutral 10 12	он
+A1	AnaforPerson T1
+T2	Neutral 46 48	он
+A2	AnaforPerson T2
+T3	Neutral 173 176	его
+A3	AnaforPerson T3
+T4	Neutral 275 278	его
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

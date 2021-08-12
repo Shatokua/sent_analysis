@@ -1,0 +1,7 @@
+T0	Positive 26 30	Сашу
+T1	Neutral 91 93	Он
+A1	AnaforPerson T1
+T2	Positive 156 159	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

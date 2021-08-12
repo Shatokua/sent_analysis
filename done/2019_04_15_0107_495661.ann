@@ -1,0 +1,6 @@
+T100	Neutral 22 31	Артеменко
+T101	Negative 128 137	Артеменко
+T102	Negative 144 146	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T102	

@@ -1,0 +1,10 @@
+T3	Positive 177 185	Краснова
+T4	Positive 189 194	Шкуро
+T5	Positive 198 209	фон Панвица
+T100	Neutral_all 0 10	Венедиктов
+T101	Neutral_all 42 49	Власова
+T102	Neutral_all 163 166	его
+T1	Neutral 126 129	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T102	

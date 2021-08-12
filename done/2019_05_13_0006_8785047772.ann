@@ -1,0 +1,9 @@
+T0	Positive 136 145	Самойлова
+T1	Positive 16 19	Она
+A1	AnaforPerson T1
+T2	Neutral 220 223	она
+A2	AnaforPerson T2
+T3	Neutral 40 44	вами
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

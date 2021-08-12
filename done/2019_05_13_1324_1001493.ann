@@ -1,0 +1,4 @@
+T0	Neutral 108 124	Алексея Кононова
+T1	Neutral 131 133	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

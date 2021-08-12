@@ -1,0 +1,6 @@
+T0	Neutral 38 54	Виктории Дайнеко
+T1	Positive 56 62	Викуль
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Positive 71 75	тебя
+A1	AnaforPerson T2
+R2	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,14 @@
+T1	Neutral 21 28	Надежды
+T2	Neutral 31 35	Вера
+T3	Neutral 51 53	ее
+A1	AnaforPerson T3
+R1	Variant Arg1:T1 Arg2:T3	
+T4	Neutral 81 83	ее
+A2	AnaforPerson T4
+R2	Variant Arg1:T3 Arg2:T4	
+T5	Neutral 118 120	Ее
+A3	AnaforPerson T5
+T6	Neutral 138 141	она
+A4	AnaforPerson T6
+R3	Variant Arg1:T4 Arg2:T5	
+R4	Variant Arg1:T5 Arg2:T6	

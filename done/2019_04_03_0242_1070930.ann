@@ -1,0 +1,8 @@
+T100	Neutral_all 105 111	Жеглов
+T101	Neutral_all 132 139	Жеглова
+T102	Neutral 4 6	он
+A1	AnaforPerson T102
+T103	Neutral_all 50 53	ему
+A2	AnaforPerson T103
+R102	Anafor Arg1:T100 Arg2:T101
+R1	Anafor Arg1:T102 Arg2:T103	

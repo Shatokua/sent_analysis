@@ -1,0 +1,7 @@
+T0	Neutral_all 157 161	Коля
+T1	Neutral_all 163 179	Николай Соловьев
+T103	Neutral 23 26	ним
+A5	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T0
+A1	AnaforPerson T0
+R2	Anafor Arg1:T0 Arg2:T103	

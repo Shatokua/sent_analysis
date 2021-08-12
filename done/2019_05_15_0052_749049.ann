@@ -1,0 +1,5 @@
+T0	Negative_all 18 25	Макфоле
+T1	Neutral_all 208 213	Обамы
+T2	Neutral_all 181 184	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Negative 2 6	Жени
+T101	Neutral_all 160 168	Поршнева
+T102	Negative 34 36	он
+A1	AnaforPerson T102
+T103	Negative 50 52	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

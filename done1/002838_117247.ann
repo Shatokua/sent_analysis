@@ -1,0 +1,5 @@
+T0	Neutral_all 155 162	Макроне
+T1	Neutral_all 293 307	Николя Саркози
+T2	Neutral_all 327 334	Макрона
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T0

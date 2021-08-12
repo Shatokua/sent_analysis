@@ -1,0 +1,4 @@
+T0	Positive 125 137	Роман Дюкасс
+T1	Positive 173 176	Его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

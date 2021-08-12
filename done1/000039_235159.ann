@@ -1,0 +1,5 @@
+T0	Neutral_all 27 40	Анне Блохиной
+T1	Neutral_all 221 224	его
+T2	Neutral_all 425 427	ей
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

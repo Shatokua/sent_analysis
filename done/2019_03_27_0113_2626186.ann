@@ -1,0 +1,4 @@
+T1	Positive 59 65	Боттас
+T100	Positive_all 13 19	Боттас
+T102	Neutral_all 185 205	Себастьяном Феттелем
+R1	Anafor Arg1:T100 Arg2:T1

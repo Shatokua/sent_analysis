@@ -1,0 +1,4 @@
+T0	Neutral_all 44 52	Кобзоном
+T1	Neutral_all 111 118	Кобзону
+T2	Neutral_all 20 22	он
+R1	Anafor Arg1:T0 Arg2:T1

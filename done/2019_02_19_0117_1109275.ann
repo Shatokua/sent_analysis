@@ -1,0 +1,4 @@
+T2	Neutral 147 152	Яшину
+T101	Neutral_all 102 122	Валентина Тимофеевна
+T1	Positive 77 100	этого великого человека
+R1	Anafor Arg1:T2 Arg2:T1	

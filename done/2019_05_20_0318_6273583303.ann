@@ -1,0 +1,5 @@
+T0	Neutral 80 94	Ангелы Меркель
+T2	Neutral 263 270	Реттген
+T3	Neutral 0 2	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

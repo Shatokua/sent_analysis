@@ -1,0 +1,8 @@
+T0	Neutral_all 0 17	Алексей Терещенко
+T1	Neutral_all 231 238	Алексей
+T3	Neutral_all 39 41	мы
+A1	Plural T3
+T2	Neutral_all 56 59	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

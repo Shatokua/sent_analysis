@@ -1,0 +1,9 @@
+T0	Positive 30 47	Сергей Магнитский
+T1	Positive 178 196	Сергея Магнитского
+T2	Positive 304 315	Солженицына
+T3	Positive 318 326	Сахарова
+T4	Positive 341 358	Анны Политковской
+T5	Positive 129 132	Его
+A1	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T1	

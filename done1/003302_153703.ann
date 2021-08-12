@@ -1,0 +1,16 @@
+T0	Neutral_all 29 44	Петра Порошенко
+T1	Neutral_all 92 94	он
+A1	AnaforPerson T1
+T2	Neutral_all 122 124	он
+A2	AnaforPerson T2
+T3	Neutral_all 300 303	его
+A3	AnaforPerson T3
+T4	Negative_all 332 334	он
+A4	AnaforPerson T4
+T5	Neutral_all 162 164	он
+A5	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T3

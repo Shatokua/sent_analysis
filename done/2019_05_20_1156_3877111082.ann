@@ -1,0 +1,4 @@
+T0	Neutral 36 50	Эдвард Сноуден
+T1	Neutral 190 192	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

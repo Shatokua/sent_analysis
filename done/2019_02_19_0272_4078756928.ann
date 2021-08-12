@@ -1,0 +1,6 @@
+T2	Neutral 113 115	он
+T101	Negative_all 52 62	Пархоменко
+T102	Negative 47 50	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T2
+R101	Anafor Arg1:T101 Arg2:T102

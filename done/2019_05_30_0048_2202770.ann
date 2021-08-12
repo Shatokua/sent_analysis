@@ -1,0 +1,5 @@
+T0	Negative 0 9	Нетаниягу
+T1	Neutral_all 103 112	Либермана
+T2	Neutral_all 145 148	они
+A1	Plural T2
+A2	AnaforPerson T2

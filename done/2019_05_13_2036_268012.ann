@@ -1,0 +1,10 @@
+T0	Neutral 110 116	Иванка
+T1	Neutral 118 121	Она
+A1	AnaforPerson T1
+T2	Positive 165 168	она
+A2	AnaforPerson T2
+T3	Positive 176 179	Она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

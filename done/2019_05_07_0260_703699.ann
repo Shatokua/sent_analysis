@@ -1,0 +1,4 @@
+T0	Neutral 36 43	Слуцкий
+T1	Neutral 26 29	ему
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

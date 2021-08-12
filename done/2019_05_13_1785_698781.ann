@@ -1,0 +1,16 @@
+T0	Positive 13 18	Путин
+T1	Positive 9 11	он
+A1	AnaforPerson T1
+T2	Positive 51 54	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	
+T3	Positive 83 85	Он
+A3	AnaforPerson T3
+T4	Neutral 123 125	он
+A4	AnaforPerson T4
+T5	Neutral 147 150	его
+A5	AnaforPerson T5
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	

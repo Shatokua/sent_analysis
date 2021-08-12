@@ -1,0 +1,11 @@
+T0	Neutral_all 146 165	Александр Новоселов
+T1	Neutral_all 18 20	мы
+A1	Plural T1
+T2	Neutral_all 79 82	нас
+A2	Plural T2
+T3	Neutral_all 245 247	мы
+A3	Plural T3
+R1	Anafor Arg1:T3 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2

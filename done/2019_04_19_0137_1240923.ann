@@ -1,0 +1,5 @@
+T0	Positive_all 74 90	Николай Сванидзе
+T103	Positive 70 72	он
+A2	AnaforPerson T103
+T101	Neutral 102 130	Максим Леонардович (Шевченко
+R1	Anafor Arg1:T0 Arg2:T103	

@@ -1,0 +1,6 @@
+T0	Mixed 26 43	Фридуна Шахпазова
+T1	Neutral 218 226	Шахпазов
+T2	Mixed 62 64	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T0	Neutral_all 139 148	Грудинину
+T1	Neutral_all 323 348	Павел Николаевич Грудинин
+R1	Anafor Arg1:T1 Arg2:T0

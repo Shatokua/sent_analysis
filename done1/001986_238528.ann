@@ -1,0 +1,5 @@
+T0	Neutral_all 67 75	Бикфалви
+T1	Negative_all 201 219	Александра Егорова
+T2	Negative 221 224	Его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

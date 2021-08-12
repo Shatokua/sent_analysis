@@ -1,0 +1,8 @@
+T2	Mixed 261 276	Борис Абрамович
+T101	Neutral 84 90	Путина
+T103	Neutral 0 2	Он
+A1	AnaforPerson T103
+T104	Neutral 62 64	он
+A2	AnaforPerson T104
+R102	Anafor Arg1:T104 Arg2:T103
+R1	Anafor Arg1:T104 Arg2:T2	

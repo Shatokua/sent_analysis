@@ -1,0 +1,8 @@
+T0	Neutral_all 284 302	Татьяна Выставкина
+T1	Neutral_all 11 15	нами
+A1	Plural T1
+T2	Neutral_all 150 153	они
+A2	Plural T2
+T3	Neutral_all 178 181	нас
+A3	Plural T3
+R1	Anafor Arg1:T3 Arg2:T1

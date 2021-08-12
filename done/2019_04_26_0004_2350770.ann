@@ -1,0 +1,8 @@
+T0	Negative 12 23	Джеймс Коми
+T1	Negative_all 106 119	Эндрю Маккейб
+T2	Negative_all 47 49	он
+A1	AnaforPerson T2
+T3	Negative 90 93	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

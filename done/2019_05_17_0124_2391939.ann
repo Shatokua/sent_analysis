@@ -1,0 +1,4 @@
+T0	Neutral_all 126 138	Ольга Бузова
+T1	Neutral_all 153 159	Бузову
+T2	Neutral_all 69 72	нее
+R1	Anafor Arg1:T0 Arg2:T1

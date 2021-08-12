@@ -1,0 +1,18 @@
+T100	Negative 5 14	Порошенко
+T101	Mixed 190 199	Порошенко
+T102	Negative 73 75	он
+A6	AnaforPerson T102
+T103	Negative 89 91	Он
+A7	AnaforPerson T103
+T104	Negative 130 133	ему
+A8	AnaforPerson T104
+T105	Negative 174 176	он
+A9	AnaforPerson T105
+T106	Negative 212 214	Он
+A10	AnaforPerson T106
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	
+R4	Anafor Arg1:T104 Arg2:T105	
+R5	Anafor Arg1:T106 Arg2:T101	
+R6	Anafor Arg1:T101 Arg2:T105	

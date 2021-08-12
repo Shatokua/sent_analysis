@@ -1,0 +1,7 @@
+T1	Neutral_all 166 172	Серену
+T2	Neutral_all 28 42	Серены Уильямс
+T3	Positive 43 55	Павлюченкова
+T4	Positive_all 135 138	она
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T2 Arg2:T1	

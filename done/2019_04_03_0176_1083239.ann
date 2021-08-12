@@ -1,0 +1,9 @@
+T100	Negative_all 32 39	Бреннэн
+T101	Negative_all 43 50	Клэппер
+T102	Neutral_all 140 145	Путин
+T103	Negative_all 54 58	Коми
+T104	Negative 78 80	он
+A1	AnaforPerson T104
+T105	Negative_all 60 64	Коми
+R1	Anafor Arg1:T103 Arg2:T105
+R102	Anafor Arg1:T105 Arg2:T104

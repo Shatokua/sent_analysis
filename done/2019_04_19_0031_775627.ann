@@ -1,0 +1,4 @@
+T1	Neutral_all 97 100	ему
+A1	AnaforPerson T1
+T2	Neutral_all 0 25	Андрей Олегович (Ростенко
+R1	Anafor Arg1:T2 Arg2:T1

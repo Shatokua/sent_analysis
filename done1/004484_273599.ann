@@ -1,0 +1,6 @@
+T0	Neutral_all 24 36	Мэтта Дюшена
+T1	Neutral_all 107 115	Панарина
+T2	Neutral_all 214 227	Джек Рословик
+T3	Neutral_all 159 162	ним
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

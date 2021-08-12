@@ -1,0 +1,10 @@
+T0	Neutral_all 53 68	М. Исмагамбетов
+T2	Neutral_all 277 279	Д.
+T3	Neutral_all 304 307	Н."
+T1	Neutral_all 210 215	А. Н.
+T4	Neutral_all 219 224	Д. Т.
+T5	Neutral_all 225 227	Он
+A1	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T5
+R103	Anafor Arg1:T1 Arg2:T3

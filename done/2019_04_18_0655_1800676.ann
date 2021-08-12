@@ -1,0 +1,13 @@
+T0	Neutral 9 15	Хербст
+T1	Neutral 19 22	вас
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 51 53	вы
+A2	AnaforPerson T2
+T3	Negative 67 69	вы
+A3	AnaforPerson T3
+T4	Negative 100 102	вы
+A4	AnaforPerson T4
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

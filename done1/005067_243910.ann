@@ -1,0 +1,19 @@
+T0	Neutral_all 8 18	Майкл Коэн
+T1	Neutral_all 247 262	Роберта Мюллера
+T2	Neutral_all 306 321	Дональда Трампа
+T3	Neutral_all 32 34	он
+A1	AnaforPerson T3
+T4	Neutral_all 152 155	его
+A2	AnaforPerson T4
+T5	Negative_all 188 190	он
+A3	AnaforPerson T5
+T6	Neutral_all 396 399	его
+A4	AnaforPerson T6
+T7	Neutral_all 444 447	его
+A5	AnaforPerson T7
+R1	Anafor Arg1:T2 Arg2:T6
+R2	Anafor Arg1:T6 Arg2:T7
+R3	Anafor Arg1:T0 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T4
+R105	Anafor Arg1:T4 Arg2:T6

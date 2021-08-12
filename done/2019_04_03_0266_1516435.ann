@@ -1,0 +1,12 @@
+T3	Negative 67 69	он
+A2	AnaforPerson T3
+T4	Negative 122 124	ты
+A3	AnaforPerson T4
+T100	Negative_all 0 10	Джон Керри
+T101	Negative_all 116 120	Джон
+T102	Negative 51 55	него
+A4	AnaforPerson T102
+R2	Anafor Arg1:T101 Arg2:T4
+R1	Anafor Arg1:T100 Arg2:T102	
+R3	Anafor Arg1:T102 Arg2:T3	
+R4	Anafor Arg1:T101 Arg2:T3	

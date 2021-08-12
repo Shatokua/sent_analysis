@@ -1,0 +1,6 @@
+T3	Negative 210 228	Борис Вячеславович
+T4	Neutral 302 305	ему
+A1	AnaforPerson T4
+T101	Neutral_all 44 51	Грызлов
+T102	Neutral_all 126 134	Миронова
+R1	Anafor Arg1:T3 Arg2:T4	

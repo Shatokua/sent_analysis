@@ -1,0 +1,12 @@
+T0	Neutral_all 30 41	Роба Блэйка
+T1	Neutral_all 98 108	Ковальчуку
+T2	Neutral_all 279 288	Ковальчук
+T3	Neutral_all 499 503	Илью
+T4	Neutral_all 62 64	он
+A1	AnaforPerson T4
+T5	Neutral_all 420 422	он
+A2	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T0 Arg2:T4

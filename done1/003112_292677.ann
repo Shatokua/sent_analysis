@@ -1,0 +1,9 @@
+T0	Neutral_all 0 18	Рустам Копсергенов
+T1	Neutral_all 31 35	Рауф
+T2	Neutral_all 61 70	Шебзухова
+T3	Neutral_all 100 112	Расул Аджиев
+T4	Neutral_all 152 158	Жукова
+T5	Neutral_all 176 190	Руслана Агоева
+T6	Neutral_all 159 161	он
+A1	AnaforPerson T6
+R1	Anafor Arg1:T3 Arg2:T6

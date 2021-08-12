@@ -1,0 +1,7 @@
+T0	Positive 29 45	Владимира Путина
+T1	Positive 87 89	он
+A1	AnaforPerson T1
+T2	Neutral 322 324	им
+A2	AnaforPerson T2
+A3	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1	

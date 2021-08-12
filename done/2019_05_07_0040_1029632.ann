@@ -1,0 +1,4 @@
+T0	Neutral 110 116	Трампа
+T1	Neutral 12 15	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T1 Arg2:T0	

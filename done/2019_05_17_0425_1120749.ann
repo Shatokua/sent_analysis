@@ -1,0 +1,6 @@
+T0	Neutral_all 83 91	И.Сечина
+T1	Neutral_all 94 107	О.Феоктистова
+T2	Neutral_all 119 121	их
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

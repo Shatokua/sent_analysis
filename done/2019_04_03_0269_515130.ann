@@ -1,0 +1,6 @@
+T1	Neutral 81 91	Джордж Буш
+T100	Negative 0 10	Джордж Буш
+T102	Negative 60 64	него
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T102	

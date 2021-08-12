@@ -1,0 +1,9 @@
+T0	Neutral_all 27 36	Порошенко
+T1	Neutral_all 89 99	Саакашвили
+T2	Neutral_all 385 399	Мария Захарова
+T3	Neutral_all 526 535	Порошенко
+T104	Neutral_all 658 661	ему
+A1	AnaforPerson T104
+R1	Anafor Arg1:T3 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T104

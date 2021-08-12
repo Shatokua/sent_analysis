@@ -1,0 +1,7 @@
+T0	Neutral_all 15 30	Никита Джигурда
+T1	Neutral_all 50 64	Людмила Браташ
+T2	Neutral_all 80 84	него
+A1	AnaforPerson T2
+T3	Neutral_all 164 167	нам
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

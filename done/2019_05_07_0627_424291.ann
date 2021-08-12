@@ -1,0 +1,4 @@
+T0	Neutral 9 24	Сашей Овечкиным
+T1	Neutral 39 42	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

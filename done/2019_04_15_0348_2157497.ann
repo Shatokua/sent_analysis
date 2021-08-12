@@ -1,0 +1,4 @@
+T1	Neutral 102 107	Путин
+T2	Neutral 79 81	Ты
+T100	Neutral_all 49 54	Путин
+R1	Anafor Arg1:T100 Arg2:T1	

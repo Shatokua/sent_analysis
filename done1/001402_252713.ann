@@ -1,0 +1,6 @@
+T0	Neutral_all 145 164	Мирбека Асанакунова
+T1	Neutral_all 173 191	Гулкан Молдобекова
+T2	Neutral_all 286 305	Мирбека Асанакунова
+T3	Neutral_all 437 439	Мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

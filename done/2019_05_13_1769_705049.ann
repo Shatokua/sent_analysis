@@ -1,0 +1,10 @@
+T0	Positive 7 13	Романа
+T1	Neutral 45 49	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 82 85	Ему
+A2	AnaforPerson T2
+T3	Positive 158 160	он
+A3	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

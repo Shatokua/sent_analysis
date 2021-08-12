@@ -1,0 +1,6 @@
+T0	Neutral_all 473 489	Оксана Ероханова
+T1	Neutral_all 48 50	мы
+A1	Plural T1
+T2	Neutral_all 331 333	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

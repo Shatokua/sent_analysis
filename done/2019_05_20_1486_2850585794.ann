@@ -1,0 +1,4 @@
+T0	Neutral 102 112	Васильевой
+T1	Neutral 38 41	нее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

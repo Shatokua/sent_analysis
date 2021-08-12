@@ -1,0 +1,11 @@
+T0	Neutral_all 24 38	Юлия Тимошенко
+T1	Neutral_all 40 60	Владимира Зеленского
+T2	Neutral_all 63 83	Святослава Вакарчука
+T3	Neutral_all 108 110	мы
+A1	Plural T3
+T4	Neutral_all 194 197	них
+A2	Plural T4
+A3	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T4

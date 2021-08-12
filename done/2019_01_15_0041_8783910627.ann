@@ -1,0 +1,6 @@
+T100	Neutral_all 19 25	Мюллер
+T101	Neutral 77 92	Олега Дерипаску
+T102	Neutral_all 219 236	Роберта Левинсона
+T1	Neutral 267 269	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T102 Arg2:T1	

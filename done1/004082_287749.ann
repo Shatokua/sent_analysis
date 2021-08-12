@@ -1,0 +1,9 @@
+T0	Neutral_all 680 687	Бирюков
+T1	Neutral_all 760 774	Сергея Зверева
+T2	Neutral_all 975 1002	Звереву Сергею Анатольевичу
+T3	Neutral_all 9 11	мы
+A1	Plural T3
+T4	Neutral_all 487 490	нас
+A2	Plural T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T3 Arg2:T4

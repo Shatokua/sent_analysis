@@ -1,0 +1,9 @@
+T0	Neutral_all 48 74	Тюрин Владимир Анатольевич
+T1	Neutral_all 173 184	Вороненкова
+T2	Neutral_all 120 122	Он
+A1	AnaforPerson T2
+T3	Neutral_all 151 153	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

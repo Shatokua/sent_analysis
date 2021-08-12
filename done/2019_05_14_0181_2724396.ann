@@ -1,0 +1,5 @@
+T0	Neutral 0 9	Порошенко
+T1	Neutral_all 30 39	Зеленский
+T102	Positive 144 147	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

@@ -1,0 +1,8 @@
+T100	Neutral_all 77 84	Путиным
+T101	Neutral_all 90 97	Сноуден
+T102	Neutral_all 86 88	Он
+A1	AnaforPerson T102
+T103	Neutral_all 135 137	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102
+R2	Anafor Arg1:T101 Arg2:T103

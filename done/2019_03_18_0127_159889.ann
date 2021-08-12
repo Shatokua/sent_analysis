@@ -1,0 +1,6 @@
+T101	Positive_all 168 188	Ахмат-Хаджи Кадырова
+T102	Positive 22 24	он
+A3	AnaforPerson T102
+T103	Positive 32 35	его
+A4	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

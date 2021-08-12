@@ -1,0 +1,6 @@
+T2	Neutral_all 53 56	нас
+A1	Plural T2
+T1	Neutral_all 109 131	Герман Оскарович (Греф
+T3	Neutral_all 133 136	нас
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

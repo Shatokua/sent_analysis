@@ -1,0 +1,7 @@
+T0	Neutral_all 290 299	Эшли Янга
+T5	Neutral_all 398 400	Он
+A5	AnaforPerson T5
+T7	Neutral_all 544 546	Им
+A7	Plural T7
+R5	Anafor Arg1:T0 Arg2:T5
+A1	AnaforPerson T7

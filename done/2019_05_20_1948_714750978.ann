@@ -1,0 +1,7 @@
+T0	Neutral 104 116	Жириновского
+T1	Neutral 124 130	Путина
+T2	Neutral 39 42	его
+A1	AnaforPerson T2
+T3	Neutral 163 166	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

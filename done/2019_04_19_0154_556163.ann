@@ -1,0 +1,7 @@
+T0	Neutral_all 12 27	Франсуа Олланда
+T1	Neutral_all 35 52	Эммануэля Макрона
+T2	Neutral_all 86 102	Эммануэль Макрон
+T3	Neutral_all 109 123	Франсуа Олланд
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T2

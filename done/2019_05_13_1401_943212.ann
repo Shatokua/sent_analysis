@@ -1,0 +1,4 @@
+T0	Positive 0 15	Зураб Соткилава
+T1	Positive 196 199	ему
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

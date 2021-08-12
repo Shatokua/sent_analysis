@@ -1,0 +1,10 @@
+T0	Neutral 40 48	Сноудене
+T1	Neutral 0 2	Им
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 84 87	его
+A3	AnaforPerson T2
+T3	Neutral 221 223	он
+A4	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

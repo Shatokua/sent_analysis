@@ -1,0 +1,9 @@
+T0	Neutral 0 7	Надежда
+T1	Neutral 79 82	Они
+A1	Plural T1
+T2	Neutral 102 105	неё
+A2	AnaforPerson T2
+T3	Neutral 126 129	она
+A3	AnaforPerson T3
+R1	Variant Arg1:T0 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T2	

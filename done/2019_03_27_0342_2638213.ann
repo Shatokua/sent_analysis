@@ -1,0 +1,13 @@
+T1	Negative 2 30	Петру Алексеевичу (Порошенко
+T2	Negative 79 83	тебя
+A1	AnaforPerson T2
+T102	Negative 87 92	твоем
+A2	AnaforPerson T102
+T103	Neutral_all 101 104	ему
+A3	AnaforPerson T103
+T104	Neutral 213 216	его
+A4	AnaforPerson T104
+R3	Anafor Arg1:T103 Arg2:T104
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T102	
+R4	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,4 @@
+T1	Neutral_all 78 87	Викторией
+T2	Neutral 123 130	Баскова
+T100	Positive 22 37	Николая Баскова
+R1	Anafor Arg1:T100 Arg2:T2	

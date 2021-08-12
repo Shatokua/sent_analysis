@@ -1,0 +1,8 @@
+T0	Negative 66 71	Путин
+T1	Negative 117 121	Биби
+T2	Negative 123 142	Беньямина Нетаньяху
+T3	Neutral_all 174 188	Тамар Зандберг
+T5	Neutral_all 40 43	они
+A2	Plural T5
+A1	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T1	

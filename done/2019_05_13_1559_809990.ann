@@ -1,0 +1,4 @@
+T0	Positive 2 9	Андреем
+T1	Neutral 61 64	ним
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

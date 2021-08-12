@@ -1,0 +1,7 @@
+T0	Neutral 75 82	Селянне
+T1	Positive 15 18	них
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 91 93	он
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

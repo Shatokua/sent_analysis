@@ -1,0 +1,5 @@
+T2	Neutral 41 43	он
+A1	AnaforPerson T2
+T100	Neutral_all 0 6	Трампу
+T101	Neutral_all 27 34	Путиным
+R1	Anafor Arg1:T100 Arg2:T2

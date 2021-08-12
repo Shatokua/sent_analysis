@@ -1,0 +1,6 @@
+T3	Neutral 71 74	ему
+A1	AnaforPerson T3
+T100	Neutral_all 17 22	Миллс
+T101	Neutral_all 41 46	Обама
+T102	Neutral_all 57 64	Клинтон
+R1	Anafor Arg1:T101 Arg2:T3

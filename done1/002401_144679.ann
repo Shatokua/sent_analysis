@@ -1,0 +1,6 @@
+T0	Neutral_all 297 311	Борисе Ельцине
+T1	Neutral_all 603 617	Борисе Ельцине
+T2	Neutral_all 721 736	Сергея Левченко
+T3	Neutral_all 759 773	Анатолия Локтя
+T4	Neutral_all 789 809	Валентина Коновалова
+R1	Anafor Arg1:T0 Arg2:T1

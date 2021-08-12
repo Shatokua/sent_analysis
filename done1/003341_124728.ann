@@ -1,0 +1,4 @@
+T0	Neutral_all 206 217	Брок Леснар
+T1	Neutral_all 238 250	Стипе Миочич
+T2	Neutral_all 328 336	Миочичем
+R1	Anafor Arg1:T1 Arg2:T2

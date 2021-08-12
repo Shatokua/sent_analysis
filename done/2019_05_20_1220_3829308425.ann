@@ -1,0 +1,6 @@
+T0	Neutral 19 25	Гаррик
+T1	Neutral 40 44	Макс
+T2	Neutral 128 137	Пугачевой
+T3	Neutral 100 102	вы
+A1	AnaforPerson T3
+A2	Plural T3

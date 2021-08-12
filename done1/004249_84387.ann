@@ -1,0 +1,32 @@
+T0	Neutral_all 0 7	Устюгов
+T1	Neutral_all 76 89	Никита Крюков
+T2	Neutral_all 102 111	Гафаровым
+T3	Neutral_all 114 123	Петуховым
+T4	Neutral_all 345 352	Гафаров
+T5	Neutral_all 373 380	Крюкова
+T6	Neutral_all 419 424	Антон
+T7	Neutral_all 514 520	Крюков
+T8	Neutral_all 589 595	Сережа
+T9	Neutral_all 975 983	Устюгова
+T10	Neutral_all 124 126	мы
+A1	Plural T10
+T11	Neutral_all 382 384	Он
+A2	AnaforPerson T11
+T12	Neutral_all 612 617	Клэбо
+T13	Neutral_all 643 645	Он
+A3	AnaforPerson T13
+T14	Neutral_all 793 796	нас
+A4	Plural T14
+R1	Anafor Arg1:T0 Arg2:T9
+R2	Anafor Arg1:T1 Arg2:T5
+R3	Anafor Arg1:T4 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T6
+R5	Anafor Arg1:T6 Arg2:T11
+R6	Anafor Arg1:T5 Arg2:T7
+R7	Anafor Arg1:T12 Arg2:T13
+R8	Anafor Arg1:T9 Arg2:T8
+R9	Anafor Arg1:T10 Arg2:T14
+R101	Anafor Arg1:T2 Arg2:T10
+R102	Anafor Arg1:T3 Arg2:T10
+R105	Anafor Arg1:T4 Arg2:T11
+R106	Anafor Arg1:T2 Arg2:T4

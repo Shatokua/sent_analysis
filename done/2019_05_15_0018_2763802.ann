@@ -1,0 +1,7 @@
+T0	Neutral_all 56 66	Зеленского
+T1	Neutral_all 115 121	Путина
+T2	Neutral_all 9 12	нас
+A1	Plural T2
+T3	Neutral_all 69 72	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

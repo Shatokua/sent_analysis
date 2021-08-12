@@ -1,0 +1,5 @@
+T0	Neutral_all 62 68	Путину
+T1	Neutral_all 116 129	Дональд Трамп
+T2	Neutral_all 214 217	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T3	Neutral_all 58 76	David Sakvarelidze
+T4	Neutral_all 78 80	Он
+A1	AnaforPerson T4
+T100	Negative 84 102	Николай Мартыненко
+T101	Negative 105 113	Аваковым
+T102	Negative 116 124	Яценюком
+R1	Anafor Arg1:T3 Arg2:T4

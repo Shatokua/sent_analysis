@@ -1,0 +1,6 @@
+T0	Positive 39 53	Насте Ивлеевой
+T1	Positive 56 62	Элджею
+T2	Positive 159 161	Их
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

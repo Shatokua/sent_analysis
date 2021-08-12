@@ -1,0 +1,5 @@
+T0	Neutral_all 18 25	Кокойты
+T1	Neutral_all 54 62	Бибилова
+T2	Neutral_all 107 114	Кокойты
+T3	Neutral_all 132 140	Тибилова
+R1	Anafor Arg1:T0 Arg2:T2

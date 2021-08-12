@@ -1,0 +1,5 @@
+T0	Neutral_all 16 35	Геннадия Андреевича
+T2	Neutral_all 87 108	Владимир Владимирович
+T3	Neutral_all 126 145	Геннадия Андреевича
+T101	Neutral_all 64 77	Иисус Христос
+R1	Anafor Arg1:T0 Arg2:T3

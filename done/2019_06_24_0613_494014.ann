@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Касьянова
+T1	Neutral_all 88 95	Путиным
+T2	Neutral_all 108 110	он
+T3	Neutral_all 112 115	его
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T2

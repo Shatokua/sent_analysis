@@ -1,0 +1,8 @@
+T100	Positive 35 54	Ахмат-Хаджи Кадыров
+T101	Positive 88 108	Нурсултану Абишевичу
+T102	Neutral_all 110 112	Он
+A2	AnaforPerson T102
+T103	Positive 121 124	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T103	

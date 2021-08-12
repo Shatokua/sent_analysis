@@ -1,0 +1,5 @@
+T0	Negative_all 38 41	Мэй
+T1	Neutral_all 83 98	Маргарет Тэтчер
+T2	Negative_all 45 48	нее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

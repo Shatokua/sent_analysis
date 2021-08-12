@@ -1,0 +1,5 @@
+T0	Neutral_all 2 11	Тимошенко
+T1	Neutral_all 212 218	Трампа
+T2	Neutral 232 235	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

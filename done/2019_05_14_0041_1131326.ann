@@ -1,0 +1,4 @@
+T1	Neutral 12 27	Владимир) Путин
+T102	Neutral 87 90	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

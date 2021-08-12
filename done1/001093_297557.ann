@@ -1,0 +1,7 @@
+T1	Neutral_all 70 84	Мадлен Олбрайт
+T2	Neutral_all 308 320	Вацлав Гавел
+T4	Neutral 60 67	Олбрайт
+T5	Neutral_all 113 115	ее
+A2	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T4	
+R2	Anafor Arg1:T1 Arg2:T5	

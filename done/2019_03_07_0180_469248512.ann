@@ -1,0 +1,6 @@
+T100	Neutral_all 28 33	Яшина
+T101	Neutral_all 86 102	Василия Якеменко
+T102	Neutral_all 224 239	Роман Вербицкий
+T103	Neutral 335 338	нем
+A1	AnaforPerson T103
+R101	Anafor Arg1:T102 Arg2:T103

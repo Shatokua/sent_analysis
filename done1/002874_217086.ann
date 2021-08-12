@@ -1,0 +1,41 @@
+T0	Neutral_all 57 72	Юлю Барановскую
+T1	Neutral_all 141 144	Юлю
+T2	Neutral_all 285 293	Аршавина
+T3	Neutral_all 316 330	Алису Аршавину
+T4	Neutral_all 369 375	Андрей
+T7	Neutral_all 117 119	он
+A3	AnaforPerson T7
+T8	Neutral_all 153 156	она
+A4	AnaforPerson T8
+T10	Neutral_all 214 216	вы
+A6	AnaforPerson T10
+T11	Neutral_all 258 260	Он
+A7	AnaforPerson T11
+T13	Neutral_all 300 303	ним
+A9	AnaforPerson T13
+T15	Neutral_all 381 384	ним
+A11	AnaforPerson T15
+T16	Positive 435 438	они
+A12	Plural T16
+T105	Positive 90 93	она
+A13	AnaforPerson T105
+T108	Positive 181 184	она
+A14	AnaforPerson T108
+T110	Neutral_all 219 222	ней
+A15	AnaforPerson T110
+T112	Neutral_all 274 276	он
+A16	AnaforPerson T112
+R109	Anafor Arg1:T112 Arg2:T13
+R1	Anafor Arg1:T0 Arg2:T105	
+R2	Anafor Arg1:T1 Arg2:T105	
+R3	Anafor Arg1:T1 Arg2:T8	
+R4	Anafor Arg1:T8 Arg2:T108	
+R5	Anafor Arg1:T7 Arg2:T10	
+R6	Anafor Arg1:T108 Arg2:T110	
+R7	Anafor Arg1:T10 Arg2:T11	
+R8	Anafor Arg1:T11 Arg2:T112	
+R9	Anafor Arg1:T2 Arg2:T4	
+R10	Anafor Arg1:T4 Arg2:T15	
+R11	Anafor Arg1:T15 Arg2:T16	
+R12	Anafor Arg1:T13 Arg2:T16	
+A1	AnaforPerson T16

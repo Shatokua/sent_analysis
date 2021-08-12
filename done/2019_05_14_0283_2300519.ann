@@ -1,0 +1,4 @@
+T0	Neutral_all 5 12	Мэттиса
+T1	Neutral_all 99 105	Трампа
+T2	Neutral_all 171 177	Мэттис
+R1	Anafor Arg1:T2 Arg2:T0

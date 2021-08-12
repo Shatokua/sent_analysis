@@ -1,0 +1,43 @@
+T0	Neutral_all 0 11	Том Леффлер
+T1	Neutral_all 108 111	Том
+T2	Neutral_all 653 661	Леффлера
+T3	Neutral_all 49 51	Он
+A1	AnaforPerson T3
+T4	Neutral_all 62 64	Он
+A2	AnaforPerson T4
+T5	Neutral_all 75 77	Он
+A3	AnaforPerson T5
+T6	Neutral_all 94 96	Он
+A4	AnaforPerson T6
+T7	Neutral_all 170 172	Он
+A5	AnaforPerson T7
+T8	Neutral_all 252 255	его
+A6	AnaforPerson T8
+T9	Neutral_all 285 287	он
+A7	AnaforPerson T9
+T10	Neutral_all 340 343	ему
+A8	AnaforPerson T10
+T11	Neutral_all 751 754	они
+A9	Plural T11
+T12	Neutral_all 791 794	они
+A10	Plural T12
+T13	Neutral_all 826 828	им
+A11	Plural T13
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T5
+R6	Anafor Arg1:T5 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T7
+R8	Anafor Arg1:T7 Arg2:T9
+R9	Anafor Arg1:T9 Arg2:T8
+R10	Anafor Arg1:T8 Arg2:T10
+R11	Anafor Arg1:T11 Arg2:T12
+R12	Anafor Arg1:T12 Arg2:T13
+R103	Anafor Arg1:T0 Arg2:T2
+R109	Anafor Arg1:T7 Arg2:T8
+R110	Anafor Arg1:T8 Arg2:T9
+R111	Anafor Arg1:T9 Arg2:T10
+R104	Anafor Arg1:T2 Arg2:T1
+R112	Anafor Arg1:T1 Arg2:T3

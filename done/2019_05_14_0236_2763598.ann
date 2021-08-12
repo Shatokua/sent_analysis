@@ -1,0 +1,7 @@
+T0	Neutral_all 0 9	Зеленский
+T1	Neutral_all 87 95	Макроном
+T2	Neutral_all 100 103	ему
+A1	AnaforPerson T2
+T102	Neutral_all 96 99	они
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T2

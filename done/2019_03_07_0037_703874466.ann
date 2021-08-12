@@ -1,0 +1,9 @@
+T100	Neutral_all 144 153	Говорухин
+T101	Neutral_all 181 189	Зюганова
+T102	Neutral_all 231 238	Лужкова
+T103	Negative_all 268 274	Путина
+T104	Neutral 240 242	он
+A1	AnaforPerson T104
+R101	Anafor Arg1:T100 Arg2:T104
+T1	Neutral 24 26	он
+R1	Anafor Arg1:T100 Arg2:T1	

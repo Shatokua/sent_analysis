@@ -1,0 +1,7 @@
+T0	Positive 134 139	Трамп
+T1	Positive 184 188	нему
+A1	AnaforPerson T1
+T2	Positive 298 300	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

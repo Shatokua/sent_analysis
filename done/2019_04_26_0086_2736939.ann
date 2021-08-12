@@ -1,0 +1,9 @@
+T0	Negative_all 53 62	Порошенко
+T1	Neutral 96 105	Зеленский
+T2	Negative 151 160	Порошенко
+T3	Neutral_all 32 42	Зеленского
+T4	Neutral_all 135 138	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4	
+R2	Anafor Arg1:T3 Arg2:T1	
+R3	Anafor Arg1:T0 Arg2:T2	

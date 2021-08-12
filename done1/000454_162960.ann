@@ -1,0 +1,7 @@
+T0	Neutral_all 54 72	Антона Зингаревича
+T1	Neutral_all 75 94	Константина Шишкина
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 128 130	Мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

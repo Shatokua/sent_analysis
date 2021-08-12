@@ -1,0 +1,4 @@
+T2	Neutral_all 6 8	вы
+A1	Plural T2
+T1	Neutral 90 109	Владимиром] Путиным
+A3	AnaforPerson T2

@@ -1,0 +1,18 @@
+T0	Neutral_all 28 37	Григоряна
+T1	Neutral_all 127 141	Роберт Кочарян
+T2	Neutral_all 146 158	Серж Саргсян
+T3	Neutral_all 170 187	Микаела Арутюняна
+T4	Neutral_all 195 203	Григорян
+T5	Neutral_all 266 275	Арутюняна
+T6	Neutral_all 239 241	он
+A1	AnaforPerson T6
+T7	Neutral_all 296 298	он
+A2	AnaforPerson T7
+T8	Neutral_all 362 365	его
+A3	AnaforPerson T8
+R1	Anafor Arg1:T4 Arg2:T0
+R2	Anafor Arg1:T3 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T6
+R4	Anafor Arg1:T6 Arg2:T7
+R5	Anafor Arg1:T7 Arg2:T8
+R101	Anafor Arg1:T0 Arg2:T4

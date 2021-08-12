@@ -1,0 +1,15 @@
+T1	Neutral_all 151 153	он
+A1	AnaforPerson T1
+T2	Neutral_all 256 259	его
+A2	AnaforPerson T2
+T3	Neutral_all 338 341	его
+A3	AnaforPerson T3
+T4	Neutral_all 299 311	Ахмата-Хаджи
+T5	Neutral_all 462 465	его
+A4	AnaforPerson T5
+T105	Neutral_all 54 65	Ахмат-Хаджи
+R1	Anafor Arg1:T4 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T5
+R101	Anafor Arg1:T105 Arg2:T4

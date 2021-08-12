@@ -1,0 +1,4 @@
+T0	Neutral 0 14	Илья Сергеевич
+T1	Positive 193 196	Ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

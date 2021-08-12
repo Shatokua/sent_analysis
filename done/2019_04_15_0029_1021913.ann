@@ -1,0 +1,9 @@
+T1	Neutral 69 79	Саакашвили
+T2	Neutral 125 129	тебя
+A1	AnaforPerson T2
+T100	Neutral_all 7 17	Саакашвили
+A2	Unclear T1
+#1	AnnotatorNotes T1	То ли сарказм, то ли нет
+A3	Unclear T2
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

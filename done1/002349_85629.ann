@@ -1,0 +1,10 @@
+T0	Neutral_all 35 51	Ольгой Кузьменко
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 218 220	мы
+A2	Plural T2
+T3	Neutral_all 401 403	мы
+A3	Plural T3
+T4	Neutral_all 535 568	Александры Хурумченовны Намысовой
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T1	Neutral 0 11	Березовский
+T2	Neutral 25 37	Политковскую
+T3	Neutral 54 57	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

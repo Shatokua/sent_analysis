@@ -1,0 +1,6 @@
+T0	Neutral_all 31 37	Асадом
+T1	Neutral_all 111 116	Асада
+T2	Neutral_all 119 122	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T1

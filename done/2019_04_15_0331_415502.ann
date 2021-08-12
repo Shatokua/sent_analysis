@@ -1,0 +1,4 @@
+T100	Positive 90 94	Надю
+T101	Neutral_all 152 158	Путина
+T102	Neutral_all 193 200	Надежды
+R1	Anafor Arg1:T100 Arg2:T102	

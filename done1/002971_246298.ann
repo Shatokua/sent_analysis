@@ -1,0 +1,11 @@
+T0	Neutral_all 11 25	Алексей Митяев
+T1	Neutral_all 311 325	Алексей Митяев
+T2	Neutral_all 708 723	Алексея Митяева
+T3	Neutral_all 327 330	ему
+A1	AnaforPerson T3
+T4	Neutral_all 511 513	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T3

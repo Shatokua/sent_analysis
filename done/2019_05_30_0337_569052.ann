@@ -1,0 +1,5 @@
+T0	Neutral_all 50 55	Асада
+T1	Neutral_all 57 69	Башара Асада
+T2	Neutral_all 0 3	Нам
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

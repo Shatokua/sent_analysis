@@ -1,0 +1,8 @@
+T100	Neutral_all 54 59	Трамп
+T101	Neutral_all 138 143	Путин
+T102	Neutral 118 120	он
+A1	AnaforPerson T102
+T103	Neutral 178 180	он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T100 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

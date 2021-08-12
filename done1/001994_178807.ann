@@ -1,0 +1,7 @@
+T0	Neutral_all 69 86	Дмитрия Кузнецова
+T1	Neutral_all 160 169	Кузнецова
+T2	Neutral_all 191 206	Сергей Бадамшин
+T103	Neutral_all 563 568	Хаски
+T104	Neutral_all 353 358	Хаски
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T104 Arg2:T103

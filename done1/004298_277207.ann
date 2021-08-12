@@ -1,0 +1,5 @@
+T0	Neutral_all 25 35	Лоран Омон
+T1	Neutral_all 69 82	Жерар Сайллан
+T2	Neutral_all 111 119	Неймаром
+T3	Neutral_all 262 268	Неймар
+R1	Anafor Arg1:T3 Arg2:T2

@@ -1,0 +1,4 @@
+T5	Positive 11 63	Святейшего патриарха Московского и всея Руси Кирилла
+T1	Positive 94 96	Вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T5 Arg2:T1	

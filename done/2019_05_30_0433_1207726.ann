@@ -1,0 +1,4 @@
+T2	Neutral_all 65 67	мы
+A1	Plural T2
+T1	Neutral_all 70 102	Сергеем Владиленовичем (Кириенко
+R1	Anafor Arg1:T1 Arg2:T2

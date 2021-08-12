@@ -1,0 +1,9 @@
+T0	Neutral_all 7 22	Владимир Газаев
+T1	Neutral_all 162 168	Газаев
+T2	Neutral_all 100 102	он
+A1	AnaforPerson T2
+T3	Neutral_all 261 264	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

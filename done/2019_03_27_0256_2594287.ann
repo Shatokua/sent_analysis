@@ -1,0 +1,6 @@
+T0	Positive_all 0 6	Дивеев
+T1	Neutral_all 99 113	Абель Эрнандес
+T2	Neutral_all 116 129	Никита Чернов
+T3	Positive_all 68 70	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

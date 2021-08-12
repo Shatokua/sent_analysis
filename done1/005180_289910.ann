@@ -1,0 +1,13 @@
+T0	Neutral_all 10 24	Рауль Арашуков
+T1	Neutral_all 45 54	Селезнева
+T2	Neutral_all 119 128	Селезнева
+T3	Neutral_all 141 147	Миллер
+T4	Neutral_all 169 178	Селезнева
+T5	Neutral_all 236 252	Валерия Голубева
+T6	Neutral_all 262 272	Арашуковых
+T7	Neutral_all 281 284	ему
+A1	AnaforPerson T7
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T6
+R4	Anafor Arg1:T3 Arg2:T7

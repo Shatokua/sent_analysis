@@ -1,0 +1,5 @@
+T0	Neutral_all 0 6	Волкер
+T1	Neutral_all 34 42	Сурковым
+T2	Neutral 69 71	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

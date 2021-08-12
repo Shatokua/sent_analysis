@@ -1,0 +1,12 @@
+T0	Positive_all 19 39	Нурсултана Абишевича
+T1	Positive_all 161 170	Назарбаев
+T2	Positive_all 43 46	его
+A1	AnaforPerson T2
+T3	Positive_all 89 92	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T2

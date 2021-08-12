@@ -1,0 +1,14 @@
+T0	Neutral 222 227	Белых
+T1	Neutral 351 361	Навального
+T2	Neutral 3 7	него
+A1	AnaforPerson T2
+T3	Neutral 261 263	он
+A2	AnaforPerson T3
+T4	Neutral 322 324	он
+A3	AnaforPerson T4
+T5	Neutral 48 50	он
+A4	AnaforPerson T5
+R1	Anafor Arg1:T5 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T5	
+R3	Anafor Arg1:T0 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

@@ -1,0 +1,5 @@
+T0	Neutral_all 10 15	Трамп
+T1	Neutral_all 33 38	Асада
+T2	Neutral_all 50 53	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

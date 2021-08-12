@@ -1,0 +1,9 @@
+T0	Neutral 28 33	Путин
+T1	Neutral 16 19	она
+A1	AnaforPerson T1
+T2	Neutral 34 36	ей
+A2	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 93 96	Она
+A3	AnaforPerson T3
+R2	Variant Arg1:T2 Arg2:T3	

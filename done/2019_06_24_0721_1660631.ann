@@ -1,0 +1,9 @@
+T0	Neutral_all 15 21	Путина
+T1	Neutral_all 24 34	Говорухина
+T2	Neutral_all 81 86	Путин
+T3	Neutral_all 0 2	Вы
+A1	Plural T3
+T4	Neutral_all 99 103	нему
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T0

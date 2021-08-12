@@ -1,0 +1,10 @@
+T0	Neutral_all 71 87	Андрея Кириленко
+T1	Neutral_all 89 102	Виктора Хряпы
+T2	Neutral_all 104 120	Александра Кауна
+T3	Neutral_all 462 465	они
+A1	Plural T3
+T4	Neutral 480 482	их
+A2	Plural T4
+A3	AnaforPerson T4
+A4	AnaforPerson T3
+R1	Anafor Arg1:T3 Arg2:T4	

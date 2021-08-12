@@ -1,0 +1,8 @@
+T0	Neutral_all 317 333	Валерий Трофимов
+T1	Neutral_all 345 354	Трофимова
+T2	Neutral_all 226 228	Мы
+A1	Plural T2
+T3	Neutral_all 512 514	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1

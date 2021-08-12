@@ -1,0 +1,6 @@
+T2	Neutral 0 2	Ты
+T100	Neutral_all 13 21	Донцовым
+T101	Neutral_all 86 91	Ярошу
+T102	Neutral_all 43 46	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

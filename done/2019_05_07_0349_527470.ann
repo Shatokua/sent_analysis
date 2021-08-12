@@ -1,0 +1,4 @@
+T1	Neutral 0 3	Они
+A1	Plural T1
+T2	Neutral 112 123	Овсянникову
+A2	AnaforPerson T1

@@ -1,0 +1,10 @@
+T1	Neutral_all 159 179	Екатерины Николаевны
+T3	Positive_all 330 356	Ольга Николаевна Кухаренко
+T4	Neutral_all 443 463	Екатерину Николаевну
+T5	Positive_all 520 546	Валентина Сергеевна Калита
+T6	Neutral_all 53 89	Николай Николаевич Муравьев-Амурский
+T7	Neutral_all 147 150	его
+A1	AnaforPerson T7
+T102	Neutral_all 267 276	Де Ришмон
+R1	Anafor Arg1:T6 Arg2:T7
+R2	Anafor Arg1:T1 Arg2:T4

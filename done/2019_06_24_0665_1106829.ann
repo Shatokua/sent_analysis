@@ -1,0 +1,9 @@
+T1	Neutral_all 143 148	Сечин
+T2	Neutral_all 67 69	Он
+A1	AnaforPerson T2
+T100	Negative 0 5	Сечин
+T103	Negative 221 224	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T1 Arg2:T103	

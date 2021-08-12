@@ -1,0 +1,5 @@
+T0	Negative 9 14	Гуиди
+T2	Negative 66 71	Боски
+T1	Negative 81 84	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T2 Arg2:T1	

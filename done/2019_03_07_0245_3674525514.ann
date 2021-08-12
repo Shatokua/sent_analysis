@@ -1,0 +1,7 @@
+T100	Neutral_all 13 21	Григорию
+T101	Neutral 210 217	Кобзона
+T102	Neutral 31 33	Он
+A1	AnaforPerson T102
+R101	Anafor Arg1:T100 Arg2:T102
+T1	Positive 371 381	гражданина
+R1	Anafor Arg1:T102 Arg2:T1	

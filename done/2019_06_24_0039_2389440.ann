@@ -1,0 +1,4 @@
+T0	Negative_all 105 111	Мадуро
+T1	Negative_all 235 241	Мадуро
+T2	Positive_all 46 52	Гуаидо
+R1	Anafor Arg1:T0 Arg2:T1

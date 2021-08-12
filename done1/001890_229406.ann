@@ -1,0 +1,6 @@
+T0	Positive_all 165 185	Владимира Семеновича
+T1	Neutral_all 6 8	он
+A1	AnaforPerson T1
+T102	Neutral_all 221 225	нами
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1

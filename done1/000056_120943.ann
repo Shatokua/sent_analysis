@@ -1,0 +1,4 @@
+T0	Neutral_all 21 35	С.Грибинюченко
+T1	Neutral_all 180 183	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

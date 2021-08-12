@@ -1,0 +1,6 @@
+T0	Neutral_all 49 67	Вячеслава Володина
+T1	Neutral_all 123 141	Натальи Поклонской
+T2	Neutral_all 233 248	Алексея Учителя
+T3	Neutral_all 207 210	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

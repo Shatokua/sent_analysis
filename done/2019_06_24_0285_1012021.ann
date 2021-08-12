@@ -1,0 +1,10 @@
+T0	Neutral_all 0 6	Бузова
+T1	Neutral_all 36 42	Собчак
+T2	Neutral_all 46 51	Ольги
+T3	Neutral_all 141 147	Собчак
+T4	Neutral_all 194 200	Бузова
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T2

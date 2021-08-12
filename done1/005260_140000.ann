@@ -1,0 +1,16 @@
+T0	Neutral_all 0 13	Роман Ванюков
+T1	Neutral_all 164 174	Толстикова
+T2	Neutral_all 239 246	Ванюков
+T3	Neutral_all 333 348	Иван Безбородов
+T4	Neutral_all 410 418	Ванюкова
+T5	Neutral_all 34 37	ему
+A1	AnaforPerson T5
+T6	Neutral_all 152 155	его
+A2	AnaforPerson T6
+T7	Neutral_all 179 181	ее
+A3	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T6
+R4	Anafor Arg1:T6 Arg2:T5
+R5	Anafor Arg1:T1 Arg2:T7

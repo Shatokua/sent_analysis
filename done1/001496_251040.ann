@@ -1,0 +1,24 @@
+T0	Neutral_all 0 12	Борис Немцов
+T1	Neutral_all 14 33	Владимир Кара-Мурза
+T2	Neutral_all 47 61	Олег Добродеев
+T3	Neutral_all 184 189	Борис
+T5	Neutral_all 123 127	ними
+A2	Plural T5
+T6	Neutral_all 159 161	им
+A3	Plural T6
+T8	Neutral_all 259 262	его
+A5	AnaforPerson T8
+T9	Neutral 592 594	их
+A6	Plural T9
+T10	Neutral_all 217 219	он
+A7	AnaforPerson T10
+R4	Anafor Arg1:T6 Arg2:T5
+R6	Anafor Arg1:T3 Arg2:T10
+R7	Anafor Arg1:T10 Arg2:T8
+R1	Anafor Arg1:T0 Arg2:T5	
+A1	AnaforPerson T5
+R2	Anafor Arg1:T1 Arg2:T5	
+R3	Anafor Arg1:T2 Arg2:T5	
+A9	AnaforPerson T6
+R5	Anafor Arg1:T0 Arg2:T3	
+A4	AnaforPerson T9

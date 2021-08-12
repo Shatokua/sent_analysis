@@ -1,0 +1,7 @@
+T0	Neutral 54 59	Юнкер
+T1	Neutral 0 2	Вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 81 85	него
+A3	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

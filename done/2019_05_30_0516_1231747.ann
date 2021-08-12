@@ -1,0 +1,15 @@
+T0	Neutral_all 0 5	Майкл
+T1	Neutral_all 58 67	Высоцкого
+T2	Neutral_all 106 110	Миша
+T3	Neutral_all 18 20	вы
+A1	AnaforPerson T3
+T4	Neutral_all 79 82	вам
+A2	AnaforPerson T4
+T5	Neutral_all 112 114	ты
+A3	AnaforPerson T5
+T103	Neutral_all 115 118	наш
+A4	Plural T103
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4

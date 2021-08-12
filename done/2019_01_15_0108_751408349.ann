@@ -1,0 +1,8 @@
+T1	Mixed 151 160	Прохорова
+T100	Positive 21 33	Жириновского
+T2	Negative 54 56	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T2	
+T3	Mixed 162 164	он
+A2	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T3	

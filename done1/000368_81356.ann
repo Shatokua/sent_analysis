@@ -1,0 +1,12 @@
+T0	Neutral_all 9 22	Бену Симмонсу
+T1	Neutral_all 30 32	он
+A1	AnaforPerson T1
+T2	Neutral_all 68 70	мы
+A2	Plural T2
+T3	Neutral_all 135 137	ты
+T4	Neutral_all 217 219	ты
+T5	Neutral_all 264 268	тебе
+A3	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T0 Arg2:T1

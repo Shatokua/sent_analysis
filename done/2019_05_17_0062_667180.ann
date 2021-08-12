@@ -1,0 +1,8 @@
+T0	Neutral_all 92 108	Ярослава Мудрого
+T1	Neutral_all 132 146	Анны Ярославны
+T2	Neutral_all 172 177	Путин
+T3	Neutral_all 12 14	мы
+A1	Plural T3
+T4	Neutral_all 111 114	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4

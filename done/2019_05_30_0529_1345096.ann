@@ -1,0 +1,8 @@
+T0	Neutral_all 0 8	Кузьмина
+T1	Neutral_all 10 19	Домрачева
+T2	Neutral_all 22 27	Джима
+T3	Neutral_all 79 84	Джима
+T4	Neutral_all 103 105	ее
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T0	Negative 128 139	Нургалиевым
+#1	AnnotatorNotes T0	"расправиться"
+T1	Negative 217 221	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

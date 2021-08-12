@@ -1,0 +1,7 @@
+T0	Positive 290 304	Ильяс Умаханов
+T1	Positive 316 319	его
+A1	AnaforPerson T1
+T2	Positive 439 442	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T100	Neutral_all 58 68	Навального
+T101	Neutral_all 144 153	Медведева
+T102	Neutral 158 160	он
+A1	AnaforPerson T102
+R101	Anafor Arg1:T101 Arg2:T102

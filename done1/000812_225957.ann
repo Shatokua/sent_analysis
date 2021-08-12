@@ -1,0 +1,22 @@
+T0	Neutral_all 17 25	Малахова
+T1	Neutral_all 30 48	Кирилла Толмацкого
+T2	Neutral_all 215 223	Малахова
+T3	Negative 1 3	Ты
+A1	AnaforPerson T3
+T4	Negative_all 53 57	Тебе
+A2	AnaforPerson T4
+T5	Negative_all 98 102	Дана
+T6	Negative 104 106	ты
+A3	AnaforPerson T6
+T9	Negative 341 344	Вас
+A6	AnaforPerson T9
+T105	Neutral 149 151	ты
+A7	AnaforPerson T105
+T106	Neutral 267 269	Вы
+A8	AnaforPerson T106
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T5 Arg2:T4	
+R3	Anafor Arg1:T5 Arg2:T6	
+R4	Anafor Arg1:T6 Arg2:T105	
+R5	Anafor Arg1:T0 Arg2:T2	
+R6	Anafor Arg1:T106 Arg2:T9	

@@ -1,0 +1,9 @@
+T0	Neutral_all 151 158	Бунтман
+T1	Neutral_all 254 267	Сергея Семака
+T2	Neutral_all 292 311	Владислава Радимова
+T3	Negative_all 393 400	Быстров
+T4	Negative_all 43 45	Вы
+A1	Plural T4
+T5	Neutral_all 160 162	Он
+A2	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T5

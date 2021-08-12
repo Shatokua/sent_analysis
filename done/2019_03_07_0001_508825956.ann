@@ -1,0 +1,5 @@
+T2	Negative 448 450	он
+A1	AnaforPerson T2
+T100	Neutral_all 39 52	Ходорковского
+T101	Neutral_all 381 388	Лебедев
+R1	Anafor Arg1:T101 Arg2:T2

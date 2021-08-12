@@ -1,0 +1,4 @@
+T0	Neutral_all 31 36	Ламия
+T1	Neutral_all 127 138	Айван Рэйми
+T2	Neutral_all 188 193	Ламии
+R1	Anafor Arg1:T0 Arg2:T2

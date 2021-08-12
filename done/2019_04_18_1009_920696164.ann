@@ -1,0 +1,13 @@
+T0	Negative 0 18	Геннадий Андреевич
+T1	Neutral 52 67	Вадим Потомский
+T2	Neutral 139 157	Геннадий Андреевич
+T3	Neutral 254 272	Геннадий Андреевич
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T2	
+T4	Neutral 282 285	них
+A1	AnaforPerson T4
+A2	Plural T4
+T5	Neutral 353 356	Они
+A3	AnaforPerson T5
+A4	Plural T5
+R3	Anafor Arg1:T4 Arg2:T5	

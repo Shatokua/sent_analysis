@@ -1,0 +1,6 @@
+T0	Neutral_all 0 6	Трампа
+T1	Neutral_all 40 47	Путиным
+T2	Neutral_all 108 115	Меркель
+T3	Neutral_all 51 53	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

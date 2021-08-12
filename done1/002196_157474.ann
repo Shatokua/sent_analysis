@@ -1,0 +1,14 @@
+T0	Neutral_all 0 16	Александр Беглов
+T1	Neutral_all 242 249	Беглова
+T2	Neutral_all 36 38	он
+A1	AnaforPerson T2
+T3	Neutral_all 83 86	его
+A2	AnaforPerson T3
+T4	Neutral_all 133 135	мы
+A3	Plural T4
+T5	Neutral_all 259 262	его
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T5

@@ -1,0 +1,4 @@
+T0	Negative 14 19	Обаму
+T1	Negative 22 25	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

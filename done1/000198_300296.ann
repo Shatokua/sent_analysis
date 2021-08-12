@@ -1,0 +1,33 @@
+T0	Neutral_all 28 32	Роуз
+T1	Neutral_all 60 77	Джессикой Андраде
+T2	Neutral_all 153 167	Татьяна Суарес
+T3	Neutral_all 238 250	Нина Ансароф
+T4	Neutral_all 318 324	Йоанна
+T5	Neutral_all 376 391	Клаудии Гадельи
+T8	Neutral_all 462 471	Вейли Жан
+T9	Neutral_all 644 651	Андраде
+T11	Neutral_all 82 85	она
+A2	AnaforPerson T11
+T12	Neutral_all 172 175	она
+A3	AnaforPerson T12
+T6	Neutral 416 429	Рандой Маркос
+T7	Neutral_all 513 516	ней
+A4	AnaforPerson T7
+T13	Neutral_all 541 544	Она
+A5	AnaforPerson T13
+T14	Neutral_all 579 581	ее
+A6	AnaforPerson T14
+T16	Neutral_all 617 619	ей
+A8	AnaforPerson T16
+T18	Neutral_all 653 656	она
+A10	AnaforPerson T18
+T19	Neutral_all 692 695	ней
+A11	AnaforPerson T19
+R2	Anafor Arg1:T2 Arg2:T12	
+R1	Anafor Arg1:T1 Arg2:T11	
+R3	Anafor Arg1:T0 Arg2:T7	
+R4	Anafor Arg1:T7 Arg2:T13	
+R5	Anafor Arg1:T13 Arg2:T14	
+R6	Anafor Arg1:T14 Arg2:T16	
+R7	Anafor Arg1:T9 Arg2:T18	
+R8	Anafor Arg1:T16 Arg2:T19	

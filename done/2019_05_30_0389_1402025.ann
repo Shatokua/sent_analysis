@@ -1,0 +1,9 @@
+T0	Neutral_all 111 116	Жанна
+T1	Neutral_all 185 198	Анфиса Чехова
+T2	Neutral_all 207 212	Жорин
+T3	Neutral_all 151 153	ей
+A1	AnaforPerson T3
+T4	Neutral 221 223	ее
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

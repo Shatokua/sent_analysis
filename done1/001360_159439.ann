@@ -1,0 +1,7 @@
+T0	Positive_all 11 26	Ирина Муравьева
+T2	Positive_all 160 163	она
+A2	AnaforPerson T2
+T101	Positive 109 111	ее
+A3	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T2	

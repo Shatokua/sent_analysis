@@ -1,0 +1,7 @@
+T0	Positive 139 160	Станислава Сергеевича
+T1	Positive 16 18	он
+A1	AnaforPerson T1
+T2	Positive 183 186	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T1	

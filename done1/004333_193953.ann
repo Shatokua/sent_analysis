@@ -1,0 +1,20 @@
+T0	Neutral_all 175 186	Илья Геркус
+T1	Neutral_all 484 489	Сёмин
+T2	Neutral_all 499 512	Штоффельсхаус
+T3	Neutral_all 596 602	Палычу
+T4	Neutral_all 31 33	Мы
+A1	Plural T4
+T5	Neutral_all 94 96	им
+A2	Plural T5
+T6	Neutral_all 542 545	ним
+A3	AnaforPerson T6
+T105	Neutral_all 0 7	Пьянтек
+T106	Neutral_all 45 48	его
+A4	AnaforPerson T106
+T109	Neutral_all 564 568	него
+A5	AnaforPerson T109
+R1	Anafor Arg1:T2 Arg2:T6
+R101	Anafor Arg1:T2 Arg2:T109
+R102	Anafor Arg1:T109 Arg2:T6
+R103	Anafor Arg1:T105 Arg2:T106
+R104	Anafor Arg1:T1 Arg2:T3

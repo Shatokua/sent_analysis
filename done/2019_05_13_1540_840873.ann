@@ -1,0 +1,7 @@
+T0	Neutral 205 212	Перишич
+T1	Positive 75 78	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 32 35	его
+A2	AnaforPerson T2
+R2	Variant Arg1:T2 Arg2:T1	

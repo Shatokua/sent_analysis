@@ -1,0 +1,8 @@
+T1	Neutral_all 269 283	Дмитрий Саблин
+T2	Neutral_all 333 346	Дмитрий Белик
+T3	Neutral_all 524 535	Игорь Валис
+T4	Neutral_all 556 569	Илья Журавлев
+T5	Neutral_all 208 215	Саблина
+T6	Neutral_all 216 222	Белика
+R1	Anafor Arg1:T1 Arg2:T5
+R2	Anafor Arg1:T2 Arg2:T6

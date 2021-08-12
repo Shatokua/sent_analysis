@@ -1,0 +1,4 @@
+T0	Neutral 2 8	Обамой
+T1	Neutral 9 12	они
+A1	Plural T1
+R1	Variant Arg1:T0 Arg2:T1	

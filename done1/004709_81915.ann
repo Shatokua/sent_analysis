@@ -1,0 +1,25 @@
+T0	Neutral_all 249 265	Джиму Рутерфорду
+T1	Neutral_all 371 384	Джэйсон Цукер
+T2	Neutral_all 387 399	Джек Джонсон
+T3	Neutral_all 403 414	Виктор Раск
+T4	Neutral_all 495 505	Фил Кессел
+T5	Neutral_all 0 3	Его
+A1	AnaforPerson T5
+T6	Neutral_all 70 72	он
+A2	AnaforPerson T6
+T7	Neutral_all 119 122	его
+A3	AnaforPerson T7
+T8	Neutral_all 299 301	Он
+A4	AnaforPerson T8
+T9	Neutral_all 582 585	его
+A5	AnaforPerson T9
+T10	Neutral_all 632 635	его
+A6	AnaforPerson T10
+R1	Anafor Arg1:T6 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T7
+R3	Anafor Arg1:T7 Arg2:T8
+R4	Anafor Arg1:T8 Arg2:T9
+R5	Anafor Arg1:T9 Arg2:T10
+R101	Anafor Arg1:T0 Arg2:T8
+R102	Anafor Arg1:T4 Arg2:T6
+R105	Anafor Arg1:T7 Arg2:T9

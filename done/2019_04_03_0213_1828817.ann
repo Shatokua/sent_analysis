@@ -1,0 +1,5 @@
+T0	Neutral 155 175	Иваном Медведниковым
+T1	Neutral 191 202	Александрой
+T2	Neutral 178 181	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

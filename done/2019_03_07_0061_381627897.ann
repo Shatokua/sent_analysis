@@ -1,0 +1,7 @@
+T100	Neutral_all 21 28	Луценко
+T101	Negative_all 151 160	Януковича
+T102	Neutral_all 92 95	его
+A1	AnaforPerson T102
+T1	Neutral 50 52	он
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T102	

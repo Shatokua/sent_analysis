@@ -1,0 +1,12 @@
+T0	Neutral 19 26	Кадыров
+T1	Neutral 147 149	их
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 174 176	вы
+A3	AnaforPerson T2
+T3	Neutral 244 246	он
+A4	AnaforPerson T3
+T4	Neutral 287 290	его
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T3 Arg2:T4	
+A5	AnaforPerson T4

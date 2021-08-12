@@ -1,0 +1,5 @@
+T0	Neutral_all 0 6	Белова
+T1	Negative_all 112 118	Путина
+T2	Neutral_all 33 35	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

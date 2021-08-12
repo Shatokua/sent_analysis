@@ -1,0 +1,4 @@
+T0	Positive 0 13	Стивен Хокинг
+T1	Positive 144 147	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

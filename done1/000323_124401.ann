@@ -1,0 +1,12 @@
+T0	Neutral_all 70 88	Тельмана Исмаилова
+T1	Neutral_all 228 237	Исмаилова
+T3	Neutral_all 185 188	они
+A2	Plural T3
+T4	Neutral_all 275 277	он
+T104	Negative 357 360	они
+A4	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T4
+A1	AnaforPerson T3
+A5	AnaforPerson T4
+A3	Plural T104

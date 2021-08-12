@@ -1,0 +1,7 @@
+T0	Neutral_all 29 45	Роберта Кочаряна
+T1	Neutral_all 60 77	Вазгена Саркисяна
+T2	Neutral_all 159 162	его
+A1	AnaforPerson T2
+T3	Neutral_all 245 247	мы
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

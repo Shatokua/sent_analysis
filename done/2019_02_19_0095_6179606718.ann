@@ -1,0 +1,5 @@
+T2	Positive 175 190	Дональда Трампа
+T3	Neutral 210 212	он
+A1	AnaforPerson T3
+T101	Negative_all 50 57	Байдена
+R1	Anafor Arg1:T2 Arg2:T3

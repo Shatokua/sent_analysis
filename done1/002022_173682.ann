@@ -1,0 +1,14 @@
+T0	Neutral_all 23 38	Виктор Янукович
+T1	Neutral_all 82 94	Юрий Луценко
+T2	Neutral_all 183 193	Олег Ляшко
+T3	Neutral_all 206 221	Петра Порошенко
+T4	Neutral_all 267 287	Александра Турчинова
+T5	Neutral_all 2 5	вас
+A1	Plural T5
+T6	Neutral_all 104 107	вас
+A2	Plural T6
+T7	Neutral_all 340 342	он
+A3	AnaforPerson T7
+A4	Plural T7
+R1	Anafor Arg1:T4 Arg2:T7
+R2	Anafor Arg1:T5 Arg2:T6

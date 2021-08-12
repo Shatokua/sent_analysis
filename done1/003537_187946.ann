@@ -1,0 +1,6 @@
+T0	Neutral_all 17 26	Плахотнюк
+T1	Neutral_all 27 32	Додон
+T2	Neutral_all 254 264	Плахотнюка
+T3	Neutral_all 110 113	нас
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

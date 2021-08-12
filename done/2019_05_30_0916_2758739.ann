@@ -1,0 +1,5 @@
+T0	Neutral_all 70 85	Сергей Ситников
+T1	Neutral_all 138 150	Илья Середюк
+T2	Neutral_all 87 89	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

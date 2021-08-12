@@ -1,0 +1,8 @@
+T0	Neutral_all 5 21	Шамиля Хадулаева
+T101	Neutral 260 264	ваши
+A4	Plural T101
+T102	Neutral 283 286	вас
+A5	Plural T102
+R101	Anafor Arg1:T101 Arg2:T102
+A6	AnaforPerson T101
+A7	AnaforPerson T102

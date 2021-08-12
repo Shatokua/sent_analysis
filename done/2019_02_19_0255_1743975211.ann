@@ -1,0 +1,9 @@
+T101	Positive 106 113	Венгера
+T102	Neutral_all 126 129	ему
+A1	AnaforPerson T102
+T103	Neutral 195 202	Кроенке
+R1	Anafor Arg1:T101 Arg2:T102
+T1	Positive 217 219	он
+T2	Neutral 254 257	его
+R2	Anafor Arg1:T103 Arg2:T1	
+R3	Anafor Arg1:T1 Arg2:T2	

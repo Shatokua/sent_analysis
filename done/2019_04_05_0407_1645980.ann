@@ -1,0 +1,11 @@
+T3	Negative 142 144	он
+T100	Neutral_all 5 10	Майку
+T101	Neutral_all 17 20	Цою
+T102	Neutral_all 27 33	Наташе
+T103	Neutral 196 198	Он
+A1	AnaforPerson T103
+T105	Neutral 176 180	него
+A3	AnaforPerson T105
+A2	AnaforPerson T3
+R1	Anafor Arg1:T3 Arg2:T105	
+R2	Anafor Arg1:T105 Arg2:T103	

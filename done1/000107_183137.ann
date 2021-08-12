@@ -1,0 +1,4 @@
+T1	Neutral_all 34 58	Дзицоев Руслан Асланович
+T2	Neutral_all 77 80	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

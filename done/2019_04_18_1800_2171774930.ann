@@ -1,0 +1,10 @@
+T0	Negative 21 37	Виктор Федорович
+T1	Negative 0 3	Вам
+A1	AnaforPerson T1
+T2	Negative 105 108	вас
+A2	AnaforPerson T2
+T3	Negative 234 236	Вы
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,4 @@
+T1	Neutral_all 0 11	А.Подгорной
+T2	Neutral_all 57 60	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

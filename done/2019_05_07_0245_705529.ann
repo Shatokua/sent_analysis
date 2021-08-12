@@ -1,0 +1,10 @@
+T0	Neutral 49 58	Бердыевым
+T1	Neutral 97 99	мы
+A1	Plural T1
+T2	Neutral 102 105	ним
+A2	AnaforPerson T2
+T3	Neutral 150 153	его
+A3	AnaforPerson T3
+R1	Variant Arg1:T0 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T2	
+R3	Variant Arg1:T2 Arg2:T1	

@@ -1,0 +1,7 @@
+T0	Neutral_all 51 66	Хамзату Бахаеву
+T1	Neutral_all 110 117	Немцова
+T2	Neutral_all 82 85	его
+A1	AnaforPerson T2
+T3	Neutral_all 0 2	Мы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

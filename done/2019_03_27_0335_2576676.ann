@@ -1,0 +1,4 @@
+T0	Neutral_all 67 74	Гандзюк
+T1	Neutral_all 108 125	Екатерины Гандзюк
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

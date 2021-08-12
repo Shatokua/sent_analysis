@@ -1,0 +1,6 @@
+T0	Neutral 0 14	Борису Ложкину
+T1	Neutral 36 45	Порошенко
+T2	Neutral 74 85	Коломойским
+T3	Neutral 88 91	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

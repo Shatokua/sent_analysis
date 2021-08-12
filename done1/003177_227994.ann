@@ -1,0 +1,21 @@
+T0	Neutral_all 6 19	Адониса Крида
+T1	Neutral_all 290 303	Рокки Бальбоа
+T2	Neutral_all 328 333	Крида
+T3	Neutral_all 61 63	он
+A1	AnaforPerson T3
+T5	Neutral_all 219 222	его
+A3	AnaforPerson T5
+T6	Neutral_all 344 347	они
+A4	Plural T6
+T7	Neutral_all 377 379	их
+A5	Plural T7
+T104	Neutral_all 146 149	ему
+A6	AnaforPerson T104
+R2	Anafor Arg1:T2 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T7
+R1	Anafor Arg1:T0 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T104	
+R4	Anafor Arg1:T104 Arg2:T5	
+R5	Anafor Arg1:T1 Arg2:T6	
+A2	AnaforPerson T6
+A7	AnaforPerson T7

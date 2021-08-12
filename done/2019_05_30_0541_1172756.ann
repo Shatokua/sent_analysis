@@ -1,0 +1,9 @@
+T0	Neutral_all 14 32	Геннадий Андреевич
+T1	Neutral_all 160 178	Геннадий Андреевич
+T2	Neutral_all 181 206	Грудинин Павел Николаевич
+T3	Neutral_all 47 51	него
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3

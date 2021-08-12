@@ -1,0 +1,4 @@
+T0	Negative_all 20 26	Путина
+T1	Neutral_all 61 76	Хиллари Клинтон
+T2	Neutral_all 199 214	Хиллари Клинтон
+R1	Anafor Arg1:T1 Arg2:T2

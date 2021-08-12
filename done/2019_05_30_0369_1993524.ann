@@ -1,0 +1,5 @@
+T0	Neutral_all 53 69	Павел Кадочников
+T1	Neutral_all 151 158	Орешкин
+T2	Neutral_all 71 74	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Negative_all 75 83	Логинову
+T1	Neutral_all 103 124	Себастьян Самуэльссон
+T2	Mixed 35 38	его
+A1	AnaforPerson T2
+T103	Negative 147 150	его
+A3	AnaforPerson T103
+R2	Anafor Arg1:T0 Arg2:T2	
+R1	Anafor Arg1:T0 Arg2:T103	

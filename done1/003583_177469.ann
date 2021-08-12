@@ -1,0 +1,5 @@
+T0	Neutral_all 81 93	Оюба Титиева
+T1	Neutral_all 264 280	Рамзана Кадырова
+T2	Neutral_all 152 154	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

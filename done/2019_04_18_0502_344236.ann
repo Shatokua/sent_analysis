@@ -1,0 +1,6 @@
+T0	Negative 50 75	Валерий Павлович Сердюков
+T1	Negative 13 15	Вы
+A1	AnaforPerson T1
+T2	Negative 45 47	Вы
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

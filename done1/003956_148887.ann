@@ -1,0 +1,10 @@
+T0	Neutral_all 33 43	Иванишвили
+T1	Neutral_all 248 266	Саломе Зурабишвили
+T2	Neutral_all 294 310	Мамуки Хазарадзе
+T3	Neutral_all 634 644	Иванишвили
+T4	Neutral_all 154 156	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T4

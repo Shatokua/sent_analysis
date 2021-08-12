@@ -1,0 +1,6 @@
+T0	Neutral 0 19	Дмитрий Анатольевич
+T1	Neutral 53 55	Он
+A1	AnaforPerson T1
+T2	Neutral 198 200	их
+A2	Plural T2
+R1	Variant Arg1:T0 Arg2:T1	

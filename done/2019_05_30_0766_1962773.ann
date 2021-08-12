@@ -1,0 +1,4 @@
+T1	Positive_all 0 11	Федя [Чалов
+T2	Positive_all 73 76	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

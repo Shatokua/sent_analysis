@@ -1,0 +1,5 @@
+T2	Negative 25 28	его
+A1	AnaforPerson T2
+T100	Neutral_all 0 5	Трамп
+T101	Negative_all 103 109	Путина
+R1	Anafor Arg1:T100 Arg2:T2

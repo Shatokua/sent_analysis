@@ -1,0 +1,5 @@
+T0	Neutral_all 2 10	Зюганова
+T1	Neutral_all 45 54	Кадыровым
+T2	Neutral_all 207 213	Ленина
+T3	Neutral_all 217 224	Зюганов
+R1	Anafor Arg1:T3 Arg2:T0

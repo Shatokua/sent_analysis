@@ -1,0 +1,6 @@
+T100	Negative 57 66	Пригожина
+T101	Neutral_all 140 153	Любови Соболь
+T102	Neutral_all 228 248	Валерием Золотухиным
+T103	Negative 109 111	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	

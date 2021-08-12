@@ -1,0 +1,12 @@
+T0	Neutral_all 7 13	Трампа
+T1	Neutral_all 198 203	Трамп
+T2	Neutral_all 164 166	он
+A1	AnaforPerson T2
+T3	Neutral_all 226 228	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T1 Arg2:T2

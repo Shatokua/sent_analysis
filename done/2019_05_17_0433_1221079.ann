@@ -1,0 +1,6 @@
+T0	Neutral_all 0 15	Женя [Медведева
+T1	Neutral_all 161 170	Загитовой
+T2	Neutral_all 173 183	Медведевой
+T3	Neutral_all 94 96	ей
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

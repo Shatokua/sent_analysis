@@ -1,0 +1,11 @@
+T0	Neutral_all 0 7	Терренс
+T1	Neutral_all 136 142	Сергей
+T2	Neutral_all 201 214	Кристиан Бэйл
+T3	Neutral_all 70 72	Мы
+A1	Plural T3
+T4	Neutral_all 117 119	он
+A2	AnaforPerson T4
+T5	Neutral_all 253 255	ты
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T5

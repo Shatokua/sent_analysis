@@ -1,0 +1,7 @@
+T0	Neutral_all 25 45	Реджеп Тайип Эрдоган
+T1	Neutral_all 71 83	Ильхам Алиев
+T3	Neutral_all 343 345	Мы
+A1	Plural T3
+T2	Neutral_all 624 626	Мы
+A2	Plural T2
+R1	Anafor Arg1:T3 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Neutral_all 5 9	Юлей
+T3	Positive_all 75 81	Андрей
+T1	Neutral_all 23 39	Андрея (Малахова
+R1	Anafor Arg1:T1 Arg2:T3	

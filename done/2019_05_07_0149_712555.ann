@@ -1,0 +1,7 @@
+T0	Neutral 14 22	Карлсена
+T1	Neutral 63 66	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Neutral 170 174	нему
+A2	AnaforPerson T2
+R2	Variant Arg1:T1 Arg2:T2	

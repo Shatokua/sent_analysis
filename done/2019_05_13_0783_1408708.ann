@@ -1,0 +1,4 @@
+T1	Positive 68 75	Женечка
+T2	Positive 82 86	тебе
+A1	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,11 @@
+T0	Positive_all 0 18	Сулейман Стальский
+T1	Neutral_all 102 104	мы
+A1	Plural T1
+T2	Neutral_all 163 165	их
+A2	Plural T2
+T3	Neutral_all 188 190	их
+A3	Plural T3
+T4	Neutral_all 199 202	нас
+A4	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T4

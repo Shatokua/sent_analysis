@@ -1,0 +1,4 @@
+T1	Positive 86 90	Рома
+T2	Positive 153 155	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

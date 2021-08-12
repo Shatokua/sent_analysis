@@ -1,0 +1,4 @@
+T0	Negative 16 25	Губерниев
+T1	Neutral 158 161	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

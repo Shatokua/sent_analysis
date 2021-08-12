@@ -1,0 +1,7 @@
+T0	Positive 8 26	Валентина Ивановна
+T2	Positive 115 117	Вы
+A2	AnaforPerson T2
+T1	Positive 45 48	Ваш
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T100	Positive_all 60 73	Таня Проценко
+T102	Neutral_all 127 141	Ромка Столкарц
+T101	Neutral 164 167	ней
+A1	AnaforPerson T101
+R101	Anafor Arg1:T100 Arg2:T101

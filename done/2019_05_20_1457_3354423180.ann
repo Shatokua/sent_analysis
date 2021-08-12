@@ -1,0 +1,8 @@
+T0	Neutral 77 84	Ливанов
+T1	Neutral 228 231	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 250 253	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

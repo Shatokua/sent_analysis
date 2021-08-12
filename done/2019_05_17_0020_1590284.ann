@@ -1,0 +1,8 @@
+T0	Neutral_all 0 5	Сарри
+T1	Neutral_all 44 52	Маурицио
+T2	Neutral_all 89 99	Абрамовича
+T3	Neutral_all 126 131	Сарри
+T4	Neutral_all 162 164	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

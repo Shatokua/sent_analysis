@@ -1,0 +1,11 @@
+T0	Neutral_all 266 283	Дмитрию Медведеву
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 5 9	вами
+A2	Plural T2
+T3	Neutral_all 165 168	Нас
+A3	Plural T3
+T4	Neutral_all 211 213	вы
+A4	Plural T4
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T2

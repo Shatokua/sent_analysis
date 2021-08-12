@@ -1,0 +1,17 @@
+T0	Negative 206 220	Гудков-младший
+T1	Neutral 38 40	он
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1
+T3	Neutral 310 312	он
+T4	Neutral 348 350	он
+T5	Neutral 473 476	его
+A3	AnaforPerson T5
+R2	Anafor Arg1:T0 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	
+T2	Negative 284 287	его
+A2	AnaforPerson T2
+R5	Anafor Arg1:T0 Arg2:T2	
+T6	Neutral 392 395	они
+A4	AnaforPerson T6
+A5	Plural T6

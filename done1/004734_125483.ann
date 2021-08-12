@@ -1,0 +1,10 @@
+T0	Neutral_all 81 100	Александр Хорошавин
+T1	Neutral_all 258 272	Николаю Денину
+T2	Neutral_all 320 335	Вячеслав Гайзер
+T3	Neutral_all 469 486	Владимир Торлопов
+T4	Neutral_all 540 552	Никита Белых
+T5	Neutral_all 637 655	Александр Соловьёв
+T6	Neutral_all 677 692	Леонид Маркелов
+T7	Neutral_all 554 557	его
+A1	AnaforPerson T7
+R1	Anafor Arg1:T4 Arg2:T7

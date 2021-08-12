@@ -1,0 +1,5 @@
+T0	Neutral_all 47 54	Гранина
+T1	Neutral_all 141 147	Гранин
+T2	Neutral_all 163 166	нас
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

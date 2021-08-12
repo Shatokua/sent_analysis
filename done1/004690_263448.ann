@@ -1,0 +1,11 @@
+T0	Neutral_all 11 29	Кириллом Кокориным
+T1	Neutral_all 180 191	Солженицына
+T2	Neutral_all 273 284	Александром
+T3	Neutral_all 47 51	него
+A1	AnaforPerson T3
+T4	Neutral_all 225 228	нас
+A2	Plural T4
+T5	Neutral_all 286 288	Мы
+A3	Plural T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T5 Arg2:T4

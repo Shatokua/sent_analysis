@@ -1,0 +1,4 @@
+T0	Positive 65 83	Владимир Яковлевич
+T1	Positive 113 116	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Negative 4 10	Лужков
+T1	Negative 37 40	его
+A1	AnaforPerson T1
+T2	Negative 194 197	они
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,11 @@
+T1	Positive 141 148	Бандере
+T2	Negative 57 59	он
+A1	AnaforPerson T2
+T3	Negative 79 81	он
+A2	AnaforPerson T3
+T4	Negative 110 113	Ему
+A3	AnaforPerson T4
+T100	Negative_all 30 35	Путин
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

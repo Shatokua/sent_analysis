@@ -1,0 +1,7 @@
+T0	Neutral 16 34	Романа Нойштедтера
+T1	Neutral 47 49	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Neutral 114 117	ним
+A2	AnaforPerson T2
+R2	Variant Arg1:T1 Arg2:T2	

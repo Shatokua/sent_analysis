@@ -1,0 +1,4 @@
+T0	Neutral_all 56 74	Лизой Туктамышевой
+T1	Neutral_all 77 93	Женей Медведевой
+T2	Neutral_all 116 125	Медведеву
+R1	Anafor Arg1:T1 Arg2:T2

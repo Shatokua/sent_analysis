@@ -1,0 +1,10 @@
+T0	Neutral_all 0 6	Коляда
+T1	Neutral_all 9 15	Ковтун
+T2	Neutral_all 95 112	Алексеем Ягудиным
+T3	Neutral_all 77 81	нами
+A1	AnaforPerson T3
+A2	Plural T3
+T4	Neutral_all 115 117	Мы
+A3	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3

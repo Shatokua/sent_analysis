@@ -1,0 +1,7 @@
+T0	Neutral_all 24 41	Джафара Джаббарлы
+T1	Neutral_all 193 195	мы
+A1	Plural T1
+T101	Neutral_all 58 61	ими
+A2	Plural T101
+T103	Neutral_all 301 318	Джафара Джаббарлы
+R101	Anafor Arg1:T0 Arg2:T103

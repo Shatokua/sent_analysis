@@ -1,0 +1,6 @@
+T0	Neutral_all 36 43	Путиным
+T1	Neutral_all 131 138	Сущенко
+T2	Neutral_all 83 85	мы
+A1	Plural T2
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

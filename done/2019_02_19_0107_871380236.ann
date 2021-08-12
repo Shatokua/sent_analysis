@@ -1,0 +1,10 @@
+T1	Negative 36 43	Володин
+T3	Negative 121 123	Он
+A1	AnaforPerson T3
+T102	Neutral_all 176 191	Валерия Рашкина
+T104	Neutral 232 235	ему
+A3	AnaforPerson T104
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T104
+T2	Negative 302 304	он
+R3	Anafor Arg1:T104 Arg2:T2	

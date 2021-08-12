@@ -1,0 +1,4 @@
+T0	Neutral 106 111	Месси
+T2	Neutral 148 151	Его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

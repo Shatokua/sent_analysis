@@ -1,0 +1,5 @@
+T0	Neutral_all 144 158	Сергея Фургала
+T1	Neutral_all 265 271	Ишаева
+T2	Neutral_all 379 383	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

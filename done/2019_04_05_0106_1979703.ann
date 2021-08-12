@@ -1,0 +1,10 @@
+T100	Neutral_all 29 34	Обаму
+T101	Neutral_all 71 76	Асада
+T102	Negative 93 98	Хейли
+T103	Neutral_all 117 122	Асада
+T104	Negative 133 139	Обамой
+T105	Neutral_all 11 13	ей
+A1	AnaforPerson T105
+R1	Anafor Arg1:T101 Arg2:T103	
+R2	Anafor Arg1:T102 Arg2:T105	
+R3	Anafor Arg1:T100 Arg2:T104	

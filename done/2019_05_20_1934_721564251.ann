@@ -1,0 +1,12 @@
+T0	Neutral 6 12	Кудрин
+T1	Neutral 83 88	Путин
+T2	Neutral 15 18	его
+A1	AnaforPerson T2
+T3	Neutral 97 100	них
+A2	AnaforPerson T3
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2	
+T4	Neutral 174 177	они
+A4	AnaforPerson T4
+A5	Plural T4
+R2	Anafor Arg1:T3 Arg2:T4	

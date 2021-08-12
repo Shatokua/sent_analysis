@@ -1,0 +1,10 @@
+T0	Neutral_all 37 43	Трампа
+T1	Neutral_all 56 62	Трампа
+T2	Neutral_all 76 82	Трампа
+T3	Neutral_all 103 110	Меланья
+T4	Neutral_all 112 118	Иванка
+T5	Neutral_all 121 124	его
+A1	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5

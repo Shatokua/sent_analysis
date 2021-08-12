@@ -1,0 +1,5 @@
+T2	Positive 62 64	вы
+T3	Positive 207 209	вы
+A1	AnaforPerson T3
+T101	Neutral_all 167 179	Барак) Обама
+R1	Anafor Arg1:T2 Arg2:T3

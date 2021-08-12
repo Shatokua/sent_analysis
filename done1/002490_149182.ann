@@ -1,0 +1,5 @@
+T2	Neutral_all 139 145	Мадияр
+T3	Neutral_all 190 205	Игорем Фанияном
+T100	Neutral 31 46	Мадияра Ашкеева
+T101	Neutral 47 60	Павел Семенов
+R1	Anafor Arg1:T100 Arg2:T2	

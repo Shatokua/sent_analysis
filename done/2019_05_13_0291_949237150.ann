@@ -1,0 +1,10 @@
+T0	Positive 161 164	Юле
+T1	Neutral 14 16	ее
+A1	AnaforPerson T1
+T2	Negative 109 112	Они
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Positive 187 190	она
+A4	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,6 @@
+T2	Neutral 108 110	он
+T100	Neutral_all 23 36	Зиннатуллиным
+T101	Neutral_all 187 193	Башина
+T102	Neutral_all 181 185	него
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102

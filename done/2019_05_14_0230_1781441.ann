@@ -1,0 +1,8 @@
+T0	Neutral_all 59 66	Путиным
+T1	Neutral_all 85 90	Трамп
+T2	Neutral_all 133 138	Путин
+T3	Neutral_all 106 108	Мы
+A1	Plural T3
+T4	Neutral_all 216 218	их
+A2	Plural T4
+R1	Anafor Arg1:T2 Arg2:T0

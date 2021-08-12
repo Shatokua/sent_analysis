@@ -1,0 +1,5 @@
+T4	Neutral_all 178 181	его
+A1	AnaforPerson T4
+T101	Positive 37 52	Владимир) Путин
+T102	Neutral 141 157	Тайипа) Эрдогана
+R1	Anafor Arg1:T101 Arg2:T4	

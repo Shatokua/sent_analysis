@@ -1,0 +1,8 @@
+T0	Neutral 350 366	Владимиру Путину
+T1	Negative 496 499	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 592 595	них
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,11 @@
+T0	Neutral_all 37 41	Коли
+T1	Neutral_all 109 116	Бернеса
+T2	Neutral_all 68 70	он
+A1	AnaforPerson T2
+T3	Neutral_all 120 124	него
+A2	AnaforPerson T3
+T4	Neutral 190 194	него
+A3	AnaforPerson T4
+R3	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3	
+R1	Anafor Arg1:T3 Arg2:T4	

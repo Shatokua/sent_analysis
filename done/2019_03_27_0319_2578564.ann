@@ -1,0 +1,7 @@
+T2	Negative 100 106	Гитлер
+T3	Negative 126 130	тебе
+A1	AnaforPerson T3
+T100	Negative_all 16 26	Цукерберга
+T101	Negative_all 65 74	Цукерберг
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T3	

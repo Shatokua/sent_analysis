@@ -1,0 +1,10 @@
+T0	Neutral_all 25 31	Артема
+T1	Neutral_all 113 118	Дзюбу
+T2	Neutral_all 45 48	ему
+A1	AnaforPerson T2
+T3	Neutral_all 187 191	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T3

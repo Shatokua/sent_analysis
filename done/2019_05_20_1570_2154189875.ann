@@ -1,0 +1,5 @@
+T0	Neutral 13 34	Наталья Александровна
+T1	Neutral 214 221	Димоном
+T2	Neutral 294 299	Димон
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

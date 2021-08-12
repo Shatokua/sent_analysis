@@ -1,0 +1,6 @@
+T100	Positive_all 61 88	Андрея Геннадьевича Карлова
+T101	Positive_all 169 175	Андрей
+T102	Positive_all 223 226	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T102

@@ -1,0 +1,3 @@
+T0	Negative_all 8 16	Черновол
+T1	Neutral_all 169 177	Черновол
+R1	Anafor Arg1:T0 Arg2:T1

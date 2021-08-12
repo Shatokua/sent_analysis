@@ -1,0 +1,9 @@
+T0	Negative 0 6	Чубайс
+T1	Negative_all 176 183	Чубайса
+T3	Negative_all 199 201	он
+A2	AnaforPerson T3
+T102	Negative 188 191	его
+A3	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T102	
+R3	Anafor Arg1:T102 Arg2:T3	

@@ -1,0 +1,10 @@
+T0	Negative 197 204	Сталина
+T1	Negative 229 235	Путина
+T2	Negative 238 247	Медведева
+T3	Negative 317 323	Путина
+T4	Negative 72 78	Ленина
+#1	AnnotatorNotes T0	"культ"
+#2	AnnotatorNotes T1	"культ"
+#3	AnnotatorNotes T2	"культ"
+A4	Unclear T3
+R1	Variant Arg1:T1 Arg2:T3	

@@ -1,0 +1,6 @@
+T0	Neutral 38 45	Когогин
+T1	Neutral 50 57	Коготин
+T2	Positive 62 64	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

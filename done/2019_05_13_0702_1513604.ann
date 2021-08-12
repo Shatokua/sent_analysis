@@ -1,0 +1,4 @@
+T0	Positive 100 127	Татьяну Алексеевну Голикову
+T1	Positive 155 158	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

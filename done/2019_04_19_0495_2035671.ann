@@ -1,0 +1,7 @@
+T3	Neutral_all 88 90	он
+A2	AnaforPerson T3
+T4	Neutral_all 181 184	его
+A3	AnaforPerson T4
+T101	Neutral 69 86	Валерия) Зорькина
+R2	Anafor Arg1:T3 Arg2:T4
+R1	Anafor Arg1:T101 Arg2:T3	

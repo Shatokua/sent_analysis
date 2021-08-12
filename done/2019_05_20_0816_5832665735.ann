@@ -1,0 +1,20 @@
+T0	Neutral 100 104	Асад
+T1	Neutral 7 9	Вы
+A1	AnaforPerson T1
+T2	Neutral 142 144	Вы
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 273 275	их
+A3	AnaforPerson T3
+A4	Plural T3
+T4	Neutral 290 292	их
+A5	AnaforPerson T4
+A6	Plural T4
+T5	Neutral 356 359	них
+A7	AnaforPerson T5
+A8	Plural T5
+T6	Neutral 379 382	них
+A9	AnaforPerson T6
+A10	Plural T6
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T5 Arg2:T6	

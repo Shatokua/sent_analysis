@@ -1,0 +1,8 @@
+T0	Neutral_all 43 56	Наталья Штурм
+T1	Neutral_all 86 92	Рудову
+T2	Negative_all 3 6	вам
+A1	Plural T2
+T3	Neutral_all 73 83	Самбурскую
+T4	Neutral_all 180 183	вас
+A2	Plural T4
+R101	Anafor Arg1:T2 Arg2:T4

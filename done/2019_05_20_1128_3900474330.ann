@@ -1,0 +1,8 @@
+T0	Neutral 5 14	Навальный
+T1	Neutral 294 297	них
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 231 234	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Variant Arg1:T2 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Positive_all 6 11	Игорь
+T1	Neutral_all 134 142	Акинфеев
+T2	Positive_all 167 169	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+T0	Neutral_all 33 52	Алексея Максимовича
+T1	Neutral_all 119 122	нас
+A1	Plural T1
+T2	Neutral_all 155 173	Aлексей Mаксимович
+T3	Neutral_all 436 438	мы
+A2	Plural T3
+T4	Neutral_all 494 496	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T4
+R3	Anafor Arg1:T3 Arg2:T1

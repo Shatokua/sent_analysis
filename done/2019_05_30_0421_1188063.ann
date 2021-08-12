@@ -1,0 +1,9 @@
+T1	Neutral_all 109 115	Путина
+T2	Neutral_all 41 51	Навальному
+T3	Neutral_all 52 58	Собчак
+T4	Neutral_all 70 72	ее
+A1	AnaforPerson T4
+T5	Neutral_all 88 91	ему
+A2	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T5

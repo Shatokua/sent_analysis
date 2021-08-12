@@ -1,0 +1,5 @@
+T0	Neutral_all 6 15	Порошенко
+T1	Neutral_all 81 89	Черчилля
+T2	Neutral_all 118 120	он
+T3	Neutral_all 167 170	его
+R1	Anafor Arg1:T2 Arg2:T3

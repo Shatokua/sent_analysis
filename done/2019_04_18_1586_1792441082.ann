@@ -1,0 +1,16 @@
+T0	Negative 24 38	Дмитрий Гудков
+T1	Negative 134 136	Он
+A1	AnaforPerson T1
+T2	Negative 267 270	ему
+A2	AnaforPerson T2
+T3	Neutral 376 379	его
+T4	Neutral 411 414	ему
+A3	AnaforPerson T4
+A4	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+T5	Negative 20 22	он
+A5	AnaforPerson T5
+R5	Anafor Arg1:T0 Arg2:T5	

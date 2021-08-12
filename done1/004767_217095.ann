@@ -1,0 +1,8 @@
+T0	Neutral_all 121 128	Клишасу
+T1	Neutral_all 240 251	Вишневского
+T2	Neutral_all 531 549	Татьяны Прокопенко
+T3	Neutral_all 131 134	его
+A1	AnaforPerson T3
+T4	Neutral_all 380 382	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3

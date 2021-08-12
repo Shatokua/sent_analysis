@@ -1,0 +1,4 @@
+T0	Neutral_all 33 42	Тимошенко
+T1	Neutral_all 45 55	Зеленского
+T2	Neutral_all 103 113	Зеленского
+R1	Anafor Arg1:T1 Arg2:T2

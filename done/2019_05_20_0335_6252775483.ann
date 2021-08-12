@@ -1,0 +1,4 @@
+T0	Neutral 0 15	Хиллари Клинтон
+T1	Neutral 125 131	Трампа
+T2	Neutral 153 158	Трамп
+R1	Variant Arg1:T1 Arg2:T2	

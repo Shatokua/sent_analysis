@@ -1,0 +1,5 @@
+T0	Neutral_all 0 16	Владимир Сипягин
+T1	Negative 119 137	Алексей Островский
+T2	Positive 39 41	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

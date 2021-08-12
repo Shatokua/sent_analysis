@@ -1,0 +1,4 @@
+T0	Positive 16 31	Джеймса Мэттиса
+T1	Positive 73 76	нем
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

@@ -1,0 +1,4 @@
+T0	Neutral_all 0 9	Ильяс Кар
+T1	Neutral_all 633 644	Ильяса Кара
+T2	Neutral_all 776 790	А.Сатыбалдиева
+R1	Anafor Arg1:T0 Arg2:T1

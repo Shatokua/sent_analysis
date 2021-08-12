@@ -1,0 +1,9 @@
+T0	Neutral_all 0 16	Владислав Тулаев
+T1	Negative_all 108 115	Тулаева
+T4	Neutral_all 165 167	Он
+A3	AnaforPerson T4
+T103	Negative 159 163	нему
+A4	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T4	
+R3	Anafor Arg1:T0 Arg2:T1	

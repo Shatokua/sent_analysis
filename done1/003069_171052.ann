@@ -1,0 +1,18 @@
+T0	Neutral_all 128 141	Деннис Родман
+T1	Neutral_all 145 158	Скотти Пиппен
+T2	Negative 85 88	Они
+A1	Plural T2
+T3	Negative 101 103	их
+A2	Plural T3
+T4	Negative 276 278	вы
+A3	Plural T4
+T103	Negative 289 292	них
+A5	Plural T103
+R1	Anafor Arg1:T2 Arg2:T3	
+A4	AnaforPerson T2
+A6	AnaforPerson T3
+R2	Anafor Arg1:T0 Arg2:T4	
+A7	AnaforPerson T4
+R3	Anafor Arg1:T1 Arg2:T4	
+A8	AnaforPerson T103
+R4	Anafor Arg1:T4 Arg2:T103	

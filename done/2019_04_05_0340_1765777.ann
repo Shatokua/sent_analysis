@@ -1,0 +1,4 @@
+T101	Negative 27 43	Дональде] Трампе
+T102	Negative 63 65	Он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

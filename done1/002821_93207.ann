@@ -1,0 +1,10 @@
+T2	Neutral_all 271 284	Елена Летучая
+T3	Neutral_all 333 335	Её
+A1	AnaforPerson T3
+T100	Negative 49 54	Елены
+T101	Neutral 123 157	Филиппова Александра Владимировича
+T104	Neutral 424 426	он
+A4	AnaforPerson T104
+R1	Anafor Arg1:T2 Arg2:T100	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T101 Arg2:T104	

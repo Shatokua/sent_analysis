@@ -1,0 +1,6 @@
+T0	Neutral_all 12 20	Глушаков
+T1	Neutral_all 23 29	Ещенко
+T2	Neutral_all 94 100	Ещенко
+T3	Negative_all 102 108	Ещенко
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

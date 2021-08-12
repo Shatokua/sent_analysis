@@ -1,0 +1,4 @@
+T0	Neutral_all 45 60	Алису Жамбалову
+T1	Neutral_all 220 235	Алиса Жамбалова
+T2	Neutral_all 238 256	Екатерина Смирнова
+R1	Anafor Arg1:T1 Arg2:T0

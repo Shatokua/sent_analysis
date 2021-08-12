@@ -1,0 +1,10 @@
+T4	Neutral 164 167	его
+A1	AnaforPerson T4
+T102	Neutral_all 64 67	его
+A2	AnaforPerson T102
+T103	Neutral_all 91 95	нему
+A3	AnaforPerson T103
+T1	Neutral 18 35	Антоне (Натарове)
+R1	Anafor Arg1:T1 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T4	

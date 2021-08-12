@@ -1,0 +1,4 @@
+T0	Positive 78 88	Джон Келли
+T1	Positive 100 103	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

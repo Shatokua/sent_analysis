@@ -1,0 +1,14 @@
+T0	Positive_all 0 14	Гейдар Алиевич
+T2	Neutral_all 192 200	Андропов
+T3	Neutral_all 202 209	Брежнев
+T4	Positive_all 71 73	Он
+A1	AnaforPerson T4
+T5	Neutral_all 102 104	им
+A2	Plural T5
+T6	Neutral_all 218 221	его
+A3	AnaforPerson T6
+T101	Neutral 168 184	Гейдара Алиевича
+R1	Anafor Arg1:T0 Arg2:T4	
+A4	AnaforPerson T5
+R2	Anafor Arg1:T101 Arg2:T4	
+R3	Anafor Arg1:T101 Arg2:T6	

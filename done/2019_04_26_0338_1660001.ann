@@ -1,0 +1,6 @@
+T0	Neutral_all 22 28	Трампа
+T1	Neutral_all 31 35	Кима
+T2	Neutral_all 132 137	Обаме
+T3	Neutral_all 51 54	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

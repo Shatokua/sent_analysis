@@ -1,0 +1,5 @@
+T3	Negative 46 58	Джеймс] Коми
+T1	Neutral 129 145	Хиллари] Клинтон
+T101	Negative 147 150	его
+A2	AnaforPerson T101
+R1	Anafor Arg1:T3 Arg2:T101	

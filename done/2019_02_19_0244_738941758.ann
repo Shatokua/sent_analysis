@@ -1,0 +1,14 @@
+T101	Negative_all 50 58	Удальцов
+T102	Neutral_all 15 25	Пономареву
+T103	Neutral 10 13	ему
+A1	AnaforPerson T103
+T104	Neutral 122 125	его
+A2	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T104
+R101	Anafor Arg1:T102 Arg2:T103
+T1	Neutral 151 153	он
+T2	Neutral 190 193	его
+T3	Negative 225 227	он
+R2	Anafor Arg1:T104 Arg2:T1	
+R3	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T2 Arg2:T3	

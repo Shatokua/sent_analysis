@@ -1,0 +1,4 @@
+T0	Neutral 42 64	Кирилле Серебренникове
+T1	Positive 102 104	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

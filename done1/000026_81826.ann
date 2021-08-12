@@ -1,0 +1,9 @@
+T0	Neutral_all 123 141	Игорем Артамоновым
+T1	Mixed 193 210	Игоря Георгиевича
+T2	Mixed 222 231	Уваркиной
+T5	Mixed 232 234	вы
+A1	Plural T5
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T2 Arg2:T5	
+A2	AnaforPerson T5
+R3	Anafor Arg1:T1 Arg2:T5	

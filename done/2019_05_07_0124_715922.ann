@@ -1,0 +1,7 @@
+T1	Neutral 69 71	её
+A1	AnaforPerson T1
+T2	Neutral 165 168	неё
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 41 52	Подчуфарову
+R2	Anafor Arg1:T3 Arg2:T1	

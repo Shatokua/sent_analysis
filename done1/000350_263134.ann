@@ -1,0 +1,16 @@
+T0	Neutral_all 46 57	Васинкевича
+T1	Neutral_all 354 364	Васинкевич
+T2	Neutral_all 572 581	Винокуров
+T3	Neutral_all 583 588	Тясто
+T4	Neutral_all 590 597	Лепехин
+T5	Neutral_all 599 610	Байрамкулов
+T6	Neutral_all 627 640	Артем Артюхов
+T7	Neutral_all 682 689	Елинсон
+T8	Neutral_all 155 158	ему
+A1	AnaforPerson T8
+T9	Neutral_all 182 184	им
+A2	Plural T9
+T10	Neutral_all 327 330	они
+A3	Plural T10
+R1	Anafor Arg1:T0 Arg2:T8
+R2	Anafor Arg1:T1 Arg2:T0

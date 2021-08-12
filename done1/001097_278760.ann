@@ -1,0 +1,7 @@
+T0	Neutral_all 89 105	Валерии Касамары
+T1	Neutral_all 155 163	Касамара
+T2	Neutral_all 50 53	она
+T3	Neutral_all 189 192	она
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

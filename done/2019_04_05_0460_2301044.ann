@@ -1,0 +1,8 @@
+T2	Neutral 0 2	Он
+A1	AnaforPerson T2
+T3	Neutral 210 212	он
+T100	Neutral_all 4 10	Мэттис
+T101	Neutral_all 154 160	Мэттис
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T100 Arg2:T101	
+R3	Anafor Arg1:T101 Arg2:T3	

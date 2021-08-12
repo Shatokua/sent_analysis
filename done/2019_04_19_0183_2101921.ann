@@ -1,0 +1,7 @@
+T0	Neutral_all 8 25	Крамп-Карренбауэр
+T1	Neutral_all 46 53	Меркель
+T2	Neutral_all 70 77	Меркель
+T3	Neutral_all 106 109	она
+A1	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

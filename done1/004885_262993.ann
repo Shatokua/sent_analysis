@@ -1,0 +1,14 @@
+T0	Neutral_all 103 114	Увалеев Е.Ж
+T1	Neutral_all 345 360	Жундугулова А.Х
+T2	Neutral_all 224 227	ему
+A1	AnaforPerson T2
+T3	Neutral_all 309 312	ему
+A2	AnaforPerson T3
+T4	Neutral_all 423 425	их
+A3	Plural T4
+T5	Neutral_all 548 551	них
+A4	Plural T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T5
+R4	Anafor Arg1:T0 Arg2:T5

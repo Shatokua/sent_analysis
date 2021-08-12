@@ -1,0 +1,8 @@
+T0	Neutral_all 100 112	Карлос Бакка
+T1	Neutral_all 134 136	их
+A1	Plural T1
+T2	Neutral 165 168	они
+A2	Plural T2
+A4	AnaforPerson T1
+A3	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

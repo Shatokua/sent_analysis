@@ -1,0 +1,18 @@
+T0	Neutral_all 248 254	Андрей
+T1	Neutral_all 305 311	Михаил
+T2	Negative_all 684 690	Ошеров
+T3	Neutral_all 727 733	Радика
+T4	Neutral_all 736 753	Алексея Бобрецова
+T5	Neutral_all 181 185	Сана
+T6	Neutral_all 427 430	ему
+T7	Neutral_all 638 641	нас
+A1	Plural T7
+T8	Neutral_all 662 664	их
+A2	Plural T8
+T9	Neutral_all 755 758	они
+A3	Plural T9
+T10	Neutral_all 784 786	Их
+A4	Plural T10
+R1	Anafor Arg1:T4 Arg2:T9
+R2	Anafor Arg1:T3 Arg2:T9
+R3	Anafor Arg1:T9 Arg2:T10

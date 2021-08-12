@@ -1,0 +1,5 @@
+T0	Neutral_all 0 14	Илья Пономарев
+T1	Neutral 91 100	Навальный
+T2	Neutral 76 78	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

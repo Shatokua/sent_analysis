@@ -1,0 +1,8 @@
+T101	Neutral_all 9 14	Путин
+T102	Neutral_all 62 69	Ельцина
+T103	Positive 43 45	Он
+A1	AnaforPerson T103
+T104	Positive_all 126 130	него
+A2	AnaforPerson T104
+R101	Anafor Arg1:T101 Arg2:T103
+R102	Anafor Arg1:T103 Arg2:T104

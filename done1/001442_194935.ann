@@ -1,0 +1,4 @@
+T0	Neutral_all 26 42	Елены Степаненко
+T1	Neutral_all 53 56	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

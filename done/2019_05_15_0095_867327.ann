@@ -1,0 +1,8 @@
+T1	Negative 0 26	Петр Алексеевич (Порошенко
+T2	Negative 41 44	вам
+A1	AnaforPerson T2
+T3	Negative 104 106	вы
+A2	AnaforPerson T3
+T4	Neutral_all 121 124	его
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

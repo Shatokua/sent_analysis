@@ -1,0 +1,9 @@
+T0	Neutral_all 75 92	Арчил Татунашвили
+T1	Neutral_all 94 108	Гига Отхозория
+T2	Neutral_all 121 135	Давид Башарули
+T3	Neutral_all 219 238	Ираклий Кварацхелия
+T4	Neutral_all 0 2	Мы
+A1	Plural T4
+T5	Neutral_all 271 274	его
+A2	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T5

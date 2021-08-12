@@ -1,0 +1,9 @@
+T0	Neutral_all 21 27	Сечину
+T1	Negative_all 165 171	Сечина
+T2	Neutral_all 68 70	им
+A1	AnaforPerson T2
+T3	Neutral_all 102 105	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

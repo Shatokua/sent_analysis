@@ -1,0 +1,4 @@
+T0	Neutral 102 113	Жириновский
+T1	Neutral 45 48	вам
+A1	AnaforPerson T1
+R1	Anafor Arg1:T1 Arg2:T0	

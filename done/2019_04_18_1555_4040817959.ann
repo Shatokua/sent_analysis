@@ -1,0 +1,4 @@
+T0	Neutral 0 9	Пономарев
+T1	Negative 90 92	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

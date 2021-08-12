@@ -1,0 +1,13 @@
+T0	Neutral_all 121 136	Михаилу Абызову
+T1	Neutral_all 175 182	Абызова
+T2	Neutral_all 8 10	мы
+A1	Plural T2
+T3	Neutral_all 110 112	мы
+A2	Plural T3
+T4	Neutral_all 152 155	нас
+A3	Plural T4
+T105	Neutral_all 216 219	них
+A4	Plural T105
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T1

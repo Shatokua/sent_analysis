@@ -1,0 +1,4 @@
+T0	Positive 49 80	Леониду Владимировичу Байдерину
+T1	Positive 117 120	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

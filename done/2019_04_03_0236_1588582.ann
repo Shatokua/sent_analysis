@@ -1,0 +1,9 @@
+T0	Neutral 0 8	Григорий
+T3	Neutral 140 142	вы
+A1	AnaforPerson T3
+T101	Neutral_all 25 31	Рамоса
+T102	Neutral_all 39 45	Салаха
+T1	Neutral 101 104	вас
+A2	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T3	

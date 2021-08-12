@@ -1,0 +1,4 @@
+T0	Neutral 21 26	Обама
+T1	Negative 88 90	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

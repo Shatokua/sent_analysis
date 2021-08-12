@@ -1,0 +1,9 @@
+T0	Negative 120 125	Паоло
+T1	Negative 136 139	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 159 162	его
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 60 62	их
+A3	Plural T3

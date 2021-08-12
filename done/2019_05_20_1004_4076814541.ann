@@ -1,0 +1,8 @@
+T0	Neutral 116 132	Петром Порошенко
+T1	Neutral 133 136	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 57 60	них
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1	

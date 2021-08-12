@@ -1,0 +1,5 @@
+T0	Neutral_all 114 122	Скрипаля
+T1	Neutral_all 221 231	Ника Бейли
+T2	Neutral_all 125 128	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

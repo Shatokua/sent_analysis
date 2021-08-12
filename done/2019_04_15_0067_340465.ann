@@ -1,0 +1,4 @@
+T101	Positive 11 25	Христю Фриланд
+T102	Positive 85 87	ее
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

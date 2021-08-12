@@ -1,0 +1,20 @@
+T0	Neutral 400 421	Владимир Владимирович
+T1	Neutral 26 30	него
+A1	AnaforPerson T1
+T2	Neutral 55 58	они
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 260 262	он
+A4	AnaforPerson T3
+T4	Neutral 295 299	него
+A5	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4	
+T5	Neutral 339 342	ним
+A6	AnaforPerson T5
+T6	Neutral 362 365	его
+A7	AnaforPerson T6
+R2	Anafor Arg1:T4 Arg2:T5	
+R3	Anafor Arg1:T5 Arg2:T6	
+T7	Neutral 434 437	они
+A8	AnaforPerson T7
+A9	Plural T7

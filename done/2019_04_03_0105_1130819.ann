@@ -1,0 +1,7 @@
+T100	Negative 131 138	Зюганов
+T101	Negative 140 151	Жириновский
+T102	Neutral 18 21	ней
+A1	AnaforPerson T102
+T103	Neutral 40 43	она
+A2	AnaforPerson T103
+R101	Anafor Arg1:T102 Arg2:T103

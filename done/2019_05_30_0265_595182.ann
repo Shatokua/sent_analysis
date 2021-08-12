@@ -1,0 +1,7 @@
+T0	Neutral_all 24 31	Макрона
+T1	Neutral_all 54 60	Фийона
+T2	Neutral_all 62 64	он
+A1	AnaforPerson T2
+T3	Neutral_all 43 46	они
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

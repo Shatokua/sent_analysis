@@ -1,0 +1,9 @@
+T100	Neutral_all 0 21	Людмила Александровна
+T101	Neutral_all 60 81	Владимир Владимирович
+T102	Neutral_all 84 105	Людмила Александровна
+T103	Neutral_all 193 214	Людмиле Александровне
+T104	Neutral_all 218 220	ее
+A1	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T103
+R3	Anafor Arg1:T103 Arg2:T104

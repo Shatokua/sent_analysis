@@ -1,0 +1,7 @@
+T0	Neutral 85 91	Хрущев
+T1	Neutral 189 196	Кеннеди
+T2	Neutral 214 221	Хрущева
+T3	Neutral 249 252	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

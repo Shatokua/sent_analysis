@@ -1,0 +1,10 @@
+T0	Neutral 28 42	Викторе Ющенко
+T1	Neutral 108 123	Петра Порошенко
+T2	Neutral 188 203	Петра Порошенко
+T3	Neutral 275 277	он
+A1	AnaforPerson T3
+T4	Neutral 324 326	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

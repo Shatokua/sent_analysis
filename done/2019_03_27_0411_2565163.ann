@@ -1,0 +1,9 @@
+T100	Positive_all 81 97	Аскар Узакпаевич
+T101	Positive_all 159 172	Аскара Мамина
+T102	Positive 21 23	он
+A3	AnaforPerson T102
+T103	Positive 67 70	ему
+A4	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T100 Arg2:T103	

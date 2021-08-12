@@ -1,0 +1,5 @@
+T0	Neutral_all 39 48	Карбышева
+T101	Neutral 54 61	Наталья
+T102	Neutral 75 77	ей
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

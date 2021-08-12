@@ -1,0 +1,6 @@
+T0	Neutral_all 329 337	Ив Кляйн
+T1	Neutral_all 138 140	ей
+A1	AnaforPerson T1
+T2	Neutral_all 162 165	она
+A2	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1

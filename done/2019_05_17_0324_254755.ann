@@ -1,0 +1,6 @@
+T1	Neutral 12 40	Януковичу Виктору Федоровичу
+T2	Neutral_all 83 108	Янукович Виктор Федорович
+T3	Neutral_all 79 81	Вы
+A1	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3
+R1	Anafor Arg1:T1 Arg2:T3	

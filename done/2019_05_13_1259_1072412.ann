@@ -1,0 +1,10 @@
+T0	Positive 178 195	Евгению Медведеву
+T1	Neutral 5 8	она
+A1	AnaforPerson T1
+T2	Neutral 61 63	ее
+A2	AnaforPerson T2
+T3	Positive 207 210	нее
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

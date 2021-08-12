@@ -1,0 +1,8 @@
+T0	Neutral_all 0 9	Порошенко
+T3	Neutral_all 40 44	него
+A1	AnaforPerson T3
+T4	Neutral_all 81 85	него
+A2	AnaforPerson T4
+T1	Neutral_all 147 166	Владимир) Плахотнюк
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

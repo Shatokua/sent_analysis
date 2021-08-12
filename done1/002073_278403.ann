@@ -1,0 +1,6 @@
+T0	Neutral_all 0 12	Олег Клочков
+T1	Neutral_all 13 27	Анатолий Вялый
+T2	Neutral_all 180 183	они
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

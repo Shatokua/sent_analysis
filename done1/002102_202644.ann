@@ -1,0 +1,4 @@
+T100	Neutral 0 14	Кирилл Кокорин
+T101	Neutral 43 52	Александр
+T102	Neutral 160 166	Кирилл
+R1	Anafor Arg1:T100 Arg2:T102	

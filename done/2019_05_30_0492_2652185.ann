@@ -1,0 +1,4 @@
+T0	Neutral_all 14 20	Егоров
+T1	Neutral_all 143 164	Александр Соломонович
+T2	Neutral_all 195 211	Борис Леонидович
+R1	Anafor Arg1:T2 Arg2:T0

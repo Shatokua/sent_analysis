@@ -1,0 +1,15 @@
+T0	Neutral_all 108 122	Нико Росбергом
+T1	Neutral_all 125 143	Льюисом Хэмилтоном
+T2	Neutral_all 155 162	Льюисом
+T3	Neutral_all 165 173	Валттери
+T4	Neutral_all 26 28	вы
+A1	Plural T4
+T5	Neutral_all 59 61	вы
+A2	Plural T5
+T6	Neutral_all 86 88	Мы
+A3	Plural T6
+R1	Anafor Arg1:T4 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T6
+R102	Anafor Arg1:T1 Arg2:T6
+R103	Anafor Arg1:T2 Arg2:T6
+R104	Anafor Arg1:T3 Arg2:T6

@@ -1,0 +1,6 @@
+T0	Neutral_all 0 5	Путин
+T1	Neutral_all 64 73	Макаревич
+T2	Neutral_all 102 112	Навального
+T103	Neutral 84 87	они
+A2	Plural T103
+A1	AnaforPerson T103

@@ -1,0 +1,9 @@
+T0	Neutral_all 37 43	Путину
+T1	Neutral_all 128 133	Путин
+T2	Neutral_all 172 177	Путин
+T103	Neutral_all 115 117	им
+A1	Plural T103
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T0

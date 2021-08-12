@@ -1,0 +1,6 @@
+T0	Neutral 0 13	Виктор Ющенко
+T1	Neutral 124 130	Ющенко
+T2	Neutral 169 175	Ющенко
+T3	Neutral 284 294	Саакашвили
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

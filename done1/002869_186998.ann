@@ -1,0 +1,15 @@
+T0	Neutral_all 15 21	Трампа
+T1	Neutral_all 196 215	Биньямина Нетаньяху
+T2	Neutral_all 297 306	Нетаньяху
+T3	Neutral_all 346 351	Трамп
+T4	Neutral_all 33 36	его
+A1	AnaforPerson T4
+T5	Neutral_all 129 131	он
+A2	AnaforPerson T5
+T6	Neutral_all 368 370	он
+A3	AnaforPerson T6
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T6
+R3	Anafor Arg1:T3 Arg2:T0
+R4	Anafor Arg1:T0 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T4

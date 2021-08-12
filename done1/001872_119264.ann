@@ -1,0 +1,17 @@
+T4	Neutral_all 203 212	Порошенко
+T5	Neutral_all 215 226	Коломойским
+T6	Neutral_all 24 26	ее
+A1	AnaforPerson T6
+T1	Neutral_all 69 97	Коломойский Игорь Валерьевич
+T2	Neutral_all 123 148	Порошенко Петр Алексеевич
+T3	Neutral_all 178 181	Они
+A2	Plural T3
+T7	Neutral_all 235 238	нас
+A3	Plural T7
+T8	Neutral_all 337 339	мы
+A4	Plural T8
+R1	Anafor Arg1:T1 Arg2:T5
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3
+R4	Anafor Arg1:T5 Arg2:T3
+R5	Anafor Arg1:T8 Arg2:T7

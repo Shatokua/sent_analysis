@@ -1,0 +1,5 @@
+T0	Neutral_all 13 23	Нарышкиным
+T3	Neutral_all 90 99	Нарышкину
+T1	Neutral_all 54 73	Михаилом] Фрадковым
+T2	Neutral_all 74 79	Путин
+R1	Anafor Arg1:T0 Arg2:T3

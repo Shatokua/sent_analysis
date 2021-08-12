@@ -1,0 +1,5 @@
+T0	Neutral_all 114 128	Томаса Боргена
+T1	Neutral_all 198 212	Томаса Боргена
+T2	Neutral_all 167 169	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1

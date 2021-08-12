@@ -1,0 +1,9 @@
+T2	Neutral 183 185	ты
+A1	AnaforPerson T2
+T100	Negative_all 0 14	Роман Цимбалюк
+T101	Neutral 85 90	Роман
+T102	Negative 122 126	тебе
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T100 Arg2:T101	
+R3	Anafor Arg1:T102 Arg2:T2	

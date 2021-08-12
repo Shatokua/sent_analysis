@@ -1,0 +1,13 @@
+T3	Negative 77 79	Он
+A1	AnaforPerson T3
+T4	Negative 114 117	Сам
+A2	AnaforPerson T4
+T5	Negative 178 180	он
+A3	AnaforPerson T5
+T100	Neutral_all 159 169	Таргамадзе
+T101	Negative_all 21 31	К.Лебедеву
+T102	Negative_all 52 62	Константин
+R101	Anafor Arg1:T101 Arg2:T102
+R1	Anafor Arg1:T102 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T5	

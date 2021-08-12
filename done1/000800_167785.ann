@@ -1,0 +1,11 @@
+T0	Neutral_all 26 42	Ярослав Ракицкий
+T1	Positive_all 396 403	Ярослав
+T2	Positive_all 551 559	Ярославу
+T4	Positive_all 626 633	Ярослав
+T5	Positive_all 711 719	Ярослава
+T103	Positive 601 609	Ярослава
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T103	
+R4	Anafor Arg1:T103 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	

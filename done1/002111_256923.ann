@@ -1,0 +1,9 @@
+T0	Neutral_all 111 127	Евгений Степовик
+T1	Neutral_all 129 144	Евгений Субачев
+T2	Negative_all 153 156	они
+A1	Plural T2
+T3	Negative_all 189 192	они
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

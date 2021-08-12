@@ -1,0 +1,3 @@
+T0	Neutral_all 22 30	Гройсман
+T101	Negative 158 167	Гройсмана
+R1	Anafor Arg1:T0 Arg2:T101	

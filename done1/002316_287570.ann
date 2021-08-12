@@ -1,0 +1,6 @@
+T0	Neutral_all 564 571	А.Кайро
+T1	Neutral_all 642 649	А.Кайро
+T2	Neutral_all 763 767	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

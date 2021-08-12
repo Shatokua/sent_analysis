@@ -1,0 +1,13 @@
+T0	Neutral_all 85 94	Порошенко
+T1	Neutral_all 175 195	Владимира Зеленского
+T2	Neutral_all 298 305	Путиным
+T3	Neutral_all 46 49	его
+A1	AnaforPerson T3
+T4	Neutral_all 208 210	он
+A2	AnaforPerson T4
+T5	Neutral_all 292 295	ним
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R103	Anafor Arg1:T4 Arg2:T5

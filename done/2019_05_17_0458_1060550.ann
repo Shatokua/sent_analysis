@@ -1,0 +1,3 @@
+T0	Neutral_all 82 89	Лариной
+T1	Neutral_all 141 148	Лариной
+R1	Anafor Arg1:T0 Arg2:T1

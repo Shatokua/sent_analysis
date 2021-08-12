@@ -1,0 +1,11 @@
+T1	Neutral_all 31 34	Вас
+A1	Plural T1
+T2	Neutral_all 414 418	Вами
+A2	Plural T2
+T3	Neutral_all 463 466	Вас
+A3	Plural T3
+T4	Neutral_all 503 506	них
+A4	Plural T4
+T100	Neutral_all 66 82	Александра Грина
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2

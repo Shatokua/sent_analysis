@@ -1,0 +1,7 @@
+T0	Neutral_all 13 22	Уайлдером
+T1	Neutral_all 25 30	Фьюри
+T2	Neutral_all 71 78	Уайлдер
+T3	Neutral_all 132 137	Фьюри
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T0 Arg2:T2

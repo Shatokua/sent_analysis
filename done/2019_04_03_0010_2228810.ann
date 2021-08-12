@@ -1,0 +1,6 @@
+T100	Neutral_all 31 36	Кучма
+T101	Neutral_all 38 44	Ющенко
+T102	Neutral_all 46 54	Янукович
+T103	Neutral_all 57 66	Порошенко
+T104	Neutral 1 4	Она
+A1	AnaforPerson T104

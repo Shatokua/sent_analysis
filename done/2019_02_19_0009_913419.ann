@@ -1,0 +1,4 @@
+T1	Positive 61 75	Павел Корпачев
+T102	Positive 162 169	Горошко
+T2	Neutral 200 203	ему
+R1	Anafor Arg1:T102 Arg2:T2	

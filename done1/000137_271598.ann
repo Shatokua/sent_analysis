@@ -1,0 +1,12 @@
+T0	Neutral_all 410 428	Искендер Матраимов
+T1	Neutral_all 456 459	его
+A1	AnaforPerson T1
+T2	Neutral_all 504 506	он
+T3	Neutral_all 544 547	его
+A2	AnaforPerson T3
+T4	Neutral_all 609 611	он
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3
+R104	Anafor Arg1:T3 Arg2:T4

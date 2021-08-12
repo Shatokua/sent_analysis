@@ -1,0 +1,9 @@
+T0	Neutral_all 152 165	Лика Каширина
+T1	Neutral_all 169 182	Мила Сивацкая
+T2	Neutral_all 30 33	они
+A1	Plural T2
+T103	Neutral_all 200 202	их
+A2	Plural T103
+R101	Anafor Arg1:T1 Arg2:T103
+R103	Anafor Arg1:T2 Arg2:T103
+R102	Anafor Arg1:T0 Arg2:T103

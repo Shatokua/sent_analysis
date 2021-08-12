@@ -1,0 +1,6 @@
+T0	Neutral_all 11 23	Власов А. А.
+T2	Neutral_all 26 29	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T1	Neutral 187 216	Власову Андрею Александровичу
+R2	Anafor Arg1:T1 Arg2:T2	

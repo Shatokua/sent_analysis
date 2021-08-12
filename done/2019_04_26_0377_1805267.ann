@@ -1,0 +1,5 @@
+T0	Neutral_all 0 6	Собчак
+T1	Neutral_all 37 45	Собянина
+T2	Neutral_all 70 73	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

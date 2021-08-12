@@ -1,0 +1,4 @@
+T1	Neutral 0 20	Оле Эйнер Бьорндален
+T2	Positive 48 51	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

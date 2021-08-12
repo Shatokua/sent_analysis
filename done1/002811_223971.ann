@@ -1,0 +1,12 @@
+T0	Neutral_all 182 191	Кузнецова
+T1	Neutral_all 193 200	Боброва
+T2	Neutral_all 202 210	Шевченко
+T3	Neutral_all 242 260	Екатерины Петровой
+T4	Neutral_all 275 288	Мария Тисевич
+T5	Neutral_all 572 579	Петрова
+T6	Neutral_all 0 2	Мы
+A1	Plural T6
+T7	Neutral_all 81 84	нас
+A2	Plural T7
+R1	Anafor Arg1:T3 Arg2:T5
+R2	Anafor Arg1:T6 Arg2:T7

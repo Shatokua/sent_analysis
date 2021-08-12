@@ -1,0 +1,29 @@
+T0	Neutral_all 50 65	Андрея Малахова
+T1	Neutral_all 550 565	Андрея Малахова
+T2	Neutral_all 67 70	Они
+A1	Plural T2
+T3	Neutral_all 102 104	их
+A2	Plural T3
+T4	Neutral_all 127 130	они
+A3	Plural T4
+T5	Neutral_all 173 177	ними
+A4	Plural T5
+T6	Neutral_all 343 346	они
+A5	Plural T6
+T7	Neutral_all 383 386	они
+A6	Plural T7
+T8	Neutral_all 599 602	его
+A7	AnaforPerson T8
+T9	Neutral_all 616 619	его
+A8	AnaforPerson T9
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T8
+R3	Anafor Arg1:T8 Arg2:T9
+R4	Anafor Arg1:T7 Arg2:T6
+R5	Anafor Arg1:T6 Arg2:T4
+R6	Anafor Arg1:T4 Arg2:T2
+R7	Anafor Arg1:T2 Arg2:T3
+R8	Anafor Arg1:T3 Arg2:T5
+R104	Anafor Arg1:T2 Arg2:T4
+R105	Anafor Arg1:T4 Arg2:T3
+R107	Anafor Arg1:T6 Arg2:T7

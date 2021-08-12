@@ -1,0 +1,7 @@
+T0	Neutral_all 47 53	Дениса
+T1	Positive_all 88 96	Лебедева
+T2	Positive_all 104 107	ему
+A1	AnaforPerson T2
+T3	Neutral_all 40 46	нашего
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

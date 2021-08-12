@@ -1,0 +1,7 @@
+T0	Neutral 42 55	Квасьневского
+T1	Neutral 58 63	Кокса
+T2	Neutral 90 93	Они
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

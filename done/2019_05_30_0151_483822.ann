@@ -1,0 +1,5 @@
+T1	Neutral_all 129 141	Александрова
+T2	Positive 110 113	его
+A1	AnaforPerson T2
+T100	Positive 74 91	Иосифу Давыдовичу
+R1	Anafor Arg1:T100 Arg2:T2	

@@ -1,0 +1,46 @@
+T0	Neutral_all 37 44	Видюков
+T1	Neutral_all 56 64	Тюкавкин
+T2	Neutral_all 352 359	Сергеев
+T3	Neutral_all 468 476	Сергеева
+T4	Neutral_all 646 653	Шестуна
+T5	Neutral_all 782 789	Шестуна
+T6	Neutral_all 830 834	Юлия
+T10	Neutral_all 905 916	Юлии Шестун
+T11	Negative_all 166 168	их
+A1	Plural T11
+T12	Neutral_all 388 392	нему
+A2	AnaforPerson T12
+T13	Neutral_all 436 439	ему
+A3	AnaforPerson T13
+T14	Neutral_all 563 566	ему
+A4	AnaforPerson T14
+T15	Neutral_all 612 615	его
+A5	AnaforPerson T15
+T16	Neutral_all 673 675	ее
+A6	AnaforPerson T16
+T17	Neutral_all 790 793	ему
+A7	AnaforPerson T17
+T18	Neutral_all 796 799	его
+A8	AnaforPerson T18
+T19	Neutral_all 818 820	их
+A9	Plural T19
+T7	Neutral_all 837 849	Мария Шестун
+T8	Neutral_all 924 926	ее
+A10	AnaforPerson T8
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T14
+R3	Anafor Arg1:T14 Arg2:T15
+R4	Anafor Arg1:T15 Arg2:T13
+R5	Anafor Arg1:T13 Arg2:T12
+R6	Anafor Arg1:T4 Arg2:T5
+R7	Anafor Arg1:T5 Arg2:T17
+R8	Anafor Arg1:T17 Arg2:T18
+R9	Anafor Arg1:T6 Arg2:T10
+R10	Anafor Arg1:T10 Arg2:T8
+R11	Anafor Arg1:T1 Arg2:T11
+R12	Anafor Arg1:T0 Arg2:T11
+R101	Anafor Arg1:T10 Arg2:T6
+R102	Anafor Arg1:T6 Arg2:T8
+R109	Anafor Arg1:T3 Arg2:T12
+R110	Anafor Arg1:T12 Arg2:T13
+R111	Anafor Arg1:T13 Arg2:T14

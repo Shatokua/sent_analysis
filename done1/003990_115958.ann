@@ -1,0 +1,7 @@
+T0	Neutral_all 217 234	Виктора Януковича
+T1	Neutral_all 257 265	Витренко
+T2	Neutral_all 21 23	мы
+A1	Plural T2
+T3	Neutral_all 142 145	вам
+A2	Plural T3
+R101	Anafor Arg1:T2 Arg2:T3

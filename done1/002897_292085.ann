@@ -1,0 +1,18 @@
+T0	Neutral_all 71 82	Павла Гриба
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 84 86	Он
+A2	AnaforPerson T2
+T3	Neutral_all 152 154	Мы
+A3	Plural T3
+T4	Neutral_all 167 170	его
+A4	AnaforPerson T4
+T5	Neutral_all 215 218	его
+A5	AnaforPerson T5
+T6	Neutral_all 241 244	его
+A6	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T6
+R5	Anafor Arg1:T1 Arg2:T3

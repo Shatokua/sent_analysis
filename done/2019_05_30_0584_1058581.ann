@@ -1,0 +1,7 @@
+T0	Neutral_all 72 83	Гарри Кейне
+T1	Neutral_all 108 113	Кейне
+T2	Neutral_all 150 162	Ибрагимовича
+T3	Neutral_all 164 169	Погба
+T4	Neutral_all 171 175	Рохо
+T5	Neutral_all 177 184	Кэррика
+R1	Anafor Arg1:T0 Arg2:T1

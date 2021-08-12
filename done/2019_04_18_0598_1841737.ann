@@ -1,0 +1,13 @@
+T0	Neutral 14 19	Трамп
+T1	Neutral 38 40	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 92 95	его
+A2	AnaforPerson T2
+T3	Neutral 114 117	его
+A3	AnaforPerson T3
+T4	Negative 137 140	его
+A4	AnaforPerson T4
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

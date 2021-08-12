@@ -1,0 +1,5 @@
+T1	Neutral 32 43	Коломойским
+A1	AnaforPerson T1
+T2	Neutral 0 3	Вам
+A2	AnaforPerson T2
+A3	Plural T2

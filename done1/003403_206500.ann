@@ -1,0 +1,7 @@
+T0	Neutral_all 286 302	Ольги Сотниковой
+T1	Neutral_all 305 311	Сушков
+T2	Neutral_all 318 328	Сотниковой
+T3	Neutral_all 366 374	Колосова
+T4	Neutral_all 130 133	она
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2

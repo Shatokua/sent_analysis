@@ -1,0 +1,5 @@
+T0	Positive 48 60	Самар Бадави
+T1	Positive 103 116	Раифом Бадави
+T2	Positive 84 86	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

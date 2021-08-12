@@ -1,0 +1,5 @@
+T0	Neutral_all 41 49	Коутиньо
+T1	Neutral_all 117 125	Коутиньо
+T2	Neutral_all 76 78	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	Neutral_all 48 57	С.Доренко
+T1	Neutral_all 276 285	С.Доренко
+T2	Neutral_all 340 349	С.Доренко
+T3	Neutral_all 350 354	Юлия
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

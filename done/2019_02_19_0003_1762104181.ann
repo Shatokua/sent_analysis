@@ -1,0 +1,8 @@
+T101	Neutral_all 390 400	Магнитский
+T102	Negative 576 586	Магнитский
+T103	Negative_all 630 646	Уильяма Браудера
+T104	Neutral_all 93 104	Магнитского
+T105	Neutral_all 315 326	Магнитского
+R1	Anafor Arg1:T101 Arg2:T105	
+R2	Anafor Arg1:T105 Arg2:T104	
+R3	Anafor Arg1:T101 Arg2:T102	

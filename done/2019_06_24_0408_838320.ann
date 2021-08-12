@@ -1,0 +1,5 @@
+T0	Neutral_all 45 51	Гитлер
+T3	Neutral_all 41 43	он
+A2	AnaforPerson T3
+T101	Neutral 129 133	Асад
+R1	Anafor Arg1:T0 Arg2:T3

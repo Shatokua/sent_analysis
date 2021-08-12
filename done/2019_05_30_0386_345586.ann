@@ -1,0 +1,4 @@
+T0	Neutral_all 33 38	Месси
+T1	Neutral_all 41 48	Суареса
+T2	Neutral_all 65 70	Месси
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,9 @@
+T0	Negative 0 10	Саакашвили
+T1	Neutral 49 51	он
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 148 151	ним
+A1	AnaforPerson T2
+T3	Neutral 239 242	они
+A2	AnaforPerson T3
+A3	Plural T3
+A4	AnaforPerson T1

@@ -1,0 +1,7 @@
+T0	Positive 65 69	Паша
+T1	Neutral 33 35	он
+A1	AnaforPerson T1
+T2	Positive 111 113	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T2	

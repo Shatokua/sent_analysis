@@ -1,0 +1,8 @@
+T1	Neutral_all 161 167	Гуаидо
+T2	Positive 26 29	его
+A1	AnaforPerson T2
+T3	Neutral_all 113 116	Они
+A2	Plural T3
+T100	Positive 8 23	Николасу Мадуро
+R1	Anafor Arg1:T100 Arg2:T2	
+A3	AnaforPerson T3

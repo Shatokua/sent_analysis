@@ -1,0 +1,5 @@
+T0	Neutral_all 141 156	Дональду Трампу
+T1	Neutral_all 20 22	Мы
+A1	Plural T1
+T2	Neutral_all 115 117	Ее
+A2	AnaforPerson T2

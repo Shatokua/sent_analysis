@@ -1,0 +1,5 @@
+T0	Neutral_all 0 16	Константин Эрнст
+T1	Neutral_all 30 40	Поклонская
+T2	Neutral_all 91 94	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

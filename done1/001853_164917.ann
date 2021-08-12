@@ -1,0 +1,7 @@
+T0	Neutral_all 26 36	Плахотнюка
+T1	Neutral_all 82 99	Вячеслава Платона
+T2	Neutral_all 46 48	мы
+A1	Plural T2
+T3	Neutral_all 109 112	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

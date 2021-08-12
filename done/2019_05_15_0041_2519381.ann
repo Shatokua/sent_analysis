@@ -1,0 +1,4 @@
+T0	Neutral_all 0 7	Овечкин
+T1	Neutral_all 21 29	Федорова
+T2	Positive_all 132 136	Сашу
+R1	Anafor Arg1:T0 Arg2:T2

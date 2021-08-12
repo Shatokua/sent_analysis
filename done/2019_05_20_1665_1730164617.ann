@@ -1,0 +1,8 @@
+T0	Neutral 218 232	Дмитрий Свищев
+T1	Positive 17 19	вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 79 81	вы
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

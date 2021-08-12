@@ -1,0 +1,5 @@
+T1	Neutral 287 292	Путин
+T100	Negative_all 128 135	Ливанов
+T2	Negative 250 252	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T2	

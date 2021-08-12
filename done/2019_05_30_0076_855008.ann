@@ -1,0 +1,5 @@
+T0	Neutral_all 9 16	Трампом
+T101	Neutral 48 55	Трампом
+T102	Neutral 88 95	Трампом
+R1	Anafor Arg1:T0 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T102	

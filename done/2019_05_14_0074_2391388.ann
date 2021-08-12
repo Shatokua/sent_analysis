@@ -1,0 +1,5 @@
+T0	Neutral_all 79 91	Хуана Гуайдо
+T1	Neutral 169 175	Мадуро
+T2	Neutral_all 178 181	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

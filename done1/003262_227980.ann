@@ -1,0 +1,14 @@
+T0	Neutral_all 98 116	Татьяну Загороднюю
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 19 23	вами
+A2	Plural T2
+T3	Neutral_all 77 79	Мы
+A3	Plural T3
+T4	Neutral_all 145 147	мы
+A4	Plural T4
+T5	Neutral_all 242 244	Мы
+A5	Plural T5
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5

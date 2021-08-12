@@ -1,0 +1,4 @@
+T0	Neutral_all 54 68	Евгения Понича
+T1	Neutral_all 69 84	Романа Кулишова
+T2	Neutral_all 219 226	Поничем
+R1	Anafor Arg1:T0 Arg2:T2

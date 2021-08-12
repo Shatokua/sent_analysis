@@ -1,0 +1,7 @@
+T2	Neutral 50 53	его
+A1	AnaforPerson T2
+T100	Neutral_all 160 168	Савченко
+T101	Neutral_all 7 12	Путин
+T103	Neutral_all 183 188	Путин
+R1	Anafor Arg1:T101 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T103	

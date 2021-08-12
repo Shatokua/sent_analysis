@@ -1,0 +1,4 @@
+T0	Positive_all 59 63	Дашу
+T1	Neutral_all 65 83	Дарья Владимировна
+T2	Positive_all 122 146	Уле-Эйнаром Бьорндаленом
+R1	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,8 @@
+T2	Negative 225 230	Путин
+T4	Negative 311 314	его
+A1	AnaforPerson T4
+T100	Negative 35 45	Януковичем
+T101	Negative_all 126 144	Александр Янукович
+T103	Negative_all 263 272	Януковича
+R1	Anafor Arg1:T4 Arg2:T103
+R2	Anafor Arg1:T100 Arg2:T103	

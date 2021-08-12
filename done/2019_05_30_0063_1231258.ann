@@ -1,0 +1,7 @@
+T0	Neutral_all 0 6	Гордон
+T1	Neutral_all 107 113	Гордон
+T2	Neutral_all 114 123	Подлипчук
+T3	Neutral_all 124 134	Прокофьева
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T2	Negative 193 202	Давутоглу
+T101	Neutral_all 76 87	Барак Обама
+T1	Neutral 259 262	ним
+R1	Anafor Arg1:T2 Arg2:T1	
+T3	Neutral 0 3	Она

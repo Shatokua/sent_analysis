@@ -1,0 +1,14 @@
+T0	Positive 242 258	Рамзана Кадырова
+T1	Neutral 0 3	Они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 61 63	Их
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Positive 299 302	его
+A5	AnaforPerson T3
+T4	Positive 331 334	вам
+A6	AnaforPerson T4
+A7	Plural T4
+R2	Anafor Arg1:T0 Arg2:T3	

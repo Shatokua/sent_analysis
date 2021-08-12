@@ -1,0 +1,8 @@
+T3	Negative 34 38	тебя
+A1	AnaforPerson T3
+T4	Negative 10 12	ты
+A2	AnaforPerson T4
+T100	Negative_all 0 5	Диего
+T102	Negative_all 115 120	Месси
+R1	Anafor Arg1:T100 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3	

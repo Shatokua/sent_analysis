@@ -1,0 +1,4 @@
+T0	Neutral_all 72 85	Ольга Горская
+T1	Neutral_all 566 568	мы
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

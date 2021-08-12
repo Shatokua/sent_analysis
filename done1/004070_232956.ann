@@ -1,0 +1,12 @@
+T1	Neutral_all 135 140	Дэвид
+T2	Neutral_all 185 199	Рудольфа Гесса
+T3	Neutral_all 0 2	Он
+A1	AnaforPerson T3
+T4	Neutral_all 103 110	Эдварда
+T5	Neutral_all 112 115	его
+A2	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R101	Anafor Arg1:T4 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T3

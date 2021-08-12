@@ -1,0 +1,7 @@
+T0	Neutral_all 15 32	Тимофей Меньшиков
+T1	Neutral_all 70 86	Олесь Гераймович
+T2	Neutral_all 140 147	Тимофея
+T3	Neutral_all 113 116	нем
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,6 @@
+T0	Neutral_all 23 33	Пискорский
+T1	Neutral_all 415 435	Александра Гапоненко
+T2	Neutral_all 518 538	Альгирдаса Палецкиса
+T3	Neutral_all 19 21	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

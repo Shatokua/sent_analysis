@@ -1,0 +1,5 @@
+T0	Neutral_all 184 200	Татьяной Орловой
+T1	Neutral_all 179 181	Мы
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

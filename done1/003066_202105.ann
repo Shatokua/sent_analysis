@@ -1,0 +1,7 @@
+T0	Neutral_all 96 102	Дэвида
+T1	Neutral_all 159 175	Харви Вайнштейна
+T2	Neutral_all 120 122	он
+A1	AnaforPerson T2
+T3	Neutral_all 236 239	нас
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

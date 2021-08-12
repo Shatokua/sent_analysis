@@ -1,0 +1,4 @@
+T0	Neutral 0 15	Ольга Платонова
+T1	Positive 71 74	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

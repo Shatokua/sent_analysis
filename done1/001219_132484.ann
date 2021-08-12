@@ -1,0 +1,9 @@
+T0	Neutral_all 0 17	Мирбек Асанакунов
+T1	Neutral_all 264 274	Асанакунов
+T2	Neutral_all 97 99	им
+A1	AnaforPerson T2
+T3	Neutral_all 187 191	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

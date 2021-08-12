@@ -1,0 +1,17 @@
+T0	Neutral_all 23 39	Моникой Беллуччи
+T1	Neutral_all 41 53	Карлой Бруни
+T2	Neutral_all 55 75	Изабеллой Росселлини
+T3	Neutral_all 77 95	Хеленой Кристенсен
+T4	Neutral_all 97 111	Наоми Кэмпбелл
+T5	Neutral_all 145 150	Китти
+T6	Neutral_all 170 172	Мы
+A1	Plural T6
+T7	Positive_all 369 372	них
+A2	AnaforPerson T7
+A3	Plural T7
+R1	Anafor Arg1:T4 Arg2:T7
+R2	Anafor Arg1:T3 Arg2:T7
+R3	Anafor Arg1:T2 Arg2:T7
+R4	Anafor Arg1:T1 Arg2:T7
+R5	Anafor Arg1:T0 Arg2:T7
+R6	Anafor Arg1:T5 Arg2:T6

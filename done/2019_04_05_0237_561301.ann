@@ -1,0 +1,7 @@
+T100	Negative 0 7	Маккейн
+T101	Negative 10 14	Грэм
+T102	Neutral_all 46 51	Асада
+T1	Negative 53 56	Они
+A1	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T101 Arg2:T1	

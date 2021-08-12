@@ -1,0 +1,8 @@
+T5	Negative 106 109	его
+A1	AnaforPerson T5
+T100	Negative_all 53 63	Мединского
+T101	Positive 182 199	Даниилом Граниным
+T102	Neutral_all 297 314	Сергеем Мироненко
+T103	Neutral_all 374 391	Владимира Кехмана
+T104	Neutral_all 447 462	Бориса Мездрича
+R1	Anafor Arg1:T100 Arg2:T5

@@ -1,0 +1,5 @@
+T4	Neutral_all 142 145	его
+T100	Neutral 14 34	Антоном Германовичем
+T101	Neutral 36 44	Силуанов
+R1	Anafor Arg1:T100 Arg2:T101	
+A1	AnaforPerson T4

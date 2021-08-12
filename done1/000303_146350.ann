@@ -1,0 +1,15 @@
+T0	Neutral_all 44 60	Марка Цукерберга
+T1	Neutral_all 62 65	Его
+A1	AnaforPerson T1
+T2	Neutral_all 71 73	мы
+A2	AnaforPerson T2
+T3	Neutral_all 131 133	он
+A3	AnaforPerson T3
+T4	Neutral_all 225 228	его
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T4

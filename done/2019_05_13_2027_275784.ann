@@ -1,0 +1,4 @@
+T1	Positive 125 128	Его
+A1	AnaforPerson T1
+T2	Positive 0 4	Рекс
+R1	Anafor Arg1:T2 Arg2:T1	

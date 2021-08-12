@@ -1,0 +1,5 @@
+T0	Neutral_all 54 71	Владимир Воронков
+T1	Neutral_all 38 41	его
+A1	AnaforPerson T1
+T2	Neutral_all 242 245	они
+A2	Plural T2

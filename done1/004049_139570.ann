@@ -1,0 +1,12 @@
+T0	Neutral_all 0 17	Энди Руис-младший
+T1	Neutral_all 57 74	Джозефом Паркером
+T2	Neutral_all 154 167	Энтони Джошуа
+T3	Neutral_all 30 32	он
+A1	AnaforPerson T3
+T4	Neutral_all 90 93	его
+A2	AnaforPerson T4
+T5	Neutral_all 130 132	он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T5

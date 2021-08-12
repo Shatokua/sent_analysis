@@ -1,0 +1,9 @@
+T0	Neutral_all 30 34	Кейт
+T1	Positive 118 124	Уильям
+T2	Positive 127 131	Кейт
+T3	Positive 113 116	они
+A1	Plural T3
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T0 Arg2:T2	

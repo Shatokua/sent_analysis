@@ -1,0 +1,8 @@
+T100	Neutral_all 99 108	Турчинова
+T101	Neutral_all 111 120	Порошенко
+T102	Negative 240 249	Порошенко
+T1	Neutral 132 135	они
+A1	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T101 Arg2:T1	
+R3	Anafor Arg1:T101 Arg2:T102	

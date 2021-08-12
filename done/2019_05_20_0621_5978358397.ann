@@ -1,0 +1,5 @@
+T0	Neutral 21 38	Владимир Гройсман
+T1	Neutral 270 284	Арсений Яценюк
+T2	Neutral 261 265	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

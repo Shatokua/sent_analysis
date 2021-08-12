@@ -1,0 +1,13 @@
+T0	Neutral 5 17	Джоном Керри
+T1	Neutral 0 2	Мы
+A1	Plural T1
+T2	Neutral 136 140	него
+A2	AnaforPerson T2
+T3	Neutral 165 167	он
+A3	AnaforPerson T3
+T4	Neutral 211 215	него
+A4	AnaforPerson T4
+R3	Variant Arg1:T0 Arg2:T3	
+R4	Variant Arg1:T3 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T4	
+R1	Variant Arg1:T4 Arg2:T1	

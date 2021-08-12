@@ -1,0 +1,14 @@
+T0	Positive_all 15 22	Фиделем
+T1	Positive_all 61 68	Фиделем
+T2	Positive_all 78 85	Фиделем
+T3	Positive_all 89 96	Фиделем
+T4	Positive_all 147 154	Фиделем
+T5	Neutral_all 0 2	Мы
+A1	Plural T5
+T106	Neutral_all 72 77	нашим
+A2	Plural T106
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R105	Anafor Arg1:T5 Arg2:T106

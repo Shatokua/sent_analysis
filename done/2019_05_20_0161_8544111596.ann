@@ -1,0 +1,10 @@
+T0	Neutral 0 9	Медведчук
+T1	Neutral 63 65	Он
+A1	AnaforPerson T1
+T2	Neutral 103 105	Он
+A2	AnaforPerson T2
+T3	Neutral 165 167	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,7 @@
+T0	Neutral_all 39 46	Роналду
+T1	Neutral_all 49 54	Месси
+T102	Positive 90 93	они
+A3	Plural T102
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T102	
+A1	AnaforPerson T102

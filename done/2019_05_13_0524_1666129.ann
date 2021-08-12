@@ -1,0 +1,7 @@
+T0	Positive 10 30	Елизавета Алексеевна
+T1	Positive 32 34	Вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 110 113	вам
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T101	Neutral_all 84 96	Женя Алдонин
+T102	Positive 28 30	ее
+A1	AnaforPerson T102
+T1	Positive 32 36	Юлию
+R1	Anafor Arg1:T1 Arg2:T102	

@@ -1,0 +1,5 @@
+T2	Neutral 118 121	его
+A1	AnaforPerson T2
+T100	Neutral_all 32 37	Дерев
+T101	Neutral_all 65 78	Борису Титову
+R1	Anafor Arg1:T100 Arg2:T2

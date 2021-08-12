@@ -1,0 +1,3 @@
+T100	Negative 0 5	Путин
+T101	Negative 167 172	Путин
+R101	Anafor Arg1:T100 Arg2:T101

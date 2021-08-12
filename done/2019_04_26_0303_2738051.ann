@@ -1,0 +1,5 @@
+T0	Neutral_all 28 34	Быкова
+T1	Neutral_all 141 147	Быкова
+T2	Neutral_all 61 64	вам
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Neutral 65 74	Явлинский
+T3	Neutral 75 83	Касьянов
+T100	Neutral_all 34 46	Ходорковсому
+T102	Neutral_all 86 94	Шлосберг
+T103	Neutral_all 100 102	он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103

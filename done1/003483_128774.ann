@@ -1,0 +1,7 @@
+T0	Neutral_all 11 29	Дмитрием Киселёвым
+T1	Neutral_all 162 184	Александру Шкуринскому
+T2	Neutral_all 189 192	ему
+A1	AnaforPerson T2
+T103	Neutral_all 106 109	нам
+A2	Plural T103
+R1	Anafor Arg1:T1 Arg2:T2

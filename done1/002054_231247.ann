@@ -1,0 +1,10 @@
+T0	Neutral_all 41 59	Курманбека Бакиева
+T1	Neutral_all 64 77	Аскара Акаева
+T2	Neutral_all 329 350	Алмазбеком Атамбаевым
+T3	Neutral_all 157 159	Их
+A1	Plural T3
+T4	Neutral_all 263 266	них
+A2	Plural T4
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

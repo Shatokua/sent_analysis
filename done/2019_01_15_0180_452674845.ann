@@ -1,0 +1,11 @@
+T100	Negative_all 104 109	Путин
+T101	Neutral 0 3	Его
+T102	Neutral 255 268	Ходорковского
+R101	Anafor Arg1:T100 Arg2:T101
+A1	AnaforPerson T101
+T1	Negative 181 184	ему
+A2	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+T2	Negative 233 236	ему
+A3	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

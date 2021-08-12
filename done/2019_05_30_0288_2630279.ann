@@ -1,0 +1,8 @@
+T0	Neutral_all 21 29	Загитова
+T1	Neutral_all 32 41	Медведева
+T2	Neutral_all 47 56	Медведева
+T3	Neutral_all 87 97	Тутберидзе
+T4	Positive 101 103	ее
+A1	AnaforPerson T4
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T3 Arg2:T4	

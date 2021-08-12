@@ -1,0 +1,4 @@
+T0	Neutral_all 139 144	Джона
+T1	Neutral_all 153 162	Хантсмана
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

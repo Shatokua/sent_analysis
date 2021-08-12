@@ -1,0 +1,6 @@
+T0	Neutral 423 433	Мединского
+T103	Neutral 534 547	Даниил Гранин
+T104	Neutral 628 631	его
+T1	Neutral 451 462	А.И. Вислым
+A1	AnaforPerson T104
+R1	Anafor Arg1:T103 Arg2:T104	

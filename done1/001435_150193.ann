@@ -1,0 +1,28 @@
+T0	Neutral_all 51 57	Сергею
+T1	Neutral_all 59 65	Роману
+T2	Neutral_all 68 85	Владимиру Шиловым
+T3	Neutral_all 87 101	Сергею Спирину
+T4	Neutral_all 103 121	Владиславу Теплову
+T7	Neutral_all 144 161	Денису Сукиасьяну
+T8	Neutral_all 163 178	Ольге Зелениной
+T9	Neutral_all 180 195	Рафику Симоняну
+T10	Neutral_all 197 214	Армену Карапетяну
+T11	Neutral_all 216 236	Александру Везоргину
+T12	Neutral_all 238 251	Озоде Исоевой
+T5	Neutral_all 123 142	Валентину Котенкову
+T6	Neutral_all 254 273	Абдурахмону Эшонову
+T13	Neutral_all 279 282	они
+A1	Plural T13
+R101	Anafor Arg1:T0 Arg2:T13
+R102	Anafor Arg1:T1 Arg2:T13
+R103	Anafor Arg1:T2 Arg2:T13
+R104	Anafor Arg1:T3 Arg2:T13
+R105	Anafor Arg1:T4 Arg2:T13
+R106	Anafor Arg1:T5 Arg2:T13
+R107	Anafor Arg1:T7 Arg2:T13
+R108	Anafor Arg1:T8 Arg2:T13
+R109	Anafor Arg1:T9 Arg2:T13
+R110	Anafor Arg1:T10 Arg2:T13
+R111	Anafor Arg1:T11 Arg2:T13
+R112	Anafor Arg1:T12 Arg2:T13
+R113	Anafor Arg1:T6 Arg2:T13

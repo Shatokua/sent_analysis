@@ -1,0 +1,4 @@
+T0	Neutral 15 24	Тимошенко
+T1	Neutral 43 46	нее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

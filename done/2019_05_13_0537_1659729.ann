@@ -1,0 +1,4 @@
+T0	Positive 47 62	Сергея Томарова
+T1	Positive 109 112	нем
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

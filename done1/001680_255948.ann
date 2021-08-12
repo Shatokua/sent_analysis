@@ -1,0 +1,6 @@
+T0	Neutral_all 173 189	Никита Кацалапов
+T1	Neutral_all 105 108	нас
+A1	AnaforPerson T1
+T2	Neutral_all 144 146	Он
+T3	Neutral_all 202 205	них
+A2	Plural T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 15 23	Трухачев
+T1	Neutral_all 27 37	Максименко
+T2	Neutral_all 138 148	Максименко
+T3	Neutral_all 170 174	него
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2

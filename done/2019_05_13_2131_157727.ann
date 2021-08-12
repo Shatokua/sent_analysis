@@ -1,0 +1,4 @@
+T1	Positive 60 64	нему
+A1	AnaforPerson T1
+T2	Positive 0 5	Федор
+R1	Variant Arg1:T2 Arg2:T1	

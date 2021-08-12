@@ -1,0 +1,4 @@
+T0	Negative_all 16 27	Полтавченко
+T2	Negative_all 38 40	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

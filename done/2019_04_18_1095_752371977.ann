@@ -1,0 +1,6 @@
+T0	Neutral 310 316	Путина
+T1	Neutral 0 2	Мы
+A1	AnaforPerson T1
+T2	Negative 421 423	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

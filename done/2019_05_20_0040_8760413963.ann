@@ -1,0 +1,5 @@
+T0	Negative 66 72	Макрон
+T1	Neutral 101 107	Трампа
+T2	Neutral 164 167	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

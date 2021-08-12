@@ -1,0 +1,14 @@
+T0	Neutral_all 108 121	Андрея Зимина
+T1	Neutral_all 189 204	Павла Кушникова
+T2	Neutral_all 252 268	Николая Заварина
+T3	Neutral_all 310 330	Григория Никольского
+T4	Neutral_all 154 157	его
+A1	AnaforPerson T4
+T5	Neutral_all 380 382	их
+A2	Plural T5
+R1	Anafor Arg1:T0 Arg2:T4	
+A3	AnaforPerson T5
+R2	Anafor Arg1:T4 Arg2:T5	
+R3	Anafor Arg1:T1 Arg2:T5	
+R4	Anafor Arg1:T2 Arg2:T5	
+R5	Anafor Arg1:T3 Arg2:T5	

@@ -1,0 +1,5 @@
+T0	Neutral_all 21 27	Путина
+T1	Neutral_all 102 119	Валерием Радаевым
+T2	Neutral_all 16 19	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

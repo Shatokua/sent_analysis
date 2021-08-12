@@ -1,0 +1,4 @@
+T0	Neutral 32 41	Владимиру
+T1	Neutral 58 61	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,12 @@
+T0	Neutral_all 252 266	Ольга Скрипник
+T1	Neutral_all 0 3	Она
+A1	AnaforPerson T1
+T2	Neutral_all 117 120	них
+A2	Plural T2
+T3	Neutral_all 283 285	их
+A3	Plural T3
+T102	Neutral_all 18 21	она
+A4	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T3 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T102

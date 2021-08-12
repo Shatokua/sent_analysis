@@ -1,0 +1,6 @@
+T0	Negative 19 25	Сечине
+T1	Negative 34 36	Он
+A1	AnaforPerson T1
+#1	AnnotatorNotes T1	"организатор вакханалии"
+#2	AnnotatorNotes T0	"не могу думать хорошо"
+R1	Anafor Arg1:T0 Arg2:T1	

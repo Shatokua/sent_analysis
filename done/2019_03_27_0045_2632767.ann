@@ -1,0 +1,7 @@
+T1	Positive 111 118	Хуциева
+T3	Positive 41 45	него
+A1	AnaforPerson T3
+T100	Neutral_all 73 83	Бертолуччи
+T102	Neutral_all 165 171	Хуциев
+R1	Anafor Arg1:T102 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

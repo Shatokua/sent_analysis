@@ -1,0 +1,4 @@
+T0	Neutral_all 140 152	Дональд Туск
+T1	Neutral_all 196 199	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

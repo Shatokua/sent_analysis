@@ -1,0 +1,5 @@
+T0	Neutral_all 115 130	Сергея Скрипаля
+T1	Neutral_all 144 148	Юлии
+T2	Neutral_all 133 136	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

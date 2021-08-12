@@ -1,0 +1,5 @@
+T0	Neutral 121 135	Серхио Рамосом
+A1	AnaforPerson T0
+T1	Positive 152 155	ним
+A2	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

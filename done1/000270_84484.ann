@@ -1,0 +1,4 @@
+T0	Neutral_all 14 32	Владимира Денисова
+T1	Neutral_all 48 50	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

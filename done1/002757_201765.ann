@@ -1,0 +1,9 @@
+T0	Neutral_all 202 217	Дарья Абакумова
+T1	Neutral_all 133 135	их
+A1	Plural T1
+T2	Neutral_all 385 387	мы
+A2	Plural T2
+T3	Neutral_all 523 525	их
+A3	Plural T3
+R1	Anafor Arg1:T3 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T3

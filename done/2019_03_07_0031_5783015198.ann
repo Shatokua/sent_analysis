@@ -1,0 +1,22 @@
+T5	Neutral 223 226	ему
+A1	AnaforPerson T5
+T100	Neutral_all 25 35	Веремеенко
+T101	Neutral_all 371 381	Самойленко
+T102	Neutral_all 493 502	Тринкьери
+T103	Neutral_all 128 130	Он
+A2	AnaforPerson T103
+T104	Neutral 249 251	он
+A3	AnaforPerson T104
+T105	Neutral_all 267 270	ему
+A4	AnaforPerson T105
+T106	Neutral_all 403 406	Ему
+A5	AnaforPerson T106
+T107	Neutral_all 528 531	его
+A6	AnaforPerson T107
+R1	Anafor Arg1:T100 Arg2:T103
+R2	Anafor Arg1:T103 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T105
+R4	Anafor Arg1:T101 Arg2:T106
+R5	Anafor Arg1:T106 Arg2:T107
+R102	Anafor Arg1:T103 Arg2:T104
+R103	Anafor Arg1:T104 Arg2:T105

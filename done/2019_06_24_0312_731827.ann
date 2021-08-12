@@ -1,0 +1,11 @@
+T0	Neutral_all 11 17	Шатова
+T1	Neutral_all 20 28	Кокорина
+T2	Neutral_all 42 44	им
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral_all 54 57	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T0 Arg2:T3

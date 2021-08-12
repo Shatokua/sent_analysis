@@ -1,0 +1,13 @@
+T100	Neutral_all 32 46	Игоря Талькова
+T101	Neutral_all 111 119	Талькова
+T102	Negative 135 147	Березовского
+T103	Negative 149 156	Чубайса
+T104	Negative 158 171	Ходорковского
+T105	Negative 173 183	Навального
+R1	Anafor Arg1:T100 Arg2:T101
+T1	Negative 195 198	них
+A1	AnaforPerson T1
+R2	Anafor Arg1:T102 Arg2:T1	
+R3	Anafor Arg1:T103 Arg2:T1	
+R4	Anafor Arg1:T104 Arg2:T1	
+R5	Anafor Arg1:T105 Arg2:T1	

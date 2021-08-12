@@ -1,0 +1,5 @@
+T0	Neutral 26 32	Мадуро
+T101	Neutral_all 55 69	Николса Мадуро
+T102	Neutral_all 107 113	Лопеса
+T103	Neutral_all 115 122	Ледесмы
+R1	Anafor Arg1:T101 Arg2:T0	

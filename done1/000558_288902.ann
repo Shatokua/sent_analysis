@@ -1,0 +1,5 @@
+T0	Neutral_all 28 46	Владимир Зеленский
+T1	Neutral_all 185 188	они
+A1	Plural T1
+A2	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

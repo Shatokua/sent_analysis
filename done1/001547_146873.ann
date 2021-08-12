@@ -1,0 +1,16 @@
+T0	Neutral_all 565 574	Джо Роган
+T1	Neutral_all 126 129	нас
+A1	Plural T1
+T2	Neutral_all 513 517	нему
+T3	Neutral_all 535 537	Он
+T4	Neutral_all 555 557	вы
+A2	AnaforPerson T4
+T5	Neutral_all 630 632	Он
+A3	AnaforPerson T5
+T6	Neutral_all 648 651	они
+A4	Plural T6
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T5 Arg2:T3
+R101	Anafor Arg1:T3 Arg2:T5
+R102	Anafor Arg1:T5 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Positive 300 313	Ярослав Нилов
+T1	Positive 315 317	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

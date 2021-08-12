@@ -1,0 +1,10 @@
+T0	Neutral_all 15 29	Алексей Бубнов
+T1	Neutral_all 151 163	Высокинского
+T2	Neutral_all 380 387	Бубнова
+T3	Neutral_all 36 38	Он
+A1	AnaforPerson T3
+T104	Neutral_all 407 410	ему
+A2	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T104

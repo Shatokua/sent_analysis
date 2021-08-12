@@ -1,0 +1,9 @@
+T100	Neutral_all 37 44	Лодыгин
+T101	Mixed 119 123	Юрию
+T102	Neutral_all 71 74	его
+A2	AnaforPerson T102
+T103	Negative 115 117	он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T101 Arg2:T103	

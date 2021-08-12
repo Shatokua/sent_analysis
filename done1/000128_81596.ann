@@ -1,0 +1,13 @@
+T0	Negative_all 87 102	Хиллари Клинтон
+T3	Neutral_all 14 17	они
+A1	Plural T3
+T5	Negative 236 239	Они
+A3	Plural T5
+T101	Negative 116 122	Надлер
+T102	Negative 124 128	Шифф
+T104	Neutral 232 234	их
+A4	Plural T104
+A2	AnaforPerson T104
+A5	AnaforPerson T3
+A6	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T5	

@@ -1,0 +1,7 @@
+T0	Negative 0 6	Яценюк
+T1	Negative 216 221	Махно
+T2	Negative 278 286	Тягнибок
+A1	Unclear T2
+T3	Negative 88 91	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

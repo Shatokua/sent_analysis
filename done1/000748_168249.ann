@@ -1,0 +1,9 @@
+T0	Neutral_all 95 112	Сергею Семеновичу
+T1	Neutral_all 153 160	Голунов
+T2	Neutral_all 167 174	Бирюков
+T3	Neutral_all 313 325	Колокольцева
+T4	Neutral_all 328 337	Матвиенко
+T5	Neutral_all 461 473	Колокольцева
+R1	Anafor Arg1:T3 Arg2:T5
+R2	Anafor Arg1:T2 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,8 @@
+T0	Neutral_all 10 24	Петр Порошенко
+T1	Neutral_all 46 53	Трампом
+T2	Neutral_all 78 87	Манафорта
+T3	Neutral_all 62 64	мы
+A1	Plural T3
+T4	Neutral_all 91 93	вы
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4

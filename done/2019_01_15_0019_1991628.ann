@@ -1,0 +1,8 @@
+T2	Neutral 162 175	Бретта Кавано
+T3	Negative 177 179	Он
+A1	AnaforPerson T3
+T101	Negative_all 0 8	Авенатти
+T1	Negative 98 100	он
+A2	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T3	

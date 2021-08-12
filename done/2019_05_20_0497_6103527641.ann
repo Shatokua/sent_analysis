@@ -1,0 +1,14 @@
+T0	Neutral 19 27	Хорошвин
+T1	Neutral 29 35	Гайзер
+T2	Neutral 12 17	Белых
+A1	AnaforPerson T2
+T3	Neutral 90 93	они
+A2	AnaforPerson T3
+A3	Plural T3
+T4	Neutral 122 124	их
+A4	AnaforPerson T4
+A5	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

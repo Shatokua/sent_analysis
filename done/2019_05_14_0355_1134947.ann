@@ -1,0 +1,3 @@
+T0	Neutral_all 0 9	Тиллерсон
+T1	Neutral_all 40 54	Рекс Тиллерсон
+R1	Anafor Arg1:T1 Arg2:T0

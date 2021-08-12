@@ -1,0 +1,5 @@
+T0	Neutral_all 91 99	Данкверт
+T1	Neutral_all 132 147	Сергей Данкверт
+T102	Neutral_all 64 66	мы
+A1	Plural T102
+R1	Anafor Arg1:T1 Arg2:T0

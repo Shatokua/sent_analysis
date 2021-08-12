@@ -1,0 +1,6 @@
+T0	Neutral_all 38 50	Виктор Гринь
+T1	Neutral_all 144 157	Ларисы Маркус
+T2	Neutral_all 175 195	Екатерины Глушаковой
+T3	Neutral_all 160 162	ее
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

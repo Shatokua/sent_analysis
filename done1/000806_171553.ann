@@ -1,0 +1,5 @@
+T0	Neutral_all 288 302	Магомед Даудов
+T1	Neutral_all 513 529	Дениса Глушакова
+T2	Neutral 127 129	их
+A1	Plural T2
+A2	AnaforPerson T2

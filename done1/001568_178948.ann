@@ -1,0 +1,11 @@
+T0	Neutral_all 0 15	Владимир Кличко
+T1	Neutral_all 123 128	Фьюри
+T2	Neutral_all 134 140	Джошуа
+T3	Neutral_all 30 32	он
+A1	AnaforPerson T3
+T4	Neutral_all 72 74	он
+A2	AnaforPerson T4
+T5	Neutral_all 163 165	мы
+A3	Plural T5
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T3

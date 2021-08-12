@@ -1,0 +1,6 @@
+T0	Positive 62 77	Димы Брусникина
+T1	Positive_all 79 83	Дима
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 110 114	тебя
+A1	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral_all 0 4	Шмид
+T1	Positive_all 83 88	Шмида
+T2	Neutral_all 51 60	Макларена
+T3	Neutral_all 139 141	мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

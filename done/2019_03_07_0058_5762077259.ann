@@ -1,0 +1,4 @@
+T100	Neutral_all 95 102	Абзалов
+T101	Neutral 130 138	Касьянов
+T1	Negative 142 145	его
+R1	Anafor Arg1:T101 Arg2:T1	

@@ -1,0 +1,11 @@
+T0	Neutral_all 552 564	Иржи Ярошика
+T1	Neutral_all 75 78	Они
+A1	Plural T1
+T2	Neutral_all 469 472	они
+A2	Plural T2
+T3	Neutral_all 519 521	вы
+A3	Plural T3
+T4	Neutral_all 635 637	Он
+A4	AnaforPerson T4
+T5	Neutral_all 716 718	ты
+R1	Anafor Arg1:T0 Arg2:T4

@@ -1,0 +1,7 @@
+T0	Negative_all 23 28	Ленин
+T1	Neutral_all 90 97	Ассанжа
+T2	Neutral_all 47 49	Он
+A1	AnaforPerson T2
+T3	Neutral_all 135 137	мы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

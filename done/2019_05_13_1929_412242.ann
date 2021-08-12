@@ -1,0 +1,10 @@
+T0	Positive 5 13	Алексеем
+T1	Positive 53 56	ним
+A1	AnaforPerson T1
+T2	Positive 131 134	его
+A2	AnaforPerson T2
+T3	Positive 171 173	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,10 @@
+T0	Positive 8 15	Артюхов
+T1	Positive 37 40	его
+A1	AnaforPerson T1
+T2	Positive 63 65	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 85 88	них
+A3	AnaforPerson T3
+A4	Plural T3

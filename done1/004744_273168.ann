@@ -1,0 +1,11 @@
+T0	Neutral_all 179 185	Полоза
+T1	Neutral_all 428 438	Набабкиным
+T2	Neutral_all 441 455	Луисом Адриано
+T3	Neutral_all 231 234	ним
+A1	AnaforPerson T3
+T4	Neutral_all 256 258	он
+A2	AnaforPerson T4
+T5	Neutral_all 784 787	них
+A3	Plural T5
+R1	Anafor Arg1:T4 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T4

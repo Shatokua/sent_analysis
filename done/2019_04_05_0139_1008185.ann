@@ -1,0 +1,5 @@
+T1	Negative 79 95	Хиллари Клинитон
+T2	Negative 141 144	ней
+T100	Negative 16 27	Джеймс Коми
+R1	Anafor Arg1:T1 Arg2:T2	
+A1	AnaforPerson T2

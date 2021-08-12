@@ -1,0 +1,4 @@
+T0	Neutral 13 23	Поля Погба
+T1	Positive 121 123	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

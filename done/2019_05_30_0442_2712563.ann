@@ -1,0 +1,5 @@
+T0	Neutral_all 73 87	Яны Рудковской
+T1	Neutral_all 132 150	Максимом [Галкиным
+T2	Neutral_all 126 129	нас
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

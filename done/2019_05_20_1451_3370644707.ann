@@ -1,0 +1,4 @@
+T0	Neutral 0 9	Навальный
+T1	Neutral 38 41	ваш
+A1	AnaforPerson T1
+A2	Plural T1

@@ -1,0 +1,10 @@
+T0	Neutral_all 316 329	Андрей Бурсин
+T1	Neutral_all 465 485	Александра Мамонтова
+T2	Neutral_all 600 619	Григория Терентьева
+T3	Neutral_all 701 718	Танзилии Комковой
+T4	Neutral_all 728 743	Эдуарда Комкова
+T5	Neutral_all 837 854	Светланы Шенгерей
+T6	Neutral_all 897 916	Никиты Чередниченко
+T7	Neutral_all 720 722	ее
+A1	AnaforPerson T7
+R1	Anafor Arg1:T3 Arg2:T7

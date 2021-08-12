@@ -1,0 +1,10 @@
+T0	Neutral_all 288 304	Арменом Ашотяном
+T1	Neutral_all 355 375	Мхитаром Айрапетяном
+T2	Neutral_all 446 449	нам
+A1	Plural T2
+T3	Neutral_all 583 585	мы
+A2	Plural T3
+T102	Neutral_all 51 53	мы
+A3	Plural T102
+R1	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T102 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 219 232	Рауф Арашуков
+T2	Neutral_all 261 264	Его
+A2	AnaforPerson T2
+T101	Neutral 234 236	он
+A3	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T2	

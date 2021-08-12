@@ -1,0 +1,15 @@
+T0	Neutral 36 44	Собянина
+T1	Positive 198 200	вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 276 278	им
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Neutral 298 301	вас
+A5	AnaforPerson T3
+A6	Plural T3
+T4	Neutral 338 340	вы
+A7	AnaforPerson T4
+A8	Plural T4
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

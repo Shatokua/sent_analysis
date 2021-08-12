@@ -1,0 +1,8 @@
+T0	Negative_all 46 61	Андрея Малахова
+T1	Neutral_all 914 920	Андрей
+T2	Neutral_all 344 346	вы
+A1	Plural T2
+T3	Negative_all 922 924	ты
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

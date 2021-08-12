@@ -1,0 +1,10 @@
+T0	Positive 10 25	Юрий Леонидович
+T1	Positive 46 49	Вам
+A1	AnaforPerson T1
+T2	Positive 125 128	Вам
+A2	AnaforPerson T2
+T3	Positive 158 161	вас
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

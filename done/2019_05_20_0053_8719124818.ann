@@ -1,0 +1,7 @@
+T1	Neutral 13 15	вы
+A1	AnaforPerson T1
+T2	Neutral 368 370	вы
+A2	AnaforPerson T2
+T3	Neutral 388 400	Березовскому
+T4	Neutral 407 420	Перепеличному
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,10 @@
+T0	Neutral_all 13 28	Тимофей Майоров
+T1	Neutral_all 37 50	Ольге Бузовой
+T2	Neutral_all 88 90	ее
+A1	AnaforPerson T2
+T3	Neutral_all 126 128	их
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T1 Arg2:T3

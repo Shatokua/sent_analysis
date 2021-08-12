@@ -1,0 +1,6 @@
+T0	Negative_all 16 20	Грэм
+T1	Neutral_all 36 42	Трампа
+T2	Neutral_all 45 52	Путиным
+T3	Neutral_all 96 101	Грэма
+T4	Neutral_all 103 118	Маккейна (Джона
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 5 13	Кокорина
+T1	Neutral_all 45 58	Алана Мамаева
+T2	Neutral_all 93 95	их
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T2

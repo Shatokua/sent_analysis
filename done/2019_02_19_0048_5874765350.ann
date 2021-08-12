@@ -1,0 +1,4 @@
+T101	Negative_all 146 160	Арсений Яценюк
+T102	Negative 84 86	он
+A1	AnaforPerson T102
+R101	Anafor Arg1:T101 Arg2:T102

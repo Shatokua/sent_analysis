@@ -1,0 +1,11 @@
+T100	Negative_all 0 7	Ройзман
+T101	Neutral_all 206 213	Ельцину
+T102	Neutral_all 75 78	его
+A2	AnaforPerson T102
+T103	Neutral_all 102 105	его
+A3	AnaforPerson T103
+T104	Negative 173 176	ним
+A4	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T103
+R3	Anafor Arg1:T103 Arg2:T104	

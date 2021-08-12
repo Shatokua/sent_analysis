@@ -1,0 +1,5 @@
+T0	Neutral_all 130 139	Мизулиной
+T1	Neutral_all 223 242	Александра Дворкина
+T2	Neutral_all 143 146	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

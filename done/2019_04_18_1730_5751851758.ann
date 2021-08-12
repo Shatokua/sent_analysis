@@ -1,0 +1,12 @@
+T0	Neutral 299 314	Петр Алексеевич
+T1	Neutral 334 339	Кучма
+T2	Neutral 115 117	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 346 352	Вашего
+A2	AnaforPerson T3
+R2	Anafor Arg1:T0 Arg2:T4	
+T4	Neutral 316 319	Ваш
+A3	AnaforPerson T4
+A4	Plural T4
+R3	Anafor Arg1:T4 Arg2:T3	

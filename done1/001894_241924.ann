@@ -1,0 +1,4 @@
+T0	Neutral_all 25 43	Николая Старостина
+T1	Neutral_all 87 104	Старостин Николай
+T2	Neutral_all 215 227	Кутаржевским
+R1	Anafor Arg1:T1 Arg2:T0

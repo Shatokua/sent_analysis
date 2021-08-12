@@ -1,0 +1,3 @@
+T0	Positive 0 5	Ивица
+T1	Positive 24 35	Ивица Дачич
+R1	Anafor Arg1:T1 Arg2:T0	

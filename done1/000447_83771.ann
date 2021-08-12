@@ -1,0 +1,12 @@
+T0	Neutral_all 308 320	Петр Толстой
+T1	Neutral_all 322 335	Игорь Лебедев
+T2	Neutral_all 337 354	Леонид Калашников
+T3	Neutral_all 356 371	Светлана Журова
+T4	Neutral_all 373 387	Сергей Пахомов
+T5	Neutral_all 389 403	Оксана Пушкина
+T6	Neutral_all 405 418	Ирина Роднина
+T7	Neutral_all 420 433	Николай Рыжак
+T8	Neutral_all 435 451	Шамсаил Саралиев
+T9	Neutral_all 453 463	Вера Ганзя
+T110	Neutral_all 466 469	ваш
+A1	AnaforPerson T110

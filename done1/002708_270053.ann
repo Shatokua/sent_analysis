@@ -1,0 +1,15 @@
+T0	Neutral_all 11 25	Эдема Бекирова
+T1	Neutral_all 57 60	ему
+A1	AnaforPerson T1
+T2	Neutral_all 107 109	Мы
+A2	Plural T2
+T3	Neutral_all 157 160	его
+A3	AnaforPerson T3
+T4	Neutral_all 192 196	нему
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T4

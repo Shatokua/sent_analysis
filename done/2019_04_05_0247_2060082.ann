@@ -1,0 +1,8 @@
+T100	Neutral_all 0 15	Марио Фернандес
+T102	Neutral_all 37 42	Рауша
+T104	Neutral_all 85 96	Нойштедтера
+T105	Neutral_all 164 169	Дзюба
+T107	Neutral_all 182 189	Головин
+T110	Neutral 129 133	него
+A1	AnaforPerson T110
+R3	Anafor Arg1:T104 Arg2:T110	

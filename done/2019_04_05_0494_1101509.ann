@@ -1,0 +1,8 @@
+T0	Neutral_all 19 25	Мугабе
+T1	Neutral_all 101 117	Морган Цвангираи
+T2	Neutral_all 27 30	его
+A1	AnaforPerson T2
+T3	Neutral_all 96 100	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

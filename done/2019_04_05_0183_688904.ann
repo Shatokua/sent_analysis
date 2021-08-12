@@ -1,0 +1,4 @@
+T0	Neutral_all 84 91	Рейгана
+T1	Neutral_all 107 121	Рональд Рейган
+T2	Neutral_all 172 191	Михаилом Горбачевым
+R1	Anafor Arg1:T1 Arg2:T0

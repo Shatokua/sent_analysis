@@ -1,0 +1,3 @@
+T1	Neutral_all 107 117	Иван Гараз
+T2	Neutral_all 82 88	Гараза
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Neutral_all 72 90	Михаила Хачатуряна
+T1	Neutral_all 91 96	Арсен
+T2	Neutral_all 252 258	Арсена
+T3	Neutral_all 11 20	Малаховым
+T4	Neutral_all 5 8	нас
+A1	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T3 Arg2:T4

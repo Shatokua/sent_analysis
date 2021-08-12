@@ -1,0 +1,13 @@
+T101	Neutral_all 60 72	Ходорковский
+T102	Neutral 123 133	Навального
+T103	Positive_all 274 277	его
+A1	AnaforPerson T103
+T1	Neutral 25 28	его
+T2	Neutral 56 58	он
+R2	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T1	
+T3	Positive 152 154	он
+R1	Anafor Arg1:T102 Arg2:T3	
+T4	Positive 235 237	он
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T103	

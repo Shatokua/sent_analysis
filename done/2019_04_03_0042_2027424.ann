@@ -1,0 +1,17 @@
+T6	Negative 163 165	он
+A1	AnaforPerson T6
+T100	Negative_all 0 6	Байден
+T101	Neutral_all 38 43	Обама
+T102	Neutral_all 49 52	его
+A2	AnaforPerson T102
+T103	Neutral_all 71 74	его
+A3	AnaforPerson T103
+T104	Neutral_all 113 116	его
+A4	AnaforPerson T104
+T105	Neutral 131 133	он
+A5	AnaforPerson T105
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	
+R4	Anafor Arg1:T104 Arg2:T105	
+R5	Anafor Arg1:T105 Arg2:T6	

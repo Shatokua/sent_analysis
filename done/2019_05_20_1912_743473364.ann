@@ -1,0 +1,24 @@
+T0	Neutral 63 68	Путин
+T1	Neutral 77 84	Зюганов
+T2	Neutral 49 53	ваши
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 59 62	ваш
+A3	AnaforPerson T3
+A4	Plural T3
+T4	Neutral 73 76	ваш
+A5	AnaforPerson T4
+A6	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+T5	Neutral 86 88	вы
+A7	AnaforPerson T5
+A8	Plural T5
+R3	Anafor Arg1:T4 Arg2:T5	
+T6	Neutral 120 123	них
+A9	AnaforPerson T6
+A10	Plural T6
+R4	Anafor Arg1:T0 Arg2:T6	
+R5	Anafor Arg1:T1 Arg2:T6	
+T7	Neutral 165 167	он
+A11	AnaforPerson T7

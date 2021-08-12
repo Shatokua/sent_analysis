@@ -1,0 +1,6 @@
+T0	Negative_all 57 66	Дерипаски
+T1	Negative_all 135 144	Дерипаска
+T2	Negative_all 148 159	Вексельберг
+T3	Negative_all 163 173	Ротенберги
+T4	Negative_all 177 185	Шамаловы
+R101	Anafor Arg1:T0 Arg2:T1

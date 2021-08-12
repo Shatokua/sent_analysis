@@ -1,0 +1,5 @@
+T0	Neutral_all 11 21	Родченкова
+T1	Neutral_all 161 171	Родченкова
+T2	Neutral_all 51 53	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T0	Negative 108 114	Трампа
+T3	Negative 138 141	его
+T101	Negative_all 36 44	Маккарти
+T102	Negative 93 99	Путина
+R1	Anafor Arg1:T101 Arg2:T3
+A1	AnaforPerson T3

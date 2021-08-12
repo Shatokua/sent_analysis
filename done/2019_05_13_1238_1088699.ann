@@ -1,0 +1,7 @@
+T0	Neutral 105 120	Мариусом Петипа
+T1	Neutral 122 124	Он
+A1	AnaforPerson T1
+T2	Neutral 167 169	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral_all 134 151	Дмитрия Медведева
+T1	Neutral_all 78 81	нас
+A1	Plural T1
+T2	Neutral_all 91 93	Мы
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Positive 95 101	Дениса
+T1	Positive 17 19	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

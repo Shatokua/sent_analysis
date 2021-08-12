@@ -1,0 +1,8 @@
+T101	Neutral 25 32	Яценюка
+T102	Neutral_all 125 134	Гройсмана
+T103	Neutral 136 154	Владимир Борисович
+T104	Neutral_all 166 171	Ляшко
+T105	Neutral_all 174 183	Гройсману
+R1	Anafor Arg1:T103 Arg2:T105	
+T1	Negative 201 204	вас
+R2	Anafor Arg1:T105 Arg2:T1	

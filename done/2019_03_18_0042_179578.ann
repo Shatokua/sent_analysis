@@ -1,0 +1,6 @@
+T0	Neutral 75 90	Ислама Каримова
+T102	Positive 160 180	Ислама Абдуганиевича
+T103	Neutral_all 219 222	ним
+A1	AnaforPerson T103
+R102	Anafor Arg1:T102 Arg2:T103
+R1	Anafor Arg1:T0 Arg2:T102	

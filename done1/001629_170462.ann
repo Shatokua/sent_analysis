@@ -1,0 +1,5 @@
+T0	Mixed 40 45	Дарья
+T1	Positive_all 72 85	Светка Букина
+T2	Mixed 47 49	вы
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

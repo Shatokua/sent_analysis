@@ -1,0 +1,11 @@
+T0	Neutral_all 128 141	Ицхака Рабина
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 47 49	Мы
+A2	Plural T2
+T3	Neutral_all 150 153	нас
+A3	Plural T3
+T4	Negative_all 172 175	Они
+A4	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

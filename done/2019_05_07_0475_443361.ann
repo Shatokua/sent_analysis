@@ -1,0 +1,11 @@
+T1	Neutral 39 42	вам
+A1	Plural T1
+T2	Neutral 15 25	Медведевым
+T3	Neutral 64 67	ему
+A2	AnaforPerson T3
+T4	Negative 89 92	они
+A3	Plural T4
+T5	Negative 122 125	они
+A4	Plural T5
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T4 Arg2:T5	

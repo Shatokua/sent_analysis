@@ -1,0 +1,10 @@
+T0	Negative 2 10	Медведев
+T1	Negative 195 205	Медведевым
+T2	Neutral 208 215	Путиным
+T3	Negative 74 77	они
+T4	Neutral 115 118	Они
+A2	Plural T4
+A1	Plural T3
+#1	AnnotatorNotes T2	Возможно Mixed
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Variant Arg1:T0 Arg2:T1	

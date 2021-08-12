@@ -1,0 +1,13 @@
+T0	Negative 349 356	Гитлера
+T1	Negative 359 368	Муссолини
+T2	Mixed 456 468	Марин Ле Пен
+T3	Mixed 473 493	Александра Муссолини
+T4	Negative 126 129	Они
+A1	AnaforPerson T4
+A2	Plural T4
+T5	Neutral 331 334	они
+A3	AnaforPerson T5
+A4	Plural T5
+T6	Neutral 509 512	они
+R1	Anafor Arg1:T4 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T6	

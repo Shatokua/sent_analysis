@@ -1,0 +1,5 @@
+T0	Neutral 132 138	Лужков
+T1	Neutral 8 10	он
+A1	AnaforPerson T1
+T102	Neutral_all 259 268	Медведева
+R1	Anafor Arg1:T0 Arg2:T1	

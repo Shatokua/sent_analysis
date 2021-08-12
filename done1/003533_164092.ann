@@ -1,0 +1,7 @@
+T0	Neutral_all 140 154	Владимир Путин
+T1	Neutral_all 234 236	вы
+A1	Plural T1
+T2	Neutral_all 280 282	он
+A2	AnaforPerson T2
+T101	Neutral_all 0 2	Он
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T100	Neutral_all 8 16	Головина
+T101	Neutral_all 135 139	Саша
+T102	Negative 76 81	Света
+T103	Negative 72 74	ты
+A3	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103	

@@ -1,0 +1,6 @@
+T0	Neutral_all 6 12	Путина
+T1	Neutral 85 94	Порошенко
+T2	Neutral_all 70 74	ними
+A1	Plural T2
+R2	Anafor Arg1:T0 Arg2:T2
+A2	AnaforPerson T2

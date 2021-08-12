@@ -1,0 +1,4 @@
+T0	Negative 13 21	Киореску
+T1	Negative 0 2	Вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

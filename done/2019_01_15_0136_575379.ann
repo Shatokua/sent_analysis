@@ -1,0 +1,5 @@
+T0	Negative 0 9	Гонтарева
+T101	Negative_all 149 158	Порошенко
+T1	Negative 55 58	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

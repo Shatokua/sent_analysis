@@ -1,0 +1,4 @@
+T0	Neutral_all 10 30	Василием Романовичем
+T1	Neutral_all 112 115	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T0	Neutral 0 10	Нойштедтер
+T1	Neutral 56 59	Ему
+A1	AnaforPerson T1
+T2	Neutral 138 141	нас
+A2	Plural T2
+T3	Neutral 185 187	Мы
+A3	Plural T3
+R1	Variant Arg1:T3 Arg2:T2	
+R2	Variant Arg1:T0 Arg2:T1	

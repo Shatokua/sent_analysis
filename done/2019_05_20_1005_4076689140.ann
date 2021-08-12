@@ -1,0 +1,7 @@
+T0	Neutral 71 77	Ахалая
+T1	Neutral 80 90	Саакашвили
+T2	Neutral 235 238	они
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

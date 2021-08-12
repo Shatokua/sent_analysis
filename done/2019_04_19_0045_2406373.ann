@@ -1,0 +1,8 @@
+T0	Neutral 0 6	Болтон
+T1	Neutral_all 104 110	Гуайдо
+T2	Neutral_all 124 129	Гиядо
+T3	Neutral_all 112 118	Guaidó
+T4	Neutral_all 131 137	Guiado
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T4	

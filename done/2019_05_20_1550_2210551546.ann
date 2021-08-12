@@ -1,0 +1,13 @@
+T0	Neutral 39 49	Овсянников
+T1	Neutral 122 130	Дегтярев
+T2	Neutral 134 144	Овсянников
+T3	Neutral 0 2	Вы
+A1	AnaforPerson T3
+A2	Plural T3
+T4	Neutral 35 37	он
+A3	AnaforPerson T4
+T5	Neutral 162 164	он
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T4	
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T5	

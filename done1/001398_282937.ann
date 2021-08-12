@@ -1,0 +1,13 @@
+T0	Neutral_all 19 37	Виталием Милоновым
+T1	Neutral_all 105 107	он
+A1	AnaforPerson T1
+T2	Neutral_all 252 254	ты
+T3	Neutral_all 984 987	них
+A2	Plural T3
+T4	Neutral_all 1006 1008	им
+A3	Plural T4
+T103	Neutral_all 785 789	тебе
+A4	AnaforPerson T103
+R1	Anafor Arg1:T4 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T2 Arg2:T103

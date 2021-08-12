@@ -1,0 +1,9 @@
+T0	Neutral 4 8	Корж
+T101	Neutral_all 10 22	Евгений Корж
+T102	Negative_all 50 52	он
+A1	AnaforPerson T102
+T103	Negative_all 112 115	ему
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T0	
+R2	Anafor Arg1:T101 Arg2:T102	
+R3	Anafor Arg1:T102 Arg2:T103	

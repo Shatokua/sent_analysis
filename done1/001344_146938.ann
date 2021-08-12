@@ -1,0 +1,7 @@
+T0	Negative_all 76 90	Владимир Путин
+T1	Neutral_all 378 384	Путина
+T2	Neutral_all 62 64	мы
+A1	Plural T2
+T104	Neutral_all 157 159	их
+A2	Plural T104
+R1	Anafor Arg1:T0 Arg2:T1

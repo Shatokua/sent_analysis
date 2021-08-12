@@ -1,0 +1,13 @@
+T0	Neutral_all 0 13	Роберт Мюллер
+T1	Neutral_all 63 69	Трампа
+T2	Neutral_all 42 45	ему
+A1	AnaforPerson T2
+T3	Neutral_all 73 75	он
+A2	AnaforPerson T3
+T4	Neutral_all 98 100	Он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T2
+R3	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,8 @@
+T0	Neutral_all 361 378	Тамерлан Сардаров
+T1	Neutral_all 407 421	Хизри Абакаров
+T2	Neutral_all 501 515	Хизри Абакаров
+T3	Neutral_all 529 550	Магомедом Магомедовым
+T4	Neutral_all 552 554	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T2

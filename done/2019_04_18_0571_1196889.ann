@@ -1,0 +1,16 @@
+T0	Negative 0 4	Стив
+T1	Negative 46 48	он
+A1	AnaforPerson T1
+T2	Negative 102 104	он
+A2	AnaforPerson T2
+T3	Negative 126 128	он
+A3	AnaforPerson T3
+T4	Negative 196 198	он
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+T5	Mixed 228 230	он
+A4	AnaforPerson T5
+#1	AnnotatorNotes T5	С одной стороны хорошо, что он в чём то хорош, а с другой, что это единственное, в чём он хорош.
+R5	Anafor Arg1:T4 Arg2:T5	

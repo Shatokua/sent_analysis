@@ -1,0 +1,4 @@
+T0	Negative 19 24	Асада
+T1	Negative 40 42	он
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

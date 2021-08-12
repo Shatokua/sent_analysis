@@ -1,0 +1,8 @@
+T0	Neutral_all 516 528	Антон Соснин
+T1	Neutral_all 531 541	Костя Рауш
+T2	Neutral_all 584 598	Владимир Рыков
+T3	Neutral_all 154 156	мы
+A1	Plural T3
+T4	Neutral_all 638 640	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4

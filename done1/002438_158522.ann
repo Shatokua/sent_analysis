@@ -1,0 +1,4 @@
+T0	Neutral_all 153 162	Акинфеева
+T1	Neutral_all 198 203	Игорь
+T2	Neutral_all 298 312	Антон Миранчук
+R1	Anafor Arg1:T1 Arg2:T0

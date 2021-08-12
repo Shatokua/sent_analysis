@@ -1,0 +1,4 @@
+T0	Neutral 26 42	Герман Оскарович
+T1	Neutral 21 24	Вас
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

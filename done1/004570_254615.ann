@@ -1,0 +1,4 @@
+T0	Neutral_all 309 321	Сергей Бубка
+T1	Neutral_all 412 417	Бубка
+T2	Neutral_all 488 501	Себастьян Коу
+R1	Anafor Arg1:T0 Arg2:T1

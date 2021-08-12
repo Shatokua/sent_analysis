@@ -1,0 +1,10 @@
+T0	Positive 13 22	Ивановича
+T1	Positive 36 39	ним
+A1	AnaforPerson T1
+T2	Positive 53 57	него
+A2	AnaforPerson T2
+T3	Positive 77 79	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

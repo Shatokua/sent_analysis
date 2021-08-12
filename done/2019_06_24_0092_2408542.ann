@@ -1,0 +1,3 @@
+T1	Neutral_all 49 63	Антон Силуанов
+T100	Neutral 0 8	Силуанов
+R1	Anafor Arg1:T1 Arg2:T100	

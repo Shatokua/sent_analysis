@@ -1,0 +1,9 @@
+T0	Neutral 117 124	Путиным
+T1	Neutral 0 2	Он
+T2	Neutral 47 50	они
+A1	Plural T2
+T3	Neutral 60 64	него
+T4	Neutral 92 94	их
+A2	Plural T4
+R1	Variant Arg1:T2 Arg2:T4	
+R2	Variant Arg1:T1 Arg2:T3	

@@ -1,0 +1,15 @@
+T0	Negative 0 3	Леш
+T2	Negative 178 195	Алексей Навальный
+T1	Negative 5 7	ты
+T3	Negative 83 85	Ты
+T4	Negative 172 176	тебя
+A1	AnaforPerson T4
+A2	AnaforPerson T3
+A3	AnaforPerson T1
+R2	Anafor Arg1:T0 Arg2:T1	
+T5	Negative 115 119	Твои
+A4	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T5	
+R5	Anafor Arg1:T5 Arg2:T4	

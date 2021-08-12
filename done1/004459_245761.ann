@@ -1,0 +1,9 @@
+T0	Neutral_all 23 38	Степана Бандеры
+T1	Neutral_all 43 58	Романа Шухевича
+T2	Neutral_all 85 100	Адольфа Гитлера
+T3	Neutral_all 232 240	Карамзин
+T4	Neutral_all 198 200	их
+A1	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T4

@@ -1,0 +1,6 @@
+T101	Neutral_all 46 55	Яблоковой
+T102	Positive_all 107 115	Киркоров
+T103	Negative_all 181 186	Эрнст
+T104	Neutral 69 72	Она
+A1	AnaforPerson T104
+R101	Anafor Arg1:T101 Arg2:T104

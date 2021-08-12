@@ -1,0 +1,7 @@
+T0	Neutral_all 34 40	Трампа
+T1	Neutral_all 54 60	Путина
+T2	Neutral_all 122 128	Путина
+T3	Neutral_all 131 136	Бушем
+T4	Neutral_all 85 87	Мы
+A1	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2

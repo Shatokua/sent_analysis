@@ -1,0 +1,4 @@
+T0	Neutral_all 90 100	М.Новикова
+T1	Neutral_all 254 257	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

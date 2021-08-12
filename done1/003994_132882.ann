@@ -1,0 +1,6 @@
+T0	Neutral_all 282 297	Андрея Кабанова
+T1	Neutral_all 128 131	них
+A1	Plural T1
+T2	Neutral_all 352 355	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

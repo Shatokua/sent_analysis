@@ -1,0 +1,5 @@
+T0	Neutral_all 40 51	А.Волочкова
+T1	Neutral_all 103 116	Игоря Вдовина
+T2	Neutral_all 220 222	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

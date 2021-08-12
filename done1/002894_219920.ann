@@ -1,0 +1,7 @@
+T0	Neutral_all 6 22	Йенс Столтенберг
+T1	Neutral_all 38 52	Ангела Меркель
+T2	Neutral_all 287 289	мы
+A1	Plural T2
+T3	Neutral_all 334 337	нас
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

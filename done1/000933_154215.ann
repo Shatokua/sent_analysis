@@ -1,0 +1,5 @@
+T0	Neutral_all 128 139	Денис Юсков
+T1	Neutral_all 204 221	Виктору Муштакову
+T2	Neutral_all 171 174	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Negative_all 9 26	Эмманюэля Макрона
+T1	Negative_all 104 111	Олланда
+T2	Negative 124 139	Франсуа Олланда
+R1	Anafor Arg1:T2 Arg2:T1	

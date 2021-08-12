@@ -1,0 +1,6 @@
+T0	Neutral_all 0 11	Пан Ги Муну
+T1	Positive_all 35 45	Пан Ги Мун
+T2	Positive 128 130	им
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

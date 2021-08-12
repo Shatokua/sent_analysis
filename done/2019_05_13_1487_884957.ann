@@ -1,0 +1,4 @@
+T0	Positive 15 30	Вера Витальевна
+T1	Positive 74 77	Вас
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

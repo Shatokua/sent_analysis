@@ -1,0 +1,4 @@
+T0	Neutral_all 36 54	Виктору Кудрявцеву
+T1	Neutral_all 130 133	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

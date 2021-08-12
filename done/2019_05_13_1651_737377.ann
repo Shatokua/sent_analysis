@@ -1,0 +1,6 @@
+T0	Positive 92 98	Антона
+T1	Positive 12 22	Бобровским
+T2	Positive 108 111	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0	
+R2	Anafor Arg1:T0 Arg2:T2	

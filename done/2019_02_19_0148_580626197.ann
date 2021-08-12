@@ -1,0 +1,4 @@
+T1	Negative 120 128	Медведев
+T102	Negative_all 394 400	Путина
+T2	Positive 243 245	он
+R1	Anafor Arg1:T1 Arg2:T2	

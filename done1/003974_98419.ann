@@ -1,0 +1,5 @@
+T0	Neutral_all 159 188	Александра Петровича Баталина
+T1	Neutral_all 202 220	Александр Петрович
+T2	Neutral_all 27 29	мы
+A1	Plural T2
+R101	Anafor Arg1:T0 Arg2:T1

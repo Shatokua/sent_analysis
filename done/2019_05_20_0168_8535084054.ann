@@ -1,0 +1,4 @@
+T1	Neutral 296 302	Кирилл
+T2	Neutral 326 329	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

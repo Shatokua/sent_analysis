@@ -1,0 +1,5 @@
+T1	Neutral 117 133	Владимира Путина
+T100	Neutral_all 70 84	Ангела Меркель
+T102	Negative 151 154	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

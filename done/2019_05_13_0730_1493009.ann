@@ -1,0 +1,4 @@
+T1	Positive 10 17	Сардане
+T2	Positive 83 86	нее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

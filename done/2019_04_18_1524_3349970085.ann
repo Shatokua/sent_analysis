@@ -1,0 +1,10 @@
+T0	Neutral 5 14	Януковича
+T1	Neutral 0 3	Его
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 37 39	Он
+T3	Negative 320 322	Он
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T4	
+T4	Negative 178 181	его
+A1	AnaforPerson T4
+R4	Anafor Arg1:T4 Arg2:T3	

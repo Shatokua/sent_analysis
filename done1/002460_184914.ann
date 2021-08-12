@@ -1,0 +1,5 @@
+T1	Neutral_all 111 116	Шеина
+T2	Neutral_all 0 2	Он
+A1	AnaforPerson T2
+T103	Neutral 4 17	Бойко-Великий
+R1	Anafor Arg1:T103 Arg2:T2	

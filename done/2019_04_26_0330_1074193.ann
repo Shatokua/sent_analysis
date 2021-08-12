@@ -1,0 +1,3 @@
+T0	Neutral_all 32 40	Троцкому
+T1	Neutral_all 157 164	Троцкий
+R1	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,67 @@
+T0	Neutral_all 31 41	Головкиным
+T1	Neutral_all 142 148	Канело
+T2	Neutral_all 187 202	Каллумом Смитом
+T3	Neutral_all 218 235	Сергеем Ковалевым
+T4	Neutral_all 300 319	Эррол Спенс-младший
+T5	Neutral_all 425 431	Канело
+T6	Neutral_all 435 443	Головкин
+T7	Neutral_all 566 572	Роллса
+T8	Neutral_all 585 594	Головкина
+T9	Neutral_all 651 666	Эрисланди Ларой
+T10	Neutral_all 668 684	Джарретом Хердом
+T11	Neutral_all 686 702	Джермаллом Чарло
+T12	Neutral_all 704 720	Джермеллом Чарло
+T13	Neutral_all 722 742	Сергеем Деревянченко
+T14	Neutral_all 744 763	Деметриусом Андраде
+T15	Neutral_all 765 784	Билли Джо Сондерсом
+T16	Neutral_all 789 804	Каллумом Смитом
+T17	Neutral_all 818 826	Головкин
+T18	Neutral_all 915 920	Роллс
+T19	Neutral_all 21 27	Канело
+T20	Neutral_all 117 120	они
+A1	Plural T20
+T21	Neutral_all 336 342	Канело
+T22	Neutral_all 506 509	они
+A2	Plural T22
+T23	Neutral_all 614 616	он
+A3	AnaforPerson T23
+T24	Neutral_all 852 855	них
+A4	Plural T24
+T25	Neutral_all 878 880	он
+A5	AnaforPerson T25
+T26	Neutral_all 950 952	их
+A6	Plural T26
+T27	Neutral_all 960 962	Он
+A7	AnaforPerson T27
+T128	Neutral_all 995 998	GGG
+R1	Anafor Arg1:T0 Arg2:T20
+R2	Anafor Arg1:T19 Arg2:T20
+R3	Anafor Arg1:T20 Arg2:T22
+R4	Anafor Arg1:T9 Arg2:T24
+R5	Anafor Arg1:T10 Arg2:T24
+R6	Anafor Arg1:T11 Arg2:T24
+R7	Anafor Arg1:T12 Arg2:T24
+R8	Anafor Arg1:T13 Arg2:T24
+R9	Anafor Arg1:T14 Arg2:T24
+R10	Anafor Arg1:T15 Arg2:T24
+R11	Anafor Arg1:T16 Arg2:T24
+R12	Anafor Arg1:T18 Arg2:T27
+R13	Anafor Arg1:T19 Arg2:T1
+R14	Anafor Arg1:T1 Arg2:T21
+R15	Anafor Arg1:T21 Arg2:T5
+R16	Anafor Arg1:T0 Arg2:T6
+R17	Anafor Arg1:T6 Arg2:T8
+R18	Anafor Arg1:T8 Arg2:T17
+R19	Anafor Arg1:T17 Arg2:T25
+R20	Anafor Arg1:T25 Arg2:T23
+R21	Anafor Arg1:T2 Arg2:T16
+R22	Anafor Arg1:T18 Arg2:T7
+R105	Anafor Arg1:T7 Arg2:T27
+R106	Anafor Arg1:T6 Arg2:T17
+R107	Anafor Arg1:T17 Arg2:T8
+R108	Anafor Arg1:T8 Arg2:T0
+R109	Anafor Arg1:T0 Arg2:T128
+R110	Anafor Arg1:T128 Arg2:T23
+R111	Anafor Arg1:T23 Arg2:T25
+R112	Anafor Arg1:T25 Arg2:T20
+R114	Anafor Arg1:T5 Arg2:T20

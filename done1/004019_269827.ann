@@ -1,0 +1,15 @@
+T0	Neutral_all 50 65	Дэнни Джейкобса
+T1	Neutral_all 116 124	Джейкобс
+T2	Neutral_all 183 193	Альваресом
+T3	Neutral_all 251 256	Сауль
+T4	Neutral_all 27 29	мы
+A1	Plural T4
+T5	Neutral_all 69 72	нам
+A2	Plural T5
+T6	Neutral_all 159 162	нас
+A3	Plural T6
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T6
+R3	Anafor Arg1:T3 Arg2:T2
+R4	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T1

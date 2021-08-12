@@ -1,0 +1,24 @@
+T0	Negative_all 94 105	Юрий Мовшин
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Negative_all 24 27	его
+A2	AnaforPerson T2
+T3	Neutral_all 76 78	он
+A3	AnaforPerson T3
+T4	Neutral_all 126 128	мы
+A4	Plural T4
+T5	Neutral_all 152 156	него
+A5	AnaforPerson T5
+T6	Neutral_all 172 176	него
+A6	AnaforPerson T6
+T7	Negative_all 231 233	он
+A7	AnaforPerson T7
+T8	Negative_all 300 302	он
+A8	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T7
+R3	Anafor Arg1:T7 Arg2:T8
+R4	Anafor Arg1:T8 Arg2:T2
+R5	Anafor Arg1:T2 Arg2:T5
+R6	Anafor Arg1:T5 Arg2:T6
+R7	Anafor Arg1:T1 Arg2:T4

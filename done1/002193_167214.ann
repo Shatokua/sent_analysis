@@ -1,0 +1,12 @@
+T0	Neutral_all 699 714	Катей Борисовой
+T1	Neutral_all 717 734	Степой Коротковым
+T2	Neutral_all 200 203	Она
+A1	AnaforPerson T2
+T3	Neutral_all 322 325	нас
+A2	Plural T3
+T4	Neutral_all 648 650	Мы
+A3	Plural T4
+T104	Neutral_all 631 633	им
+A4	Plural T104
+T106	Neutral_all 755 759	Сами
+A5	Plural T106

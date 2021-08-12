@@ -1,0 +1,6 @@
+T0	Neutral_all 49 58	Медведеву
+T1	Neutral_all 65 76	Туктамышеву
+T2	Neutral_all 134 137	нас
+A1	Plural T2
+T3	Neutral_all 162 165	они
+A2	Plural T3

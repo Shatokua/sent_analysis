@@ -1,0 +1,4 @@
+T1	Negative 83 88	Обама
+T100	Neutral 0 5	Обама
+T102	Neutral_all 131 138	Пушкина
+R1	Anafor Arg1:T100 Arg2:T1	

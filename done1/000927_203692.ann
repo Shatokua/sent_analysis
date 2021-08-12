@@ -1,0 +1,6 @@
+T0	Negative_all 37 52	Дональда Трампа
+T1	Neutral_all 1 4	Нас
+A1	Plural T1
+T2	Neutral_all 61 64	нас
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

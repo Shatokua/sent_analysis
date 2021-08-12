@@ -1,0 +1,7 @@
+T0	Neutral 2 9	Гудкова
+T1	Neutral 133 143	Навального
+T2	Neutral 282 284	им
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

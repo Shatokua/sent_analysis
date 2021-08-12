@@ -1,0 +1,9 @@
+T0	Neutral_all 0 8	Камболов
+T1	Neutral_all 68 79	Нойштедтера
+T2	Neutral_all 147 154	Руслана
+T3	Neutral_all 40 42	мы
+A1	Plural T3
+T4	Neutral_all 134 136	мы
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T2

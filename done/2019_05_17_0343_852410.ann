@@ -1,0 +1,8 @@
+T0	Neutral_all 79 97	Михаила Саакашвили
+T1	Neutral_all 154 164	Саакашвили
+T2	Neutral_all 121 124	они
+A1	Plural T2
+T102	Neutral_all 60 62	мы
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T102 Arg2:T2

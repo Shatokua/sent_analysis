@@ -1,0 +1,6 @@
+T0	Neutral_all 72 85	Дуни Миятович
+T1	Neutral_all 108 111	Она
+A1	AnaforPerson T1
+T2	Neutral_all 476 479	они
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

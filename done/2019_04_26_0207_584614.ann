@@ -1,0 +1,5 @@
+T0	Negative 80 86	Ле Пен
+T1	Neutral_all 112 119	Путиным
+T102	Negative 70 72	вы
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102	

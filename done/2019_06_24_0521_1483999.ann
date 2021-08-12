@@ -1,0 +1,4 @@
+T1	Neutral_all 0 30	Игорь Александрович (Григорьев
+T2	Neutral_all 65 68	вам
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	Neutral_all 33 50	Александр Беналла
+T1	Neutral_all 159 180	Искандером Махмудовым
+T2	Neutral_all 233 235	Он
+A1	AnaforPerson T2
+T102	Neutral_all 126 128	их
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T2

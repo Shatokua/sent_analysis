@@ -1,0 +1,4 @@
+T0	Neutral 418 441	Реджепа Тайипа Эрдогана
+T1	Neutral 444 447	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Neutral_all 197 209	Марин Ле Пен
+T2	Neutral_all 0 2	Вы
+T4	Neutral_all 159 161	вы
+T100	Negative 89 95	Макрон
+A1	AnaforPerson T2
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4	

@@ -1,0 +1,6 @@
+T0	Neutral_all 409 426	Борис Гребенщиков
+T1	Neutral_all 209 212	нас
+A1	Plural T1
+T2	Neutral_all 429 432	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Neutral_all 17 28	Криса Хьюза
+T1	Neutral_all 76 79	его
+A1	AnaforPerson T1
+T2	Neutral_all 324 326	мы
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

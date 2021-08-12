@@ -1,0 +1,13 @@
+T0	Neutral 19 23	Дуда
+T1	Neutral 25 27	Вы
+A1	AnaforPerson T1
+T2	Negative 78 81	вас
+A2	AnaforPerson T2
+T3	Negative 96 98	вы
+A3	AnaforPerson T3
+T4	Negative 180 183	вас
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

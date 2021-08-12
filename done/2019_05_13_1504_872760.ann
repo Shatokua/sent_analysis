@@ -1,0 +1,11 @@
+T0	Positive 64 70	Хиблой
+T1	Positive 81 83	ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 215 218	вам
+A2	AnaforPerson T2
+T3	Positive 230 232	вы
+A3	AnaforPerson T3
+R2	Variant Arg1:T2 Arg2:T3	
+A4	Plural T2
+A5	Plural T3

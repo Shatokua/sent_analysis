@@ -1,0 +1,8 @@
+T2	Neutral 152 154	Он
+A2	AnaforPerson T2
+T100	Mixed_all 9 19	Плотницкий
+T101	Positive 101 103	он
+T103	Neutral_all 196 206	Захарченко
+A1	AnaforPerson T101
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T2	

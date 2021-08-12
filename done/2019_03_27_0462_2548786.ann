@@ -1,0 +1,4 @@
+T2	Positive_all 138 143	Калви
+T1	Positive_all 104 117	Майкла] Калви
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

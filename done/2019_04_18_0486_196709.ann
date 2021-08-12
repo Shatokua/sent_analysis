@@ -1,0 +1,4 @@
+T0	Neutral 125 139	Хилари Клинтон
+T1	Mixed 141 144	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

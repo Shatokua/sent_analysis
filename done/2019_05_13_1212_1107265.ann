@@ -1,0 +1,4 @@
+T0	Neutral 143 149	Полину
+T1	Positive 200 202	её
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

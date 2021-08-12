@@ -1,0 +1,4 @@
+T100	Negative 0 8	Джеб Буш
+T101	Neutral_all 16 22	Трампа
+T102	Negative_all 134 139	Бушей
+R1	Anafor Arg1:T100 Arg2:T102	

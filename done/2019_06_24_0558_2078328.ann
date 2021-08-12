@@ -1,0 +1,6 @@
+T0	Positive 43 58	Анатолий Локоть
+T1	Mixed 122 128	Локоть
+T3	Negative 60 62	вы
+A1	Plural T3
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	

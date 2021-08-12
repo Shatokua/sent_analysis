@@ -1,0 +1,7 @@
+T0	Neutral_all 115 128	Мэтью Роджерс
+T1	Neutral_all 201 211	Макдональд
+T2	Neutral_all 282 284	вы
+A1	Plural T2
+T3	Neutral_all 582 585	вам
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

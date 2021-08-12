@@ -1,0 +1,5 @@
+T0	Neutral_all 129 139	Захарченко
+T1	Neutral_all 158 166	Ратушняк
+T2	Neutral_all 142 145	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

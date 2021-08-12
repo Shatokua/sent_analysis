@@ -1,0 +1,12 @@
+T0	Neutral_all 12 41	Александра Сергеевича Пушкина
+T2	Neutral_all 231 237	Гоголя
+T3	Neutral_all 134 138	него
+A1	AnaforPerson T3
+T4	Neutral_all 160 164	него
+A2	AnaforPerson T4
+T1	Neutral_all 172 180	Эдгар По
+T5	Neutral_all 184 187	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T5
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

@@ -1,0 +1,13 @@
+T0	Neutral_all 19 33	Сухроб Хасанов
+T1	Neutral_all 64 82	Мустафо Курбоновым
+T2	Neutral_all 85 105	Хабибулло Давлатовым
+T3	Neutral_all 182 198	Мустафо Курбонов
+T4	Neutral_all 210 212	им
+A1	Plural T4
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T0 Arg2:T4
+R101	Anafor Arg1:T3 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T4

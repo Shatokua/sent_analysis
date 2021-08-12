@@ -1,0 +1,7 @@
+T0	Neutral_all 157 169	Айбек Калиев
+T1	Neutral_all 211 214	ему
+A1	AnaforPerson T1
+T2	Neutral_all 36 40	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

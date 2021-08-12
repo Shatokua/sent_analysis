@@ -1,0 +1,4 @@
+T0	Neutral 430 441	Герман Греф
+T2	Neutral_all 476 479	ему
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

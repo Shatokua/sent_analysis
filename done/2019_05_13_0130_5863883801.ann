@@ -1,0 +1,5 @@
+T1	Positive 128 144	Рамзан Ахматович
+T2	Positive 0 11	Ахмат-Хаджи
+T3	Positive 67 69	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

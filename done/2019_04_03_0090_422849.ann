@@ -1,0 +1,6 @@
+T1	Neutral_all 66 82	Петру) Порошенко
+T2	Neutral_all 113 136	Александром) Захарченко
+T3	Neutral_all 151 169	Игорем) Плотницким
+T4	Neutral_all 189 191	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4

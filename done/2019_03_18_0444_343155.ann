@@ -1,0 +1,7 @@
+T5	Positive 49 51	он
+A1	AnaforPerson T5
+T100	Positive_all 13 37	Юнус-Беку Баматгиреевичу
+T101	Neutral_all 188 195	Евкуров
+T102	Neutral_all 213 232	Кунта-Хаджи Кишиева
+R1	Anafor Arg1:T101 Arg2:T100
+R2	Anafor Arg1:T101 Arg2:T5	

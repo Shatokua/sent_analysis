@@ -1,0 +1,7 @@
+T0	Positive_all 21 38	Александру Дюкову
+T101	Positive 217 222	вашим
+A2	AnaforPerson T101
+T102	Positive 304 306	вы
+A3	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T102	

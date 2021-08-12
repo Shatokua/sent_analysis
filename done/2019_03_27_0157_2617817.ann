@@ -1,0 +1,7 @@
+T100	Neutral_all 0 9	Макгрегор
+T101	Neutral_all 46 52	Хабиба
+T102	Neutral_all 107 113	Конору
+T103	Neutral 80 84	него
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	
+R2	Anafor Arg1:T102 Arg2:T103	

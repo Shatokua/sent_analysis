@@ -1,0 +1,8 @@
+T0	Neutral_all 133 148	Надю Оболенцеву
+T101	Neutral_all 110 113	они
+A1	Plural T101
+T102	Neutral_all 197 200	они
+A2	Plural T102
+T103	Neutral_all 209 213	него
+A3	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T102

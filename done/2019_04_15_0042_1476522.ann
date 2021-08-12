@@ -1,0 +1,5 @@
+T1	Neutral 34 44	Варфоломея
+T2	Neutral 78 81	его
+A1	AnaforPerson T2
+T100	Negative_all 0 14	Петр Порошенко
+R1	Anafor Arg1:T100 Arg2:T2	

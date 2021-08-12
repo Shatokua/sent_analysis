@@ -1,0 +1,7 @@
+T2	Neutral 79 81	он
+T100	Neutral_all 12 18	Алиева
+T101	Positive 171 176	Алиев
+T102	Neutral 112 120	Самарину
+R1	Anafor Arg1:T100 Arg2:T2	
+A1	AnaforPerson T2
+R2	Anafor Arg1:T101 Arg2:T2	

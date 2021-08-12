@@ -1,0 +1,7 @@
+T0	Neutral 13 21	Коршунов
+T1	Neutral 24 33	Алексеева
+T102	Neutral_all 49 56	Дюковой
+T2	Neutral 151 154	Ими
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

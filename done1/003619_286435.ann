@@ -1,0 +1,4 @@
+T0	Neutral_all 51 66	Магомедова Г.Г.
+T1	Neutral_all 229 232	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

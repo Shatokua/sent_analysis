@@ -1,0 +1,3 @@
+T0	Neutral_all 0 9	Инфантино
+T1	Neutral_all 59 68	Инфантино
+R1	Anafor Arg1:T0 Arg2:T1

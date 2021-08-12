@@ -1,0 +1,13 @@
+T0	Neutral 67 72	Брюса
+T1	Neutral 83 90	Кейтлин
+T2	Positive 115 118	ней
+T3	Negative 136 138	ее
+A1	AnaforPerson T3
+T4	Negative 180 183	она
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+T5	Positive 26 29	Она
+A3	AnaforPerson T5
+A4	AnaforPerson T2
+R3	Anafor Arg1:T5 Arg2:T2	

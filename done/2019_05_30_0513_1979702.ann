@@ -1,0 +1,6 @@
+T0	Neutral_all 0 5	Хейли
+T1	Neutral_all 19 24	Асада
+T2	Neutral_all 62 67	Хейли
+T3	Neutral_all 71 77	Помпео
+T4	Neutral_all 81 87	Трампа
+R1	Anafor Arg1:T0 Arg2:T2

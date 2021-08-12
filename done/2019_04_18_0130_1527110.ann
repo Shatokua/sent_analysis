@@ -1,0 +1,4 @@
+T0	Negative 0 10	Иванишвили
+T1	Negative 175 178	его
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

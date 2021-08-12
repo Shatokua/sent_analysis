@@ -1,0 +1,12 @@
+T0	Neutral_all 12 18	Руисом
+T1	Neutral_all 23 29	Джошуа
+T2	Neutral_all 117 135	Деонтеем Уайлдером
+T3	Neutral_all 55 58	его
+A1	AnaforPerson T3
+T4	Neutral_all 73 75	он
+A2	AnaforPerson T4
+T5	Neutral_all 90 92	он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T3

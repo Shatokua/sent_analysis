@@ -1,0 +1,5 @@
+T0	Neutral_all 18 24	Гитлер
+T1	Neutral_all 40 46	Гитлер
+T2	Neutral_all 62 66	ними
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

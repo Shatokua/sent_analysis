@@ -1,0 +1,6 @@
+T0	Neutral_all 0 5	Трамп
+T1	Neutral_all 8 11	Абэ
+T2	Neutral_all 75 77	их
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

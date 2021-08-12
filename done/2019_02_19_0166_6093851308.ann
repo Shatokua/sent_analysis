@@ -1,0 +1,6 @@
+T101	Negative_all 51 56	Белых
+T102	Neutral_all 104 114	Навального
+T103	Neutral_all 168 177	Офицерову
+T104	Negative_all 318 322	него
+A1	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T104

@@ -1,0 +1,6 @@
+T100	Neutral_all 10 20	Макаревича
+T101	Negative_all 79 88	Макаревич
+T103	Negative_all 133 136	его
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T103	

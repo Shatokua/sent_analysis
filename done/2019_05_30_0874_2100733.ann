@@ -1,0 +1,4 @@
+T0	Neutral_all 41 52	Зурабишвили
+T1	Neutral_all 170 181	Зурабишвили
+T2	Neutral_all 184 191	Вашадзе
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,15 @@
+T0	Neutral 0 8	Янукович
+T1	Neutral 76 78	вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 106 108	вы
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Neutral 236 239	Вас
+A5	AnaforPerson T3
+A6	Plural T3
+T4	Neutral 282 284	он
+A7	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T0 Arg2:T4	

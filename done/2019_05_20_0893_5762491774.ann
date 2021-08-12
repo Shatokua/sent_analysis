@@ -1,0 +1,15 @@
+T0	Neutral 114 121	Немцова
+T1	Neutral 168 180	Политковской
+T2	Neutral 382 389	Кадыров
+T3	Neutral 426 428	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	
+T4	Neutral 503 505	вы
+A2	AnaforPerson T4
+A3	Plural T4
+T5	Neutral 506 508	их
+A4	AnaforPerson T5
+T6	Neutral 556 559	них
+A5	AnaforPerson T6
+A6	Plural T6
+R2	Variant Arg1:T5 Arg2:T6	

@@ -1,0 +1,12 @@
+T0	Positive 243 256	Тея Цулукиани
+T1	Positive 165 167	он
+A1	AnaforPerson T1
+T2	Positive 349 352	них
+A2	AnaforPerson T2
+T3	Positive 381 384	они
+A3	AnaforPerson T3
+A4	Plural T3
+A5	Plural T2
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Anafor Arg1:T1 Arg2:T2	

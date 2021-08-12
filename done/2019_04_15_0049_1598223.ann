@@ -1,0 +1,8 @@
+T100	Negative_all 0 9	Плахотнюк
+T101	Negative 156 162	Чебана
+T102	Negative 185 194	Плахотнюк
+T103	Negative 197 202	Додон
+T104	Negative 27 29	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T104	
+R2	Anafor Arg1:T102 Arg2:T104	

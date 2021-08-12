@@ -1,0 +1,6 @@
+T0	Neutral_all 153 157	Хант
+T1	Neutral_all 606 619	Джереми Ханту
+T2	Neutral_all 50 53	нас
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

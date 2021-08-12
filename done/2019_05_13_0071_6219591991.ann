@@ -1,0 +1,9 @@
+T0	Positive 87 94	Яценюке
+T1	Positive 340 371	Александр Валентинович Турчинов
+T3	Positive 172 174	он
+A1	AnaforPerson T3
+T4	Positive 268 272	него
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+T2	Positive 394 401	Парубий

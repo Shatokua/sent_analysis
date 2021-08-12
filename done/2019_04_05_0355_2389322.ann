@@ -1,0 +1,4 @@
+T0	Neutral_all 116 124	Николаса
+T1	Neutral_all 134 140	Мадуро
+T2	Neutral_all 175 187	Хуана Гуаидо
+R1	Anafor Arg1:T1 Arg2:T0

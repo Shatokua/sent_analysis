@@ -1,0 +1,8 @@
+T0	Negative_all 110 116	Путина
+T1	Negative_all 126 132	Путину
+T2	Neutral_all 41 43	мы
+A1	Plural T2
+T102	Neutral_all 2 7	нашей
+A2	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T102 Arg2:T2

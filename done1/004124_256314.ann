@@ -1,0 +1,12 @@
+T0	Neutral_all 210 227	Диминика Балдауфа
+T1	Neutral_all 230 241	Макса Хауке
+T2	Neutral_all 255 272	Каарела Таммъярва
+T3	Neutral_all 275 292	Андреаса Веэрпалу
+T4	Neutral_all 315 334	Алексея Полторанина
+T5	Neutral_all 336 338	Им
+A1	Plural T5
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T3 Arg2:T5
+R3	Anafor Arg1:T2 Arg2:T5
+R4	Anafor Arg1:T1 Arg2:T5
+R5	Anafor Arg1:T0 Arg2:T5

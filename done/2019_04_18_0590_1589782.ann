@@ -1,0 +1,7 @@
+T0	Neutral 53 60	Собянин
+T1	Negative 132 136	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 182 184	он
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

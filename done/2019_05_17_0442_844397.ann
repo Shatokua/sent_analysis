@@ -1,0 +1,8 @@
+T0	Neutral_all 0 8	Владимир
+T1	Neutral_all 47 56	Владимира
+T2	Neutral_all 59 65	Джошуа
+T3	Neutral_all 117 123	Джошуа
+T4	Neutral_all 146 149	ему
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

@@ -1,0 +1,11 @@
+T0	Neutral_all 50 65	Алексей Силанов
+T1	Neutral_all 98 101	нам
+A1	Plural T1
+T2	Neutral_all 362 364	их
+A2	Plural T2
+T3	Neutral_all 451 453	мы
+A3	Plural T3
+T104	Neutral_all 343 346	Нам
+A4	Plural T104
+R1	Anafor Arg1:T3 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T104

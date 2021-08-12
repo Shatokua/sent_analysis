@@ -1,0 +1,8 @@
+T0	Neutral_all 18 23	Путин
+T101	Positive 100 105	Путин
+T102	Neutral_all 0 2	Вы
+T103	Positive 165 168	его
+A3	AnaforPerson T103
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T103	

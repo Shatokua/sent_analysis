@@ -1,0 +1,12 @@
+T0	Neutral_all 211 245	Ястребом Владимиром Владимировичем
+T1	Neutral_all 34 36	их
+A1	Plural T1
+T2	Neutral_all 45 48	Они
+A2	Plural T2
+T3	Neutral_all 317 319	он
+A3	AnaforPerson T3
+T103	Neutral_all 190 192	Мы
+A4	Plural T103
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1
+R102	Anafor Arg1:T3 Arg2:T103

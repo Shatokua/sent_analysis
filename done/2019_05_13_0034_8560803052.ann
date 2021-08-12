@@ -1,0 +1,8 @@
+T0	Positive 120 131	Юрию Кокову
+T1	Neutral 166 179	Люся Пшибиева
+T2	Neutral 147 150	его
+A1	AnaforPerson T2
+T3	Positive 388 390	ее
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T3	

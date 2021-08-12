@@ -1,0 +1,5 @@
+T0	Neutral_all 122 134	Рамил Хуциев
+T1	Neutral_all 211 215	него
+T2	Neutral_all 244 247	ему
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

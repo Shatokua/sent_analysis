@@ -1,0 +1,8 @@
+T0	Neutral_all 8 18	Иван Ломов
+T1	Neutral_all 45 61	Степану Чубукову
+T2	Neutral_all 93 100	Натальи
+T3	Neutral_all 82 85	его
+A1	AnaforPerson T3
+T4	Neutral_all 264 266	вы
+A2	Plural T4
+R1	Anafor Arg1:T1 Arg2:T3

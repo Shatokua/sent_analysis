@@ -1,0 +1,5 @@
+T2	Neutral 118 120	Он
+A1	AnaforPerson T2
+T100	Neutral_all 26 30	Петр
+T101	Negative_all 129 139	Саакашвили
+R1	Anafor Arg1:T100 Arg2:T2	

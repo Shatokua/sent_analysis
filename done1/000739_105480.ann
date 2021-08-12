@@ -1,0 +1,9 @@
+T0	Negative 177 192	Николаса Мадуро
+T1	Negative 319 325	Мадуро
+T3	Positive 215 219	вами
+A2	Plural T3
+T104	Negative 292 295	ими
+A3	Plural T104
+A1	AnaforPerson T3
+A4	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T1	

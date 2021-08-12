@@ -1,0 +1,3 @@
+T0	Positive_all 15 20	Игорю
+T1	Positive_all 164 169	Игорь
+R1	Anafor Arg1:T1 Arg2:T0

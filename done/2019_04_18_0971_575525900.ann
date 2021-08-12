@@ -1,0 +1,6 @@
+T0	Neutral 49 63	Михаил Чечетов
+T1	Negative 105 113	Янукович
+T2	Negative 220 234	Николай Азаров
+T3	Negative 282 292	Юрий Бойко
+T4	Negative 3 11	Чечетова
+R1	Variant Arg1:T0 Arg2:T4	

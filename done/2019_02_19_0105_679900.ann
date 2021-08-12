@@ -1,0 +1,4 @@
+T101	Neutral_all 35 46	Джо Кэзером
+T102	Neutral_all 88 90	Он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102

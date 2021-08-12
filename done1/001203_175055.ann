@@ -1,0 +1,6 @@
+T0	Neutral_all 0 11	Герман Греф
+T1	Neutral_all 58 71	Андрей Костин
+T2	Neutral_all 143 157	Алексей Кудрин
+T3	Neutral_all 169 175	Сысуев
+T4	Neutral_all 467 473	Сысуев
+R1	Anafor Arg1:T3 Arg2:T4

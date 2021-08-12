@@ -1,0 +1,7 @@
+T0	Neutral_all 51 69	Василий Березуцкий
+T1	Neutral_all 90 99	Игнашевич
+T2	Neutral_all 102 105	нас
+A1	Plural T2
+T3	Neutral_all 27 30	нас
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2

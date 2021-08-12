@@ -1,0 +1,6 @@
+T0	Negative 21 27	Трампа
+T1	Negative 67 70	они
+A1	Plural T1
+T2	Neutral 141 144	они
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

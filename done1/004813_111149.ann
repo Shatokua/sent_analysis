@@ -1,0 +1,5 @@
+T0	Neutral_all 132 147	Олега Газманова
+T1	Neutral_all 5 7	вы
+A1	Plural T1
+T101	Neutral_all 109 112	вам
+A2	Plural T101

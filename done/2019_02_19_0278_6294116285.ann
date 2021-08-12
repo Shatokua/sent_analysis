@@ -1,0 +1,9 @@
+T3	Neutral 280 284	него
+A1	AnaforPerson T3
+T101	Negative 15 20	Трамп
+T102	Negative 193 199	Путина
+T103	Neutral 11 13	он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T103
+T1	Neutral 241 243	он
+R1	Anafor Arg1:T101 Arg2:T1	

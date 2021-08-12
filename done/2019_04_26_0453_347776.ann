@@ -1,0 +1,7 @@
+T0	Positive 20 27	Битаров
+T1	Neutral_all 105 114	Агузарова
+T2	Neutral 118 126	Агузаров
+T3	Neutral 84 86	Он
+A1	AnaforPerson T3
+R2	Anafor Arg1:T0 Arg2:T3	
+R1	Anafor Arg1:T1 Arg2:T2	

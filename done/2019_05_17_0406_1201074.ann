@@ -1,0 +1,5 @@
+T1	Neutral_all 144 151	Парфене
+T2	Neutral_all 165 173	Настасье
+T3	Positive_all 28 40	Достоевского
+T100	Positive 95 113	Федора Михайловича
+R1	Anafor Arg1:T3 Arg2:T100	

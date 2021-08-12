@@ -1,0 +1,4 @@
+T0	Neutral_all 6 19	Ксения Собчак
+T1	Neutral_all 37 53	Владимира Путина
+T2	Neutral_all 187 193	Ксении
+R1	Anafor Arg1:T0 Arg2:T2

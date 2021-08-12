@@ -1,0 +1,6 @@
+T0	Neutral 59 78	Алексей Анатольевич
+T1	Neutral 54 57	вам
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 182 184	вы
+R2	Anafor Arg1:T0 Arg2:T2	

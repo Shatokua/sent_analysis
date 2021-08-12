@@ -1,0 +1,8 @@
+T0	Negative 3 18	В. Жириновскому
+T1	Neutral 252 255	них
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 371 374	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1	

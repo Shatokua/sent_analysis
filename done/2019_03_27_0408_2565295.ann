@@ -1,0 +1,3 @@
+T0	Neutral_all 0 29	Сергей Александрович Фурсенко
+T1	Positive_all 195 215	Сергей Александрович
+R1	Anafor Arg1:T0 Arg2:T1

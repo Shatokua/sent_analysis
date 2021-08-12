@@ -1,0 +1,3 @@
+T1	Negative_all 127 138	Соколовским
+T100	Negative 78 89	Соколовский
+R1	Anafor Arg1:T100 Arg2:T1	

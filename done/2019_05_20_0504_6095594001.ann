@@ -1,0 +1,10 @@
+T0	Neutral 97 104	Петлина
+T1	Neutral 181 194	Максим Петлин
+T2	Neutral 83 88	Белых
+T3	Neutral 201 204	ним
+A1	AnaforPerson T3
+T4	Neutral 316 319	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Variant Arg1:T1 Arg2:T0	

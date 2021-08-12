@@ -1,0 +1,5 @@
+T0	Neutral_all 61 77	Вячеслава Дерева
+T1	Neutral_all 188 203	Рауфа Арашукова
+T2	Neutral_all 208 211	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

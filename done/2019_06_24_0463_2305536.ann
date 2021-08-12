@@ -1,0 +1,5 @@
+T0	Neutral_all 16 21	Обама
+T1	Neutral_all 39 52	Джима Мэттиса
+T2	Neutral_all 60 63	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

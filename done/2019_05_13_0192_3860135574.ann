@@ -1,0 +1,4 @@
+T0	Positive 9 27	Алексея Навального
+T1	Positive 78 82	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

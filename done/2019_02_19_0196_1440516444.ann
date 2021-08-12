@@ -1,0 +1,8 @@
+T101	Neutral_all 96 113	Салтыкова-Щедрина
+T102	Negative_all 208 215	Познера
+T103	Neutral_all 260 266	Гоголя
+T104	Neutral_all 275 292	Салтыкова-Щедрина
+T105	Negative 0 2	Он
+A1	AnaforPerson T105
+R101	Anafor Arg1:T102 Arg2:T105
+R1	Anafor Arg1:T101 Arg2:T104	

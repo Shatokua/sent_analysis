@@ -1,0 +1,4 @@
+T0	Neutral 13 33	Виктором Борисовичем
+T1	Positive 64 66	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

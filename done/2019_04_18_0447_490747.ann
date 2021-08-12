@@ -1,0 +1,4 @@
+T0	Negative 23 31	Климкину
+T1	Negative 17 20	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

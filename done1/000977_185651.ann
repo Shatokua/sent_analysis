@@ -1,0 +1,4 @@
+T0	Neutral_all 51 67	Элизабет Миллард
+T1	Neutral_all 0 3	Его
+T2	Neutral_all 129 132	его
+R1	Anafor Arg1:T1 Arg2:T2

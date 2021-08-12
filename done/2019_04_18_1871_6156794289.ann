@@ -1,0 +1,4 @@
+T0	Negative 5 12	Клинтон
+T1	Negative 0 3	Она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

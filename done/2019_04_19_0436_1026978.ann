@@ -1,0 +1,5 @@
+T0	Neutral_all 39 44	Тюрин
+T1	Neutral_all 67 77	Максаковой
+T2	Neutral_all 117 128	Вороненкова
+T103	Neutral 130 135	Тюрин
+R1	Anafor Arg1:T0 Arg2:T103	

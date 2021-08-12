@@ -1,0 +1,8 @@
+T0	Neutral_all 80 94	Вячеслав Дацик
+T1	Neutral_all 103 118	Никита Джигурда
+T2	Neutral_all 3 6	его
+A1	Plural T2
+A2	AnaforPerson T2
+T3	Neutral_all 219 222	ему
+A3	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3

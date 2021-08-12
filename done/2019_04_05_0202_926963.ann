@@ -1,0 +1,10 @@
+T3	Neutral 79 82	ему
+A1	AnaforPerson T3
+T100	Neutral_all 0 8	Контадор
+T101	Neutral_all 34 39	Фруму
+T102	Neutral_all 56 60	Крис
+T103	Negative 134 136	он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102
+R2	Anafor Arg1:T100 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T103	

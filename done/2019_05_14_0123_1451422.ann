@@ -1,0 +1,13 @@
+T0	Neutral_all 0 8	Киркоров
+T1	Neutral_all 29 43	Аллы Борисовны
+T2	Neutral_all 55 69	Алла Борисовна
+T4	Positive 85 87	ей
+A2	AnaforPerson T4
+T5	Negative_all 101 103	он
+A3	AnaforPerson T5
+T103	Positive 71 74	Она
+A4	AnaforPerson T103
+R2	Anafor Arg1:T0 Arg2:T5
+R1	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T103	
+R4	Anafor Arg1:T103 Arg2:T4	

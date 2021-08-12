@@ -1,0 +1,4 @@
+T1	Neutral 91 93	Он
+A1	AnaforPerson T1
+T2	Positive 70 89	Филиппа [Киркорова]
+R1	Anafor Arg1:T2 Arg2:T1	

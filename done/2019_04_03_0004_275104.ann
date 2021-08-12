@@ -1,0 +1,10 @@
+T4	Neutral_all 90 96	Трампа
+T5	Neutral_all 135 145	Тиллepcoнa
+T6	Neutral_all 173 178	Трамп
+T1	Neutral_all 23 36	Джон] Маккейн
+T2	Neutral_all 53 65	Марко] Рубио
+T3	Neutral_all 156 159	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T6 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3
+R101	Anafor Arg1:T5 Arg2:T3

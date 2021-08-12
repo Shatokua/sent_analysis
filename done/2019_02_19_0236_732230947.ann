@@ -1,0 +1,4 @@
+T1	Positive 153 163	Иванишвили
+T2	Negative 204 214	Саакашвили
+T3	Negative 216 219	его
+R1	Anafor Arg1:T2 Arg2:T3	

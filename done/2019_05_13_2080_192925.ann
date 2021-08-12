@@ -1,0 +1,7 @@
+T0	Positive 10 26	Сергей Борисович
+T1	Neutral 33 37	вами
+A1	AnaforPerson T1
+T2	Positive 102 104	вы
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

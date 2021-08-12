@@ -1,0 +1,6 @@
+T0	Negative_all 5 18	Ксения Собчак
+T1	Negative_all 34 49	Ксения Бородина
+T102	Neutral_all 144 147	они
+A1	Plural T102
+R101	Anafor Arg1:T0 Arg2:T102
+R102	Anafor Arg1:T1 Arg2:T102

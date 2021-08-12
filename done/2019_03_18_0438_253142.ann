@@ -1,0 +1,6 @@
+T0	Neutral 56 68	Алам Хаджаев
+T2	Neutral 100 102	он
+A1	AnaforPerson T2
+T101	Neutral_all 115 122	Ходжаев
+R2	Anafor Arg1:T101 Arg2:T2
+R1	Anafor Arg1:T0 Arg2:T101	

@@ -1,0 +1,5 @@
+T3	Neutral_all 9 12	его
+T4	Neutral_all 104 107	они
+A1	Plural T4
+A2	AnaforPerson T4
+A3	AnaforPerson T3

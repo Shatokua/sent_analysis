@@ -1,0 +1,4 @@
+T0	Neutral_all 60 74	Андрея Фролова
+T1	Neutral_all 220 223	Ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

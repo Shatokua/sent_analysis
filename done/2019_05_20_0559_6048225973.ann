@@ -1,0 +1,4 @@
+T0	Neutral 0 7	Луценко
+T1	Neutral 41 43	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,4 @@
+T0	Neutral 15 37	Дмитрием Анатольевичем
+T1	Neutral 42 46	него
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

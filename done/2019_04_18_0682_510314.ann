@@ -1,0 +1,6 @@
+T0	Negative 0 4	Леша
+T1	Negative 20 24	тебя
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+A2	Unclear T0
+A3	Unclear T1

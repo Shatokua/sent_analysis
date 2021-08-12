@@ -1,0 +1,7 @@
+T0	Negative 101 110	Порошенко
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 9 11	им
+A2	AnaforPerson T2
+A3	Plural T2

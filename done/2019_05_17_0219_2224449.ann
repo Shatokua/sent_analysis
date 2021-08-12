@@ -1,0 +1,4 @@
+T0	Neutral_all 2 6	Кети
+T1	Neutral_all 61 64	Яна
+T2	Positive_all 66 70	Кети
+R1	Anafor Arg1:T0 Arg2:T2

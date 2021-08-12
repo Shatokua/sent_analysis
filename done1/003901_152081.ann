@@ -1,0 +1,11 @@
+T0	Neutral_all 249 255	Карина
+T1	Neutral_all 259 283	Валентина Константиновна
+T3	Neutral_all 424 430	Карина
+T2	Neutral_all 292 309	Спартака Мишулина
+T4	Neutral_all 482 484	мы
+A1	Plural T4
+T5	Neutral_all 519 521	их
+A2	Plural T5
+R1	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T5
+R103	Anafor Arg1:T1 Arg2:T5

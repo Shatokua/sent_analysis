@@ -1,0 +1,6 @@
+T100	Neutral_all 253 264	Уго Чавесом
+T101	Neutral_all 243 250	Путиным
+T102	Negative 371 380	Януковича
+T1	Negative 392 394	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T102 Arg2:T1	

@@ -1,0 +1,4 @@
+T2	Neutral 94 109	Руслан] Горринг
+T100	Neutral_all 27 32	Роман
+T101	Neutral_all 49 54	Панов
+R1	Anafor Arg1:T101 Arg2:T100	

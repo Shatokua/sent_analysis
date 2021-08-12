@@ -1,0 +1,4 @@
+T0	Neutral_all 13 29	Николаю Макарову
+T1	Neutral_all 172 175	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

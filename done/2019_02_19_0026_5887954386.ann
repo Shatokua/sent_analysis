@@ -1,0 +1,5 @@
+T3	Negative 92 95	она
+A1	AnaforPerson T3
+T101	Neutral_all 10 21	Х. Зеехофер
+T102	Neutral_all 31 38	Меркель
+R1	Anafor Arg1:T102 Arg2:T3

@@ -1,0 +1,4 @@
+T100	Positive 15 19	Маша
+T101	Positive 97 109	Мария Белова
+T102	Positive 187 194	Артуром
+R1	Anafor Arg1:T101 Arg2:T100	

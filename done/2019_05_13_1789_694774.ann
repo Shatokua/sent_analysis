@@ -1,0 +1,10 @@
+T0	Positive 154 172	Нила Столобенского
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral 74 77	его
+A2	AnaforPerson T2
+T3	Positive 203 205	Он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	
+R3	Anafor Arg1:T0 Arg2:T3	

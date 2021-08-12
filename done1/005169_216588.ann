@@ -1,0 +1,15 @@
+T0	Neutral_all 391 407	Вячеслав Володин
+T1	Neutral_all 71 74	нас
+A1	Plural T1
+T2	Neutral_all 136 138	мы
+A2	Plural T2
+T3	Neutral_all 203 206	нас
+A3	Plural T3
+T4	Neutral_all 467 470	нам
+A4	Plural T4
+T5	Neutral_all 485 487	мы
+A5	Plural T5
+R1	Anafor Arg1:T5 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T3
+R4	Anafor Arg1:T0 Arg2:T5

@@ -1,0 +1,13 @@
+T0	Positive 11 20	Липницкая
+T1	Positive 40 43	Она
+A1	AnaforPerson T1
+T2	Positive 70 73	нее
+A2	AnaforPerson T2
+T3	Neutral 237 240	Она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+T4	Neutral 257 259	ей
+A4	AnaforPerson T4
+R4	Anafor Arg1:T3 Arg2:T4	

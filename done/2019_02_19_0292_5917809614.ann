@@ -1,0 +1,9 @@
+T2	Positive 309 312	нее
+A1	AnaforPerson T2
+T101	Neutral_all 279 287	Савченко
+R1	Anafor Arg1:T101 Arg2:T2
+T1	Negative 0 9	Президент
+T3	Neutral 237 247	президента
+R2	Anafor Arg1:T1 Arg2:T3	
+T4	Negative 301 305	себя
+R3	Anafor Arg1:T3 Arg2:T4	

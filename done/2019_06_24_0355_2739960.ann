@@ -1,0 +1,4 @@
+T1	Neutral 0 26	Петр Алексеевич (Порошенко
+T102	Negative 100 103	вас
+A3	Plural T102
+A1	AnaforPerson T102

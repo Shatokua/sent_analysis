@@ -1,0 +1,4 @@
+T100	Neutral_all 12 16	Дима
+T101	Positive 94 101	Платону
+T102	Positive 130 138	Платоном
+R1	Anafor Arg1:T101 Arg2:T102	

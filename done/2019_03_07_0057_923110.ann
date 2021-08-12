@@ -1,0 +1,8 @@
+T100	Positive_all 0 12	Серхио Рамос
+T101	Positive_all 22 29	Бензема
+T102	Positive_all 49 56	Роналду
+T103	Positive_all 74 83	Криштиану
+T104	Positive_all 96 98	Он
+A1	AnaforPerson T104
+R1	Anafor Arg1:T103 Arg2:T104
+R2	Anafor Arg1:T102 Arg2:T103	

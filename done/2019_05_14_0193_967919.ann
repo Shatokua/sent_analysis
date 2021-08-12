@@ -1,0 +1,10 @@
+T0	Neutral_all 4 11	Златана
+T1	Neutral_all 77 91	Маркус Рашфорд
+T2	Neutral_all 141 153	Ибрагимовича
+T3	Neutral_all 186 192	Лукаку
+T4	Neutral_all 154 156	мы
+A1	Plural T4
+T5	Neutral_all 14 17	нас
+A2	Plural T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T4 Arg2:T5

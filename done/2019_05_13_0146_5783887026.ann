@@ -1,0 +1,5 @@
+T0	Neutral 165 170	Месси
+T1	Neutral 204 221	Криштиану Роналду
+T2	Neutral 195 197	им
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

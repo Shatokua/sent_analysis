@@ -1,0 +1,8 @@
+T0	Neutral_all 241 270	Александра Сергеевича Пушкина
+T1	Neutral_all 30 32	вы
+A1	Plural T1
+A2	AnaforPerson T1
+T2	Neutral_all 57 60	вам
+A3	Plural T2
+A4	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

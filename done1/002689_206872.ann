@@ -1,0 +1,4 @@
+T1	Neutral_all 143 146	Его
+A1	AnaforPerson T1
+T100	Negative 62 75	Дэвид Петреус
+R1	Anafor Arg1:T100 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Neutral_all 0 5	Настя
+T1	Neutral_all 66 71	Насти
+T2	Neutral_all 45 47	ей
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

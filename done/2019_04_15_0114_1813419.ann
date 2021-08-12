@@ -1,0 +1,5 @@
+T0	Neutral_all 38 44	Трампа
+T1	Neutral_all 58 66	Эрдогана
+T2	Neutral_all 108 117	Чавушоглу
+T3	Neutral_all 128 133	Трамп
+R1	Anafor Arg1:T3 Arg2:T0

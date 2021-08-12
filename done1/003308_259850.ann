@@ -1,0 +1,18 @@
+T0	Neutral_all 200 206	Мугабе
+T1	Neutral_all 229 238	Мнангагва
+T2	Neutral_all 418 424	Мугабе
+T3	Neutral_all 427 436	Мнангагве
+T4	Neutral_all 464 470	Мугабе
+T5	Neutral_all 500 512	Си Цзиньпину
+T6	Neutral_all 622 628	Мугабе
+T7	Neutral_all 323 326	его
+A1	AnaforPerson T7
+T108	Neutral_all 143 152	Мнангагвы
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T7
+R3	Anafor Arg1:T0 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T6
+R102	Anafor Arg1:T2 Arg2:T6
+R105	Anafor Arg1:T6 Arg2:T7
+R106	Anafor Arg1:T3 Arg2:T108

@@ -1,0 +1,8 @@
+T2	Neutral_all 0 3	Она
+A1	AnaforPerson T2
+T3	Neutral_all 88 90	Мы
+A2	Plural T3
+T1	Neutral_all 121 149	Михаилу Григорьевичу Орешете
+T4	Neutral_all 153 155	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T4

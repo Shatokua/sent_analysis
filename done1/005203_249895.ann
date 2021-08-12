@@ -1,0 +1,4 @@
+T0	Neutral_all 55 73	Анастасии Шевченко
+T1	Neutral_all 105 108	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

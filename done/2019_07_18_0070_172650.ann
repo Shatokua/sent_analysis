@@ -1,0 +1,4 @@
+T0	Positive 131 139	Сноудена
+T1	Positive 126 129	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

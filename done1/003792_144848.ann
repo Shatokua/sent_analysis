@@ -1,0 +1,15 @@
+T0	Neutral_all 10 30	Сергей Александрович
+T1	Neutral_all 54 69	Ксения Огаркова
+T2	Neutral_all 206 212	Ксения
+T3	Neutral_all 128 131	нас
+A1	Plural T3
+T4	Neutral_all 165 167	Мы
+A2	Plural T4
+T5	Neutral_all 227 230	она
+A3	AnaforPerson T5
+T6	Neutral_all 615 617	мы
+A4	Plural T6
+R1	Anafor Arg1:T4 Arg2:T6
+R2	Anafor Arg1:T6 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T5

@@ -1,0 +1,14 @@
+T0	Neutral_all 585 601	Татьяной Орловой
+T1	Neutral_all 95 97	он
+A1	AnaforPerson T1
+T2	Neutral_all 523 525	мы
+A2	Plural T2
+T3	Neutral_all 579 581	Мы
+A3	Plural T3
+T4	Neutral_all 728 730	мы
+A4	Plural T4
+T5	Neutral_all 764 767	нам
+A5	Plural T5
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5

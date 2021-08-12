@@ -1,0 +1,8 @@
+T1	Neutral 43 69	Морозов Александр Олегович
+T100	Neutral_all 93 98	Кашин
+T2	Neutral 108 111	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 143 145	он
+A2	AnaforPerson T3
+R2	Anafor Arg1:T100 Arg2:T3	

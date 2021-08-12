@@ -1,0 +1,10 @@
+T0	Neutral 40 50	Гонтаревой
+T1	Negative 97 99	ее
+A1	AnaforPerson T1
+T2	Negative 151 154	она
+A2	AnaforPerson T2
+T3	Negative 193 196	она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

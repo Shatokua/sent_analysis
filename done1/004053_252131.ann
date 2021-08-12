@@ -1,0 +1,9 @@
+T0	Neutral_all 135 147	Патрика Шика
+T1	Neutral_all 15 17	мы
+A1	Plural T1
+T2	Neutral_all 59 61	мы
+A2	Plural T2
+T3	Neutral_all 109 112	нас
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,6 @@
+T0	Neutral_all 71 83	Хасбулатовым
+T1	Neutral_all 85 91	Руцким
+T2	Negative_all 133 136	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

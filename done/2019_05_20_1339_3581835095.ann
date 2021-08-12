@@ -1,0 +1,5 @@
+T0	Neutral 137 142	Эштон
+T1	Neutral 121 127	Вашего
+A1	AnaforPerson T1
+A2	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1	

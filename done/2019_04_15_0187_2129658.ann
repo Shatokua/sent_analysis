@@ -1,0 +1,11 @@
+T0	Neutral 0 9	Прилучный
+T101	Neutral_all 92 96	Паше
+T102	Negative_all 11 13	Ты
+A1	AnaforPerson T102
+T103	Neutral 40 44	твой
+A2	AnaforPerson T103
+T104	Negative 204 208	Твой
+A3	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	

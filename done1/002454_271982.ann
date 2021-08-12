@@ -1,0 +1,7 @@
+T0	Neutral_all 138 155	Владимир Джабаров
+T1	Neutral_all 186 192	Мадуро
+T2	Neutral_all 259 265	Мадуро
+T3	Neutral_all 206 208	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

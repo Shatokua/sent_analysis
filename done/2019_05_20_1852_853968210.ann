@@ -1,0 +1,4 @@
+T0	Neutral 70 76	Путина
+T1	Neutral 224 241	Дмитрия Медведева
+T2	Neutral 316 322	Путина
+R1	Anafor Arg1:T0 Arg2:T2	

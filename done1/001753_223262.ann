@@ -1,0 +1,5 @@
+T0	Neutral_all 32 47	Роберта Мюллера
+T1	Neutral_all 200 215	Дональда Трампа
+T2	Neutral_all 258 261	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

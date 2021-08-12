@@ -1,0 +1,5 @@
+T0	Neutral_all 52 61	Криштиану
+T1	Neutral_all 138 147	Криштиану
+T2	Neutral_all 119 122	нас
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

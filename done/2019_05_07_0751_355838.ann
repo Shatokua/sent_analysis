@@ -1,0 +1,6 @@
+T0	Neutral 78 94	Надежде Савченко
+T1	Neutral 122 124	Мы
+A1	Plural T1
+T2	Neutral 149 151	мы
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	

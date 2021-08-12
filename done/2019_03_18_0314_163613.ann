@@ -1,0 +1,4 @@
+T100	Neutral_all 29 45	Рамзана Кадырова
+T101	Neutral_all 141 148	Кадыров
+R1	Anafor Arg1:T101 Arg2:T100
+R101	Anafor Arg1:T100 Arg2:T101

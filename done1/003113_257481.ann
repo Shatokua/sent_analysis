@@ -1,0 +1,6 @@
+T0	Neutral_all 235 252	Игоре Гладковском
+T1	Neutral_all 293 311	Олега Гладковского
+T2	Neutral_all 452 461	Порошенко
+T3	Negative 387 390	они
+A1	Plural T3
+A2	AnaforPerson T3

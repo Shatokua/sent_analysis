@@ -1,0 +1,10 @@
+T0	Neutral_all 62 77	Самвела Бабаяна
+T1	Neutral_all 117 120	Они
+A1	Plural T1
+T2	Neutral_all 156 158	их
+A2	Plural T2
+T3	Neutral_all 222 224	их
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T3

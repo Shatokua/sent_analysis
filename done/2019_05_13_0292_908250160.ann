@@ -1,0 +1,16 @@
+T0	Positive 31 48	Анатолий Сердюков
+T1	Positive 77 81	него
+A1	AnaforPerson T1
+T2	Positive 91 94	его
+A2	AnaforPerson T2
+T3	Positive 139 141	он
+A3	AnaforPerson T3
+T4	Positive 274 276	он
+A4	AnaforPerson T4
+T5	Positive 315 319	него
+A5	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	

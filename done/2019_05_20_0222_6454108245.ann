@@ -1,0 +1,4 @@
+T0	Neutral 44 59	Дональду Трампу
+T1	Neutral 24 27	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

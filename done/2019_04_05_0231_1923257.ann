@@ -1,0 +1,5 @@
+T0	Neutral_all 0 9	Лукашенко
+T1	Neutral_all 64 82	Богдан Хмельницкий
+T2	Neutral_all 142 144	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

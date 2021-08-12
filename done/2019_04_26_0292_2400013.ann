@@ -1,0 +1,5 @@
+T1	Neutral_all 199 214	Ольги Скабеевой
+T2	Negative_all 85 87	вы
+A1	AnaforPerson T2
+T100	Negative 68 83	Борислав Береза
+R1	Anafor Arg1:T100 Arg2:T2	

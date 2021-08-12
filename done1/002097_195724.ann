@@ -1,0 +1,20 @@
+T0	Neutral_all 0 17	Асылбек Жээнбеков
+T1	Neutral_all 77 86	Жээнбеков
+T2	Neutral_all 99 101	он
+A1	AnaforPerson T2
+T3	Neutral_all 246 248	он
+A2	AnaforPerson T3
+T4	Neutral_all 322 325	ему
+A3	AnaforPerson T4
+T5	Neutral_all 473 477	него
+A4	AnaforPerson T5
+T6	Neutral_all 508 510	он
+A5	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T6
+R5	Anafor Arg1:T6 Arg2:T5
+R6	Anafor Arg1:T5 Arg2:T4
+R105	Anafor Arg1:T6 Arg2:T4
+R106	Anafor Arg1:T4 Arg2:T5

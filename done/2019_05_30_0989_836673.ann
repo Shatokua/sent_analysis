@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Навальный
+T1	Neutral_all 44 53	Стрелкова
+T2	Neutral_all 57 65	Стрелков
+T3	Neutral_all 85 95	Навальному
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T3

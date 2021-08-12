@@ -1,0 +1,6 @@
+T0	Neutral_all 514 532	Александр Блошенко
+T2	Neutral_all 716 718	Мы
+A1	Plural T2
+T3	Neutral_all 806 808	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

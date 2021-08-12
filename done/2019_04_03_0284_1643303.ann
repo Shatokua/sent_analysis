@@ -1,0 +1,7 @@
+T3	Neutral 10 13	его
+A1	AnaforPerson T3
+T100	Neutral_all 124 129	Обаму
+T101	Neutral_all 158 163	Обаму
+T102	Negative 165 170	Трамп
+R2	Anafor Arg1:T100 Arg2:T3
+R1	Anafor Arg1:T100 Arg2:T101	

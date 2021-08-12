@@ -1,0 +1,12 @@
+T0	Neutral_all 9 14	Меган
+T1	Neutral_all 182 187	Меган
+T2	Neutral_all 52 55	нее
+A1	AnaforPerson T2
+T3	Neutral_all 82 85	она
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T1

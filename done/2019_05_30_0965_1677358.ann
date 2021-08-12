@@ -1,0 +1,6 @@
+T0	Neutral_all 67 73	Путину
+T1	Neutral_all 175 184	Порошенко
+T2	Neutral_all 31 33	мы
+A1	Plural T2
+T3	Neutral_all 118 120	их
+A2	Plural T3

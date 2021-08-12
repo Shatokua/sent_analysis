@@ -1,0 +1,17 @@
+T0	Neutral_all 394 407	Сергей Саяпин
+T1	Neutral_all 519 537	Алексеев Александр
+T2	Neutral_all 67 69	Мы
+A1	Plural T2
+T3	Neutral_all 141 144	Они
+A2	Plural T3
+T4	Neutral_all 221 223	Он
+A3	AnaforPerson T4
+T5	Neutral_all 455 457	их
+A4	Plural T5
+T6	Negative_all 656 659	Они
+A5	Plural T6
+T7	Neutral_all 238 243	Царек
+R1	Anafor Arg1:T3 Arg2:T6
+R2	Anafor Arg1:T6 Arg2:T5
+R3	Anafor Arg1:T1 Arg2:T7
+R102	Anafor Arg1:T5 Arg2:T3

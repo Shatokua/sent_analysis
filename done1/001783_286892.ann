@@ -1,0 +1,10 @@
+T0	Neutral_all 28 34	Трампа
+T1	Neutral_all 65 76	Ким Чен Ына
+T2	Neutral_all 140 146	Трампа
+T3	Neutral_all 147 159	Майкла Коэна
+T4	Neutral_all 334 340	Трампу
+T5	Neutral_all 204 206	он
+A1	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T3 Arg2:T5

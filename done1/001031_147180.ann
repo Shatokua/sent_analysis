@@ -1,0 +1,8 @@
+T2	Neutral_all 583 598	Петра Петровича
+T3	Neutral_all 665 672	Алексей
+T4	Neutral_all 139 142	его
+T5	Neutral_all 171 174	его
+T106	Neutral_all 371 374	его
+A1	AnaforPerson T106
+R1	Anafor Arg1:T4 Arg2:T5
+R102	Anafor Arg1:T5 Arg2:T106

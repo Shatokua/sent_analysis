@@ -1,0 +1,5 @@
+T0	Neutral_all 183 188	Венди
+T1	Neutral_all 275 289	Анна Файзулина
+T102	Neutral_all 200 203	она
+A1	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T102

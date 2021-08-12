@@ -1,0 +1,6 @@
+T0	Negative_all 36 51	Хиллари Клинтон
+T1	Neutral_all 152 157	Обама
+T2	Neutral_all 187 194	Путиным
+T3	Neutral_all 172 176	него
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

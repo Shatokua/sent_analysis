@@ -1,0 +1,5 @@
+T0	Neutral_all 8 14	Немцов
+T1	Neutral_all 49 65	Рамзана Кадырова
+T2	Neutral_all 67 69	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

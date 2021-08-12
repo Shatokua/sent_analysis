@@ -1,0 +1,4 @@
+T0	Neutral 119 132	Виталий Мутко
+T1	Neutral 195 197	Он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

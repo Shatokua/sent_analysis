@@ -1,0 +1,7 @@
+T0	Neutral_all 121 135	Аркадий Волков
+T1	Neutral_all 307 309	Мы
+A1	Plural T1
+T2	Neutral_all 481 483	Мы
+A2	Plural T2
+T3	Neutral_all 0 2	Он
+R1	Anafor Arg1:T1 Arg2:T2

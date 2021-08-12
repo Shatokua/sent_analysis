@@ -1,0 +1,5 @@
+T0	Neutral_all 42 53	Темирханова
+T1	Neutral_all 65 73	Буданова
+T2	Neutral_all 93 96	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Negative 57 62	Павел
+T1	Negative 102 104	вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 29 31	их
+A2	Plural T2

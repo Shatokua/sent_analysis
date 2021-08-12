@@ -1,0 +1,4 @@
+T1	Neutral 610 640	Михаил Александрович [Кузнецов
+T103	Negative 546 548	он
+A3	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T103	

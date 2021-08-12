@@ -1,0 +1,8 @@
+T0	Neutral 38 58	Владислава Ивановича
+T1	Positive 61 64	Они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 136 138	их
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral_all 87 100	Михаил Коляда
+T1	Neutral_all 102 115	Максим Ковтун
+T2	Neutral_all 117 130	Дмитрий Алиев
+T3	Neutral_all 133 140	Самарин
+T4	Neutral_all 174 180	Коляда
+R1	Anafor Arg1:T0 Arg2:T4

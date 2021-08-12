@@ -1,0 +1,6 @@
+T1	Neutral_all 185 191	Ушаков
+T2	Neutral_all 141 144	нем
+A1	AnaforPerson T2
+T100	Neutral 107 119	Нила Ушакова
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

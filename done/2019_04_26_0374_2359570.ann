@@ -1,0 +1,8 @@
+T0	Neutral_all 19 24	Орхан
+T1	Neutral_all 126 131	Орхан
+T2	Neutral_all 143 145	их
+A1	Plural T2
+T3	Neutral_all 172 174	их
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T3

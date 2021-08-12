@@ -1,0 +1,5 @@
+T0	Neutral_all 23 31	Магеллан
+T1	Neutral_all 59 66	Филиппа
+T2	Negative_all 107 109	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

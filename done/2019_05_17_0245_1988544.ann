@@ -1,0 +1,7 @@
+T0	Neutral_all 101 117	Жореса Ивановича
+T3	Neutral_all 191 194	вас
+T4	Neutral_all 75 77	вы
+A3	Plural T4
+T101	Neutral 155 185	Николай Васильевич (Коломейцев
+R1	Anafor Arg1:T101 Arg2:T3	
+A1	AnaforPerson T3

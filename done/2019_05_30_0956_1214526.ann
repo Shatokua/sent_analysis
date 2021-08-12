@@ -1,0 +1,8 @@
+T0	Neutral_all 32 39	Роналду
+T1	Neutral_all 63 72	Криштиану
+T2	Positive_all 203 210	Роналду
+T4	Positive 143 146	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T4	
+R3	Anafor Arg1:T2 Arg2:T4	

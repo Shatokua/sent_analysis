@@ -1,0 +1,6 @@
+T0	Neutral_all 25 30	Туска
+T1	Neutral_all 150 160	Тереза Мэй
+T2	Neutral_all 467 470	они
+A1	Plural T2
+T3	Neutral_all 593 595	он
+A2	AnaforPerson T3

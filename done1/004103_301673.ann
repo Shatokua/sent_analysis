@@ -1,0 +1,6 @@
+T0	Neutral_all 203 218	Олега Газманова
+T1	Neutral_all 64 66	их
+A1	Plural T1
+T2	Neutral_all 133 135	их
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

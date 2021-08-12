@@ -1,0 +1,8 @@
+T0	Neutral_all 58 72	Петр Порошенко
+T1	Neutral_all 138 148	Зеленского
+T2	Neutral_all 248 258	Зеленского
+T3	Neutral_all 259 285	Владимиром Александровичем
+T4	Neutral_all 219 231	Коломойского
+T5	Neutral_all 332 335	Они
+A1	Plural T5
+R1	Anafor Arg1:T1 Arg2:T2

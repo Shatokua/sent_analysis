@@ -1,0 +1,5 @@
+T0	Neutral_all 61 67	Лиза [
+T1	Neutral_all 67 83	Елизавета Глинка
+T2	Neutral_all 12 14	мы
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,6 @@
+T0	Neutral_all 8 22	Алексей Демкин
+T1	Neutral_all 77 86	Самойлова
+T4	Neutral_all 92 94	он
+A1	AnaforPerson T4
+T2	Neutral_all 188 205	Владимира] Путина
+R1	Anafor Arg1:T1 Arg2:T4

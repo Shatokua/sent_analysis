@@ -1,0 +1,5 @@
+T0	Negative 0 9	Порошенко
+T1	Positive 26 35	Черчиллем
+T2	Negative 80 82	он
+R1	Anafor Arg1:T0 Arg2:T2	
+A1	AnaforPerson T2

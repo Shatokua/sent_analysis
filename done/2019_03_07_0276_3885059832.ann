@@ -1,0 +1,9 @@
+T100	Neutral_all 75 84	Хованской
+T101	Neutral_all 139 141	ее
+A1	AnaforPerson T101
+R1	Anafor Arg1:T100 Arg2:T101
+T1	Neutral 192 194	он
+T2	Negative 318 322	себя
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 349 352	Ему
+R3	Anafor Arg1:T2 Arg2:T3	

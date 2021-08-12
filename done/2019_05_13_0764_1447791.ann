@@ -1,0 +1,4 @@
+T0	Positive 37 48	Диас-Канель
+T1	Positive 149 152	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

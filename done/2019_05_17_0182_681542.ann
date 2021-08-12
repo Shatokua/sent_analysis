@@ -1,0 +1,9 @@
+T0	Neutral_all 190 195	Уткин
+T1	Neutral_all 200 205	Орлов
+T2	Neutral_all 7 9	вы
+A1	Plural T2
+T3	Neutral_all 73 75	мы
+A2	Plural T3
+T4	Neutral_all 76 78	их
+A3	Plural T4
+T5	Neutral_all 196 198	вы

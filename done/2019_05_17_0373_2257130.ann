@@ -1,0 +1,5 @@
+T0	Neutral_all 13 34	Владимир Владимирович
+T1	Neutral_all 105 115	Пономарева
+T2	Neutral_all 8 11	вас
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

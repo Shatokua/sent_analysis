@@ -1,0 +1,7 @@
+T0	Neutral_all 81 96	Евгений Чиликов
+T1	Neutral_all 99 113	Магомед Аламов
+T2	Neutral_all 132 144	Леонид Уткин
+T3	Neutral_all 40 43	его
+A1	AnaforPerson T3
+T4	Neutral_all 269 272	они
+A2	Plural T4

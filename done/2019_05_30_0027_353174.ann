@@ -1,0 +1,4 @@
+T0	Neutral_all 10 15	Обама
+T2	Neutral_all 163 168	Обама
+T101	Neutral_all 67 80	Папу Римского
+R1	Anafor Arg1:T0 Arg2:T2

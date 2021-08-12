@@ -1,0 +1,6 @@
+T1	Neutral 18 24	Тюрина
+T2	Neutral 27 36	Василенко
+T3	Neutral_all 61 72	Вороненкова
+T4	Neutral 105 111	Тюрина
+T100	Neutral 0 9	Аксельрод
+R1	Anafor Arg1:T1 Arg2:T4	

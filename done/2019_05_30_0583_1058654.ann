@@ -1,0 +1,5 @@
+T0	Neutral_all 47 55	Люка Шоу
+T1	Neutral_all 61 69	Феллайни
+T2	Neutral_all 82 85	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

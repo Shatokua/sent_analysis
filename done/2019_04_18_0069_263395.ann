@@ -1,0 +1,6 @@
+T0	Negative 62 71	Порошенко
+T1	Negative 163 166	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 28 31	они
+A2	Plural T2

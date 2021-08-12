@@ -1,0 +1,6 @@
+T0	Neutral 123 153	Дмитрию Анатольевичу Медведеву
+T1	Neutral 62 64	Мы
+A1	Plural T1
+T2	Neutral 166 168	мы
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	

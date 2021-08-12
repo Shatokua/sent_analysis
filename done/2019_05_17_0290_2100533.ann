@@ -1,0 +1,16 @@
+T0	Neutral_all 54 59	Павел
+T1	Neutral_all 63 72	Александр
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 90 92	мы
+A2	Plural T3
+T4	Neutral_all 14 16	их
+A3	Plural T4
+T5	Neutral_all 101 103	им
+A4	Plural T5
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T4 Arg2:T5
+R101	Anafor Arg1:T1 Arg2:T5
+R102	Anafor Arg1:T0 Arg2:T5

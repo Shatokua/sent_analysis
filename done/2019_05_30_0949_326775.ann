@@ -1,0 +1,9 @@
+T0	Neutral_all 8 20	Шайхутдинова
+T1	Neutral_all 81 99	Ибрагим Сулейманов
+T2	Neutral_all 102 117	Татевос Суринов
+T3	Neutral_all 63 66	его
+A1	AnaforPerson T3
+T4	Neutral_all 134 137	ему
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

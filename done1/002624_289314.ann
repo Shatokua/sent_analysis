@@ -1,0 +1,8 @@
+T0	Neutral_all 166 181	Хенна Пыллуааса
+T1	Neutral_all 5 7	мы
+A1	Plural T1
+T2	Neutral_all 182 185	они
+A2	Plural T2
+T3	Neutral_all 225 229	него
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

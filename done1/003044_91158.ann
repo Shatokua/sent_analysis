@@ -1,0 +1,15 @@
+T0	Neutral_all 0 9	Виндхорст
+T1	Neutral_all 122 134	Гельмут Коль
+T2	Neutral_all 235 244	Виндхорст
+T3	Neutral_all 387 396	Виндхорст
+T4	Neutral_all 68 70	Он
+A1	AnaforPerson T4
+T5	Neutral_all 143 146	его
+A2	AnaforPerson T5
+T6	Neutral_all 275 278	его
+A3	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R5	Anafor Arg1:T5 Arg2:T6

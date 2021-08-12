@@ -1,0 +1,5 @@
+T2	Negative 316 319	его
+A1	AnaforPerson T2
+T100	Neutral_all 7 25	Владимир Вольфович
+T101	Negative_all 165 174	Пономарев
+R1	Anafor Arg1:T101 Arg2:T2

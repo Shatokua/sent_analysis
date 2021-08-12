@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Алексей
+T1	Neutral_all 38 42	Леша
+T2	Neutral_all 44 46	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

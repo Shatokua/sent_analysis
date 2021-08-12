@@ -1,0 +1,6 @@
+T100	Positive_all 41 49	Алябьева
+T101	Positive_all 116 135	Анатолий Николаевич
+T102	Positive 165 168	ним
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T100	
+R2	Anafor Arg1:T101 Arg2:T102	

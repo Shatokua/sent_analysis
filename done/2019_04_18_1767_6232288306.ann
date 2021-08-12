@@ -1,0 +1,17 @@
+T0	Negative 0 7	Милонов
+T1	Neutral 176 181	Ирину
+T2	Negative 29 31	Он
+A1	AnaforPerson T2
+T3	Negative 102 104	Он
+A2	AnaforPerson T3
+T4	Negative 194 197	его
+A3	AnaforPerson T4
+T5	Negative 247 250	его
+A4	AnaforPerson T5
+T6	Negative 271 274	его
+A5	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	
+R5	Anafor Arg1:T5 Arg2:T6	

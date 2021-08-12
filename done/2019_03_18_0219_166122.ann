@@ -1,0 +1,6 @@
+T100	Neutral 0 11	Шимон Перес
+T102	Neutral_all 63 66	его
+A1	AnaforPerson T102
+T101	Positive_all 92 105	Шимона Переса
+R2	Anafor Arg1:T101 Arg2:T102
+R1	Anafor Arg1:T100 Arg2:T101	

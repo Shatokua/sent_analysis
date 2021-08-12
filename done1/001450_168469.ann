@@ -1,0 +1,12 @@
+T1	Positive_all 561 564	они
+A1	Plural T1
+T2	Positive 627 630	они
+A2	Plural T2
+T100	Neutral 86 107	Георгиосом Барцокасом
+T102	Positive 592 595	они
+A3	Plural T102
+A4	AnaforPerson T1
+A5	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	
+A6	AnaforPerson T2
+R2	Anafor Arg1:T102 Arg2:T2	

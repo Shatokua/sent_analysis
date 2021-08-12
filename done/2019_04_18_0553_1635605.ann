@@ -1,0 +1,4 @@
+T0	Negative 109 116	Пашинян
+T1	Negative 0 2	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

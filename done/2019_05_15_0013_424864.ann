@@ -1,0 +1,4 @@
+T0	Negative_all 111 122	Жириновский
+T1	Negative 142 162	Владимир Жириновский
+T2	Neutral 208 217	Горбачева
+R1	Anafor Arg1:T1 Arg2:T0	

@@ -1,0 +1,25 @@
+T0	Mixed 20 31	Кристенсена
+T1	Neutral_all 375 392	Деннис Кристенсен
+T2	Mixed 15 18	его
+A1	AnaforPerson T2
+T3	Neutral_all 45 47	Он
+A2	AnaforPerson T3
+T4	Neutral_all 140 143	его
+A3	AnaforPerson T4
+T5	Neutral_all 168 170	он
+A4	AnaforPerson T5
+T6	Neutral_all 201 204	они
+A5	Plural T6
+T7	Neutral 405 408	вас
+A6	Plural T7
+T8	Neutral_all 433 436	они
+A7	Plural T8
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	
+A9	AnaforPerson T6
+R5	Anafor Arg1:T1 Arg2:T5	
+A8	AnaforPerson T7
+A10	AnaforPerson T8
+R6	Anafor Arg1:T6 Arg2:T8	

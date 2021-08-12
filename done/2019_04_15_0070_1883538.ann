@@ -1,0 +1,6 @@
+T0	Neutral_all 5 13	Володина
+T1	Neutral_all 40 48	Володину
+T2	Negative_all 83 85	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

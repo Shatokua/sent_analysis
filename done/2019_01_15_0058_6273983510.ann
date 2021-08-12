@@ -1,0 +1,8 @@
+T3	Neutral 187 190	ему
+A1	AnaforPerson T3
+T100	Negative 135 141	Гайзер
+T101	Negative 78 95	Владимир Торлопов
+T102	Negative_all 112 121	Зарубиным
+T103	Negative_all 258 266	Торлопов
+R1	Anafor Arg1:T101 Arg2:T3	
+R2	Anafor Arg1:T103 Arg2:T3	

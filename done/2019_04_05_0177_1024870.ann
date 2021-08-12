@@ -1,0 +1,5 @@
+T0	Neutral_all 23 28	Путин
+T1	Neutral_all 220 227	Зюганов
+T2	Neutral_all 229 240	Жириновский
+T3	Neutral_all 243 248	Путин
+R1	Anafor Arg1:T0 Arg2:T3

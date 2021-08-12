@@ -1,0 +1,6 @@
+T100	Neutral_all 15 19	Жозе
+T101	Mixed 99 103	Жозе
+T102	Positive 63 66	ним
+A1	AnaforPerson T102
+R102	Anafor Arg1:T101 Arg2:T102
+R1	Anafor Arg1:T100 Arg2:T102	

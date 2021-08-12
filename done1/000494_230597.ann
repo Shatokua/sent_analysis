@@ -1,0 +1,4 @@
+T0	Neutral_all 100 117	Федором Конюховым
+T1	Neutral_all 119 121	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

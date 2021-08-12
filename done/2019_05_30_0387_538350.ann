@@ -1,0 +1,7 @@
+T0	Neutral_all 13 22	Тиллерсон
+T1	Neutral_all 56 63	Путиным
+T2	Neutral_all 77 79	он
+A1	AnaforPerson T2
+T3	Neutral_all 130 132	мы
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

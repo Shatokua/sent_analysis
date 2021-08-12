@@ -1,0 +1,9 @@
+T0	Mixed 58 72	Аллы Андреевой
+T2	Negative 135 138	Вам
+A1	AnaforPerson T2
+T3	Negative 199 201	Вы
+A2	AnaforPerson T3
+T101	Negative 148 161	Алла Андреева
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T101 Arg2:T3	

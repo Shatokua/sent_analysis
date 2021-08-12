@@ -1,0 +1,7 @@
+T0	Negative 4 11	Дональд
+T1	Negative 68 70	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 152 156	твою
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T0	Neutral_all 74 89	Дональда Трампа
+T1	Neutral_all 246 252	Трампа
+T2	Neutral_all 263 266	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T100	Neutral_all 0 7	Логинов
+T101	Neutral_all 73 80	Фуркада
+T102	Negative 122 129	Фуркада
+R1	Anafor Arg1:T101 Arg2:T102	

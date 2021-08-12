@@ -1,0 +1,3 @@
+T100	Negative_all 65 80	Николаса Мадуро
+T101	Negative 114 120	Мадуро
+R1	Anafor Arg1:T100 Arg2:T101	

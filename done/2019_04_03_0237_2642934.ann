@@ -1,0 +1,6 @@
+T0	Neutral_all 32 35	Мау
+T1	Neutral_all 48 60	Владимир Мау
+T2	Neutral_all 121 130	Силуанову
+T3	Neutral_all 133 141	Орешкину
+T4	Negative_all 195 203	Абызовых
+R1	Anafor Arg1:T1 Arg2:T0

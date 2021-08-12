@@ -1,0 +1,8 @@
+T0	Neutral_all 99 114	Тамта Микеладзе
+T1	Neutral_all 116 136	Сулхан Бордзикашвили
+T2	Neutral_all 303 319	Гела Мтивлишвили
+T3	Neutral_all 527 530	они
+A1	Plural T3
+T4	Neutral_all 468 470	их
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4

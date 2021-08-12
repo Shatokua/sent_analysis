@@ -1,0 +1,9 @@
+T100	Negative 29 39	Степаненко
+T101	Negative 64 68	Лена
+T102	Negative 75 77	ты
+A2	AnaforPerson T102
+T103	Negative 156 160	тебе
+A3	AnaforPerson T103
+R2	Anafor Arg1:T101 Arg2:T102
+R1	Anafor Arg1:T100 Arg2:T101	
+R3	Anafor Arg1:T102 Arg2:T103	

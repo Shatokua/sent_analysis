@@ -1,0 +1,7 @@
+T0	Neutral_all 80 96	Алексей Клочанюк
+T1	Neutral_all 133 135	им
+A1	Plural T1
+T2	Neutral_all 226 228	ее
+T3	Neutral_all 292 295	они
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T1

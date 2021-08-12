@@ -1,0 +1,7 @@
+T0	Neutral 2 10	Дзагоева
+T1	Neutral 78 80	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 187 190	ему
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

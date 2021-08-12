@@ -1,0 +1,8 @@
+T102	Neutral_all 78 88	Макгрегора
+T103	Neutral 151 154	ему
+A1	AnaforPerson T103
+T104	Neutral 185 188	его
+A2	AnaforPerson T104
+R1	Anafor Arg1:T102 Arg2:T103	
+R2	Anafor Arg1:T103 Arg2:T104	
+T1	Neutral 23 48	Алла Борисовна [Пугачева]

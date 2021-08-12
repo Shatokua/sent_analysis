@@ -1,0 +1,4 @@
+T0	Negative 38 49	Полтавченко
+T1	Negative 149 152	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

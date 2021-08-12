@@ -1,0 +1,14 @@
+T0	Positive 175 196	Владимир Владимирович
+T1	Negative 345 353	Лебедева
+T2	Negative 463 467	него
+A1	AnaforPerson T2
+T102	Negative 152 154	он
+A2	AnaforPerson T102
+T103	Neutral 282 284	Он
+A3	AnaforPerson T103
+T104	Neutral 102 105	нем
+A4	AnaforPerson T104
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T102 Arg2:T104
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T1	

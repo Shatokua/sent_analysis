@@ -1,0 +1,6 @@
+T3	Neutral 151 163	Никки) Хейли
+T100	Neutral_all 27 33	Трампа
+T107	Neutral_all 180 185	Трамп
+T101	Neutral_all 53 68	Рекс) Тиллерсон
+T102	Neutral_all 88 102	Джеймс) Мэттис
+R1	Anafor Arg1:T100 Arg2:T107	

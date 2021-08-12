@@ -1,0 +1,7 @@
+T0	Positive_all 12 26	Франсуа Фийона
+T1	Positive_all 57 68	Бенуа Амона
+T2	Neutral_all 102 104	их
+A1	Plural T2
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

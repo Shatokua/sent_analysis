@@ -1,0 +1,14 @@
+T0	Neutral_all 286 299	Сергея Зубова
+T1	Neutral_all 365 371	Зубова
+T2	Neutral_all 0 3	Нам
+A1	Plural T2
+T3	Neutral_all 76 79	нас
+A2	Plural T3
+T4	Neutral_all 107 110	нас
+A3	Plural T4
+T103	Neutral_all 69 72	они
+A4	Plural T103
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T2

@@ -1,0 +1,5 @@
+T0	Negative 30 35	Трамп
+T1	Neutral 104 106	он
+R1	Anafor Arg1:T0 Arg2:T1	
+#1	AnnotatorNotes T1	Возможно Mixed
+A1	AnaforPerson T1

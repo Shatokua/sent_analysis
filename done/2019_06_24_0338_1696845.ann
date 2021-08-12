@@ -1,0 +1,5 @@
+T0	Neutral_all 98 108	Вышинского
+T1	Neutral_all 213 226	Олега Сенцова
+T2	Neutral_all 121 124	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

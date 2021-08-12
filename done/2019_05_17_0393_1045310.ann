@@ -1,0 +1,5 @@
+T0	Neutral_all 35 55	Михаилом Борисовичем
+T1	Neutral_all 179 197	Михаила Борисовича
+T102	Neutral_all 149 151	Мы
+A1	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1

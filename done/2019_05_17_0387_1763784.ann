@@ -1,0 +1,5 @@
+T0	Negative_all 23 28	Обама
+T1	Neutral_all 128 133	Обамы
+T2	Neutral_all 43 46	Они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

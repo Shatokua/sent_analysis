@@ -1,0 +1,13 @@
+T0	Neutral_all 7 24	Флера Сулейманова
+T1	Neutral_all 182 187	Флере
+T2	Neutral_all 122 124	ее
+A1	AnaforPerson T2
+T3	Neutral_all 153 157	ними
+A2	Plural T3
+T4	Neutral_all 195 198	она
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T1

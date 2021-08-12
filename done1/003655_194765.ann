@@ -1,0 +1,20 @@
+T0	Neutral_all 30 36	Трампа
+T2	Neutral_all 444 449	Трамп
+T3	Neutral_all 587 592	Стоун
+T4	Neutral_all 706 712	Трампа
+T5	Neutral_all 122 125	его
+A1	AnaforPerson T5
+T1	Neutral_all 381 387	Трампа
+T6	Neutral_all 388 402	Роджеру Стоуну
+T7	Neutral_all 512 516	нему
+A2	AnaforPerson T7
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T7
+R5	Anafor Arg1:T7 Arg2:T5
+R6	Anafor Arg1:T6 Arg2:T3
+R101	Anafor Arg1:T2 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T4
+R105	Anafor Arg1:T4 Arg2:T5

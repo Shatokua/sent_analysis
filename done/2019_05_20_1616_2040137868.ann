@@ -1,0 +1,21 @@
+T0	Neutral 167 189	Дмитрием Анатольевичем
+T1	Neutral 208 215	Дмитрий
+T2	Neutral 61 66	Димон
+A1	AnaforPerson T2
+T3	Neutral 99 104	Димон
+A2	AnaforPerson T3
+T4	Neutral 88 90	Он
+A3	AnaforPerson T4
+T5	Neutral 107 109	Он
+A4	AnaforPerson T5
+T6	Neutral 163 166	его
+A5	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T6	
+R3	Anafor Arg1:T6 Arg2:T5	
+R4	Anafor Arg1:T5 Arg2:T3	
+R5	Anafor Arg1:T3 Arg2:T4	
+R6	Anafor Arg1:T4 Arg2:T2	
+T7	Neutral 91 94	вам
+A6	AnaforPerson T7
+A7	Plural T7

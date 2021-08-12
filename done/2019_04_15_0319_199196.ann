@@ -1,0 +1,6 @@
+T100	Mixed 41 48	Клинтон
+T101	Neutral_all 76 88	Джордж Сорос
+T102	Neutral_all 91 105	Майкл Блумберг
+T103	Neutral_all 53 56	ней
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	

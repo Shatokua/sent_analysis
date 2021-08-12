@@ -1,0 +1,13 @@
+T0	Neutral_all 46 59	Миши Батшуайи
+T1	Neutral_all 385 393	Мартинес
+T2	Neutral_all 483 490	Компани
+T3	Neutral_all 493 502	Де Брюйне
+T4	Neutral_all 98 101	Его
+A1	AnaforPerson T4
+T5	Neutral_all 458 460	он
+A2	AnaforPerson T5
+T107	Neutral 837 840	Они
+A6	Plural T107
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T5
+A3	AnaforPerson T107

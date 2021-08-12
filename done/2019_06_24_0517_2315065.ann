@@ -1,0 +1,11 @@
+T0	Negative 19 24	Антон
+T1	Neutral_all 105 118	Мартен Фуркад
+T2	Negative_all 52 54	Он
+A1	AnaforPerson T2
+T3	Positive 125 127	он
+A2	AnaforPerson T3
+T4	Neutral_all 141 144	ему
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T4	

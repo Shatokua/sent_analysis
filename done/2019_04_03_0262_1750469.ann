@@ -1,0 +1,12 @@
+T2	Positive 35 39	тебя
+A1	AnaforPerson T2
+T3	Positive 47 49	Ты
+A2	AnaforPerson T3
+T4	Positive 168 170	Ты
+A3	AnaforPerson T4
+T100	Positive 0 13	Денис Черышев
+T101	Positive 151 156	Денис
+R1	Anafor Arg1:T100 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T101 Arg2:T3	
+R4	Anafor Arg1:T101 Arg2:T4	

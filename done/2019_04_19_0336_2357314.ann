@@ -1,0 +1,4 @@
+T0	Neutral_all 120 130	Коновалова
+T1	Neutral_all 156 160	Хора
+T2	Neutral_all 178 186	Глеб Хор
+R1	Anafor Arg1:T2 Arg2:T1

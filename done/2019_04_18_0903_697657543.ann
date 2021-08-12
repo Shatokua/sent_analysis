@@ -1,0 +1,11 @@
+T1	Neutral 510 516	Ельцин
+T2	Negative 0 6	Ельцин
+T3	Negative 241 244	Оно
+A1	AnaforPerson T3
+T4	Negative 282 285	его
+A2	AnaforPerson T4
+T5	Negative 302 304	он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T4 Arg2:T5	
+R3	Variant Arg1:T2 Arg2:T1	

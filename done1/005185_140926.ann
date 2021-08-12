@@ -1,0 +1,10 @@
+T0	Neutral_all 21 35	Владимир Путин
+T1	Neutral_all 38 48	Ким Чен Ын
+T2	Neutral_all 157 167	Мун Чжэ Ин
+T3	Neutral_all 546 569	Владимира Владимировича
+T4	Neutral_all 202 204	Он
+A1	AnaforPerson T4
+T105	Neutral_all 573 576	них
+A2	Plural T105
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T3

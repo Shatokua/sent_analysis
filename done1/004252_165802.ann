@@ -1,0 +1,9 @@
+T0	Neutral_all 169 187	Варвары Карауловой
+T1	Neutral_all 0 3	Она
+A1	Plural T1
+A2	AnaforPerson T1
+T2	Neutral_all 67 70	она
+A3	Plural T2
+A4	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

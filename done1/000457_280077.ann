@@ -1,0 +1,8 @@
+T0	Neutral_all 54 66	Ален Симонян
+T1	Neutral_all 157 160	вам
+A1	Plural T1
+T2	Neutral_all 673 676	они
+A2	Plural T2
+T3	Neutral_all 789 793	вами
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 56 64	Сорокина
+T1	Neutral_all 113 118	Ларсу
+T2	Neutral_all 273 276	нас
+A1	Plural T2
+T3	Neutral_all 291 293	Мы
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2

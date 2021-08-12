@@ -1,0 +1,4 @@
+T0	Negative 23 32	Порошенко
+T1	Negative 34 36	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

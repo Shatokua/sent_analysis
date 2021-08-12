@@ -1,0 +1,4 @@
+T0	Neutral_all 254 273	Сооронбай Жээнбеков
+T1	Neutral_all 277 280	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

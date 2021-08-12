@@ -1,0 +1,4 @@
+T0	Neutral_all 112 127	Андрея Стрижова
+T1	Neutral_all 231 234	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

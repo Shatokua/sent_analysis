@@ -1,0 +1,7 @@
+T0	Neutral_all 92 98	Ленина
+T1	Neutral_all 137 160	Александра Македонского
+T2	Neutral_all 162 172	Чингисхана
+T3	Neutral_all 174 183	Тамерлана
+T4	Neutral_all 81 83	ее
+A1	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4

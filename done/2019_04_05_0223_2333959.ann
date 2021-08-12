@@ -1,0 +1,7 @@
+T1	Neutral 115 123	Пугачева
+T2	Neutral 124 132	Киркоров
+T100	Neutral_all 0 8	Леонтьев
+T103	Neutral_all 142 155	Игорем Крутым
+T104	Neutral_all 84 88	нему
+A1	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T104

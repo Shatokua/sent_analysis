@@ -1,0 +1,4 @@
+T0	Negative 58 76	Алексея Навального
+T1	Negative 104 106	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

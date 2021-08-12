@@ -1,0 +1,4 @@
+T1	Negative 0 8	Янукович
+T2	Negative 35 37	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

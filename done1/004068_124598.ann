@@ -1,0 +1,5 @@
+T0	Neutral_all 188 204	Александр Беглов
+T1	Neutral_all 427 443	Александр Беглов
+T2	Neutral_all 57 60	Нам
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

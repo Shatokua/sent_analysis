@@ -1,0 +1,22 @@
+T0	Neutral_all 105 113	Золотова
+T1	Neutral_all 115 123	Кадырова
+T2	Neutral_all 126 135	Геремеева
+T3	Neutral_all 154 161	Кадыров
+T4	Neutral_all 163 170	Золотов
+T5	Neutral_all 173 188	Адам ДЕЛИМХАНОВ
+T6	Neutral_all 344 358	Бориса Немцова
+T7	Neutral_all 360 368	Геремеев
+T8	Neutral_all 420 427	Немцова
+T9	Neutral_all 0 2	Мы
+A1	Plural T9
+T10	Neutral_all 318 321	они
+A2	Plural T10
+R1	Anafor Arg1:T6 Arg2:T8
+R2	Anafor Arg1:T7 Arg2:T2
+R3	Anafor Arg1:T3 Arg2:T1
+R4	Anafor Arg1:T4 Arg2:T0
+R5	Anafor Arg1:T1 Arg2:T10
+R6	Anafor Arg1:T0 Arg2:T10
+R7	Anafor Arg1:T5 Arg2:T10
+R102	Anafor Arg1:T3 Arg2:T10
+R103	Anafor Arg1:T4 Arg2:T10

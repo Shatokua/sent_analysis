@@ -1,0 +1,10 @@
+T0	Positive_all 18 23	Хейли
+T1	Positive_all 188 193	Трамп
+T2	Positive_all 195 206	Никки Хейли
+T3	Positive_all 41 43	вы
+A1	AnaforPerson T3
+T4	Positive_all 77 79	вы
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

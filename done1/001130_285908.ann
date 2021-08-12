@@ -1,0 +1,7 @@
+T1	Neutral_all 235 249	Владимир Путин
+T2	Neutral_all 267 272	Путин
+T3	Negative_all 0 14	Рекс Тиллерсон
+T4	Neutral 132 134	Он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T1 Arg2:T2	

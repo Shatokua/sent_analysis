@@ -1,0 +1,5 @@
+T0	Neutral_all 135 151	Владимира Скачко
+T1	Neutral_all 342 358	Кирилл Вышинский
+T2	Neutral_all 205 208	Ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,11 @@
+T0	Neutral_all 100 118	Владимир Зеленский
+T1	Neutral_all 213 219	Трампа
+T2	Neutral_all 299 313	Петр Порошенко
+T3	Neutral_all 443 461	Владимир Зеленский
+T4	Neutral_all 499 514	Дональда Трампа
+T5	Neutral_all 315 317	Он
+A1	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T5
+R103	Anafor Arg1:T3 Arg2:T5

@@ -1,0 +1,9 @@
+T0	Neutral 41 71	Дмитрия Анатольевича Медведева
+T1	Neutral 8 10	мы
+A1	Plural T1
+T2	Neutral 130 133	нас
+A2	Plural T2
+T3	Neutral 206 208	мы
+A3	Plural T3
+R1	Variant Arg1:T3 Arg2:T2	
+R2	Variant Arg1:T1 Arg2:T3	

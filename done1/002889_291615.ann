@@ -1,0 +1,6 @@
+T0	Neutral_all 98 111	Джона Болтона
+T1	Neutral_all 138 155	Меира Бен-Шаббата
+T2	Neutral_all 195 212	Николая Патрушева
+T3	Neutral_all 113 116	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

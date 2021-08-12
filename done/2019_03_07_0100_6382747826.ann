@@ -1,0 +1,5 @@
+T2	Negative 247 250	его
+A1	AnaforPerson T2
+T100	Negative_all 0 10	Табачников
+T101	Neutral_all 82 89	Аверина
+R1	Anafor Arg1:T100 Arg2:T2

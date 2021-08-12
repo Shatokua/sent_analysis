@@ -1,0 +1,5 @@
+T0	Neutral_all 21 27	Путину
+T1	Neutral_all 118 125	Лаврову
+T2	Neutral_all 48 51	ним
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

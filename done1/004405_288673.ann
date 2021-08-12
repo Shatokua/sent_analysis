@@ -1,0 +1,10 @@
+T0	Neutral_all 9 17	Головкин
+T1	Neutral_all 148 157	Роб Брант
+T2	Neutral_all 171 176	Брант
+T3	Neutral_all 239 248	Головкина
+T4	Neutral_all 68 74	Канело
+T5	Neutral_all 217 220	его
+A1	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T5
+R3	Anafor Arg1:T0 Arg2:T3

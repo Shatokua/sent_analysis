@@ -1,0 +1,10 @@
+T0	Neutral_all 10 29	Владимир] Зеленский
+T1	Neutral_all 151 165	Петр Порошенко
+T2	Neutral_all 177 186	Порошенко
+T3	Neutral_all 62 64	он
+A1	AnaforPerson T3
+T4	Neutral_all 187 189	мы
+A2	Plural T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2

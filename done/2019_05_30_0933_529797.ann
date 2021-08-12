@@ -1,0 +1,5 @@
+T0	Neutral_all 103 110	Рейгана
+T1	Neutral_all 140 147	Рейгане
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

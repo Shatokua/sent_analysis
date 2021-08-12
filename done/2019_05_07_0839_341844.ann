@@ -1,0 +1,4 @@
+T0	Neutral 0 5	Путин
+T2	Neutral 64 71	Кирилла
+T1	Neutral 26 33	Кирилла
+R1	Variant Arg1:T1 Arg2:T2	

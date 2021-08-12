@@ -1,0 +1,18 @@
+T0	Neutral 13 20	Клинтон
+T1	Neutral 9 11	ее
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 177 180	ней
+A2	AnaforPerson T2
+R2	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 67 70	Они
+A3	AnaforPerson T3
+A4	Plural T3
+T4	Neutral 119 122	них
+A5	AnaforPerson T4
+A6	Plural T4
+T5	Neutral 131 133	им
+A7	AnaforPerson T5
+A8	Plural T5
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	

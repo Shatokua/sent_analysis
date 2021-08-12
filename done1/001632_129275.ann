@@ -1,0 +1,4 @@
+T1	Neutral_all 123 133	И.Киселева
+T2	Neutral_all 136 138	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Positive_all 16 24	Высоцкий
+T1	Positive 44 53	Высоцкого
+T2	Positive 55 63	Талькова
+T3	Neutral_all 95 98	она
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T3

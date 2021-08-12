@@ -1,0 +1,5 @@
+T0	Negative_all 84 100	Д.Л. Хмелевского
+T1	Negative_all 192 205	Ю.А. Бурлачко
+T2	Negative_all 112 114	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

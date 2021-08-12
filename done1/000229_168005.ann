@@ -1,0 +1,7 @@
+T2	Positive 157 162	Карли
+T4	Positive 147 150	его
+A2	AnaforPerson T4
+T100	Positive 62 75	Тайлер Скэггс
+T101	Positive 77 83	Тайлер
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T4	

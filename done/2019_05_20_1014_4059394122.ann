@@ -1,0 +1,5 @@
+T0	Neutral 128 138	Расмуссена
+T1	Neutral 173 189	Йенс Столтенберг
+T2	Neutral 246 249	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

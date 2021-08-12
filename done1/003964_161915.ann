@@ -1,0 +1,9 @@
+T0	Neutral_all 122 142	Владимиру Зеленскому
+T1	Neutral_all 363 374	Грабовского
+T2	Neutral_all 9 12	нас
+A1	Plural T2
+T3	Neutral_all 175 178	его
+A2	AnaforPerson T3
+T4	Neutral_all 289 291	им
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T3

@@ -1,0 +1,8 @@
+T100	Negative_all 0 10	Блюменталь
+T101	Neutral_all 147 153	Горсач
+T102	Negative 56 58	он
+A3	AnaforPerson T102
+T103	Negative 130 133	ему
+A4	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

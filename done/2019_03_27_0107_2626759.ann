@@ -1,0 +1,4 @@
+T0	Neutral_all 43 54	Назарбаевым
+T1	Neutral_all 93 103	Назарбаева
+T2	Neutral_all 104 110	Путину
+R1	Anafor Arg1:T0 Arg2:T1

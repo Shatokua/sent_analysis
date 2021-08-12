@@ -1,0 +1,7 @@
+T0	Neutral_all 112 129	Вазгену Саркисяну
+T1	Neutral_all 303 319	Карену Демирчяну
+T2	Neutral_all 449 466	Вазгена Саркисяна
+T3	Neutral_all 407 410	ему
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

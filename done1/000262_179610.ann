@@ -1,0 +1,4 @@
+T0	Neutral_all 0 11	В. И. Ленин
+T1	Neutral_all 89 101	В. В. Познер
+T2	Neutral_all 112 117	Ленин
+R1	Anafor Arg1:T0 Arg2:T2

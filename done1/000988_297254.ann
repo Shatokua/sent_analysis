@@ -1,0 +1,11 @@
+T0	Neutral_all 44 62	Авихай Мандельблит
+T1	Neutral_all 79 88	Шай Ницан
+T2	Neutral_all 221 224	они
+A1	Plural T2
+T104	Negative 300 302	их
+A4	Plural T104
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T0 Arg2:T2
+A5	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T104	
+A2	AnaforPerson T104

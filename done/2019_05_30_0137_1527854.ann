@@ -1,0 +1,5 @@
+T0	Neutral_all 17 36	Дмитрий Анатольевич
+T1	Neutral_all 77 98	Алексеем Леонидовичем
+T2	Neutral_all 113 116	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

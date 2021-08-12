@@ -1,0 +1,6 @@
+T0	Neutral_all 5 17	Майкла Калви
+T1	Neutral_all 93 95	Их
+A1	Plural T1
+T2	Neutral_all 255 258	ним
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

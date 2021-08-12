@@ -1,0 +1,11 @@
+T0	Neutral_all 186 198	Леонид Кучма
+T1	Neutral_all 248 261	Виктор Пинчук
+T2	Neutral_all 239 242	его
+A1	AnaforPerson T2
+T3	Neutral_all 293 295	им
+A2	AnaforPerson T3
+T102	Neutral_all 284 287	нем
+A3	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T102

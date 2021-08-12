@@ -1,0 +1,6 @@
+T0	Neutral 13 26	Ольга Зайцева
+T1	Neutral 37 49	Оля Чекалева
+T2	Neutral 52 65	Настя Доценко
+T103	Neutral_all 103 110	Зайцева
+T104	Positive_all 209 216	Зайцева
+R2	Anafor Arg1:T103 Arg2:T104

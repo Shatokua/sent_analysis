@@ -1,0 +1,4 @@
+T0	Neutral_all 28 46	Никитой Белянкиным
+T1	Neutral_all 75 78	Его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

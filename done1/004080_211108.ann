@@ -1,0 +1,5 @@
+T0	Neutral_all 10 24	Владимир Путин
+T1	Neutral_all 85 99	Дмитрий Песков
+T2	Neutral_all 67 70	Его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

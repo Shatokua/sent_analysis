@@ -1,0 +1,9 @@
+T0	Neutral_all 230 242	А.Навального
+T1	Neutral_all 425 434	Михайлова
+T2	Neutral_all 600 618	Алексея Навального
+T3	Neutral_all 783 801	Алексею Навальному
+T4	Neutral_all 342 345	его
+A1	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T4

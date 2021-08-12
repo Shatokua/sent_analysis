@@ -1,0 +1,6 @@
+T0	Neutral_all 42 49	Агапова
+T1	Neutral_all 134 149	Елены Киселевой
+T2	Neutral_all 151 153	Ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1

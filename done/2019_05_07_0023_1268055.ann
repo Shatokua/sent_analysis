@@ -1,0 +1,4 @@
+T0	Neutral 60 72	Никита Белых
+T1	Neutral 112 115	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Neutral_all 235 249	Мираб Кишмария
+T1	Neutral_all 124 126	Мы
+A1	Plural T1
+T2	Neutral_all 158 160	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

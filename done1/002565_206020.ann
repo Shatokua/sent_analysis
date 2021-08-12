@@ -1,0 +1,6 @@
+T0	Neutral_all 60 75	Айжан Байзакова
+T1	Neutral_all 209 214	Айжан
+T2	Neutral_all 114 116	её
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

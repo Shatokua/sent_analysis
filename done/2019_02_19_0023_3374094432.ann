@@ -1,0 +1,5 @@
+T101	Negative_all 0 7	Левичев
+T102	Neutral_all 82 91	Хованскую
+T103	Neutral 127 130	она
+A1	AnaforPerson T103
+R101	Anafor Arg1:T102 Arg2:T103

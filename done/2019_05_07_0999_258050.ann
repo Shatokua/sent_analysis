@@ -1,0 +1,10 @@
+T0	Neutral 105 113	Кадырова
+T1	Neutral 0 2	Он
+T2	Neutral 31 34	ним
+T3	Neutral 114 116	он
+A1	AnaforPerson T3
+T4	Neutral 182 186	него
+A2	AnaforPerson T4
+R1	Variant Arg1:T0 Arg2:T4	
+R2	Variant Arg1:T1 Arg2:T3	
+R3	Variant Arg1:T4 Arg2:T2	

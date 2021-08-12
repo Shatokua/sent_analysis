@@ -1,0 +1,4 @@
+T0	Neutral_all 10 24	Сергей Доренко
+T1	Neutral_all 79 83	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

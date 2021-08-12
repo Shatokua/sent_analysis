@@ -1,0 +1,7 @@
+T1	Neutral 64 73	Эрдоганом
+T3	Neutral 104 107	Ему
+A1	AnaforPerson T3
+R1	Variant Arg1:T1 Arg2:T3	
+T4	Neutral 125 127	он
+A2	AnaforPerson T4
+R2	Variant Arg1:T3 Arg2:T4	

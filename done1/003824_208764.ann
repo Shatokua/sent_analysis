@@ -1,0 +1,9 @@
+T0	Neutral_all 112 130	Себастьяна Феттеля
+T1	Neutral_all 202 213	Ферстаппена
+T3	Neutral_all 163 165	он
+A1	AnaforPerson T3
+T4	Neutral_all 395 397	мы
+A2	Plural T4
+T5	Neutral_all 558 561	они
+A3	Plural T5
+R1	Anafor Arg1:T0 Arg2:T3

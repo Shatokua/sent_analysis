@@ -1,0 +1,7 @@
+T0	Neutral_all 81 85	Сашу
+T1	Neutral_all 87 108	Александра Толмацкого
+T2	Neutral_all 117 122	Децла
+T3	Neutral_all 124 126	Мы
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T1 Arg2:T3

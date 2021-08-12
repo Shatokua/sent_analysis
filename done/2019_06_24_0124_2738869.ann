@@ -1,0 +1,9 @@
+T0	Negative_all 50 56	Путину
+T1	Neutral_all 199 208	Кадыровым
+T4	Negative_all 100 102	вы
+A3	Plural T4
+T102	Negative 170 172	Вы
+A5	Plural T102
+A1	AnaforPerson T4
+R1	Anafor Arg1:T4 Arg2:T102	
+A2	AnaforPerson T102

@@ -1,0 +1,5 @@
+T0	Neutral_all 18 28	Саакашвили
+T1	Negative_all 89 107	Севериона Донгадзе
+T2	Neutral 71 74	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

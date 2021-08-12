@@ -1,0 +1,10 @@
+T0	Neutral_all 114 129	Виктор Олегович
+T1	Neutral_all 170 176	Сурков
+T2	Neutral_all 94 101	Пелевин
+T3	Neutral_all 110 112	вы
+A1	Plural T3
+T4	Neutral_all 187 190	вам
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T2

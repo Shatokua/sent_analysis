@@ -1,0 +1,13 @@
+T0	Neutral_all 73 87	Петр Порошенко
+T1	Negative 168 177	Порошенко
+T2	Neutral_all 27 30	вас
+A1	Plural T2
+T3	Neutral_all 90 93	его
+A2	AnaforPerson T3
+T104	Neutral_all 45 50	вашим
+A3	Plural T104
+R103	Anafor Arg1:T2 Arg2:T104
+A4	AnaforPerson T2
+A5	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T3	

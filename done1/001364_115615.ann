@@ -1,0 +1,5 @@
+T0	Neutral_all 4 19	Максим Виторган
+T1	Neutral_all 67 71	Макс
+T2	Neutral_all 128 133	Максу
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T1

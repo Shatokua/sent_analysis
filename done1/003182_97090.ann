@@ -1,0 +1,6 @@
+T0	Neutral_all 237 245	Пашиняна
+T1	Neutral_all 323 337	Сержу Саргсяну
+T2	Neutral_all 342 358	Роберту Кочаряну
+T3	Neutral_all 248 251	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

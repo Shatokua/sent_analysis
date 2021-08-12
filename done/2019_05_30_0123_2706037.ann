@@ -1,0 +1,18 @@
+T0	Neutral_all 41 56	Павлом Мамаевым
+T1	Neutral_all 140 146	Гулиев
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 91 93	мы
+A2	Plural T3
+T4	Neutral_all 136 138	он
+A3	AnaforPerson T4
+T5	Neutral_all 170 172	Мы
+A4	Plural T5
+T105	Neutral_all 165 168	нам
+A5	Plural T105
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T3 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T2
+R104	Anafor Arg1:T3 Arg2:T105
+R105	Anafor Arg1:T105 Arg2:T5

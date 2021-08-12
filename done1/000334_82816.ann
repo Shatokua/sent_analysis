@@ -1,0 +1,4 @@
+T0	Neutral_all 15 32	Александр Великий
+T1	Neutral_all 170 173	Его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T100	Neutral_all 20 29	Медведева
+T101	Neutral_all 33 39	Путина
+T102	Positive 61 63	Он
+A2	AnaforPerson T102
+R101	Anafor Arg1:T100 Arg2:T102
+T1	Negative 120 122	он
+R1	Anafor Arg1:T102 Arg2:T1	

@@ -1,0 +1,8 @@
+T0	Neutral 87 96	Моисеевой
+T1	Positive 134 136	им
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 167 170	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Negative_all 9 25	Борис Вишневский
+T1	Neutral_all 240 257	Михаил Ведерников
+T2	Neutral_all 462 474	Лев Шлосберг
+T3	Neutral_all 119 122	Ему
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

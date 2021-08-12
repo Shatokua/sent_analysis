@@ -1,0 +1,4 @@
+T0	Neutral 6 21	Сергея Собянина
+T1	Neutral 219 237	Алексея Навального
+T2	Neutral 240 254	Сергей Собянин
+R1	Anafor Arg1:T0 Arg2:T2	

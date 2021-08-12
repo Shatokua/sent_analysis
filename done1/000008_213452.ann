@@ -1,0 +1,6 @@
+T0	Neutral_all 43 60	Руслана Камболова
+T1	Neutral_all 77 80	нас
+A1	Plural T1
+T2	Neutral_all 111 114	нас
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

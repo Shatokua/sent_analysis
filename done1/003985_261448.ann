@@ -1,0 +1,4 @@
+T0	Neutral_all 141 159	Александру Шестуну
+T1	Neutral_all 182 188	Шестун
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,12 @@
+T0	Neutral_all 8 14	Власов
+T1	Neutral_all 32 46	Василий Власов
+T2	Neutral_all 144 156	Соколовского
+T3	Neutral_all 123 125	Мы
+A1	Plural T3
+T4	Neutral_all 75 78	ним
+A2	AnaforPerson T4
+T5	Neutral_all 164 167	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T4

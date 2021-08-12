@@ -1,0 +1,7 @@
+T0	Neutral_all 16 25	Максакову
+T1	Neutral_all 28 38	Пономарева
+T2	Neutral_all 65 76	Вороненкова
+T3	Neutral_all 78 81	они
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,18 @@
+T0	Neutral_all 245 253	Логинова
+T1	Neutral_all 396 405	Гараничев
+T2	Neutral_all 409 416	Логинов
+T3	Neutral_all 496 504	Логинова
+T4	Neutral_all 573 580	Малышко
+T5	Neutral 809 821	Саша Логинов
+T6	Neutral_all 842 849	Елисеев
+T7	Neutral_all 851 860	Гараничев
+T8	Neutral_all 890 897	Малышко
+T10	Neutral_all 284 286	он
+A2	AnaforPerson T10
+T13	Neutral_all 943 952	Антхольца
+R4	Anafor Arg1:T4 Arg2:T8
+R107	Anafor Arg1:T1 Arg2:T7
+R1	Anafor Arg1:T0 Arg2:T10	
+R2	Anafor Arg1:T10 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R5	Anafor Arg1:T5 Arg2:T3	

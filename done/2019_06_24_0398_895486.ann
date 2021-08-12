@@ -1,0 +1,4 @@
+T1	Neutral 76 92	Николаса) Мадуро
+T2	Neutral_all 95 98	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

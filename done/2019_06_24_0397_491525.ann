@@ -1,0 +1,4 @@
+T1	Negative_all 24 33	П.Климкин
+T101	Neutral 168 171	они
+A1	Plural T101
+A2	AnaforPerson T101

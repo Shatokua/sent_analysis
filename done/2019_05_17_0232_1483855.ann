@@ -1,0 +1,4 @@
+T0	Positive_all 8 13	Гаусс
+T1	Neutral_all 71 76	Риман
+T2	Positive_all 140 146	Гаусса
+R1	Anafor Arg1:T0 Arg2:T2

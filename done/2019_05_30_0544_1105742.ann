@@ -1,0 +1,12 @@
+T0	Neutral_all 7 24	Екатерины Юрловой
+T3	Neutral_all 105 110	Ольга
+T1	Neutral_all 35 54	Ольги (Подчуфаровой
+T2	Neutral_all 94 96	ей
+A1	AnaforPerson T2
+T4	Neutral_all 188 190	ей
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T3 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2

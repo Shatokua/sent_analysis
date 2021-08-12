@@ -1,0 +1,13 @@
+T0	Neutral_all 79 97	Василий Николаевич
+T1	Neutral_all 57 61	вами
+A1	AnaforPerson T1
+T2	Neutral_all 116 120	вами
+A2	AnaforPerson T2
+T3	Neutral_all 210 213	нас
+A3	Plural T3
+T101	Neutral_all 52 54	мы
+A4	Plural T101
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T101 Arg2:T3

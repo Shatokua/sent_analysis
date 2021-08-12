@@ -1,0 +1,6 @@
+T0	Neutral_all 24 31	Менотти
+T1	Neutral_all 90 110	Александр Молочников
+T2	Neutral_all 123 135	Жак Оффенбах
+T3	Neutral_all 33 35	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

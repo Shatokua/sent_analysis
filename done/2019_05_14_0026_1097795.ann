@@ -1,0 +1,8 @@
+T0	Neutral_all 22 31	Щербакову
+T1	Neutral_all 138 148	Щербаковой
+T2	Neutral_all 0 2	Он
+T3	Negative_all 40 42	Он
+T4	Negative_all 59 62	Его
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

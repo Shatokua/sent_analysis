@@ -1,0 +1,9 @@
+T1	Mixed 16 23	Сереной
+T2	Mixed 52 55	она
+T3	Positive 73 75	ей
+A1	AnaforPerson T3
+T4	Positive 114 117	она
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	

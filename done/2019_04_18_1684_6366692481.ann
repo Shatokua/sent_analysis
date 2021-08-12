@@ -1,0 +1,16 @@
+T0	Negative 0 15	Хиллари Клинтон
+T1	Negative 131 133	ее
+A1	AnaforPerson T1
+T2	Negative 166 169	она
+A2	AnaforPerson T2
+T3	Negative 288 291	она
+A3	AnaforPerson T3
+T4	Negative 367 370	она
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T5	
+R4	Anafor Arg1:T3 Arg2:T4	
+T5	Neutral 214 217	она
+A5	AnaforPerson T5
+R5	Anafor Arg1:T5 Arg2:T3	

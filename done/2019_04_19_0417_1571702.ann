@@ -1,0 +1,7 @@
+T0	Positive_all 18 32	Сергей Собянин
+T1	Neutral_all 134 138	Нюты
+T2	Positive_all 202 218	Сергей Семенович
+T3	Positive 225 228	Вас
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,11 @@
+T3	Neutral 61 63	он
+A1	AnaforPerson T3
+T100	Neutral_all 44 54	Саакашвили
+T101	Negative 157 167	Саакашвили
+T102	Neutral 0 3	Она
+A2	AnaforPerson T102
+T104	Neutral 128 131	Она
+A4	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T3	
+R2	Anafor Arg1:T102 Arg2:T104	
+R3	Anafor Arg1:T101 Arg2:T3	

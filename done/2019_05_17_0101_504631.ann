@@ -1,0 +1,7 @@
+T0	Neutral_all 64 70	Шумера
+T1	Neutral_all 136 154	Владимиром Путиным
+T2	Neutral_all 0 3	Нам
+A1	Plural T2
+T3	Neutral_all 80 83	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

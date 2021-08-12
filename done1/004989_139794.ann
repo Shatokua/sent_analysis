@@ -1,0 +1,6 @@
+T0	Neutral_all 0 17	Александр Кобылин
+T1	Neutral_all 92 100	Рыжковой
+T2	Neutral_all 113 122	Чашникова
+T3	Neutral_all 136 148	Сайфутдинова
+T4	Neutral_all 201 210	Чашникова
+R1	Anafor Arg1:T2 Arg2:T4

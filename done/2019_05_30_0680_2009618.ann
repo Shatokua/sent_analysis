@@ -1,0 +1,5 @@
+T0	Neutral 0 10	Хасбулатов
+T1	Neutral_all 95 102	Ельцина
+T2	Neutral_all 36 39	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

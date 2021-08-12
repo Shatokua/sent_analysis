@@ -1,0 +1,4 @@
+T0	Neutral_all 42 47	Кимом
+T1	Neutral_all 60 70	Ким Чен Ын
+R1	Anafor Arg1:T1 Arg2:T0
+A1	AnaforPerson T0

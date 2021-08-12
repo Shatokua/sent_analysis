@@ -1,0 +1,7 @@
+T0	Positive 44 57	Лионеля Месси
+T2	Positive_all 190 193	они
+A1	Plural T2
+T101	Positive 62 69	Роналду
+R2	Anafor Arg1:T0 Arg2:T2
+A2	AnaforPerson T2
+R1	Anafor Arg1:T101 Arg2:T2	

@@ -1,0 +1,6 @@
+T0	Neutral_all 16 25	С.Крохину
+T1	Neutral_all 137 152	Сергею Никитину
+T2	Neutral_all 123 126	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral 10 14	Рекс
+R1	Anafor Arg1:T2 Arg2:T1	

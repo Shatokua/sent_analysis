@@ -1,0 +1,5 @@
+T0	Negative 155 176	Владимир Владимирович
+#1	AnnotatorNotes T0	"сделайте одолжение" указывает на негативное отношение автора предложения к объекту
+T1	Neutral 10 14	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

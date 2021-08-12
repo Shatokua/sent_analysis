@@ -1,0 +1,10 @@
+T0	Neutral_all 0 15	Игорь Малашенко
+T1	Neutral_all 110 123	Ксении Собчак
+T2	Neutral_all 223 236	Ксении Собчак
+T3	Neutral_all 75 78	Его
+A1	AnaforPerson T3
+T4	Neutral_all 140 143	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Positive_all 63 75	Эво Моралеса
+T1	Positive_all 82 85	Эво
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

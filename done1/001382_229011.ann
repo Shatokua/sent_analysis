@@ -1,0 +1,20 @@
+T0	Neutral_all 70 74	Сида
+T1	Neutral_all 273 282	Малкольму
+T2	Neutral_all 288 291	Сид
+T3	Neutral_all 430 433	Сид
+T4	Neutral 502 510	Малкольм
+T5	Neutral_all 658 671	Джонни Роттен
+T6	Neutral_all 674 683	Сид Вишес
+T7	Neutral_all 65 68	его
+A1	AnaforPerson T7
+T8	Neutral_all 130 134	него
+A2	AnaforPerson T8
+T10	Neutral_all 342 344	он
+A4	AnaforPerson T10
+R3	Anafor Arg1:T0 Arg2:T2
+R7	Anafor Arg1:T7 Arg2:T8
+R101	Anafor Arg1:T6 Arg2:T3
+R104	Anafor Arg1:T0 Arg2:T7
+R2	Anafor Arg1:T2 Arg2:T10	
+R4	Anafor Arg1:T3 Arg2:T10	
+R1	Anafor Arg1:T1 Arg2:T4	

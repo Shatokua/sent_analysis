@@ -1,0 +1,6 @@
+T2	Neutral 101 106	Обама
+T3	Neutral 111 121	Х. Клинтон
+T100	Neutral_all 0 5	Трамп
+T101	Neutral_all 16 22	Путина
+T104	Neutral_all 186 191	Трамп
+R1	Anafor Arg1:T100 Arg2:T104

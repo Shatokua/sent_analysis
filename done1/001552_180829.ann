@@ -1,0 +1,13 @@
+T0	Neutral_all 155 173	Кшиштоф Мешковский
+T1	Neutral_all 649 668	Влодзимеж Бернацкий
+T2	Neutral_all 238 240	он
+A1	AnaforPerson T2
+T3	Neutral_all 535 546	Мешковского
+T4	Neutral_all 547 550	они
+A2	Plural T4
+T5	Neutral_all 876 879	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Negative 208 217	Гройсману
+T1	Negative 134 136	он
+A1	AnaforPerson T1
+T2	Negative 186 189	Его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

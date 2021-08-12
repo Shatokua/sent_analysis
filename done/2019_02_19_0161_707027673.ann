@@ -1,0 +1,6 @@
+T101	Neutral 116 130	Сергей Миронов
+T102	Positive_all 277 294	Сергей Михайлович
+T103	Negative_all 461 467	Путина
+T104	Positive 398 400	он
+A1	AnaforPerson T104
+R101	Anafor Arg1:T102 Arg2:T104

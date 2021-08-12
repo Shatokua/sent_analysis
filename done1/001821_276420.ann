@@ -1,0 +1,5 @@
+T0	Neutral_all 144 158	Сергея Шеверду
+T1	Neutral_all 200 212	Алексей Туги
+T2	Neutral_all 184 187	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

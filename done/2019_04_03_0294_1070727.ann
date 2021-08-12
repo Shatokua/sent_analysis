@@ -1,0 +1,5 @@
+T1	Neutral 26 41	Хиллари Клинтон
+T2	Neutral 53 60	Клинтон
+T100	Neutral_all 0 12	Донна Бразил
+T103	Neutral_all 134 149	Берни [Сандерса
+R1	Anafor Arg1:T1 Arg2:T2	

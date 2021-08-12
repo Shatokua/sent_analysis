@@ -1,0 +1,4 @@
+T0	Neutral_all 472 476	Алсу
+T1	Neutral_all 478 495	Микеллы Абрамовой
+T2	Neutral_all 694 701	Микеллу
+R1	Anafor Arg1:T1 Arg2:T2

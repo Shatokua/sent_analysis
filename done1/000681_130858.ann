@@ -1,0 +1,7 @@
+T0	Neutral_all 110 127	Генриха Мхитаряна
+T1	Neutral_all 181 198	Генриха Мхитаряна
+T2	Neutral_all 131 134	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

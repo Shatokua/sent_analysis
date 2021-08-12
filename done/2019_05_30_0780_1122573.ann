@@ -1,0 +1,6 @@
+T1	Neutral_all 57 75	Валерия Лутковская
+T2	Neutral_all 77 80	она
+A1	AnaforPerson T2
+T3	Neutral_all 113 116	нас
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

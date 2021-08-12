@@ -1,0 +1,4 @@
+T0	Neutral_all 21 37	Владимира Путина
+T1	Positive_all 120 125	Путин
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,13 @@
+T2	Neutral_all 194 203	Денисенко
+T5	Negative_all 519 535	Макария Малетича
+T1	Neutral 147 165	Филарета Денисенко
+T3	Neutral_all 657 659	их
+A1	Plural T3
+T4	Neutral_all 479 483	него
+R102	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T5 Arg2:T3
+R104	Anafor Arg1:T4 Arg2:T3
+T6	Neutral 24 34	Варфоломей
+R1	Anafor Arg1:T1 Arg2:T2	
+A2	AnaforPerson T4
+A3	AnaforPerson T3

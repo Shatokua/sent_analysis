@@ -1,0 +1,7 @@
+T0	Neutral_all 172 190	Игоря Стравинского
+T1	Neutral_all 193 210	Сергея Прокофьева
+T2	Neutral_all 211 234	Сергей Павлович Дягилев
+T3	Neutral_all 328 330	Мы
+A1	Plural T3
+T104	Neutral_all 360 362	их
+A2	Plural T104

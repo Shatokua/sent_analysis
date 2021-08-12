@@ -1,0 +1,13 @@
+T0	Neutral_all 110 127	Алексея Колмакова
+T1	Neutral_all 234 241	Алексей
+T2	Neutral_all 10 13	вас
+A1	Plural T2
+T3	Neutral_all 189 191	мы
+A2	Plural T3
+T4	Neutral_all 290 293	нам
+A3	Plural T4
+T105	Neutral_all 296 300	вами
+A4	Plural T105
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T1
+R103	Anafor Arg1:T2 Arg2:T105

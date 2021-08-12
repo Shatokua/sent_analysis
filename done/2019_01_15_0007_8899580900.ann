@@ -1,0 +1,5 @@
+T2	Neutral 205 210	Путин
+A1	AnaforPerson T2
+T100	Negative_all 90 97	Дарькин
+T101	Neutral_all 20 41	Владимир Владимирович
+R1	Anafor Arg1:T101 Arg2:T2	

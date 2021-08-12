@@ -1,0 +1,8 @@
+T0	Negative_all 59 64	Путин
+T1	Negative_all 67 75	Медведев
+T2	Neutral_all 94 99	Путин
+T3	Neutral_all 161 169	Медведев
+T4	Neutral_all 185 190	Путин
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T3

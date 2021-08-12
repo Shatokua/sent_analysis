@@ -1,0 +1,10 @@
+T0	Neutral_all 50 55	Гасли
+T1	Neutral_all 64 80	Нико Хюлькенберг
+T2	Neutral_all 93 104	Даниил Квят
+T3	Neutral_all 126 131	Гасли
+T4	Neutral_all 106 108	Мы
+A1	Plural T4
+T5	Neutral_all 133 136	Ему
+A2	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T5

@@ -1,0 +1,5 @@
+T0	Negative 33 40	Ливанов
+T1	Neutral 50 60	Сердюковым
+T2	Negative 119 121	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

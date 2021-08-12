@@ -1,0 +1,4 @@
+T0	Neutral_all 145 165	Александр Николаевич
+T101	Negative 167 169	вы
+A2	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

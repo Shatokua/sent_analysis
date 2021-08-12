@@ -1,0 +1,15 @@
+T0	Neutral_all 45 60	Маис Бархударов
+T1	Neutral_all 155 170	Маис Бархударов
+T2	Neutral_all 249 260	Бархударова
+T4	Neutral_all 113 116	ним
+A1	AnaforPerson T4
+T5	Neutral_all 136 138	мы
+A2	Plural T5
+T3	Neutral_all 377 380	нас
+A3	Plural T3
+T6	Neutral_all 466 469	они
+A4	Plural T6
+T103	Neutral_all 360 369	Леле Тепе
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T5

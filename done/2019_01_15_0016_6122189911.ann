@@ -1,0 +1,7 @@
+T100	Neutral_all 46 58	Джорджа Буша
+T1	Neutral 27 33	Барака
+T3	Neutral 35 40	Обамы
+R1	Anafor Arg1:T1 Arg2:T3	
+T2	Neutral 67 72	Билла
+T4	Neutral 74 82	Клинтона
+R2	Anafor Arg1:T2 Arg2:T4	

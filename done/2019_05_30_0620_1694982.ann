@@ -1,0 +1,10 @@
+T0	Positive_all 47 64	Татьяна Борисовна
+T1	Positive 86 93	Юмашевы
+A1	Plural T1
+T2	Positive 67 85	Валентин Борисович
+T102	Positive 106 108	их
+A4	AnaforPerson T102
+A5	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T2 Arg2:T1	
+R3	Anafor Arg1:T1 Arg2:T102	

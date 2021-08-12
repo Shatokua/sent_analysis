@@ -1,0 +1,7 @@
+T0	Neutral 73 80	Познера
+T1	Neutral 43 46	Они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 141 145	него
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

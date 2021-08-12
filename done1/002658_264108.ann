@@ -1,0 +1,4 @@
+T0	Neutral_all 96 110	Алла Шендерова
+T1	Neutral_all 438 441	нам
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

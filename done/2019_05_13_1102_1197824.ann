@@ -1,0 +1,13 @@
+T0	Neutral 0 3	Веа
+T1	Neutral 40 43	Его
+A1	AnaforPerson T1
+T2	Neutral 90 93	его
+A2	AnaforPerson T2
+T3	Neutral 114 116	он
+A3	AnaforPerson T3
+T4	Positive 171 173	он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

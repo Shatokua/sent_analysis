@@ -1,0 +1,10 @@
+T0	Neutral_all 28 42	Андрея Норкина
+T1	Neutral_all 187 193	Андрея
+T2	Neutral_all 272 288	Александр Гурнов
+T3	Neutral_all 217 220	Ему
+A1	AnaforPerson T3
+T4	Neutral_all 238 240	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T3

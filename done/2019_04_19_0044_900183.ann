@@ -1,0 +1,6 @@
+T0	Neutral_all 53 58	Тотти
+T1	Neutral_all 181 186	Тотти
+T2	Neutral_all 124 126	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

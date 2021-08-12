@@ -1,0 +1,11 @@
+T0	Neutral_all 47 53	Макрон
+T1	Neutral_all 151 157	Макрон
+T2	Neutral_all 147 149	Он
+A1	AnaforPerson T2
+T3	Neutral_all 174 177	его
+A2	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3
+R1	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T2

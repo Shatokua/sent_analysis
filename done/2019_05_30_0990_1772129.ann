@@ -1,0 +1,11 @@
+T0	Neutral_all 82 88	Исаеву
+T1	Neutral_all 166 171	Исаев
+T2	Neutral_all 213 220	Ефремов
+T3	Neutral_all 0 7	Писному
+T4	Neutral_all 45 47	он
+A1	AnaforPerson T4
+T5	Neutral_all 59 61	он
+A2	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T0

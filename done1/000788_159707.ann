@@ -1,0 +1,7 @@
+T0	Neutral_all 68 82	Владимир Путин
+T1	Neutral_all 415 421	Трампу
+T2	Neutral_all 189 192	Они
+A1	Plural T2
+T3	Neutral_all 254 257	них
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

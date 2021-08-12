@@ -1,0 +1,4 @@
+T0	Mixed 35 40	Путин
+T1	Neutral 85 87	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

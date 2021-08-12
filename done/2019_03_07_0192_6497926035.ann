@@ -1,0 +1,29 @@
+T0	Negative 0 5	Шатов
+T2	Neutral 234 239	Данни
+T6	Positive 319 323	него
+A1	AnaforPerson T6
+T7	Neutral 358 360	он
+A2	AnaforPerson T7
+T8	Neutral 375 377	Он
+A3	AnaforPerson T8
+T9	Neutral 621 624	его
+A4	AnaforPerson T9
+T10	Neutral 666 670	него
+A5	AnaforPerson T10
+T11	Neutral 686 688	Он
+A6	AnaforPerson T11
+T101	Neutral_all 197 205	Кокорина
+T103	Positive_all 244 249	Данни
+T104	Neutral_all 134 136	Он
+A7	AnaforPerson T104
+T105	Neutral_all 207 209	Он
+A8	AnaforPerson T105
+R1	Anafor Arg1:T0 Arg2:T104
+R2	Anafor Arg1:T104 Arg2:T105
+R3	Anafor Arg1:T105 Arg2:T6
+R4	Anafor Arg1:T6 Arg2:T7
+R5	Anafor Arg1:T7 Arg2:T8
+R6	Anafor Arg1:T8 Arg2:T9
+R7	Anafor Arg1:T9 Arg2:T10
+R8	Anafor Arg1:T10 Arg2:T11
+R9	Anafor Arg1:T2 Arg2:T103	

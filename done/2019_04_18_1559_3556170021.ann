@@ -1,0 +1,4 @@
+T0	Neutral 0 6	Путину
+T1	Negative 91 94	его
+A2	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

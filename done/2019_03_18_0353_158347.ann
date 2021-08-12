@@ -1,0 +1,6 @@
+T100	Neutral_all 5 19	Франсуа Олланд
+T101	Neutral_all 34 50	Владимира Путина
+T102	Neutral_all 79 82	ему
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102
+R101	Anafor Arg1:T102 Arg2:T101

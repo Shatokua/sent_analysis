@@ -1,0 +1,3 @@
+T100	Positive_all 9 35	Гарри Яковлевича Гродберга
+T101	Positive_all 148 162	Гарри Гродберг
+R1	Anafor Arg1:T100 Arg2:T101

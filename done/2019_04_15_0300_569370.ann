@@ -1,0 +1,4 @@
+T0	Neutral_all 89 98	Медведеве
+T1	Neutral_all 112 118	Путину
+T2	Neutral_all 144 153	Медведева
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,8 @@
+T2	Neutral 5 7	ты
+T3	Neutral 17 19	ты
+T4	Neutral 184 186	ты
+T100	Neutral_all 79 84	Путин
+T101	Neutral_all 142 148	Путина
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T100 Arg2:T101	
+R3	Anafor Arg1:T3 Arg2:T4	

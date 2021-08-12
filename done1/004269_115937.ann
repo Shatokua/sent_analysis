@@ -1,0 +1,12 @@
+T0	Neutral_all 100 117	Абдиля Сегизбаева
+T1	Neutral_all 0 3	Нам
+A1	Plural T1
+T2	Neutral_all 63 65	Мы
+A2	Plural T2
+T3	Neutral_all 194 197	нас
+A3	Plural T3
+T4	Negative_all 128 130	Он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T0 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T3

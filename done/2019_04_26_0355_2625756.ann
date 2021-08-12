@@ -1,0 +1,5 @@
+T0	Neutral_all 0 9	Порошенко
+T1	Neutral_all 106 115	Зеленским
+T102	Neutral_all 100 103	ним
+A1	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T102

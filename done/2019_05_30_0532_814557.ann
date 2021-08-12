@@ -1,0 +1,3 @@
+T0	Neutral_all 72 82	Полонского
+T1	Neutral_all 186 196	Полонского
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T0	Neutral_all 78 92	Павла Конькова
+T1	Neutral_all 233 240	Коньков
+T2	Neutral_all 378 390	Михаила Меня
+T3	Neutral_all 181 184	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T3

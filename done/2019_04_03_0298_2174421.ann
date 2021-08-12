@@ -1,0 +1,3 @@
+T1	Neutral 103 108	Настя
+T100	Positive_all 74 88	Насте Ивлеевой
+R1	Anafor Arg1:T100 Arg2:T1	

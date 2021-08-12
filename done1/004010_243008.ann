@@ -1,0 +1,7 @@
+T0	Neutral_all 42 53	Хизир Банов
+T1	Neutral_all 175 177	он
+A1	AnaforPerson T1
+T2	Neutral_all 240 242	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T1

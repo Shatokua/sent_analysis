@@ -1,0 +1,23 @@
+T0	Neutral_all 67 77	Рон Деннис
+T1	Neutral_all 80 93	Фрэнк Уильямс
+T2	Neutral_all 147 151	Рона
+T3	Neutral_all 165 171	Фрэнка
+T4	Neutral_all 336 339	ФИА
+T5	Neutral_all 348 356	Жан Тодт
+T6	Neutral_all 0 3	Они
+A1	Plural T6
+T7	Neutral_all 121 123	им
+A2	Plural T7
+T8	Neutral_all 395 397	им
+A3	Plural T8
+T9	Neutral_all 481 484	них
+A4	Plural T9
+T10	Neutral_all 779 781	их
+A5	Plural T10
+T109	Neutral_all 606 609	нам
+A6	Plural T109
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T6 Arg2:T7
+R104	Anafor Arg1:T5 Arg2:T8
+R105	Anafor Arg1:T8 Arg2:T9

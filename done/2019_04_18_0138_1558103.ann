@@ -1,0 +1,6 @@
+T0	Negative 21 30	Айман Уда
+T1	Negative 46 49	его
+A1	AnaforPerson T1
+T2	Negative 32 42	Ayman Odeh
+R1	Variant Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	

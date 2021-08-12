@@ -1,0 +1,5 @@
+T0	Neutral 15 28	Серебренников
+A1	AnaforPerson T0
+T1	Neutral 136 139	они
+A2	AnaforPerson T1
+A3	Plural T1

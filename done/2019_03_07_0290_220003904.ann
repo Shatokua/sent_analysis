@@ -1,0 +1,7 @@
+T100	Neutral_all 193 201	Гриценко
+T101	Neutral_all 204 211	Москаль
+T102	Neutral 77 79	Он
+A1	AnaforPerson T102
+T103	Neutral_all 236 238	Он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103

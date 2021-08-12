@@ -1,0 +1,5 @@
+T0	Neutral_all 34 52	Людмила Михайловна
+T1	Neutral_all 215 244	Александра Сергеевича Пушкина
+T2	Neutral_all 61 64	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

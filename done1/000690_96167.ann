@@ -1,0 +1,5 @@
+T0	Neutral_all 102 117	Романа Шухевича
+T101	Negative 166 169	Они
+A3	Plural T101
+R1	Anafor Arg1:T0 Arg2:T101	
+A1	AnaforPerson T101

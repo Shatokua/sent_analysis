@@ -1,0 +1,4 @@
+T0	Positive 84 100	Вячеслав Фетисов
+T1	Neutral 151 155	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

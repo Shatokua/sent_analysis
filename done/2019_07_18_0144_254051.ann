@@ -1,0 +1,10 @@
+T0	Neutral 43 51	Улюкаева
+T1	Neutral 54 56	он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Neutral 66 69	Ему
+A2	AnaforPerson T2
+R2	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 144 146	он
+A3	AnaforPerson T3
+R3	Variant Arg1:T2 Arg2:T3	

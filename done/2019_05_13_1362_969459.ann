@@ -1,0 +1,7 @@
+T0	Positive 70 88	Рашида Салахбекова
+T1	Positive 130 132	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 55 58	вам
+A2	AnaforPerson T2
+A3	Plural T2

@@ -1,0 +1,5 @@
+T1	Neutral 35 40	Путин
+T100	Negative_all 15 20	Керри
+T2	Neutral 123 125	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

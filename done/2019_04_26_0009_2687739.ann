@@ -1,0 +1,10 @@
+T0	Negative 0 9	Мизулиной
+T1	Negative_all 130 138	Мизулина
+T3	Negative_all 40 43	она
+A1	AnaforPerson T3
+T4	Negative 170 173	нее
+A2	AnaforPerson T4
+T104	Negative 28 36	Дворкины
+R102	Anafor Arg1:T1 Arg2:T4
+R103	Anafor Arg1:T1 Arg2:T3
+R1	Anafor Arg1:T0 Arg2:T3	

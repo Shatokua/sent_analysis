@@ -1,0 +1,8 @@
+T100	Neutral_all 0 17	Петру Алексеевичу
+T101	Neutral_all 51 71	Виктором Федоровичем
+T102	Neutral 84 87	его
+A1	AnaforPerson T102
+T103	Neutral_all 111 114	ему
+A2	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

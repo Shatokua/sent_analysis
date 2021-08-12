@@ -1,0 +1,4 @@
+T1	Neutral 102 107	Керри
+T100	Neutral_all 69 74	Керри
+T102	Neutral_all 183 197	Бараком Обамой
+R1	Anafor Arg1:T100 Arg2:T1	

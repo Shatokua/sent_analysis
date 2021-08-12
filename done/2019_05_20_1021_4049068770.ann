@@ -1,0 +1,7 @@
+T0	Neutral 0 10	Евтушенков
+T1	Neutral 48 51	ему
+A1	AnaforPerson T1
+T2	Neutral 65 68	ему
+A2	AnaforPerson T2
+#1	AnnotatorNotes T2	тут, наверное, опечатка
+R1	Anafor Arg1:T0 Arg2:T1	

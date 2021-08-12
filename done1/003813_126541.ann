@@ -1,0 +1,7 @@
+T0	Neutral_all 45 64	Петром Алексеевичем
+T1	Neutral_all 103 106	ему
+A1	AnaforPerson T1
+T2	Neutral_all 157 159	Мы
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T2

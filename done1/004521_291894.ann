@@ -1,0 +1,6 @@
+T0	Neutral_all 128 132	Шаде
+A1	AnaforPerson T0
+T1	Neutral_all 274 288	Луи Армстронга
+T2	Neutral_all 135 137	ее
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

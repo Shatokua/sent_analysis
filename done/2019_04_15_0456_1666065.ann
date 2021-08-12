@@ -1,0 +1,6 @@
+T2	Neutral 96 99	его
+A1	AnaforPerson T2
+T100	Neutral_all 83 91	Собянина
+T101	Positive 182 189	Собянин
+R2	Anafor Arg1:T100 Arg2:T2
+R1	Anafor Arg1:T101 Arg2:T2	

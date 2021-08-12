@@ -1,0 +1,8 @@
+T0	Neutral_all 153 161	Примаков
+T3	Neutral_all 0 2	Вы
+A1	Plural T3
+T1	Neutral 205 228	Ельцин Борис Николаевич
+T2	Neutral_all 340 342	он
+A3	AnaforPerson T2
+A4	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2	

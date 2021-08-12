@@ -1,0 +1,5 @@
+T0	Neutral_all 64 80	Руслан Ростовцев
+T1	Neutral_all 339 349	Ростовцева
+T2	Neutral_all 367 369	мы
+A1	Plural T2
+R101	Anafor Arg1:T0 Arg2:T1

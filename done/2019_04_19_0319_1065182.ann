@@ -1,0 +1,7 @@
+T1	Neutral_all 157 163	Трампа
+T2	Neutral_all 188 198	Януковичем
+T100	Neutral 18 24	Мюллер
+T3	Neutral 175 178	они
+A1	AnaforPerson T3
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3	

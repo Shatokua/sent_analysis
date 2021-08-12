@@ -1,0 +1,4 @@
+T0	Negative 0 7	Кудрину
+T1	Negative 89 92	нем
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

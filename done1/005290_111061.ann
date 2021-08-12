@@ -1,0 +1,8 @@
+T0	Neutral_all 150 170	Максим Александрович
+T1	Neutral_all 530 533	нам
+A1	Plural T1
+T2	Neutral_all 583 586	нас
+A2	Plural T2
+T101	Neutral_all 512 514	их
+A3	Plural T101
+R1	Anafor Arg1:T1 Arg2:T2

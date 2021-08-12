@@ -1,0 +1,7 @@
+T0	Neutral 0 13	Ксения Собчак
+T1	Neutral 104 107	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 395 397	им
+A2	AnaforPerson T2
+A3	Plural T2

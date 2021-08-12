@@ -1,0 +1,9 @@
+T0	Neutral_all 22 29	Трампом
+T1	Neutral_all 80 95	Хиллари Клинтон
+T2	Neutral_all 138 143	Трамп
+T3	Neutral_all 125 127	Им
+A1	Plural T3
+T4	Neutral_all 151 153	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T4

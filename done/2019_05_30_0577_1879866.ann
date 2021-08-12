@@ -1,0 +1,7 @@
+T0	Neutral_all 94 99	Озила
+T1	Neutral_all 148 152	Озил
+T2	Neutral_all 177 182	Месут
+T3	Neutral_all 219 221	мы
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T1

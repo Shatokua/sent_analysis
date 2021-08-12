@@ -1,0 +1,11 @@
+T0	Positive 348 368	Валентины Терешковой
+T1	Negative 79 81	вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 139 142	вас
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Negative 520 523	Они
+A5	AnaforPerson T3
+A6	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2	

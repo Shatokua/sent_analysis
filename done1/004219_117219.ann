@@ -1,0 +1,5 @@
+T2	Neutral_all 265 282	Асылбек Жээнбеков
+T1	Neutral_all 208 223	Чынара Капарова
+T3	Neutral_all 287 290	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3

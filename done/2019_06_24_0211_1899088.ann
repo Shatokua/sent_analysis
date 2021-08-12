@@ -1,0 +1,7 @@
+T0	Neutral_all 9 19	Захарченко
+T1	Neutral_all 65 72	Кобзона
+T3	Neutral_all 49 51	он
+A1	AnaforPerson T3
+T102	Positive 83 98	Иосиф Давыдович
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T102	

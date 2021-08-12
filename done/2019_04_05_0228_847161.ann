@@ -1,0 +1,4 @@
+T100	Neutral_all 8 18	Саакашвили
+T101	Negative 114 130	Петром Порошенко
+T102	Negative 176 185	Порошенко
+R1	Anafor Arg1:T101 Arg2:T102	

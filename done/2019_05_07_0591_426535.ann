@@ -1,0 +1,4 @@
+T0	Mixed 17 22	Путин
+T1	Neutral 52 55	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

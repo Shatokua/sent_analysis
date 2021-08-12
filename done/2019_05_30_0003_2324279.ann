@@ -1,0 +1,13 @@
+T0	Neutral_all 42 50	Валттери
+T1	Neutral_all 207 215	Валттери
+T2	Neutral_all 91 93	мы
+A1	Plural T2
+T3	Neutral_all 117 119	он
+A2	AnaforPerson T3
+T4	Neutral_all 180 182	он
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T3

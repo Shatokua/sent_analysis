@@ -1,0 +1,8 @@
+T0	Neutral_all 44 51	Хайнкес
+T1	Neutral_all 142 147	Карло
+T2	Neutral_all 163 166	его
+A1	AnaforPerson T2
+T3	Neutral_all 128 131	Они
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T3

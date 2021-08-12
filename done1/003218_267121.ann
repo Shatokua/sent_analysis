@@ -1,0 +1,16 @@
+T0	Neutral_all 2 17	Мурат Суталинов
+T1	Neutral_all 125 129	него
+A1	AnaforPerson T1
+T2	Neutral_all 191 194	его
+A2	AnaforPerson T2
+T3	Neutral_all 240 244	него
+A3	Plural T3
+T4	Neutral_all 261 263	он
+A4	Plural T4
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T1
+R4	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T4 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T1
+R104	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,18 @@
+T0	Neutral_all 33 39	Крысин
+T1	Neutral_all 114 120	Крысин
+T2	Neutral_all 130 134	Саши
+T3	Neutral_all 171 179	Коровина
+T4	Neutral_all 210 223	Вика Залесова
+T5	Neutral_all 238 245	Татьяна
+T6	Neutral_all 276 289	Денис Швачкин
+T7	Neutral_all 341 350	Коровиной
+T8	Neutral_all 54 57	они
+A1	Plural T8
+R1	Anafor Arg1:T3 Arg2:T7
+R2	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R104	Anafor Arg1:T0 Arg2:T8
+R105	Anafor Arg1:T3 Arg2:T8
+R106	Anafor Arg1:T4 Arg2:T8
+R107	Anafor Arg1:T5 Arg2:T8
+R108	Anafor Arg1:T6 Arg2:T8

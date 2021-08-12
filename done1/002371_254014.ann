@@ -1,0 +1,34 @@
+T0	Positive 217 228	Эррол Спенс
+T1	Positive 232 247	Теренс Кроуфорд
+T2	Positive 251 261	Кит Турман
+T3	Positive 265 275	Шон Портер
+T4	Positive 279 293	Сауль Альварес
+T5	Positive 300 317	Геннадий Головкин
+T6	Neutral_all 351 356	Флойд
+T7	Neutral_all 447 458	Андре Берто
+T8	Neutral_all 462 471	Мэйвезера
+T9	Neutral_all 531 537	Спенса
+T10	Neutral_all 542 549	Турмана
+T11	Neutral_all 568 573	Берто
+T12	Neutral_all 632 638	Флойда
+T13	Neutral_all 11 21	Мэйвезером
+T14	Neutral_all 38 40	он
+A1	AnaforPerson T14
+T15	Neutral_all 83 87	него
+A2	AnaforPerson T15
+T16	Neutral_all 146 149	его
+A3	AnaforPerson T16
+T17	Neutral_all 412 414	он
+A4	AnaforPerson T17
+T118	Neutral_all 554 556	он
+A5	AnaforPerson T118
+R1	Anafor Arg1:T13 Arg2:T14	
+R2	Anafor Arg1:T14 Arg2:T15	
+R3	Anafor Arg1:T15 Arg2:T16	
+R4	Anafor Arg1:T6 Arg2:T16	
+R5	Anafor Arg1:T6 Arg2:T17	
+R6	Anafor Arg1:T8 Arg2:T17	
+R7	Anafor Arg1:T0 Arg2:T9	
+R8	Anafor Arg1:T2 Arg2:T10	
+R9	Anafor Arg1:T8 Arg2:T118	
+R10	Anafor Arg1:T12 Arg2:T118	

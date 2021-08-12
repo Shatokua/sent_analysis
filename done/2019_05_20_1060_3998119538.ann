@@ -1,0 +1,11 @@
+T0	Neutral 28 34	Макфол
+T1	Neutral 150 157	Сноуден
+T2	Neutral 96 98	вы
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 167 170	ему
+A3	AnaforPerson T3
+T4	Neutral 183 185	он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

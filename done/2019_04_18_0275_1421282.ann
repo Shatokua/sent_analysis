@@ -1,0 +1,10 @@
+T0	Neutral 36 41	Дуров
+T1	Mixed 110 113	ему
+A1	Unclear T1
+T2	Mixed 132 135	его
+A2	Unclear T2
+T3	Mixed 161 165	него
+A3	Unclear T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

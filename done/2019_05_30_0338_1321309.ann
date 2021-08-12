@@ -1,0 +1,4 @@
+T2	Neutral_all 232 235	его
+A1	AnaforPerson T2
+T101	Neutral 109 129	Григория] Родченкова
+R1	Anafor Arg1:T101 Arg2:T2	

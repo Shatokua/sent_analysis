@@ -1,0 +1,16 @@
+T0	Neutral_all 35 50	Кудайбергеновым
+T1	Neutral_all 53 58	Теном
+T2	Neutral_all 60 73	Кудайбергенов
+T3	Neutral_all 93 97	Тена
+T4	Neutral_all 121 127	Киясов
+T5	Neutral_all 166 172	Киясов
+T6	Neutral_all 223 234	Дениса Тена
+T7	Neutral_all 236 238	Он
+A1	AnaforPerson T7
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T6 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T3
+R4	Anafor Arg1:T0 Arg2:T2
+R5	Anafor Arg1:T3 Arg2:T7
+R104	Anafor Arg1:T3 Arg2:T6
+R105	Anafor Arg1:T6 Arg2:T7

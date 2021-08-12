@@ -1,0 +1,5 @@
+T0	Neutral 154 159	Салах
+T2	Positive 47 49	Он
+A1	AnaforPerson T2
+T101	Positive_all 5 7	Мо
+R1	Anafor Arg1:T101 Arg2:T2

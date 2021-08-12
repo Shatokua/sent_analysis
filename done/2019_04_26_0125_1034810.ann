@@ -1,0 +1,3 @@
+T0	Negative_all 0 9	Навальный
+T101	Neutral 81 91	Навального
+R1	Anafor Arg1:T0 Arg2:T101	

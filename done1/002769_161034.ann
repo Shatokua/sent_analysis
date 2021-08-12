@@ -1,0 +1,6 @@
+T0	Neutral_all 298 310	Ольга Малёва
+T1	Neutral_all 338 341	она
+A1	AnaforPerson T1
+T2	Neutral_all 189 191	её
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,12 @@
+T0	Positive 247 274	Владимир Владимирович Путин
+T1	Positive 421 440	Александра Невского
+T3	Neutral_all 281 284	они
+A2	Plural T3
+T6	Neutral_all 357 359	им
+A5	Plural T6
+T7	Neutral_all 663 666	них
+A6	Plural T7
+A1	AnaforPerson T3
+A3	AnaforPerson T6
+R1	Anafor Arg1:T3 Arg2:T6	
+A4	AnaforPerson T7

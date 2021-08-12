@@ -1,0 +1,4 @@
+T0	Neutral 18 50	Рустама Нургалиевича Минниханова
+T1	Neutral 52 54	Он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

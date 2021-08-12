@@ -1,0 +1,4 @@
+T0	Neutral_all 30 47	Василий Семенович
+T1	Neutral_all 50 66	Ириной Петровной
+T2	Neutral_all 119 127	Ланового
+R1	Anafor Arg1:T0 Arg2:T2

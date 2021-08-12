@@ -1,0 +1,5 @@
+T0	Neutral 15 22	Меркель
+T101	Negative_all 62 70	Эрдогану
+T102	Negative_all 161 164	Ему
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102

@@ -1,0 +1,4 @@
+T2	Neutral_all 149 152	его
+A2	AnaforPerson T2
+T100	Positive 82 95	Марлен Хуциев
+R1	Anafor Arg1:T100 Arg2:T2	

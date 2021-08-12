@@ -1,0 +1,5 @@
+T0	Neutral_all 12 18	Рухани
+T1	Neutral_all 68 74	Трампа
+T2	Neutral_all 94 98	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

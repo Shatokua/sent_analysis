@@ -1,0 +1,12 @@
+T0	Neutral_all 55 69	Богдан Головаш
+T1	Neutral_all 72 90	Владислав Костышин
+T2	Neutral_all 92 94	Их
+A1	Plural T2
+A2	AnaforPerson T2
+T3	Neutral_all 131 133	их
+A3	Plural T3
+T4	Neutral_all 190 192	Мы
+A4	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T0 Arg2:T2

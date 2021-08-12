@@ -1,0 +1,14 @@
+T0	Neutral_all 19 35	Андрея Платонова
+T1	Neutral_all 192 200	Платонов
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 54 57	его
+A2	AnaforPerson T3
+T4	Neutral_all 579 581	мы
+A3	Plural T4
+T5	Neutral_all 765 768	его
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T2 Arg2:T4

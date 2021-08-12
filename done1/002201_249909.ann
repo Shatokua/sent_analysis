@@ -1,0 +1,4 @@
+T0	Neutral_all 120 139	Райнер Мария Рильке
+T1	Neutral_all 208 211	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

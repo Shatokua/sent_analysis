@@ -1,0 +1,15 @@
+T0	Neutral_all 88 110	Хабибом Нурмагомедовым
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral_all 143 146	его
+A2	AnaforPerson T2
+T3	Neutral_all 168 170	он
+A3	AnaforPerson T3
+T4	Neutral_all 237 239	он
+A4	AnaforPerson T4
+T5	Neutral_all 282 284	он
+A5	AnaforPerson T5
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R1	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T2 Arg2:T3	

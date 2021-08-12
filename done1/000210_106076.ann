@@ -1,0 +1,6 @@
+T0	Positive_all 157 172	Майкла Джексона
+T1	Neutral_all 230 233	его
+A1	AnaforPerson T1
+T2	Neutral_all 254 257	нам
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

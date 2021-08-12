@@ -1,0 +1,6 @@
+T0	Neutral 115 131	Владимиру Путину
+T1	Neutral 133 135	Он
+A1	AnaforPerson T1
+T2	Neutral 208 211	Они
+A2	AnaforPerson T2
+A3	Plural T2

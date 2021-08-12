@@ -1,0 +1,7 @@
+T0	Neutral 10 15	Обама
+T1	Neutral 88 90	Их
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 158 160	он
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

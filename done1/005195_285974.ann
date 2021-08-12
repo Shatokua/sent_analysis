@@ -1,0 +1,6 @@
+T0	Neutral_all 64 81	Карена Карапетяна
+T1	Neutral_all 3 5	вы
+A1	Plural T1
+T2	Neutral_all 101 103	вы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

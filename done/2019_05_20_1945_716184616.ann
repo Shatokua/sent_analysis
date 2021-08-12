@@ -1,0 +1,5 @@
+T0	Neutral 28 38	Говорухину
+T1	Neutral 48 56	Медведев
+T2	Neutral 44 46	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

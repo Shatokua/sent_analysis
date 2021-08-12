@@ -1,0 +1,6 @@
+T0	Neutral_all 38 50	Сергей Юндин
+T1	Neutral_all 97 100	его
+A1	AnaforPerson T1
+T2	Neutral_all 238 240	Мы
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

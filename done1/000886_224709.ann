@@ -1,0 +1,11 @@
+T0	Neutral_all 150 158	Нестеров
+T1	Neutral_all 161 171	Шарифуллин
+T2	Neutral_all 176 184	Нестеров
+T3	Neutral_all 234 251	Шарифуллин Рамиль
+T4	Neutral_all 213 217	него
+A1	AnaforPerson T4
+T104	Neutral_all 137 140	нас
+A2	Plural T104
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T3 Arg2:T1

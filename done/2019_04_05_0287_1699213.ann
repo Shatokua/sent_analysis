@@ -1,0 +1,6 @@
+T100	Neutral_all 5 14	Камболова
+T101	Neutral_all 191 200	Камболова
+T102	Neutral 32 35	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	

@@ -1,0 +1,14 @@
+T0	Neutral_all 87 101	Диана Шурыгина
+T1	Neutral_all 104 118	Сергей Семенов
+T2	Neutral_all 133 138	Диана
+T3	Neutral_all 55 58	они
+A1	Plural T3
+T4	Neutral_all 140 143	вам
+A2	AnaforPerson T4
+T5	Neutral_all 166 169	вас
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T3
+R5	Anafor Arg1:T1 Arg2:T3

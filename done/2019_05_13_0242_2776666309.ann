@@ -1,0 +1,12 @@
+T0	Positive 12 19	Хиллари
+T1	Positive 23 26	Джо
+T2	Positive 4 7	они
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Positive 63 66	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T2 Arg2:T0	
+R2	Anafor Arg1:T2 Arg2:T1	
+R3	Anafor Arg1:T0 Arg2:T3	
+R4	Anafor Arg1:T1 Arg2:T3	

@@ -1,0 +1,13 @@
+T3	Neutral 69 71	ее
+A1	AnaforPerson T3
+T100	Positive_all 54 67	Анну Нетребко
+T101	Positive_all 77 91	Юсифа Эйвазова
+T102	Positive_all 123 136	Анна Нетребко
+T103	Positive 205 207	ее
+A4	AnaforPerson T103
+T104	Positive 94 96	ее
+A5	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T3	
+R2	Anafor Arg1:T100 Arg2:T104	
+R3	Anafor Arg1:T102 Arg2:T104	
+R4	Anafor Arg1:T102 Arg2:T103	

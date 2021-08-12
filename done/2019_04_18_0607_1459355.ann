@@ -1,0 +1,8 @@
+T0	Negative 136 148	Башару Асаду
+T1	Negative 167 170	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Negative 195 198	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

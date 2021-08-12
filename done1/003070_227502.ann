@@ -1,0 +1,18 @@
+T0	Neutral_all 46 65	Александр Колпакиди
+T1	Neutral_all 741 746	Путин
+T2	Neutral_all 0 2	Он
+A1	AnaforPerson T2
+T3	Neutral_all 275 278	ему
+A2	AnaforPerson T3
+T4	Neutral_all 487 489	ее
+A3	AnaforPerson T4
+T5	Neutral_all 536 538	Он
+A4	AnaforPerson T5
+T6	Neutral_all 559 562	них
+A5	Plural T6
+T7	Neutral_all 596 599	ему
+A6	AnaforPerson T7
+T8	Neutral_all 862 864	ты
+A7	AnaforPerson T8
+R1	Anafor Arg1:T5 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T7

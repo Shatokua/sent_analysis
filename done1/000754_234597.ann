@@ -1,0 +1,20 @@
+T0	Neutral_all 42 49	Путиным
+T1	Neutral_all 158 171	Дональд Трамп
+T2	Neutral_all 487 493	Трампа
+T3	Neutral_all 721 726	Путин
+T4	Neutral_all 173 176	его
+A1	AnaforPerson T4
+T5	Neutral_all 284 286	он
+A2	AnaforPerson T5
+T6	Neutral_all 425 428	его
+A3	AnaforPerson T6
+T7	Neutral_all 907 909	мы
+A4	Plural T7
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T6
+R5	Anafor Arg1:T3 Arg2:T0
+R102	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T5
+R104	Anafor Arg1:T5 Arg2:T6

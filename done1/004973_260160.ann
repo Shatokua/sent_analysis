@@ -1,0 +1,13 @@
+T0	Neutral_all 248 256	Кочаряна
+T1	Neutral_all 410 426	Армена Даниеляна
+T2	Neutral_all 477 493	Роберта Кочаряна
+T3	Neutral_all 652 659	Кочарян
+T4	Neutral_all 705 713	Кочаряна
+T5	Neutral_all 768 770	Мы
+A1	Plural T5
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T0
+R103	Anafor Arg1:T0 Arg2:T4

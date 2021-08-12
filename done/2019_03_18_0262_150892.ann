@@ -1,0 +1,8 @@
+T100	Neutral_all 26 32	Путине
+T101	Neutral_all 129 136	Клинтон
+T102	Negative 124 127	она
+A3	AnaforPerson T102
+T103	Negative 0 3	Она
+A4	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T103	

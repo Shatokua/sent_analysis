@@ -1,0 +1,10 @@
+T0	Neutral_all 31 43	Эдгар Пуэрто
+T1	Neutral_all 45 51	Гиясов
+T2	Neutral_all 120 127	Шахрама
+T3	Neutral_all 0 3	Его
+A1	AnaforPerson T3
+T104	Neutral_all 90 96	Пуэрто
+R1	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T104
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3

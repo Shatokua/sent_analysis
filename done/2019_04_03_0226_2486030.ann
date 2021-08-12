@@ -1,0 +1,11 @@
+T100	Negative_all 9 15	Гуаидо
+T101	Neutral_all 127 133	Мадуро
+T102	Negative 76 79	его
+A2	AnaforPerson T102
+T103	Positive 135 137	Он
+A3	AnaforPerson T103
+T104	Positive 140 143	его
+A4	AnaforPerson T104
+R2	Anafor Arg1:T101 Arg2:T103
+R3	Anafor Arg1:T103 Arg2:T104
+R1	Anafor Arg1:T100 Arg2:T102	

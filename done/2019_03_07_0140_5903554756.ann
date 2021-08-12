@@ -1,0 +1,4 @@
+T0	Negative 2 12	Навального
+T101	Negative_all 202 204	Он
+A1	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101

@@ -1,0 +1,3 @@
+T101	Negative 85 91	Путина
+T102	Neutral_all 10 18	В.Путину
+R1	Anafor Arg1:T102 Arg2:T101	

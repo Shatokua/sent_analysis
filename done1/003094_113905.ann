@@ -1,0 +1,10 @@
+T0	Neutral_all 179 196	Мехмана Гусейнова
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 198 200	Мы
+A2	Plural T2
+T3	Neutral_all 211 214	вас
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+T4	Neutral 233 236	его
+R2	Anafor Arg1:T0 Arg2:T4	

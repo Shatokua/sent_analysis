@@ -1,0 +1,21 @@
+T1	Neutral_all 54 57	они
+A1	Plural T1
+T2	Neutral_all 174 176	он
+T3	Neutral_all 229 231	Вы
+A2	Plural T3
+T4	Neutral_all 265 268	Вам
+A3	Plural T4
+T5	Neutral_all 354 357	Вас
+A4	Plural T5
+T6	Neutral_all 447 449	Вы
+T7	Neutral_all 490 493	Вас
+A5	Plural T7
+T8	Neutral_all 709 717	А. Варум
+T108	Neutral_all 658 663	Вашей
+A6	AnaforPerson T108
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T5 Arg2:T7
+R101	Anafor Arg1:T3 Arg2:T6
+R102	Anafor Arg1:T6 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T4

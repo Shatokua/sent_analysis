@@ -1,0 +1,6 @@
+T0	Neutral 75 83	Савченко
+T1	Neutral 50 53	вам
+A1	AnaforPerson T1
+T2	Neutral 160 163	вам
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

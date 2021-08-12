@@ -1,0 +1,3 @@
+T0	Neutral_all 64 80	Михаилу Смирнову
+T1	Neutral_all 335 343	Смирнова
+R1	Anafor Arg1:T0 Arg2:T1

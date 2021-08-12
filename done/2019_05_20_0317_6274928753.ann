@@ -1,0 +1,7 @@
+T0	Neutral 0 13	Дональд Трамп
+T1	Neutral 200 206	Трампа
+T2	Neutral 217 232	Хиллари Клинтон
+R1	Variant Arg1:T0 Arg2:T1	
+T3	Neutral 241 243	он
+A1	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T3	

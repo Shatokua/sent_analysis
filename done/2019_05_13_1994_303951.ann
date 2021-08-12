@@ -1,0 +1,4 @@
+T0	Positive 0 21	Мишель Лавон Робинсон
+T1	Positive 45 47	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

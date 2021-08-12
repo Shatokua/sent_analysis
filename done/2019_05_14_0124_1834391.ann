@@ -1,0 +1,8 @@
+T0	Neutral_all 48 55	Листьев
+T1	Neutral_all 90 102	Березовского
+T2	Neutral_all 4 7	его
+A1	AnaforPerson T2
+T3	Neutral_all 116 119	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

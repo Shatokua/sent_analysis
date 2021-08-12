@@ -1,0 +1,8 @@
+T0	Neutral_all 240 254	Ивана Голунова
+T1	Neutral_all 374 377	Они
+A1	Plural T1
+T2	Neutral_all 50 52	им
+A2	Plural T2
+T3	Neutral_all 521 523	Мы
+A3	Plural T3
+R101	Anafor Arg1:T2 Arg2:T1

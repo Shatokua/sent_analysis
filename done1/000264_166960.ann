@@ -1,0 +1,7 @@
+T0	Neutral_all 912 931	Александр Бердников
+T1	Neutral_all 998 1005	Зиминым
+T2	Neutral_all 488 491	Они
+A1	Plural T2
+T3	Neutral_all 939 942	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

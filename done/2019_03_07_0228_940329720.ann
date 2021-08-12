@@ -1,0 +1,16 @@
+T1	Neutral 54 71	Виктору Януковичу
+T100	Neutral_all 0 17	Юлия Владимировна
+T102	Neutral_all 181 195	Юлии Тимошенко
+T103	Neutral 39 42	она
+A2	AnaforPerson T103
+T104	Negative 83 85	он
+A3	AnaforPerson T104
+T105	Neutral 205 207	ее
+A4	AnaforPerson T105
+T106	Neutral 253 255	Он
+A5	AnaforPerson T106
+R101	Anafor Arg1:T100 Arg2:T103
+R103	Anafor Arg1:T102 Arg2:T105
+R104	Anafor Arg1:T104 Arg2:T106
+R105	Anafor Arg1:T103 Arg2:T102
+R1	Anafor Arg1:T1 Arg2:T104	

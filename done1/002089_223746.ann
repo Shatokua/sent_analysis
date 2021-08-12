@@ -1,0 +1,6 @@
+T0	Neutral_all 48 53	Трамп
+T1	Neutral_all 61 73	Джеймса Коми
+T2	Neutral_all 220 225	Трамп
+T3	Neutral_all 185 188	они
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,11 @@
+T0	Neutral_all 5 13	Меланией
+T1	Positive 69 84	Реувену Ривлину
+T2	Positive 139 152	Нехама Ривлин
+T3	Positive 162 168	Ривлин
+T6	Positive 248 251	ней
+A3	AnaforPerson T6
+T7	Positive 273 275	ее
+A4	AnaforPerson T7
+R1	Anafor Arg1:T2 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T6	
+R3	Anafor Arg1:T6 Arg2:T7	

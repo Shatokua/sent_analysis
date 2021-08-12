@@ -1,0 +1,4 @@
+T101	Neutral 34 42	Брансона
+T102	Neutral 45 48	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

@@ -1,0 +1,4 @@
+T2	Positive 76 79	вас
+A1	AnaforPerson T2
+T1	Positive 0 25	Рамзан Ахматович [Кадыров
+R1	Variant Arg1:T1 Arg2:T2	

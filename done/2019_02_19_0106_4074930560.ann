@@ -1,0 +1,7 @@
+T4	Negative 118 120	Он
+A1	AnaforPerson T4
+T101	Neutral 110 116	Путину
+T102	Neutral 388 394	Путина
+T103	Neutral 402 411	Порошенко
+R1	Anafor Arg1:T101 Arg2:T4	
+R2	Anafor Arg1:T4 Arg2:T102	

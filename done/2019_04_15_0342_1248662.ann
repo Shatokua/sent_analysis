@@ -1,0 +1,6 @@
+T0	Neutral 0 5	Сорос
+T101	Neutral_all 28 33	Обама
+T102	Neutral_all 53 64	Барак Обама
+R1	Anafor Arg1:T102 Arg2:T101
+T1	Neutral 111 114	они
+A1	Plural T1

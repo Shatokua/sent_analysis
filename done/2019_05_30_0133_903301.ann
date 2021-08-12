@@ -1,0 +1,5 @@
+T1	Neutral_all 19 28	Порошенко
+T2	Neutral_all 58 61	его
+A1	AnaforPerson T2
+T100	Neutral 0 5	Юнкер
+R1	Anafor Arg1:T100 Arg2:T2	

@@ -1,0 +1,7 @@
+T0	Neutral_all 60 72	Бретта Ритчи
+T1	Neutral_all 124 143	Валерием Ничушкиным
+T2	Neutral_all 87 90	они
+A1	Plural T2
+T3	Neutral_all 145 148	Его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

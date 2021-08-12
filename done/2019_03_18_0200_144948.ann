@@ -1,0 +1,6 @@
+T100	Neutral_all 11 16	Обама
+T101	Neutral_all 38 44	Трампе
+T102	Neutral_all 59 70	Столтенберг
+T103	Neutral_all 101 104	его
+A1	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103

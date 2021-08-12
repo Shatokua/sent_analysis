@@ -1,0 +1,7 @@
+T3	Neutral 150 153	ему
+A1	AnaforPerson T3
+T100	Neutral_all 49 57	Калинину
+T101	Neutral_all 108 124	Михаилу Калинину
+T102	Neutral_all 17 20	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T100

@@ -1,0 +1,11 @@
+T0	Neutral_all 67 75	Манского
+T1	Neutral_all 77 92	Виталий Манский
+T2	Neutral_all 110 119	Кондрашов
+T3	Neutral_all 121 129	Соловьев
+T4	Neutral_all 131 138	Манский
+T5	Neutral_all 140 152	Ходорковский
+T6	Neutral_all 8 10	вы
+A1	Plural T6
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T0
+R101	Anafor Arg1:T1 Arg2:T0

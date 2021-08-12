@@ -1,0 +1,4 @@
+T0	Neutral 0 5	Путин
+T1	Neutral 191 196	Путин
+T2	Neutral 215 224	Лукашенко
+R1	Variant Arg1:T0 Arg2:T1	

@@ -1,0 +1,5 @@
+T0	Neutral_all 57 63	Трампа
+T1	Neutral_all 117 132	Хиллари Клинтон
+T2	Neutral_all 89 92	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

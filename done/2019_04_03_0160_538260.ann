@@ -1,0 +1,6 @@
+T100	Negative 0 10	Вороненков
+T101	Negative 13 22	Максакова
+T1	Negative 58 60	их
+A1	AnaforPerson T1
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T101 Arg2:T1	

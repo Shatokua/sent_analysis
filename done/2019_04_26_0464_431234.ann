@@ -1,0 +1,8 @@
+T0	Neutral_all 25 33	Онищенко
+T1	Neutral_all 50 58	Онищенко
+T2	Neutral_all 96 104	Онищенко
+T3	Neutral_all 125 133	Онищенко
+T4	Neutral_all 198 207	Порошенко
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

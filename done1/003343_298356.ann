@@ -1,0 +1,12 @@
+T0	Neutral_all 96 111	Володя Высоцкий
+T1	Neutral_all 241 247	Володя
+T2	Neutral_all 349 359	Золотухина
+T3	Neutral_all 371 376	Остап
+T4	Neutral_all 152 154	ты
+A1	AnaforPerson T4
+T5	Neutral_all 7 13	Остапа
+T104	Neutral_all 174 178	тебя
+A2	AnaforPerson T104
+R1	Anafor Arg1:T3 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T4 Arg2:T104

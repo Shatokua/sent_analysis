@@ -1,0 +1,6 @@
+T1	Neutral 34 40	Путине
+T2	Neutral 291 293	вы
+A1	AnaforPerson T2
+T3	Neutral 339 341	вы
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

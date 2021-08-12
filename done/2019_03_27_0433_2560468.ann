@@ -1,0 +1,8 @@
+T2	Neutral 70 72	ты
+A1	AnaforPerson T2
+T3	Positive 123 127	тебе
+A2	AnaforPerson T3
+T100	Neutral 62 68	Шнуров
+T101	Neutral_all 107 114	Пушкину
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

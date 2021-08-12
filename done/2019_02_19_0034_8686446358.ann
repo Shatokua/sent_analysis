@@ -1,0 +1,4 @@
+T2	Neutral 48 51	Бах
+T101	Neutral_all 0 15	Максим Шевченко
+T1	Negative 66 69	Вас
+R1	Anafor Arg1:T2 Arg2:T1	

@@ -1,0 +1,4 @@
+T0	Neutral_all 64 80	Валерию Карпенко
+T1	Neutral_all 217 220	Ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

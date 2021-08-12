@@ -1,0 +1,4 @@
+T0	Neutral_all 18 27	Медведчук
+T1	Neutral_all 74 80	Путина
+T2	Neutral_all 172 179	Путиным
+R1	Anafor Arg1:T1 Arg2:T2

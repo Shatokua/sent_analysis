@@ -1,0 +1,12 @@
+T0	Neutral_all 48 54	Кличко
+T1	Neutral_all 65 73	Владимир
+T2	Neutral_all 196 214	Деонтеем Уайлдером
+T3	Neutral_all 145 149	него
+A1	AnaforPerson T3
+T4	Neutral_all 181 184	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3

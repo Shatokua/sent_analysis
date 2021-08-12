@@ -1,0 +1,17 @@
+T0	Neutral_all 141 155	Зоя Большунова
+T1	Neutral_all 48 51	они
+A1	Plural T1
+T2	Neutral_all 88 92	ними
+A2	Plural T2
+T3	Neutral_all 253 255	ей
+A3	AnaforPerson T3
+T4	Neutral_all 266 269	Она
+A4	AnaforPerson T4
+T5	Neutral_all 285 288	нам
+A5	Plural T5
+T6	Neutral_all 299 301	их
+A6	Plural T6
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T6

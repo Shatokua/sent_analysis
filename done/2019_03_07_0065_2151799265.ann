@@ -1,0 +1,11 @@
+T3	Positive 333 335	Он
+A1	AnaforPerson T3
+T100	Neutral_all 103 125	Григорием Алексеевичем
+T101	Positive_all 152 156	нему
+A2	AnaforPerson T101
+T102	Neutral_all 281 290	Митрохина
+T103	Neutral_all 314 317	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T102 Arg2:T103
+R3	Anafor Arg1:T103 Arg2:T3

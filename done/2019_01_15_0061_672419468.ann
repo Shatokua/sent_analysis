@@ -1,0 +1,11 @@
+T100	Neutral_all 152 161	Януковича
+T101	Neutral_all 50 55	Путин
+T102	Negative 140 142	он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	
+T1	Negative 180 182	он
+A2	AnaforPerson T1
+R2	Anafor Arg1:T102 Arg2:T1	
+T2	Neutral 183 186	его
+A3	AnaforPerson T2
+R3	Anafor Arg1:T100 Arg2:T2	

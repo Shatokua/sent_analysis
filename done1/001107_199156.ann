@@ -1,0 +1,9 @@
+T0	Negative_all 639 655	Валерия Ижицкого
+T1	Neutral_all 361 364	они
+A1	Plural T1
+T2	Neutral_all 540 542	их
+A2	Plural T2
+T3	Neutral_all 872 875	его
+A3	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T3

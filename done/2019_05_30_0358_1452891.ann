@@ -1,0 +1,4 @@
+T0	Neutral_all 0 5	Трамп
+T1	Neutral_all 25 31	Флинна
+T2	Neutral_all 116 122	Трампа
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Mixed 125 130	Озила
+T2	Neutral_all 158 174	Арсеном Венгером
+T3	Neutral_all 8 13	Озила
+T4	Positive_all 41 43	Он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T1 Arg2:T4	

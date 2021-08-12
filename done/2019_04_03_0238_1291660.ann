@@ -1,0 +1,12 @@
+T100	Negative 0 8	Грудинин
+T101	Negative 150 158	Грудинин
+T102	Negative 49 52	его
+A3	AnaforPerson T102
+T103	Negative 61 64	его
+A4	AnaforPerson T103
+T104	Negative 91 95	него
+A5	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	
+R4	Anafor Arg1:T101 Arg2:T104	

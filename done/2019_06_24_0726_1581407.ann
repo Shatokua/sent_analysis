@@ -1,0 +1,10 @@
+T0	Neutral_all 59 64	Салах
+T1	Neutral_all 187 194	Салахом
+T2	Neutral_all 2 5	нас
+A1	Plural T2
+T3	Neutral_all 207 209	Он
+A2	AnaforPerson T3
+T4	Neutral_all 230 232	вы
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

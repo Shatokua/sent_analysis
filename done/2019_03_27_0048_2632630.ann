@@ -1,0 +1,9 @@
+T100	Neutral_all 5 10	Черри
+T101	Positive_all 127 132	Черри
+T102	Neutral_all 35 37	он
+A2	AnaforPerson T102
+T103	Positive 66 70	него
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T101 Arg2:T103	

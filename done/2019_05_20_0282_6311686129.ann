@@ -1,0 +1,7 @@
+T0	Neutral 95 100	Обаму
+T1	Neutral 354 363	Клинтонов
+T2	Neutral 19 21	ею
+A1	AnaforPerson T2
+T3	Neutral 144 147	она
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

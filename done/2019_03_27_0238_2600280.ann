@@ -1,0 +1,11 @@
+T4	Negative 140 144	тебе
+A2	AnaforPerson T4
+T100	Negative 20 25	Тумсо
+T101	Positive 117 129	Ахмате-хаджи
+T102	Negative 44 46	ты
+A3	AnaforPerson T102
+T103	Negative 104 106	ты
+A4	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T4	

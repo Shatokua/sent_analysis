@@ -1,0 +1,6 @@
+T0	Neutral 107 126	Бидзиной Иванишвили
+T1	Neutral 57 59	он
+A1	AnaforPerson T1
+T2	Neutral 185 187	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

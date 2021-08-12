@@ -1,0 +1,5 @@
+T1	Neutral 149 158	Макларена
+A1	AnaforPerson T1
+T2	Neutral 174 177	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

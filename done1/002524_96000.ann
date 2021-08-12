@@ -1,0 +1,5 @@
+T0	Neutral_all 57 73	Василий Васильев
+T1	Neutral_all 94 98	Зине
+T3	Positive 126 128	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	

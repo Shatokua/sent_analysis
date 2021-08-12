@@ -1,0 +1,4 @@
+T0	Positive 192 216	Франк-Вальтер Штайнмайер
+T1	Neutral 298 300	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Neutral_all 5 13	Пугачева
+T1	Neutral_all 16 24	Киркоров
+T2	Neutral_all 0 3	Они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

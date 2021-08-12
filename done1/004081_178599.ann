@@ -1,0 +1,17 @@
+T0	Neutral_all 66 82	Алексей Селезнев
+T1	Neutral_all 674 686	Павел Брагин
+T2	Neutral_all 113 116	нас
+A1	Plural T2
+T3	Neutral_all 543 545	мы
+A2	Plural T3
+T4	Neutral_all 844 846	Мы
+A3	Plural T4
+T5	Neutral_all 86 88	Им
+A4	Plural T5
+T6	Neutral_all 353 356	они
+A5	Plural T6
+R1	Anafor Arg1:T6 Arg2:T5
+R2	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T4
+R103	Anafor Arg1:T2 Arg2:T3

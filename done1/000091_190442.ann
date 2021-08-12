@@ -1,0 +1,11 @@
+T0	Positive_all 222 241	Бетани Маттек-Сэндс
+T1	Neutral_all 489 494	Алена
+T2	Neutral_all 243 246	Она
+A1	AnaforPerson T2
+T103	Neutral 267 269	ее
+A4	AnaforPerson T103
+T104	Neutral 294 297	нее
+A5	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	

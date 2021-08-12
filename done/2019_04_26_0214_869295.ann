@@ -1,0 +1,6 @@
+T0	Neutral_all 40 55	Андрея Малахова
+T1	Positive_all 95 103	Малахова
+T2	Negative_all 108 110	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

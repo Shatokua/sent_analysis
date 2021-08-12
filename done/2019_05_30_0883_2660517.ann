@@ -1,0 +1,6 @@
+T0	Neutral_all 91 100	Тимошенко
+T1	Neutral_all 172 181	Порошенко
+T2	Neutral_all 52 55	его
+A1	AnaforPerson T2
+T3	Neutral_all 155 164	Зеленским
+R1	Anafor Arg1:T3 Arg2:T2

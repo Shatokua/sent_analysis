@@ -1,0 +1,6 @@
+T0	Neutral_all 307 323	Мулланур Кашапов
+T1	Neutral_all 158 161	Они
+A1	Plural T1
+T2	Neutral_all 331 334	они
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

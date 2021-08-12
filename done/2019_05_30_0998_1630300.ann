@@ -1,0 +1,5 @@
+T0	Neutral_all 47 62	Джастином Трюдо
+T1	Neutral_all 91 106	Дональда Трампа
+T2	Neutral_all 64 66	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2

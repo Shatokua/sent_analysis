@@ -1,0 +1,5 @@
+T0	Neutral_all 0 6	Матисс
+T1	Neutral_all 147 168	Сергей Иванович Щукин
+T2	Neutral_all 211 223	Анри Матисса
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T0

@@ -1,0 +1,11 @@
+T1	Neutral 142 144	ты
+A1	AnaforPerson T1
+T2	Negative 159 161	Ты
+A2	AnaforPerson T2
+T100	Negative_all 8 15	Алексей
+T101	Negative 77 84	Шариков
+T3	Negative 4 6	ты
+A3	AnaforPerson T3
+R3	Anafor Arg1:T100 Arg2:T3	
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

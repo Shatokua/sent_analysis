@@ -1,0 +1,5 @@
+T0	Neutral_all 87 94	Учитель
+T1	Neutral_all 105 115	Поклонской
+T2	Neutral_all 137 140	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

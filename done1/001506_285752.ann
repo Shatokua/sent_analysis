@@ -1,0 +1,4 @@
+T0	Neutral_all 97 112	Павел Шаповалов
+T1	Neutral_all 42 45	Его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

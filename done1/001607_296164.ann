@@ -1,0 +1,5 @@
+T0	Neutral_all 28 42	Карапетян З. С
+T1	Neutral_all 108 117	Петрыкина
+T2	Neutral_all 125 128	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

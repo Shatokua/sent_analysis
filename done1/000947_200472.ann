@@ -1,0 +1,9 @@
+T0	Neutral_all 209 223	Наталья Ораева
+T1	Neutral_all 236 254	Наталья Барковская
+T2	Neutral_all 2 5	нас
+A1	Plural T2
+T3	Neutral_all 374 377	они
+A2	Plural T3
+T4	Neutral_all 404 407	них
+A3	Plural T4
+R101	Anafor Arg1:T3 Arg2:T4

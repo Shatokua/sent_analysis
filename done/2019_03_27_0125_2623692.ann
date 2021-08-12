@@ -1,0 +1,6 @@
+T0	Neutral_all 28 35	Володин
+T1	Neutral_all 172 179	Володин
+T2	Neutral_all 199 201	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

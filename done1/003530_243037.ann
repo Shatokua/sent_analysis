@@ -1,0 +1,6 @@
+T0	Neutral_all 76 91	Сергея Чваркова
+T1	Neutral_all 102 104	он
+A1	AnaforPerson T1
+T2	Neutral_all 122 125	них
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

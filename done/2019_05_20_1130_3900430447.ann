@@ -1,0 +1,4 @@
+T0	Neutral 13 18	Керри
+T1	Neutral 49 51	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

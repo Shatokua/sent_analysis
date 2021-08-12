@@ -1,0 +1,5 @@
+T0	Neutral_all 11 18	Роналду
+T1	Neutral_all 105 113	Моуринью
+T2	Neutral_all 180 187	Роналду
+T3	Neutral_all 191 202	Левандовски
+R1	Anafor Arg1:T0 Arg2:T2

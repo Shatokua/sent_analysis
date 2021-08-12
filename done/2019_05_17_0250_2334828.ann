@@ -1,0 +1,7 @@
+T0	Neutral_all 99 105	Филипп
+T1	Positive_all 170 178	Светлана
+T2	Positive_all 7 10	она
+A1	AnaforPerson T2
+T103	Neutral_all 52 55	его
+A2	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T2

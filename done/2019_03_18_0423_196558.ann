@@ -1,0 +1,11 @@
+T0	Negative 18 25	Клинтон
+T101	Neutral_all 57 64	Каддафи
+T102	Negative_all 13 16	она
+A1	AnaforPerson T102
+T103	Negative_all 106 109	Она
+A2	AnaforPerson T103
+T104	Negative_all 153 156	Она
+A3	AnaforPerson T104
+R2	Anafor Arg1:T0 Arg2:T103
+R3	Anafor Arg1:T103 Arg2:T104
+R1	Anafor Arg1:T0 Arg2:T102	

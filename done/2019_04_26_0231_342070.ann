@@ -1,0 +1,5 @@
+T0	Neutral_all 37 46	Тиллерсон
+T1	Neutral_all 215 233	Владимиром Путиным
+T2	Neutral 181 184	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

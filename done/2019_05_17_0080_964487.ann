@@ -1,0 +1,8 @@
+T0	Neutral_all 57 62	Ирина
+T1	Positive_all 148 157	Безрукова
+T2	Neutral_all 33 35	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

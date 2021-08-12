@@ -1,0 +1,4 @@
+T0	Neutral_all 34 51	Мехмана Гусейнова
+T1	Neutral_all 82 85	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

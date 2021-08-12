@@ -1,0 +1,8 @@
+T0	Neutral 45 57	Пол Манафорт
+T1	Neutral 60 69	Рик Гейтс
+T2	Neutral_all 135 150	Дональда Трампа
+T3	Neutral 121 124	они
+A1	AnaforPerson T3
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T3	

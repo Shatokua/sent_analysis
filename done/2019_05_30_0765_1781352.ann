@@ -1,0 +1,7 @@
+T0	Neutral_all 64 73	Игнашевич
+T1	Neutral_all 75 83	Вернблум
+T2	Neutral_all 112 114	их
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,5 @@
+T0	Neutral_all 42 52	Юрие Лянкэ
+T1	Neutral_all 77 88	Игорь Додон
+T2	Neutral_all 185 195	Майю Санду
+T3	Neutral_all 223 229	Додона
+R1	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,15 @@
+T1	Positive_all 7 18	Турсынбаева
+T2	Neutral_all 113 129	Этери Тутберидзе
+T3	Positive_all 191 199	Элизабет
+T4	Positive_all 66 68	ей
+A1	AnaforPerson T4
+T5	Neutral_all 96 99	Она
+A2	AnaforPerson T5
+T6	Neutral_all 133 136	нее
+A3	AnaforPerson T6
+R1	Anafor Arg1:T2 Arg2:T6
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T4
+R102	Anafor Arg1:T3 Arg2:T6
+R103	Anafor Arg1:T6 Arg2:T5

@@ -1,0 +1,5 @@
+T0	Mixed 21 40	Антонине Саврасовой
+T1	Neutral 89 97	Никитосу
+T2	Negative 70 73	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

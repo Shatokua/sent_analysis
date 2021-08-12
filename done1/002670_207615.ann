@@ -1,0 +1,5 @@
+T0	Neutral_all 54 65	Шостаковича
+T1	Neutral_all 163 175	Петра Ильича
+T3	Neutral_all 225 228	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

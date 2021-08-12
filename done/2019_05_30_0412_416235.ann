@@ -1,0 +1,5 @@
+T0	Neutral_all 60 64	Круз
+T1	Neutral_all 152 162	Теда Круза
+T2	Neutral_all 165 178	Джона Кейсика
+R1	Anafor Arg1:T1 Arg2:T0	
+A1	AnaforPerson T0

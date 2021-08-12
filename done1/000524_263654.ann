@@ -1,0 +1,6 @@
+T0	Neutral_all 250 269	Александр Снегоцкий
+T1	Neutral_all 271 291	Aleksander Śniegocki
+T2	Neutral_all 600 602	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

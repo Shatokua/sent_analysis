@@ -1,0 +1,5 @@
+T1	Positive 112 117	Усман
+T100	Positive_all 65 81	Магомеда Даудова
+T102	Neutral 119 121	Он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

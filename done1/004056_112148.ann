@@ -1,0 +1,6 @@
+T0	Neutral_all 0 19	Станислав Бернвальд
+T1	Neutral_all 81 84	ним
+A1	Plural T1
+T2	Neutral_all 118 121	Они
+A2	Plural T2
+R101	Anafor Arg1:T2 Arg2:T1

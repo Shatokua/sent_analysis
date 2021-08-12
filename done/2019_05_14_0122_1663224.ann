@@ -1,0 +1,6 @@
+T0	Neutral_all 20 33	Робби Уильямс
+T1	Neutral_all 171 178	Уильямс
+T2	Neutral_all 78 81	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Neutral 30 35	Обама
+T101	Neutral_all 171 178	Клинтон
+T102	Neutral_all 93 96	его
+A1	AnaforPerson T102
+T103	Neutral_all 154 156	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

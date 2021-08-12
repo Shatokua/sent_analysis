@@ -1,0 +1,7 @@
+T100	Neutral_all 112 126	Алия Мустафина
+T101	Neutral_all 131 142	Спиридонова
+T102	Positive_all 164 168	Алия
+T103	Positive_all 226 228	ей
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T103

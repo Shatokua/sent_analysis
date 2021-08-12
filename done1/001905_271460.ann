@@ -1,0 +1,9 @@
+T0	Neutral_all 41 60	Анастасию Приходько
+T1	Neutral_all 28 30	Мы
+A1	Plural T1
+T2	Negative_all 90 93	она
+A2	AnaforPerson T2
+T3	Neutral_all 163 165	мы
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

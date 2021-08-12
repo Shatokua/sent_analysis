@@ -1,0 +1,9 @@
+T0	Positive 71 76	Путин
+T101	Negative 94 99	Трамп
+T102	Negative 119 125	Макрон
+T103	Positive 67 69	он
+A3	AnaforPerson T103
+T104	Positive 100 103	его
+A4	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T103	
+R2	Anafor Arg1:T0 Arg2:T104	

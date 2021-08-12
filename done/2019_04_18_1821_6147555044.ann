@@ -1,0 +1,21 @@
+T0	Negative 0 13	Дональд Трамп
+T1	Positive 393 406	Джеки Кеннеди
+T2	Neutral 494 501	Кеннеди
+T3	Negative 73 75	Он
+A1	AnaforPerson T3
+T4	Negative 126 129	ему
+A2	AnaforPerson T4
+T5	Negative 168 170	он
+A3	AnaforPerson T5
+T6	Negative 198 200	он
+A4	AnaforPerson T6
+T7	Neutral 239 242	его
+A5	AnaforPerson T7
+T8	Neutral 466 469	Она
+A6	AnaforPerson T8
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T5	
+R4	Anafor Arg1:T5 Arg2:T6	
+R5	Anafor Arg1:T6 Arg2:T7	
+R6	Anafor Arg1:T1 Arg2:T8	

@@ -1,0 +1,12 @@
+T0	Neutral_all 123 156	Александром Дмитриевичем Бегловым
+T1	Neutral_all 9 11	мы
+A1	Plural T1
+T2	Neutral_all 70 72	мы
+A2	Plural T2
+T3	Neutral_all 241 244	нас
+A3	Plural T3
+T103	Neutral_all 223 226	его
+A4	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R102	Anafor Arg1:T0 Arg2:T103

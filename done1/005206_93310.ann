@@ -1,0 +1,6 @@
+T2	Neutral_all 10 13	нас
+A1	Plural T2
+T1	Neutral_all 271 304	Андрею Александровичу [Травникову
+T3	Neutral_all 320 324	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,9 @@
+T0	Negative_all 17 30	Амана Тулеева
+T1	Negative_all 123 129	Тулеев
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 64 66	Мы
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T1

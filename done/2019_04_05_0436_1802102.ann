@@ -1,0 +1,4 @@
+T0	Neutral_all 0 5	Обама
+T1	Neutral_all 28 39	Барак Обама
+T2	Neutral_all 187 193	Трампу
+R1	Anafor Arg1:T1 Arg2:T0

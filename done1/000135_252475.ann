@@ -1,0 +1,9 @@
+T0	Neutral_all 71 84	Аллу Пугачеву
+T1	Neutral_all 87 95	Басковым
+T2	Negative_all 103 107	ними
+A1	Plural T2
+T102	Negative 127 130	они
+A3	Plural T102
+R101	Anafor Arg1:T102 Arg2:T2
+A4	AnaforPerson T2
+A2	AnaforPerson T102

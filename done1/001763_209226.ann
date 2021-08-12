@@ -1,0 +1,8 @@
+T0	Neutral_all 452 473	Александры Пахмутовой
+T1	Neutral_all 567 584	Тихона Хренникова
+T2	Neutral_all 594 614	Михаила Матусовского
+T3	Neutral_all 241 243	мы
+A1	Plural T3
+T4	Neutral_all 399 402	нас
+A2	Plural T4
+R101	Anafor Arg1:T3 Arg2:T4

@@ -1,0 +1,5 @@
+T0	Neutral_all 69 79	Мединского
+T1	Neutral_all 120 130	Мединского
+T102	Neutral 101 103	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1

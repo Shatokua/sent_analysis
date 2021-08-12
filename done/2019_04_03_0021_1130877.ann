@@ -1,0 +1,5 @@
+T2	Neutral 124 138	Силуанов Антон
+T101	Positive_all 72 79	Орешкин
+T103	Neutral_all 153 159	Кудрин
+T104	Positive_all 217 225	Силуанов
+R1	Anafor Arg1:T2 Arg2:T104	

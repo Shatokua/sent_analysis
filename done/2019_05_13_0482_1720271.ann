@@ -1,0 +1,4 @@
+T0	Positive 22 27	Артем
+T1	Positive 60 64	тебя
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

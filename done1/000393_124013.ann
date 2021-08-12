@@ -1,0 +1,28 @@
+T0	Neutral_all 26 31	Шварц
+T1	Neutral_all 318 324	Джошуа
+T2	Neutral_all 337 342	Шварц
+T3	Neutral_all 446 455	Эдди Хирн
+T4	Neutral_all 468 474	Джошуа
+T5	Neutral_all 105 108	его
+A1	AnaforPerson T5
+T6	Neutral_all 129 132	Его
+A2	AnaforPerson T6
+T8	Negative_all 184 186	он
+T9	Neutral_all 274 276	он
+T10	Neutral_all 402 404	он
+T12	Neutral_all 564 567	его
+A5	AnaforPerson T12
+T110	Neutral 509 511	он
+R1	Anafor Arg1:T0 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T6	
+R3	Anafor Arg1:T6 Arg2:T8	
+A3	AnaforPerson T8
+A6	AnaforPerson T9
+R4	Anafor Arg1:T8 Arg2:T9	
+R5	Anafor Arg1:T2 Arg2:T9	
+R6	Anafor Arg1:T2 Arg2:T10	
+A7	AnaforPerson T10
+R7	Anafor Arg1:T1 Arg2:T4	
+R8	Anafor Arg1:T3 Arg2:T110	
+R9	Anafor Arg1:T110 Arg2:T12	
+A4	AnaforPerson T110

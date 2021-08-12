@@ -1,0 +1,3 @@
+T101	Neutral_all 102 110	Сердюков
+T102	Positive_all 112 129	Андрей Николаевич
+R1	Anafor Arg1:T101 Arg2:T102

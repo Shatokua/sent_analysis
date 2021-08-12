@@ -1,0 +1,11 @@
+T100	Positive_all 13 20	Альбину
+T101	Positive 202 210	Альбиной
+T102	Positive 57 60	она
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+T2	Positive 146 148	их
+A1	AnaforPerson T2
+T3	Positive 162 165	них
+A3	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T101 Arg2:T102	

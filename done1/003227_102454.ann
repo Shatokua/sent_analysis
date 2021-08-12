@@ -1,0 +1,11 @@
+T0	Neutral_all 17 30	Петр Кочетков
+T1	Neutral_all 264 272	Кочетков
+T2	Neutral_all 274 287	Артем Седунов
+T3	Neutral_all 289 301	Давид Мнацян
+T4	Neutral_all 303 316	Кирилл Беляев
+T5	Neutral_all 318 337	Александр Большаков
+T6	Neutral_all 340 352	Никита Попов
+T7	Neutral_all 93 96	ему
+A1	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T7

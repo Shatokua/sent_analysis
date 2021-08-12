@@ -1,0 +1,7 @@
+T0	Neutral_all 101 117	Владимира Путина
+T1	Neutral_all 214 220	Путина
+T2	Neutral_all 227 236	Порошенко
+T3	Neutral_all 146 149	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

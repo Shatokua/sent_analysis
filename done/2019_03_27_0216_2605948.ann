@@ -1,0 +1,6 @@
+T0	Positive 126 133	Максима
+T103	Positive 167 174	Максима
+T104	Positive 176 180	Аллы
+T1	Positive 136 151	Аллу [Пугачеву]
+R1	Anafor Arg1:T0 Arg2:T103	
+R2	Anafor Arg1:T1 Arg2:T104	

@@ -1,0 +1,10 @@
+T0	Neutral_all 17 24	Блаттер
+T1	Neutral_all 29 43	Хулио Грондона
+T2	Neutral_all 206 224	Марко ван Бастеном
+T3	Neutral_all 154 157	Они
+A1	Plural T3
+T5	Negative_all 246 249	Они
+A4	Plural T5
+R1	Anafor Arg1:T3 Arg2:T5
+A7	AnaforPerson T3
+A2	AnaforPerson T5

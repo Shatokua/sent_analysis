@@ -1,0 +1,3 @@
+T0	Negative_all 17 25	Медведев
+T1	Negative_all 59 67	Медведев
+R1	Anafor Arg1:T0 Arg2:T1

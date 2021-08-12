@@ -1,0 +1,5 @@
+T0	Neutral_all 0 5	Ивану
+T1	Neutral_all 145 158	Евгений Машин
+T2	Neutral_all 100 103	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

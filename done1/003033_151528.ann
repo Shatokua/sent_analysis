@@ -1,0 +1,4 @@
+T0	Neutral_all 242 254	Нэнси Пелоси
+T1	Neutral_all 316 322	Трампа
+T2	Neutral_all 472 478	Пелоси
+R1	Anafor Arg1:T0 Arg2:T2

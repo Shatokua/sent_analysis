@@ -1,0 +1,6 @@
+T0	Neutral_all 112 132	Сооронбая Жээнбекова
+T1	Neutral_all 218 230	Фарид Ниязов
+T2	Neutral_all 264 283	Омурбеком Бабановым
+T3	Neutral_all 190 193	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

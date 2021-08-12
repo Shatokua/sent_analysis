@@ -1,0 +1,4 @@
+T0	Neutral_all 112 117	Обама
+T1	Neutral_all 143 148	Путин
+T2	Neutral_all 170 175	Обаму
+R1	Anafor Arg1:T0 Arg2:T2

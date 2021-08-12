@@ -1,0 +1,4 @@
+T0	Negative 9 25	Герман Оскарович
+T1	Negative 86 90	Ваши
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

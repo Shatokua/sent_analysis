@@ -1,0 +1,10 @@
+T0	Neutral_all 10 27	Бараха Чемурзиева
+T1	Neutral_all 29 44	Ахмеда Погорова
+T2	Neutral_all 46 61	Мусу Мальсагова
+T3	Neutral_all 64 79	Зарифу Саутиеву
+T4	Neutral_all 140 142	их
+A1	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T0 Arg2:T4

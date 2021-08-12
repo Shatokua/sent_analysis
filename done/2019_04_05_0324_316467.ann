@@ -1,0 +1,7 @@
+T0	Neutral_all 22 27	Бушей
+T1	Neutral_all 90 102	Джорджа Буша
+T2	Neutral_all 105 116	Барбары Буш
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T0 Arg2:T2

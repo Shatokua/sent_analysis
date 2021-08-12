@@ -1,0 +1,5 @@
+T0	Neutral_all 11 19	Логинова
+T1	Neutral_all 22 28	Старых
+T2	Neutral_all 84 90	Фуркад
+T3	Neutral_all 195 202	Логинов
+R1	Anafor Arg1:T3 Arg2:T0

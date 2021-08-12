@@ -1,0 +1,9 @@
+T1	Neutral_all 63 66	его
+A1	Unclear T1
+T100	Neutral_all 131 148	Александр Морозов
+T102	Neutral_all 101 103	он
+A2	AnaforPerson T102
+T103	Neutral_all 80 89	Саруханов
+T104	Neutral_all 212 215	его
+A3	AnaforPerson T104
+R101	Anafor Arg1:T103 Arg2:T102

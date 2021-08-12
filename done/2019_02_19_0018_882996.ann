@@ -1,0 +1,9 @@
+T101	Negative_all 96 102	Познер
+T102	Neutral_all 108 112	Дудя
+T103	Negative 182 184	он
+A1	AnaforPerson T103
+R101	Anafor Arg1:T101 Arg2:T103
+T1	Neutral 37 40	его
+T2	Negative 69 71	он
+R1	Anafor Arg1:T101 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	

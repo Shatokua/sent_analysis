@@ -1,0 +1,6 @@
+T0	Neutral_all 410 437	Фролова Олега Владимировича
+T1	Neutral_all 447 482	Косинского Владислава Владимировича
+T2	Neutral_all 234 237	них
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T2

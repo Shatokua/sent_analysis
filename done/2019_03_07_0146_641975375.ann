@@ -1,0 +1,4 @@
+T1	Negative 88 99	Березовский
+T100	Neutral_all 13 19	Путина
+T2	Positive 49 52	ним
+R1	Anafor Arg1:T100 Arg2:T2	

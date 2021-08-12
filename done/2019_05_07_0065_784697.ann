@@ -1,0 +1,4 @@
+T0	Neutral 18 29	Томаса Баха
+T1	Neutral 43 45	Он
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

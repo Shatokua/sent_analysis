@@ -1,0 +1,20 @@
+T0	Neutral_all 127 143	Эллиотту Абрамсу
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 168 171	нас
+A2	Plural T2
+T3	Neutral_all 176 179	его
+A3	AnaforPerson T3
+T4	Neutral_all 216 219	нас
+A4	Plural T4
+T5	Neutral_all 249 251	мы
+A5	Plural T5
+T104	Neutral_all 188 190	мы
+A6	Plural T104
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R101	Anafor Arg1:T1 Arg2:T104
+R102	Anafor Arg1:T104 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T2

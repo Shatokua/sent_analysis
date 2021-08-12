@@ -1,0 +1,6 @@
+T0	Neutral 50 67	Михаила Кержакова
+T1	Positive 0 2	Ты
+T2	Neutral 21 23	ты
+R1	Variant Arg1:T1 Arg2:T2	
+A1	AnaforPerson T1
+A2	AnaforPerson T2

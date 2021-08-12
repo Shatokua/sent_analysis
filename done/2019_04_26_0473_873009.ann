@@ -1,0 +1,6 @@
+T0	Neutral_all 0 12	Нигматуллину
+T1	Neutral_all 155 166	Нигматуллин
+T2	Positive 48 50	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

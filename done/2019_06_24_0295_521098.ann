@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Эрдоган
+T1	Neutral_all 16 23	Меркель
+T2	Neutral_all 49 52	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

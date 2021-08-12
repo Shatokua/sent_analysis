@@ -1,0 +1,8 @@
+T0	Neutral 203 209	Асадом
+T1	Neutral 210 213	они
+A1	AnaforPerson T1
+T2	Neutral 308 311	они
+A2	AnaforPerson T2
+A3	Plural T2
+A4	Plural T1
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T0	Neutral_all 19 24	Трамп
+T1	Neutral_all 103 108	Трамп
+R1	Anafor Arg1:T0 Arg2:T1

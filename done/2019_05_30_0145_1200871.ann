@@ -1,0 +1,10 @@
+T0	Neutral_all 13 17	Опру
+T1	Neutral_all 30 34	Опра
+T2	Positive_all 75 79	Опра
+T3	Neutral_all 97 100	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T0

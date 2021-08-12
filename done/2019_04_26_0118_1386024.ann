@@ -1,0 +1,10 @@
+T0	Neutral_all 31 45	Рональд Рейган
+T1	Neutral_all 215 221	Рейган
+T2	Neutral_all 15 18	вам
+A1	Plural T2
+T4	Neutral_all 147 149	их
+A3	Plural T4
+T5	Negative 169 172	они
+A4	Plural T5
+R1	Anafor Arg1:T4 Arg2:T5	
+R2	Anafor Arg1:T0 Arg2:T1	

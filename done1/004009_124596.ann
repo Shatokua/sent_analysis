@@ -1,0 +1,23 @@
+T0	Neutral_all 82 90	Хэмилтон
+T1	Neutral_all 410 415	Льюис
+T2	Neutral_all 605 611	Льюиса
+T3	Neutral_all 660 666	Льюиса
+T4	Neutral_all 17 19	Мы
+A1	Plural T4
+T5	Neutral_all 96 99	нас
+A2	Plural T5
+T6	Neutral_all 105 108	нам
+A3	Plural T6
+T7	Neutral_all 133 135	Мы
+A4	Plural T7
+T8	Neutral_all 310 313	нам
+A5	Plural T8
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T4 Arg2:T7
+R5	Anafor Arg1:T7 Arg2:T6
+R6	Anafor Arg1:T6 Arg2:T8
+R7	Anafor Arg1:T8 Arg2:T5
+R104	Anafor Arg1:T7 Arg2:T5
+R105	Anafor Arg1:T5 Arg2:T6

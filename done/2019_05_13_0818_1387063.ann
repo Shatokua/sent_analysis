@@ -1,0 +1,12 @@
+T0	Neutral 25 31	Тулеев
+T1	Neutral 62 64	он
+A1	AnaforPerson T1
+T2	Positive 218 221	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 94 96	ты
+A3	AnaforPerson T3
+T4	Neutral 121 125	тебя
+A4	AnaforPerson T4
+R3	Anafor Arg1:T3 Arg2:T4	

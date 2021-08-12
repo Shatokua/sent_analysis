@@ -1,0 +1,9 @@
+T0	Neutral_all 9 26	Нателла Крапивина
+T1	Neutral_all 47 61	Жанны Бадоевой
+T2	Neutral_all 154 159	Жанна
+T3	Neutral_all 191 193	ее
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

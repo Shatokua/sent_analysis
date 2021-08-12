@@ -1,0 +1,4 @@
+T101	Negative 84 99	Владимир] Путин
+T102	Negative 0 3	Его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T101 Arg2:T102	

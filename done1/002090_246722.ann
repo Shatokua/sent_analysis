@@ -1,0 +1,9 @@
+T0	Mixed 30 39	Порошенко
+T1	Neutral_all 207 216	Зеленский
+T2	Neutral_all 613 628	Дональда Трампа
+T4	Neutral_all 504 506	он
+A2	AnaforPerson T4
+T5	Neutral_all 599 601	он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T5

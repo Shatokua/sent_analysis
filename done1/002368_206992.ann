@@ -1,0 +1,12 @@
+T0	Neutral 144 160	Владимиру Путину
+T1	Neutral_all 69 72	они
+A1	Plural T1
+T2	Neutral_all 320 322	Их
+A2	Plural T2
+T102	Neutral_all 505 507	их
+A3	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T102
+A4	AnaforPerson T1
+A5	AnaforPerson T2
+A6	AnaforPerson T102

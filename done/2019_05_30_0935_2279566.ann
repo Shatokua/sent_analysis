@@ -1,0 +1,11 @@
+T0	Neutral_all 4 14	Развожаева
+T1	Neutral_all 20 28	Кожемяко
+T2	Positive_all 142 145	они
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Positive 220 223	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

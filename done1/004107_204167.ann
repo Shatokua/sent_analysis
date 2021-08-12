@@ -1,0 +1,4 @@
+T0	Neutral_all 225 242	Иосифа Джугашвили
+T1	Neutral_all 279 283	нему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

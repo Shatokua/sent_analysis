@@ -1,0 +1,5 @@
+T0	Neutral_all 2 9	Макрона
+T1	Neutral_all 46 53	Путиным
+T2	Neutral_all 97 103	Макрон
+T3	Neutral_all 123 130	Меркель
+R1	Anafor Arg1:T2 Arg2:T0

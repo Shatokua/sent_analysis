@@ -1,0 +1,5 @@
+T0	Neutral 196 214	Вадимом Прохоровым
+T1	Neutral 76 78	он
+T2	Neutral 153 156	его
+R1	Variant Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

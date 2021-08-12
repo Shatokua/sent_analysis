@@ -1,0 +1,11 @@
+T0	Neutral_all 149 161	Хафеза Асада
+T1	Neutral_all 220 229	Хасана II
+T2	Neutral_all 252 266	Хосни Мубарака
+T4	Neutral_all 332 334	им
+A2	Plural T4
+T103	Negative 30 33	они
+A3	Plural T103
+R101	Anafor Arg1:T2 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T4
+A1	AnaforPerson T103
+A4	AnaforPerson T4

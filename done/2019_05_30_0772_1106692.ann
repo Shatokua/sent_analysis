@@ -1,0 +1,5 @@
+T0	Neutral_all 53 74	Дмитрий Хворостовский
+T1	Neutral_all 162 169	Дмитрий
+T2	Neutral_all 10 12	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

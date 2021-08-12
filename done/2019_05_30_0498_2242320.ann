@@ -1,0 +1,6 @@
+T0	Neutral_all 3 9	Смолов
+T1	Neutral_all 12 17	Путин
+T2	Positive_all 63 68	Федор
+T3	Neutral_all 114 121	Куинджи
+R1	Anafor Arg1:T2 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T2

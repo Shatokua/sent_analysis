@@ -1,0 +1,5 @@
+T0	Neutral_all 65 71	Мадуро
+T1	Neutral_all 125 131	Мадуро
+T2	Neutral_all 182 185	они
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

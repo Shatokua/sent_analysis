@@ -1,0 +1,6 @@
+T1	Neutral 140 147	Хиллари
+T2	Neutral 134 138	тебя
+A1	AnaforPerson T2
+T100	Negative_all 40 47	Хиллари
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

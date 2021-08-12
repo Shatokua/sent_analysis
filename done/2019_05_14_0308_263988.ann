@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Сокуров
+T1	Neutral_all 17 24	Сенцова
+T2	Neutral_all 28 33	Путин
+T3	Neutral_all 70 78	Сокурова
+R1	Anafor Arg1:T0 Arg2:T3

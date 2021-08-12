@@ -1,0 +1,15 @@
+T0	Neutral_all 6 15	Ломаченко
+T1	Neutral_all 40 47	Флойдом
+T2	Neutral_all 168 177	Эл Хэймон
+T3	Neutral_all 180 188	Боб Арум
+T104	Neutral_all 35 37	Мы
+A1	Plural T104
+T105	Neutral_all 154 156	Мы
+A2	Plural T105
+T106	Neutral_all 293 295	Мы
+A3	Plural T106
+T107	Neutral_all 342 345	его
+A4	AnaforPerson T107
+R101	Anafor Arg1:T104 Arg2:T105
+R102	Anafor Arg1:T105 Arg2:T106
+R103	Anafor Arg1:T1 Arg2:T107

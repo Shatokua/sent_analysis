@@ -1,0 +1,6 @@
+T0	Neutral_all 309 320	С.Митрохина
+T1	Neutral_all 367 369	Мы
+A1	Plural T1
+T101	Neutral_all 238 240	мы
+A2	Plural T101
+R101	Anafor Arg1:T101 Arg2:T1

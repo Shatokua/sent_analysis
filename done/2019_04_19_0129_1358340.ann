@@ -1,0 +1,5 @@
+T0	Neutral_all 57 69	Юрий Луценко
+T1	Neutral_all 101 117	Надежды Савченко
+T2	Neutral_all 165 167	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

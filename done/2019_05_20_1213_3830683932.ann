@@ -1,0 +1,4 @@
+T0	Neutral 16 26	Навального
+T1	Neutral 49 52	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

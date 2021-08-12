@@ -1,0 +1,8 @@
+T0	Neutral_all 146 162	Венеры Милосской
+T2	Neutral_all 274 277	нее
+A1	AnaforPerson T2
+T3	Neutral_all 289 291	ее
+A2	AnaforPerson T3
+T1	Neutral_all 354 371	Афродиту Книдскую
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

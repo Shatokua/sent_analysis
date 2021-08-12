@@ -1,0 +1,5 @@
+T0	Neutral_all 56 64	Кобылкин
+T1	Neutral_all 83 99	Дмитрий Кобылкин
+T102	Neutral_all 107 111	нашу
+A1	Plural T102
+R1	Anafor Arg1:T1 Arg2:T0

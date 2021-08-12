@@ -1,0 +1,9 @@
+T0	Neutral_all 49 56	Крылова
+T1	Neutral_all 159 169	Башар Асад
+T2	Neutral_all 179 191	Башара Асада
+T3	Neutral_all 131 133	им
+A1	Plural T3
+T4	Neutral_all 195 197	их
+A2	Plural T4
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T3 Arg2:T4

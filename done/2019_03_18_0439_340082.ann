@@ -1,0 +1,3 @@
+T0	Neutral 96 110	Элла Памфилова
+T101	Neutral_all 197 215	Элла Александровна
+R1	Anafor Arg1:T0 Arg2:T101

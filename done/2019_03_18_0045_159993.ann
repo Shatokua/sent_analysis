@@ -1,0 +1,6 @@
+T102	Negative_all 72 82	Шейх-Ахмад
+T103	Neutral_all 100 105	Адама
+T101	Negative_all 57 69	Шейх-Магомед
+T104	Neutral_all 120 123	его
+A1	AnaforPerson T104
+R1	Anafor Arg1:T103 Arg2:T104

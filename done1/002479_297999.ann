@@ -1,0 +1,17 @@
+T0	Neutral_all 125 143	Виталием Шабуниным
+T1	Neutral_all 161 167	Всевка
+T2	Neutral_all 214 221	Виталия
+T3	Neutral_all 250 257	Виталия
+T4	Neutral_all 371 378	Виталия
+T5	Neutral_all 488 495	Виталию
+T6	Neutral_all 395 398	ней
+A1	AnaforPerson T6
+T106	Neutral_all 320 323	оно
+A2	AnaforPerson T106
+T107	Neutral_all 447 450	оно
+A3	AnaforPerson T107
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R105	Anafor Arg1:T106 Arg2:T107

@@ -1,0 +1,7 @@
+T0	Neutral_all 103 117	Андрей Аршавин
+T1	Neutral_all 185 196	Барановской
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 146 148	Он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

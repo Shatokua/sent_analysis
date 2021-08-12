@@ -1,0 +1,5 @@
+T0	Neutral_all 41 49	Кисляком
+T1	Neutral_all 82 88	Трампа
+T2	Neutral_all 58 61	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,7 @@
+T0	Neutral_all 111 126	Никиты Джигурды
+T2	Neutral_all 40 43	ему
+A1	AnaforPerson T2
+T3	Neutral 0 2	Он
+A2	AnaforPerson T3
+T101	Neutral 153 160	Скиртач
+R1	Anafor Arg1:T3 Arg2:T2	

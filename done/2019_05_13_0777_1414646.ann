@@ -1,0 +1,4 @@
+T0	Positive 178 183	Лайне
+T1	Positive 197 199	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

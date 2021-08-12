@@ -1,0 +1,8 @@
+T0	Neutral 47 54	Маккейн
+T1	Neutral 96 102	Путина
+T2	Neutral 80 82	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 243 246	они
+A2	AnaforPerson T3
+A3	Plural T3

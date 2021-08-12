@@ -1,0 +1,5 @@
+T0	Neutral_all 33 39	Трампу
+T1	Neutral_all 133 140	Гитлера
+T102	Neutral_all 114 117	они
+A1	Plural T102
+R101	Anafor Arg1:T0 Arg2:T102

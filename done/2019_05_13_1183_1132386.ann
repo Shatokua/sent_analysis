@@ -1,0 +1,7 @@
+T0	Positive 0 7	Николай
+T1	Neutral 39 42	ним
+A1	AnaforPerson T1
+T2	Positive 126 129	они
+A2	AnaforPerson T2
+A3	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,9 @@
+T0	Neutral_all 33 42	Алексеева
+T1	Neutral_all 45 59	Станиславскому
+T2	Neutral_all 105 121	Алексей Петрович
+T3	Neutral_all 262 272	Алексеевым
+T4	Neutral_all 278 302	Константин Станиславский
+R1	Anafor Arg1:T4 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T4

@@ -1,0 +1,5 @@
+T0	Neutral_all 0 16	Павел Николаевич
+T1	Positive_all 65 81	Павел Николаевич
+T2	Neutral_all 84 87	нас
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

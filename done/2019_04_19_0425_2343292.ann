@@ -1,0 +1,8 @@
+T0	Neutral_all 22 26	Барр
+T1	Neutral_all 63 70	Мюллера
+T2	Neutral_all 18 20	он
+A1	AnaforPerson T2
+T3	Neutral_all 91 94	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T3

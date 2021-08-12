@@ -1,0 +1,13 @@
+T0	Negative 10 19	Сердюкова
+T1	Negative 210 212	он
+A1	AnaforPerson T1
+T2	Negative 232 235	его
+A2	AnaforPerson T2
+T3	Negative 265 269	него
+A3	AnaforPerson T3
+T4	Negative 289 291	он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T0 Arg2:T1	

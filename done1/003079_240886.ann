@@ -1,0 +1,4 @@
+T0	Neutral_all 12 27	Дональда Трампа
+T101	Neutral_all 86 88	им
+A1	Plural T101
+R101	Anafor Arg1:T0 Arg2:T101

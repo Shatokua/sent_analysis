@@ -1,0 +1,8 @@
+T0	Neutral_all 95 102	Лаврова
+T1	Neutral_all 116 121	Путин
+T2	Neutral_all 157 173	Роберту Кочаряну
+T3	Neutral_all 177 180	них
+A1	Plural T3
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T3

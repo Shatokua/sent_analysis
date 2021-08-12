@@ -1,0 +1,3 @@
+T0	Neutral_all 12 21	Борис Лут
+T1	Neutral_all 77 82	Борис
+R1	Anafor Arg1:T0 Arg2:T1

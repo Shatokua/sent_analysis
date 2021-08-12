@@ -1,0 +1,6 @@
+T0	Neutral_all 123 141	Алексей Полторанин
+T1	Neutral_all 152 155	них
+A1	Plural T1
+T2	Neutral_all 240 243	они
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

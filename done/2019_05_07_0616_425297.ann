@@ -1,0 +1,7 @@
+T1	Neutral 8 11	нас
+A1	Plural T1
+T2	Neutral 15 30	Святом [Цеголко
+T3	Neutral 151 153	Мы
+A2	Plural T3
+R1	Variant Arg1:T3 Arg2:T1	
+R2	Variant Arg1:T2 Arg2:T1	

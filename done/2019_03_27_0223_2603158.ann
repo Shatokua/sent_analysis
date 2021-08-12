@@ -1,0 +1,13 @@
+T0	Positive_all 19 28	Валериями
+T1	Positive_all 52 60	Валерией
+T2	Positive_all 190 194	Лера
+T3	Positive_all 109 112	Она
+A1	AnaforPerson T3
+T4	Positive_all 176 179	ней
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T3

@@ -1,0 +1,4 @@
+T100	Neutral_all 6 10	Алла
+T101	Neutral_all 77 81	Аллы
+T102	Neutral 13 20	Гариком
+R1	Anafor Arg1:T100 Arg2:T101

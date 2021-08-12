@@ -1,0 +1,14 @@
+T0	Positive 159 180	Владимир Владимирович
+T1	Positive 419 440	Владимир Владимирович
+T2	Positive 190 193	Вас
+A1	AnaforPerson T2
+T3	Positive 286 290	Вами
+A2	AnaforPerson T3
+T4	Positive 445 449	Ваша
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2	
+T5	Positive 278 282	Вами
+R2	Anafor Arg1:T2 Arg2:T5	
+R3	Anafor Arg1:T5 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T1	
+R5	Anafor Arg1:T1 Arg2:T4	

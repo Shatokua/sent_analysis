@@ -1,0 +1,9 @@
+T0	Neutral_all 48 63	Иван Мартиросян
+T1	Neutral_all 266 283	Русланом Галиевым
+T2	Neutral_all 470 473	они
+A1	Plural T2
+T102	Neutral_all 234 236	он
+A2	AnaforPerson T102
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T0 Arg2:T102

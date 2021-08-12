@@ -1,0 +1,13 @@
+T0	Neutral_all 0 19	Светлана Белогурова
+T1	Neutral_all 71 81	Самбурская
+T2	Neutral_all 138 143	Свету
+T3	Neutral_all 324 334	Самбурской
+T4	Neutral_all 158 161	она
+A1	AnaforPerson T4
+T5	Neutral_all 178 183	Свете
+T6	Neutral_all 223 225	Мы
+A2	Plural T6
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T5

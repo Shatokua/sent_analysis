@@ -1,0 +1,4 @@
+T100	Neutral_all 5 19	Джеймс Клэппер
+T101	Negative 27 41	Джона Бреннана
+T102	Neutral_all 93 100	Клэппер
+R1	Anafor Arg1:T100 Arg2:T102	

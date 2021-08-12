@@ -1,0 +1,4 @@
+T1	Neutral 58 63	Трамп
+T100	Negative 25 30	Путин
+T102	Negative 117 123	Трампа
+R1	Anafor Arg1:T1 Arg2:T102	

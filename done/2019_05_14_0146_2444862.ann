@@ -1,0 +1,14 @@
+T0	Neutral_all 8 23	Николасу Мадуро
+T3	Neutral_all 26 29	его
+A1	AnaforPerson T3
+T4	Neutral_all 82 85	они
+A2	AnaforPerson T4
+A3	Plural T4
+T5	Neutral_all 139 141	Им
+A4	AnaforPerson T5
+A5	Plural T5
+T1	Neutral_all 188 201	Хуана) Гуайдо
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T5
+R3	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T0 Arg2:T4

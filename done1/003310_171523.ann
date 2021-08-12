@@ -1,0 +1,5 @@
+T0	Neutral_all 127 139	Бараке Обаме
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 358 361	они
+A2	Plural T2

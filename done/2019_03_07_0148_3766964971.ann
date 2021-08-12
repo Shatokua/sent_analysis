@@ -1,0 +1,7 @@
+T2	Negative 202 206	Асад
+T100	Neutral_all 2 8	Путина
+T101	Neutral_all 44 49	Асада
+T103	Neutral_all 56 59	ему
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103
+R2	Anafor Arg1:T101 Arg2:T2	

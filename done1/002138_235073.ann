@@ -1,0 +1,4 @@
+T0	Neutral_all 28 40	Елену Орлову
+T1	Neutral_all 46 49	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

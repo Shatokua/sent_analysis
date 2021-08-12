@@ -1,0 +1,6 @@
+T0	Neutral_all 361 376	Никола Пашиняна
+T1	Neutral_all 186 189	его
+A1	AnaforPerson T1
+T2	Neutral_all 484 487	нас
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

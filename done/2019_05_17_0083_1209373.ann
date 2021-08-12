@@ -1,0 +1,7 @@
+T0	Neutral_all 57 66	Степашина
+T1	Neutral_all 102 129	Владимир Владимирович Путин
+T2	Neutral_all 139 141	он
+A1	AnaforPerson T2
+T3	Neutral_all 213 216	вам
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

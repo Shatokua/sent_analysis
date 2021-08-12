@@ -1,0 +1,5 @@
+T0	Neutral_all 60 78	Александра Ефимова
+T1	Neutral_all 86 92	Ефимов
+T2	Neutral_all 163 165	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

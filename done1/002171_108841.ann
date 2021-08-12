@@ -1,0 +1,7 @@
+T0	Neutral_all 327 339	Бадри Аданая
+T1	Neutral_all 201 203	Он
+A1	AnaforPerson T1
+T102	Neutral_all 369 372	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T102

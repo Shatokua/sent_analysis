@@ -1,0 +1,10 @@
+T0	Neutral_all 89 100	Сухарева В.
+T1	Neutral_all 455 465	Тарасов Ю.
+T2	Neutral_all 0 3	Они
+A1	Plural T2
+T3	Neutral_all 157 160	его
+A2	AnaforPerson T3
+T104	Neutral_all 243 246	ими
+A3	Plural T104
+R1	Anafor Arg1:T1 Arg2:T3
+R101	Anafor Arg1:T2 Arg2:T104

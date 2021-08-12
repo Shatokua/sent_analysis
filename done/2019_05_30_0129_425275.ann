@@ -1,0 +1,5 @@
+T2	Neutral_all 114 127	Аню Турчинову
+T3	Neutral_all 151 154	она
+A1	AnaforPerson T3
+T101	Neutral 31 52	Александра) Турчинова
+R1	Anafor Arg1:T2 Arg2:T3

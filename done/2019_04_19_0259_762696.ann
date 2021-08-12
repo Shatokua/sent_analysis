@@ -1,0 +1,6 @@
+T0	Neutral_all 36 51	Игорь Котвицкий
+T1	Neutral_all 143 149	Аваков
+T3	Neutral_all 53 55	Он
+A1	AnaforPerson T3
+T102	Neutral 204 216	Саша Браслет
+R1	Anafor Arg1:T0 Arg2:T3

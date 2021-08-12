@@ -1,0 +1,10 @@
+T0	Neutral_all 52 65	Виктор Бармин
+T1	Neutral_all 83 99	Ярослав Ширшиков
+T2	Neutral_all 124 136	Анна Балтина
+T3	Neutral_all 139 153	Катя Лахтикова
+T4	Neutral_all 67 80	Victor Barmin
+T5	Neutral_all 101 121	Yaroslav Shirshikoff
+R1	Anafor Arg1:T4 Arg2:T0
+R2	Anafor Arg1:T5 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T5

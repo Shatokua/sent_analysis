@@ -1,0 +1,6 @@
+T0	Neutral_all 102 115	Мгера Енокяна
+T1	Neutral_all 268 282	Армен Саркисян
+T2	Neutral_all 328 341	Мгере Енокяне
+T3	Neutral_all 798 800	мы
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T1	Mixed 48 57	Януковича
+T100	Negative 24 40	Владимира Путина
+T101	Positive 195 203	Янукович
+R1	Anafor Arg1:T1 Arg2:T101	

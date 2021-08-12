@@ -1,0 +1,3 @@
+T0	Positive_all 133 147	Роджер Федерер
+T1	Positive_all 190 197	Федерер
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,7 @@
+T2	Neutral_all 105 120	Дональде Трампе
+T3	Neutral_all 38 41	нас
+A1	Plural T3
+T1	Neutral_all 61 74	Бараке] Обаме
+T4	Neutral_all 158 160	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4

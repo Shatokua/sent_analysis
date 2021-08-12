@@ -1,0 +1,4 @@
+T0	Neutral 77 85	Сноудену
+T1	Neutral 118 121	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

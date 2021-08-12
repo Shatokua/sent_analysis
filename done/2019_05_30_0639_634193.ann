@@ -1,0 +1,4 @@
+T0	Neutral_all 100 112	Андрей Бабиш
+T1	Neutral_all 128 139	Милош Земан
+T2	Neutral_all 229 235	Бабиша
+R1	Anafor Arg1:T0 Arg2:T2

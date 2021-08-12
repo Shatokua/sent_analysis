@@ -1,0 +1,7 @@
+T1	Neutral_all 328 330	им
+A1	Plural T1
+T101	Neutral 190 193	они
+A2	Plural T101
+A3	AnaforPerson T101
+A4	AnaforPerson T1
+R1	Anafor Arg1:T101 Arg2:T1	

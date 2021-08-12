@@ -1,0 +1,4 @@
+T0	Negative 17 24	Яценюка
+T1	Negative 53 56	нем
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

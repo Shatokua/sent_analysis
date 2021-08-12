@@ -1,0 +1,6 @@
+T0	Neutral 43 58	Саддама Хусейна
+T1	Neutral 61 76	Муамара Каддафи
+T102	Neutral_all 130 142	Башара Асада
+T103	Positive 169 171	Он
+A2	AnaforPerson T103
+R101	Anafor Arg1:T102 Arg2:T103

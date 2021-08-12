@@ -1,0 +1,6 @@
+T0	Neutral_all 14 30	Анатолия Чубайса
+T1	Neutral_all 153 171	Анатолий Борисович
+T102	Neutral_all 185 191	Вашими
+A1	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T102

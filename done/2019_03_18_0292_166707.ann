@@ -1,0 +1,6 @@
+T100	Negative_all 32 39	Хиллари
+T101	Negative_all 107 114	Хиллари
+T102	Negative_all 41 44	Она
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T102

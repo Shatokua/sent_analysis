@@ -1,0 +1,7 @@
+T0	Neutral_all 6 12	Апакан
+T1	Neutral_all 75 90	Эртугрул Апакан
+T2	Neutral_all 234 236	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T2

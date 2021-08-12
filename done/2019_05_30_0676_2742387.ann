@@ -1,0 +1,8 @@
+T0	Neutral_all 13 28	Петра Порошенко
+T1	Neutral_all 82 99	Володе Зеленскому
+T2	Neutral_all 30 32	вы
+A1	Plural T2
+T3	Positive 49 51	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+A3	AnaforPerson T2

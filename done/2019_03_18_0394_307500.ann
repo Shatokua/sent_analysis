@@ -1,0 +1,6 @@
+T2	Neutral 213 215	он
+A1	AnaforPerson T2
+T100	Neutral_all 47 52	Трамп
+T101	Neutral_all 168 173	Трамп
+R1	Anafor Arg1:T101 Arg2:T2
+R2	Anafor Arg1:T100 Arg2:T101

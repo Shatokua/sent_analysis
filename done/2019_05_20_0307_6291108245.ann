@@ -1,0 +1,4 @@
+T0	Neutral 249 257	Морозову
+T1	Neutral 265 267	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

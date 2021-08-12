@@ -1,0 +1,7 @@
+T0	Negative 31 38	Улюкаев
+T1	Negative 70 73	его
+A1	AnaforPerson T1
+T2	Negative 110 112	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

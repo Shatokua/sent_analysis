@@ -1,0 +1,6 @@
+T0	Neutral_all 66 77	Кристина Си
+T1	Neutral_all 93 96	ним
+A1	Plural T1
+T2	Neutral_all 124 126	им
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

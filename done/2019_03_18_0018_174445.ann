@@ -1,0 +1,6 @@
+T0	Neutral 14 23	Горчакова
+T1	Neutral 25 54	Александр Михаилович Горчаков
+T2	Neutral 185 188	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T1 Arg2:T2

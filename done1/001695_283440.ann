@@ -1,0 +1,4 @@
+T0	Neutral_all 135 147	Ким Ки Дуком
+T2	Negative 235 243	Кристина
+T101	Neutral 148 162	Кристина Асмус
+R1	Anafor Arg1:T101 Arg2:T2	

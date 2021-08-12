@@ -1,0 +1,10 @@
+T100	Neutral_all 4 21	Василий Макарович
+T101	Neutral_all 76 85	Некрасова
+T102	Neutral_all 126 144	Василия Макаровича
+T103	Neutral 178 180	он
+A1	AnaforPerson T103
+T104	Neutral_all 40 42	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T104	
+R2	Anafor Arg1:T102 Arg2:T104	
+R3	Anafor Arg1:T102 Arg2:T103	

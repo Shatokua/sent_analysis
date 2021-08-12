@@ -1,0 +1,4 @@
+T0	Neutral_all 59 75	Биллом Клинтоном
+T1	Negative_all 0 2	Он
+T2	Negative_all 77 79	он
+R1	Anafor Arg1:T1 Arg2:T2

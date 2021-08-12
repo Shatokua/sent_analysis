@@ -1,0 +1,7 @@
+T0	Neutral_all 9 18	Медведчук
+T1	Neutral_all 87 97	Владимиром
+T2	Neutral_all 114 121	Путиным
+T3	Neutral 133 135	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T1	
+R2	Anafor Arg1:T0 Arg2:T3	

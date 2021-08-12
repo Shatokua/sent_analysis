@@ -1,0 +1,4 @@
+T2	Negative 102 107	Путин
+T101	Neutral_all 91 100	Медведева
+T103	Neutral_all 189 195	Путина
+R1	Anafor Arg1:T2 Arg2:T103	

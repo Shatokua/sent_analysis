@@ -1,0 +1,12 @@
+T1	Positive 0 25	Леонид Михайлович (Рошаль
+T2	Neutral_all 65 67	Он
+A1	AnaforPerson T2
+T3	Negative 90 92	Он
+T4	Mixed 174 177	его
+T5	Neutral_all 180 182	он
+A2	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T2
+A3	AnaforPerson T3
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	

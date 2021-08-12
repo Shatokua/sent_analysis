@@ -1,0 +1,5 @@
+T0	Neutral_all 281 287	Зайцев
+T1	Neutral_all 499 513	Ивану Литомину
+T2	Neutral_all 343 345	их
+A1	Plural T2
+R101	Anafor Arg1:T1 Arg2:T2

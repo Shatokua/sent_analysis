@@ -1,0 +1,3 @@
+T100	Positive_all 47 61	Андрея Карлова
+T101	Positive_all 101 115	Андрея Карлова
+R1	Anafor Arg1:T100 Arg2:T101

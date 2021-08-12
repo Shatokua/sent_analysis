@@ -1,0 +1,10 @@
+T0	Neutral_all 0 20	Сагынбек Абдрахманов
+T1	Neutral_all 112 124	Абдрахманова
+T2	Neutral_all 274 287	Иса Омуркулов
+T3	Neutral_all 297 316	Сооронбай Жээнбеков
+T4	Neutral_all 402 422	Сооронбая Жээнбекова
+T5	Neutral_all 164 166	он
+A1	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T5
+R101	Anafor Arg1:T3 Arg2:T4

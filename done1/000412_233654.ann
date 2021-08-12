@@ -1,0 +1,4 @@
+T0	Neutral 79 95	Андреем Хохловым
+T1	Neutral_all 176 179	вас
+A1	Plural T1
+A2	AnaforPerson T1

@@ -1,0 +1,5 @@
+T0	Neutral 74 82	Кулагина
+T1	Neutral 0 3	Ему
+A1	AnaforPerson T1
+T2	Neutral 31 36	вашей
+A2	AnaforPerson T2

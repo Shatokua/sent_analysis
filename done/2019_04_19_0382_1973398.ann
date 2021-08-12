@@ -1,0 +1,6 @@
+T0	Neutral 0 13	Леброн Джеймс
+T2	Neutral 81 86	Лемон
+T3	Negative_all 96 103	Леброна
+T1	Negative 68 79	Дону Лемону
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T3	

@@ -1,0 +1,9 @@
+T0	Neutral_all 133 147	Стивен Палаццо
+T1	Neutral_all 694 699	Трамп
+T2	Neutral_all 811 817	Трампа
+T4	Neutral_all 834 836	их
+A2	Plural T4
+T103	Positive 0 2	Он
+A5	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T2	
+A1	AnaforPerson T4

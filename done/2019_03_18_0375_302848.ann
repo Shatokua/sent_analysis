@@ -1,0 +1,7 @@
+T101	Neutral_all 80 93	Махатма Ганди
+T102	Neutral_all 155 160	Ганди
+T103	Neutral_all 163 171	Толстого
+T104	Neutral_all 102 104	он
+A1	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T104

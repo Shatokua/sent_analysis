@@ -1,0 +1,3 @@
+T0	Positive 40 49	Пугачевой
+T101	Positive 98 106	Пугачева
+R1	Anafor Arg1:T0 Arg2:T101	

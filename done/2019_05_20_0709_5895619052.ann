@@ -1,0 +1,5 @@
+T0	Neutral 69 76	Лениным
+T1	Neutral 190 195	Путин
+T2	Neutral 101 104	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

@@ -1,0 +1,4 @@
+T0	Neutral_all 144 159	Рауфа Арашукова
+T1	Neutral_all 162 165	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,9 @@
+T100	Negative 0 5	Качур
+T101	Neutral_all 39 50	Вороненкова
+T102	Neutral_all 124 130	Дениса
+T103	Neutral_all 132 137	Качур
+T104	Neutral_all 219 222	ему
+A1	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T100 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	

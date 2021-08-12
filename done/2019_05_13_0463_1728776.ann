@@ -1,0 +1,4 @@
+T1	Neutral 66 73	Андрюша
+T2	Positive 116 119	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T0	Neutral_all 94 100	Трампа
+T1	Neutral_all 189 197	Ярошенко
+T2	Neutral_all 112 114	он
+R101	Anafor Arg1:T0 Arg2:T2

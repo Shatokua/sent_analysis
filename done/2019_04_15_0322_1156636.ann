@@ -1,0 +1,9 @@
+T2	Negative 101 103	ты
+A1	AnaforPerson T2
+T100	Negative_all 29 40	Юра Луценко
+T101	Negative_all 96 99	Юра
+T102	Negative_all 117 121	Тебя
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T102	

@@ -1,0 +1,9 @@
+T0	Neutral_all 117 131	Ренато Усатого
+T2	Neutral_all 596 609	Ренато Усатый
+T3	Neutral_all 746 762	Владу Плахотнюку
+T1	Neutral_all 612 615	его
+A1	AnaforPerson T1
+T104	Neutral_all 685 688	они
+A2	Plural T104
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

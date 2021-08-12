@@ -1,0 +1,7 @@
+T3	Positive 278 280	он
+A1	AnaforPerson T3
+T100	Neutral_all 0 5	Путин
+T101	Neutral_all 41 58	Дмитрия Медведева
+T102	Positive_all 343 364	Владимир Владимирович
+R1	Anafor Arg1:T100 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T102	

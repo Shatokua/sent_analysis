@@ -1,0 +1,8 @@
+T0	Negative 19 34	Олег Михайлович
+T1	Negative 36 38	вы
+A1	AnaforPerson T1
+#1	AnnotatorNotes T0	Я предполгаю, что "школьник" это негативная оценка по отношению к взрослому человеку.
+T2	Neutral 77 79	Вы
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

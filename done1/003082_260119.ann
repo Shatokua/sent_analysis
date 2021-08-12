@@ -1,0 +1,17 @@
+T0	Neutral_all 42 58	Бориса Васильева
+T1	Neutral_all 271 283	Рита Осянина
+T2	Neutral_all 285 300	Женя Комелькова
+T3	Neutral_all 302 315	Лиза Бричкина
+T4	Neutral_all 317 331	Галя Четвертак
+T5	Neutral_all 333 344	Соня Гурвич
+T6	Neutral_all 362 376	Федот Евграфыч
+T7	Neutral_all 347 349	их
+A1	AnaforPerson T7
+A2	Plural T7
+T8	Neutral_all 437 439	вы
+A3	Plural T8
+R1	Anafor Arg1:T5 Arg2:T7
+R2	Anafor Arg1:T4 Arg2:T7
+R3	Anafor Arg1:T3 Arg2:T7
+R4	Anafor Arg1:T2 Arg2:T7
+R5	Anafor Arg1:T1 Arg2:T7

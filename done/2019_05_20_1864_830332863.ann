@@ -1,0 +1,6 @@
+T0	Neutral 196 201	Путин
+T1	Neutral 275 278	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 318 320	вы
+A2	AnaforPerson T2

@@ -1,0 +1,8 @@
+T0	Neutral 82 87	Асада
+T1	Neutral 0 3	Они
+A1	AnaforPerson T1
+T2	Neutral 50 53	они
+A2	AnaforPerson T2
+A3	Plural T2
+A4	Plural T1
+R1	Anafor Arg1:T1 Arg2:T2	

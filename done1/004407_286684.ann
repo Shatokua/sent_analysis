@@ -1,0 +1,8 @@
+T0	Neutral_all 222 236	Майи Никулиной
+T1	Neutral_all 204 206	мы
+A1	Plural T1
+T2	Neutral_all 286 288	ее
+A2	AnaforPerson T2
+T101	Neutral_all 172 177	вашем
+A3	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T2

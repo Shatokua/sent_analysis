@@ -1,0 +1,4 @@
+T0	Neutral 25 39	Виталием Мутко
+T1	Neutral 53 56	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

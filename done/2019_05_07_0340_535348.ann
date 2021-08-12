@@ -1,0 +1,4 @@
+T0	Neutral 10 16	Путина
+T1	Neutral 5 8	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

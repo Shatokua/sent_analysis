@@ -1,0 +1,5 @@
+T0	Negative 48 54	Трампа
+T1	Negative 227 233	Путина
+T2	Negative 133 135	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

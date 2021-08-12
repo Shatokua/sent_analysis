@@ -1,0 +1,4 @@
+T0	Positive 71 77	Санчес
+T1	Positive 108 112	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,8 @@
+T100	Negative 73 83	Гонтаревой
+T101	Negative 170 185	Петра Порошенко
+T102	Mixed 104 107	она
+A2	AnaforPerson T102
+T103	Negative 136 139	Она
+A3	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	

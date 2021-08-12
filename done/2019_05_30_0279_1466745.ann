@@ -1,0 +1,14 @@
+T0	Neutral 32 38	Трампа
+T1	Neutral 40 47	Меркель
+T3	Neutral_all 70 73	они
+A2	Plural T3
+T5	Negative_all 105 107	их
+A4	Plural T5
+T106	Neutral 135 138	них
+A6	Plural T106
+R2	Anafor Arg1:T3 Arg2:T5
+R1	Anafor Arg1:T0 Arg2:T3	
+R4	Anafor Arg1:T1 Arg2:T3	
+A1	AnaforPerson T5
+R3	Anafor Arg1:T5 Arg2:T106	
+A3	AnaforPerson T106

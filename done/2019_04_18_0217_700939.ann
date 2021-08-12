@@ -1,0 +1,6 @@
+T0	Negative 6 21	Петра Порошенко
+T1	Negative 31 34	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Negative 92 94	Их
+A2	Plural T2

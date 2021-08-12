@@ -1,0 +1,5 @@
+T0	Neutral_all 90 104	Сергея Храпова
+T1	Neutral_all 119 126	Татьяны
+T2	Neutral_all 107 110	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

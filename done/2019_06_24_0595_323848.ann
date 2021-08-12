@@ -1,0 +1,7 @@
+T0	Neutral_all 25 41	Роберт Паттинсон
+T1	Neutral_all 57 71	Кристен Стюарт
+T2	Mixed 120 126	Роберт
+T3	Neutral_all 88 90	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T2 Arg2:T3	

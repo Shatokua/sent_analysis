@@ -1,0 +1,9 @@
+T4	Neutral_all 115 133	Владимир Вольфович
+T1	Neutral_all 2 28	Ксении Анатольевны [Собчак
+T2	Neutral_all 32 66	Владимира Вольфовича [Жириновского
+T3	Neutral_all 207 210	ним
+A1	AnaforPerson T3
+R1	Anafor Arg1:T4 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T2 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T3

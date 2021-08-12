@@ -1,0 +1,7 @@
+T0	Neutral_all 73 88	Хиллари Клинтон
+T1	Neutral_all 107 122	Берни Сандерсом
+T2	Positive_all 132 139	Сандерс
+T3	Neutral_all 190 197	Клинтон
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

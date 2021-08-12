@@ -1,0 +1,7 @@
+T0	Neutral 0 17	Александр Суворов
+T1	Positive 45 47	Он
+A1	AnaforPerson T1
+T2	Positive 148 152	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

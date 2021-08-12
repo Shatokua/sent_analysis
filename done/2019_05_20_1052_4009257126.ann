@@ -1,0 +1,4 @@
+T0	Neutral 306 333	Тимошенко Юлия Владимировна
+T1	Neutral 346 349	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

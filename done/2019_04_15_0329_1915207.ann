@@ -1,0 +1,7 @@
+T0	Neutral_all 66 73	Бузовой
+T1	Neutral_all 76 92	Наташи Королевой
+T2	Negative_all 124 133	Королевой
+T3	Negative_all 163 166	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

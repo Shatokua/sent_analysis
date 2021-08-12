@@ -1,0 +1,8 @@
+T0	Neutral_all 11 17	Путина
+T1	Neutral_all 168 174	Путина
+T2	Neutral_all 25 29	него
+A1	AnaforPerson T2
+T3	Negative 147 150	они
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	

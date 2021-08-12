@@ -1,0 +1,6 @@
+T100	Neutral_all 32 46	Людмилы Браташ
+T101	Neutral_all 51 60	Романовой
+T102	Neutral 94 103	Романовой
+T103	Neutral_all 141 149	Джигурда
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T102	

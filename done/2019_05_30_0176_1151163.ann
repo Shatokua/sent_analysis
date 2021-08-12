@@ -1,0 +1,10 @@
+T0	Negative 77 87	Саакашвили
+T1	Negative 116 126	Саакашвили
+T2	Neutral_all 27 29	Вы
+A1	Plural T2
+T3	Neutral_all 99 101	вы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3	
+A3	AnaforPerson T2
+A4	AnaforPerson T3
+R2	Anafor Arg1:T0 Arg2:T1	

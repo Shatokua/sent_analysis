@@ -1,0 +1,13 @@
+T0	Neutral_all 124 129	Ишаев
+T1	Neutral_all 360 372	Виктор Ишаев
+T2	Neutral_all 18 20	он
+A1	AnaforPerson T2
+T3	Neutral_all 383 386	Ему
+A2	AnaforPerson T3
+T103	Neutral_all 209 212	ему
+A3	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R103	Anafor Arg1:T2 Arg2:T103
+R104	Anafor Arg1:T103 Arg2:T3

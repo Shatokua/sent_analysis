@@ -1,0 +1,5 @@
+T0	Neutral_all 632 648	Владимира Путина
+T101	Negative 371 373	их
+A2	Plural T101
+A3	AnaforPerson T101
+T1	Neutral 576 587	Ахмат-Хаджи

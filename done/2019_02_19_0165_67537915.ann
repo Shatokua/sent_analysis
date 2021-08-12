@@ -1,0 +1,5 @@
+T101	Neutral_all 24 31	Миловым
+T102	Negative_all 126 132	Лужков
+T103	Negative_all 149 151	он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T102 Arg2:T103

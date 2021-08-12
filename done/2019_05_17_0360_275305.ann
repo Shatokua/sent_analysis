@@ -1,0 +1,5 @@
+T0	Neutral_all 24 31	Ельцина
+T1	Neutral_all 62 68	Ельцин
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

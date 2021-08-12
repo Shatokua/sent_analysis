@@ -1,0 +1,16 @@
+T0	Neutral 13 22	Криштиану
+T1	Neutral 31 34	его
+A1	AnaforPerson T1
+T2	Neutral 59 62	его
+A2	AnaforPerson T2
+T3	Neutral 70 73	ему
+A3	AnaforPerson T3
+T4	Positive 94 97	его
+A4	AnaforPerson T4
+T5	Positive 136 139	ему
+A5	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	
+R5	Anafor Arg1:T4 Arg2:T5	

@@ -1,0 +1,11 @@
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral 3 6	вам
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 17 19	Он
+A4	AnaforPerson T3
+T4	Neutral 10 15	Димон
+A5	AnaforPerson T4
+R1	Anafor Arg1:T4 Arg2:T1	
+R2	Anafor Arg1:T4 Arg2:T3	

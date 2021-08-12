@@ -1,0 +1,3 @@
+T0	Positive 43 49	Кессел
+T1	Positive_all 72 76	Фила
+R1	Anafor Arg1:T0 Arg2:T1	

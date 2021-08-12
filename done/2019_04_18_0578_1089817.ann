@@ -1,0 +1,4 @@
+T0	Neutral 48 55	Меркель
+T1	Negative 97 100	Она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

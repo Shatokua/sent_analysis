@@ -1,0 +1,4 @@
+T0	Negative 0 8	Грудинин
+T1	Negative 172 181	Грудинина
+T2	Neutral_all 199 206	Трампом
+R1	Anafor Arg1:T0 Arg2:T1	

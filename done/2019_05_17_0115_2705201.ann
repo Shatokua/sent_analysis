@@ -1,0 +1,11 @@
+T0	Negative_all 36 42	Джонни
+T1	Neutral_all 154 160	Джонни
+T2	Negative_all 71 73	он
+A1	AnaforPerson T2
+T3	Negative_all 164 166	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T100	Negative 146 151	Путин
+T101	Neutral_all 221 237	Владимира Путина
+R101	Anafor Arg1:T101 Arg2:T100

@@ -1,0 +1,8 @@
+T0	Negative 36 44	Савченко
+T1	Negative 78 81	Она
+A1	AnaforPerson T1
+T2	Negative 137 140	Она
+T3	Negative 177 179	ее
+R2	Anafor Arg1:T0 Arg2:T1	
+R3	Anafor Arg1:T2 Arg2:T3	
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T0	Neutral_all 101 106	Наоми
+T1	Negative 129 142	Кайли Дженнер
+T2	Neutral_all 43 45	ты
+A1	AnaforPerson T2
+R1	Anafor Arg1:T2 Arg2:T1	

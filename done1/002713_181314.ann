@@ -1,0 +1,11 @@
+T0	Neutral_all 24 31	Громова
+T1	Neutral_all 195 206	А.А. Громов
+T2	Neutral_all 208 223	А.А. Венедиктов
+T3	Neutral_all 226 238	В. А. Рыжков
+T4	Neutral_all 647 654	Громова
+T5	Neutral_all 659 677	Алексей Алексеевич
+R1	Anafor Arg1:T5 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T1 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T5

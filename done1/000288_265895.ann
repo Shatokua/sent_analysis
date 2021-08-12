@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Джон Сноу
+T1	Neutral_all 45 48	нам
+A1	Plural T1
+T2	Neutral_all 68 70	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

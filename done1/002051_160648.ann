@@ -1,0 +1,10 @@
+T0	Neutral_all 22 33	Иван Ургант
+T1	Neutral_all 230 234	Иван
+T2	Neutral_all 124 126	он
+A1	AnaforPerson T2
+T3	Neutral_all 277 279	мы
+A2	Plural T3
+T104	Neutral_all 285 289	вами
+A3	Plural T104
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

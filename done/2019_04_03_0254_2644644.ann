@@ -1,0 +1,4 @@
+T100	Neutral_all 50 57	Хиллари
+T101	Negative 59 72	Эндрю Маккейб
+T102	Negative 84 91	Хиллари
+R1	Anafor Arg1:T100 Arg2:T102	

@@ -1,0 +1,5 @@
+T0	Neutral_all 6 10	Дима
+T1	Positive_all 90 105	Мартена Фуркада
+T102	Negative 107 109	Ты
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

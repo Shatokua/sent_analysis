@@ -1,0 +1,6 @@
+T1	Neutral_all 47 63	Владимиру Сальдо
+T2	Neutral_all 356 359	нас
+A1	Plural T2
+T3	Neutral_all 392 394	мы
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2

@@ -1,0 +1,4 @@
+T1	Neutral 110 119	Дерипаски
+T2	Neutral 0 9	Дерипаске
+T100	Neutral_all 81 89	Прохоров
+R1	Anafor Arg1:T2 Arg2:T1	

@@ -1,0 +1,9 @@
+T0	Neutral_all 42 64	Владимира Жириновского
+T1	Neutral_all 119 134	Михаил Дегтярев
+T2	Neutral_all 19 22	его
+A1	AnaforPerson T2
+T3	Neutral_all 205 209	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T1 Arg2:T3

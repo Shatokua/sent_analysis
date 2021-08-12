@@ -1,0 +1,8 @@
+T1	Neutral 88 119	Николая Александровича Романова
+T100	Negative_all 179 197	Владимир Вольфович
+T2	Negative 155 158	Вас
+A1	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T2	
+T3	Negative 213 216	Вас
+A2	AnaforPerson T3
+R2	Anafor Arg1:T100 Arg2:T3	

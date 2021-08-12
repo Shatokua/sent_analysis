@@ -1,0 +1,16 @@
+T0	Neutral_all 20 32	Игорь Зайцев
+T1	Neutral_all 338 345	Алексей
+T2	Neutral_all 36 38	он
+A1	AnaforPerson T2
+T3	Neutral_all 250 252	Мы
+A2	Plural T3
+T4	Neutral_all 292 294	он
+A3	AnaforPerson T4
+T5	Neutral_all 403 405	он
+A4	AnaforPerson T5
+T103	Neutral_all 99 102	Нам
+A5	Plural T103
+R1	Anafor Arg1:T1 Arg2:T5
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4
+R103	Anafor Arg1:T3 Arg2:T103

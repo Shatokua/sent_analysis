@@ -1,0 +1,10 @@
+T0	Neutral_all 182 196	Николас Мадуро
+T1	Negative_all 254 260	Мадуро
+T2	Negative_all 199 202	его
+A1	AnaforPerson T2
+T3	Neutral_all 239 241	Мы
+A2	Plural T3
+T102	Neutral_all 75 78	они
+A3	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

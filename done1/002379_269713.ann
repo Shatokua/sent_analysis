@@ -1,0 +1,7 @@
+T0	Neutral_all 211 226	Никоном Шиловым
+T1	Neutral_all 229 235	Слотою
+T102	Positive 285 287	их
+A1	Plural T102
+R101	Anafor Arg1:T0 Arg2:T102
+R102	Anafor Arg1:T1 Arg2:T102
+A2	AnaforPerson T102

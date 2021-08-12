@@ -1,0 +1,9 @@
+T1	Neutral_all 163 173	Константин
+T2	Neutral_all 98 101	Они
+A1	Plural T2
+T3	Mixed 234 237	его
+A2	AnaforPerson T3
+T100	Neutral 18 36	Константин Орбелян
+R2	Anafor Arg1:T1 Arg2:T3
+A3	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T1	

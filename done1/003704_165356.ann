@@ -1,0 +1,13 @@
+T0	Neutral_all 44 59	Николасу Мадуро
+T1	Neutral_all 120 126	Мадуро
+T2	Neutral_all 70 73	ему
+A1	AnaforPerson T2
+T3	Neutral_all 103 105	Он
+A2	AnaforPerson T3
+T4	Neutral_all 137 139	мы
+A3	Plural T4
+T105	Neutral_all 142 147	тобой
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T105

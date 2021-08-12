@@ -1,0 +1,3 @@
+T0	Negative_all 17 24	Мамаева
+T1	Negative_all 74 81	Мамаева
+R1	Anafor Arg1:T0 Arg2:T1

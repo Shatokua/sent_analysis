@@ -1,0 +1,4 @@
+T100	Negative 107 115	Савченко
+T101	Negative 28 38	Саакашвили
+T102	Neutral 93 102	Порошенко
+R1	Anafor Arg1:T101 Arg2:T100	

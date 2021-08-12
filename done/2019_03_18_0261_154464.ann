@@ -1,0 +1,8 @@
+T100	Negative_all 5 12	Клинтон
+T101	Negative_all 52 58	Обамой
+T102	Negative_all 0 3	Она
+A1	AnaforPerson T102
+T103	Negative_all 46 49	она
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103
+R2	Anafor Arg1:T100 Arg2:T102

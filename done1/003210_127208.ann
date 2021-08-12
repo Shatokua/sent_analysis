@@ -1,0 +1,6 @@
+T0	Neutral_all 176 193	Конрада Аденауэра
+T1	Neutral_all 142 145	нас
+A1	AnaforPerson T1
+T2	Neutral_all 216 218	Мы
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

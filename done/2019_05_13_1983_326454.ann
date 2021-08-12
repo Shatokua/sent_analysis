@@ -1,0 +1,4 @@
+T0	Positive 96 99	Абэ
+T1	Positive 107 110	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

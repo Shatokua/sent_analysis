@@ -1,0 +1,5 @@
+T0	Neutral_all 51 65	Ивана Голунова
+T1	Neutral_all 96 104	Голунова
+T2	Neutral_all 143 151	Евгеньев
+T3	Neutral_all 154 162	Михеенко
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,10 @@
+T0	Neutral 125 142	Фетхуллаха Гюлена
+T1	Neutral 145 148	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 214 216	вы
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 217 219	их
+A4	AnaforPerson T3
+A5	Plural T3

@@ -1,0 +1,5 @@
+T0	Neutral 37 48	Марио Гётце
+T1	Positive 107 125	Роберт Левандовски
+T2	Positive 50 52	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

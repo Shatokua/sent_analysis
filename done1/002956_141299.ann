@@ -1,0 +1,21 @@
+T0	Neutral_all 93 110	Татьяны Голиковой
+T1	Neutral_all 435 443	Голикова
+T2	Neutral_all 747 755	Голикова
+T3	Neutral_all 495 498	ней
+A1	AnaforPerson T3
+T4	Neutral_all 533 536	она
+A2	AnaforPerson T4
+T5	Neutral_all 602 605	нас
+A3	Plural T5
+T6	Neutral_all 651 653	он
+A4	AnaforPerson T6
+T7	Neutral_all 807 810	она
+A5	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T7
+R4	Anafor Arg1:T7 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T3
+R103	Anafor Arg1:T2 Arg2:T4
+R104	Anafor Arg1:T4 Arg2:T7
+R105	Anafor Arg1:T7 Arg2:T3

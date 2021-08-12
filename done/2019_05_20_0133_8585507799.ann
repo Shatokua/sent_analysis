@@ -1,0 +1,9 @@
+T0	Neutral 42 56	Серебренникова
+T1	Neutral 173 179	Путина
+T2	Neutral 218 221	них
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 235 238	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Variant Arg1:T2 Arg2:T3	

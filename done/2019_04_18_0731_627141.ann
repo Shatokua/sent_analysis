@@ -1,0 +1,4 @@
+T0	Negative 29 46	Эмманюэлю Макрону
+T1	Negative 49 52	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

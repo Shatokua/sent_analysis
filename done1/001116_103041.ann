@@ -1,0 +1,7 @@
+T0	Neutral_all 48 63	Зубайра Тухугов
+T1	Neutral_all 66 87	Абубакар Нурмагомедов
+T2	Neutral_all 143 146	они
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

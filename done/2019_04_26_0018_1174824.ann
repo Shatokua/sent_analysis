@@ -1,0 +1,9 @@
+T0	Negative_all 15 23	Янукович
+T1	Negative_all 145 153	Янукович
+T2	Negative_all 89 92	его
+A1	AnaforPerson T2
+T3	Negative_all 99 101	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2

@@ -1,0 +1,5 @@
+T0	Negative 0 6	Фирташ
+T101	Negative_all 56 64	Левочкин
+T103	Negative 126 128	Он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103

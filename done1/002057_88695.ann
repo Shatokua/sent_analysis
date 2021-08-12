@@ -1,0 +1,5 @@
+T0	Neutral_all 96 102	Трампа
+T1	Neutral_all 104 111	Меланию
+T2	Neutral_all 114 130	Келли Энн Конуэй
+T3	Neutral_all 141 147	Трампа
+R1	Anafor Arg1:T0 Arg2:T3

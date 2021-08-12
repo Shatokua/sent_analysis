@@ -1,0 +1,8 @@
+T0	Neutral 63 70	Пиночет
+T1	Neutral 75 81	Сталин
+T2	Neutral 86 92	Гитлер
+T3	Negative 94 102	Янукович
+#1	AnnotatorNotes T3	"создаёт тюремную атмосферу"
+A1	Unclear T0
+A2	Unclear T1
+A3	Unclear T2

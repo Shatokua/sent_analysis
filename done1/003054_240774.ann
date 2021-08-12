@@ -1,0 +1,6 @@
+T0	Neutral_all 35 47	Ивану Зюзину
+T1	Neutral_all 64 81	Ваганом Абгаряном
+T2	Neutral_all 101 104	они
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

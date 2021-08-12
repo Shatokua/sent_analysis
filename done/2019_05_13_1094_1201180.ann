@@ -1,0 +1,4 @@
+T0	Positive 0 20	Александр Филиппович
+T1	Positive 145 148	Его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

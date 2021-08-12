@@ -1,0 +1,4 @@
+T0	Neutral 13 44	Павла Станиславовича Зеньковича
+T1	Neutral 104 107	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

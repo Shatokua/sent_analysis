@@ -1,0 +1,4 @@
+T0	Neutral 157 162	Марии
+T1	Neutral 37 39	ей
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

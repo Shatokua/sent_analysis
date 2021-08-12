@@ -1,0 +1,5 @@
+T0	Neutral_all 33 39	Путина
+T1	Neutral_all 100 106	Путина
+T2	Neutral_all 183 189	Путина
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

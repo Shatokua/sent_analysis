@@ -1,0 +1,5 @@
+T0	Neutral_all 6 16	Навального
+T1	Neutral_all 19 25	Путина
+T102	Negative 123 125	им
+A2	Plural T102
+A1	AnaforPerson T102

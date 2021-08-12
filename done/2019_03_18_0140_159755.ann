@@ -1,0 +1,12 @@
+T2	Negative 27 30	его
+A1	AnaforPerson T2
+T100	Negative_all 74 79	Трамп
+T101	Neutral 174 187	Дональд Трамп
+T102	Negative_all 96 98	он
+A2	AnaforPerson T102
+T103	Negative_all 122 124	он
+A3	AnaforPerson T103
+R2	Anafor Arg1:T100 Arg2:T2
+R3	Anafor Arg1:T100 Arg2:T102
+R4	Anafor Arg1:T102 Arg2:T103
+R1	Anafor Arg1:T101 Arg2:T100	

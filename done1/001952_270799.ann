@@ -1,0 +1,5 @@
+T0	Neutral_all 99 129	Батырбекову Эрлану Гадлетовичу
+T1	Neutral_all 216 235	Гадлета Андияновича
+T2	Neutral_all 254 257	нем
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

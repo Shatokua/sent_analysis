@@ -1,0 +1,9 @@
+T0	Neutral_all 704 719	Максима Резника
+T1	Neutral_all 259 261	мы
+A1	Plural T1
+T2	Neutral_all 346 348	мы
+A2	Plural T2
+T3	Neutral_all 528 530	мы
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

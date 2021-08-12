@@ -1,0 +1,8 @@
+T2	Neutral 108 111	вам
+A1	AnaforPerson T2
+T3	Neutral 22 24	вы
+A2	AnaforPerson T3
+T100	Neutral_all 0 20	Александр Николаевич
+T101	Neutral_all 166 172	Мишель
+R1	Anafor Arg1:T100 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2

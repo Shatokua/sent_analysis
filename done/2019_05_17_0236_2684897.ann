@@ -1,0 +1,8 @@
+T0	Neutral_all 0 20	Кирилл Серебренников
+T1	Neutral_all 51 57	Кирилл
+T2	Positive_all 101 103	он
+A1	AnaforPerson T2
+T3	Neutral_all 198 200	мы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

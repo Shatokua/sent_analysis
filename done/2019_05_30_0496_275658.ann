@@ -1,0 +1,8 @@
+T0	Neutral_all 142 148	Путина
+T1	Neutral_all 187 193	Путина
+T2	Neutral_all 40 43	вам
+A1	Plural T2
+T3	Neutral_all 161 164	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3

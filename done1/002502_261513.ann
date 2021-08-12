@@ -1,0 +1,5 @@
+T0	Neutral_all 80 98	Александра Лапшина
+T1	Neutral_all 228 235	Лапшина
+T2	Neutral_all 142 144	их
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

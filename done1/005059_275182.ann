@@ -1,0 +1,6 @@
+T0	Neutral_all 42 57	Роберто Розетти
+T1	Neutral_all 214 216	мы
+A1	Plural T1
+T2	Neutral_all 240 242	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T0	Neutral_all 0 8	Кузнецов
+T1	Neutral_all 70 82	Андрей Разин
+T2	Neutral_all 101 117	Сергея Кузнецова
+T3	Neutral_all 139 141	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3

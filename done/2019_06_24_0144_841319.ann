@@ -1,0 +1,6 @@
+T0	Neutral_all 21 35	Жаныша Бакиева
+T1	Negative_all 135 151	Курманбек Бакиев
+T2	Neutral_all 80 83	его
+T3	Negative_all 98 100	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

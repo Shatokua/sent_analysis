@@ -1,0 +1,11 @@
+T0	Mixed 34 40	Трампа
+T1	Neutral 111 114	ему
+A1	AnaforPerson T1
+T2	Neutral 128 130	ты
+T3	Neutral 140 142	ты
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+A3	AnaforPerson T2
+#1	AnnotatorNotes T0	просто как игра с одной стороны, а с другой - безотвественно как-будто в игру играет, поэтому смешанная.

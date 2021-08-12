@@ -1,0 +1,9 @@
+T0	Neutral_all 61 71	Тереза Мэй
+T2	Neutral_all 111 113	ее
+A1	AnaforPerson T2
+T3	Neutral_all 262 265	она
+A2	AnaforPerson T3
+T101	Neutral 302 305	Мэй
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	
+R3	Anafor Arg1:T101 Arg2:T3	

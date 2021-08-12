@@ -1,0 +1,4 @@
+T100	Neutral_all 0 5	Путин
+T101	Negative 200 223	Владимира) Жириновского
+T103	Negative_all 346 357	Жириновский
+R1	Anafor Arg1:T101 Arg2:T103	

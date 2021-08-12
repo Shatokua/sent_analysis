@@ -1,0 +1,11 @@
+T0	Neutral_all 34 50	Евгением Орловым
+T1	Neutral_all 162 173	Нетиевского
+T2	Neutral_all 301 312	Нетиевского
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T4	Neutral_all 188 191	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T4
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T4

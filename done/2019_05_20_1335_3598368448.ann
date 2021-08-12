@@ -1,0 +1,8 @@
+T0	Neutral 207 216	Терешкова
+T1	Neutral 217 225	Михалков
+T2	Neutral 228 235	Гергиев
+T3	Neutral 316 329	Алина Кабаева
+T4	Neutral 476 488	Денис Мацуев
+T5	Neutral 331 333	Ей
+A1	AnaforPerson T5
+R1	Anafor Arg1:T3 Arg2:T5	

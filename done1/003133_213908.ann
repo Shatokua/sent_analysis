@@ -1,0 +1,7 @@
+T0	Neutral_all 150 162	Доминик Уэйд
+T1	Neutral_all 181 185	Гены
+T2	Neutral_all 81 83	Мы
+A1	Plural T2
+T3	Neutral_all 198 201	его
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

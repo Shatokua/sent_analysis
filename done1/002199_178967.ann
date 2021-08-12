@@ -1,0 +1,5 @@
+T0	Neutral_all 15 24	Кальюлайд
+T1	Neutral_all 205 224	Линаса Линкявичуюса
+T2	Neutral_all 329 342	Джона Болтона
+T3	Neutral_all 370 379	Кальюлайд
+R1	Anafor Arg1:T0 Arg2:T3

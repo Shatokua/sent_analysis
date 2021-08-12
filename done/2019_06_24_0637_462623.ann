@@ -1,0 +1,5 @@
+T0	Neutral_all 118 123	Трамп
+T1	Neutral_all 213 218	Трамп
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

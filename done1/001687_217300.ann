@@ -1,0 +1,6 @@
+T0	Neutral_all 70 99	Филиппа Бедросовича Киркорова
+T1	Neutral_all 101 104	Они
+A1	Plural T1
+T2	Neutral_all 128 132	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

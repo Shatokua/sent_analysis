@@ -1,0 +1,6 @@
+T0	Neutral 0 17	Ротенберг-молодой
+T1	Neutral 29 31	вы
+A1	AnaforPerson T1
+T2	Neutral 43 46	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

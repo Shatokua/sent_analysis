@@ -1,0 +1,15 @@
+T0	Neutral_all 0 10	Мири Регев
+T1	Neutral_all 29 41	Рине Мацлиах
+T2	Neutral_all 84 89	Ганцу
+T3	Neutral_all 150 162	Рина Мацлиах
+T4	Neutral_all 201 213	Рина Мацлиах
+T5	Neutral_all 96 99	его
+A1	AnaforPerson T5
+T6	Neutral_all 241 243	ее
+A2	AnaforPerson T6
+R1	Anafor Arg1:T0 Arg2:T6
+R2	Anafor Arg1:T3 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T2 Arg2:T5
+R102	Anafor Arg1:T3 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T1

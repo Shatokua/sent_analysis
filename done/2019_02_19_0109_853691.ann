@@ -1,0 +1,4 @@
+T101	Positive 74 91	Фазиля Абдуловича
+T102	Neutral_all 150 161	Марины Эшба
+T2	Neutral 32 35	его
+R1	Anafor Arg1:T101 Arg2:T2	

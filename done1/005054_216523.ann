@@ -1,0 +1,4 @@
+T0	Neutral_all 32 43	Хулуси Акар
+T1	Neutral_all 75 91	Патрику Шанахану
+T2	Neutral_all 180 188	Шанахана
+R1	Anafor Arg1:T1 Arg2:T2

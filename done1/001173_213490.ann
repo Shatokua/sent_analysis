@@ -1,0 +1,8 @@
+T0	Neutral_all 253 272	Валентина Матвиенко
+T1	Neutral_all 17 19	мы
+A1	Plural T1
+T2	Neutral_all 362 365	они
+A2	Plural T2
+T103	Neutral_all 392 395	они
+A3	Plural T103
+R101	Anafor Arg1:T2 Arg2:T103

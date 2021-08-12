@@ -1,0 +1,17 @@
+T0	Neutral_all 285 301	Дмитрия Кулагина
+T1	Neutral_all 21 24	нас
+A1	Plural T1
+T2	Neutral_all 155 157	мы
+A2	Plural T2
+T3	Neutral_all 264 267	нас
+A3	Plural T3
+T4	Neutral_all 314 316	мы
+A4	Plural T4
+T5	Neutral_all 385 388	нам
+A5	Plural T5
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T5
+R102	Anafor Arg1:T4 Arg2:T5
+R103	Anafor Arg1:T5 Arg2:T1

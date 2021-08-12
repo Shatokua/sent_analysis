@@ -1,0 +1,5 @@
+T2	Neutral 29 32	его
+A1	AnaforPerson T2
+T100	Neutral_all 10 26	Сергей Карабасов
+T101	Neutral_all 45 57	Сергей Савин
+R1	Anafor Arg1:T100 Arg2:T2

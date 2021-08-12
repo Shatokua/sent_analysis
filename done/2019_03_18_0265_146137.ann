@@ -1,0 +1,17 @@
+T1	Neutral 34 40	Путина
+T5	Neutral 53 55	он
+A1	AnaforPerson T5
+T6	Neutral 62 64	ее
+A2	AnaforPerson T6
+T100	Neutral_all 5 12	Клинтон
+T102	Negative 87 92	Путин
+T103	Neutral_all 118 123	Обаму
+T105	Neutral_all 113 115	ее
+A4	AnaforPerson T105
+T106	Neutral_all 0 3	Она
+A5	AnaforPerson T106
+R1	Anafor Arg1:T100 Arg2:T106
+R2	Anafor Arg1:T102 Arg2:T1	
+R3	Anafor Arg1:T1 Arg2:T5	
+R4	Anafor Arg1:T106 Arg2:T6	
+R5	Anafor Arg1:T6 Arg2:T105	

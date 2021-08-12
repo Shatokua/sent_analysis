@@ -1,0 +1,4 @@
+T1	Positive 45 57	Джина Хаспел
+T2	Positive 106 109	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

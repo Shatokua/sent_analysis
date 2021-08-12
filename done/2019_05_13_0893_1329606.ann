@@ -1,0 +1,4 @@
+T0	Positive 16 31	Антона Шипулина
+T1	Positive 81 83	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

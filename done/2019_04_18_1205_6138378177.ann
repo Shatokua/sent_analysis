@@ -1,0 +1,6 @@
+T0	Neutral 4 8	Надя
+T1	Negative 42 46	Гиви
+T2	Negative 49 58	Моторолой
+T3	Neutral 130 132	мы
+A1	AnaforPerson T3
+A2	Plural T3

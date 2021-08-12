@@ -1,0 +1,7 @@
+T100	Neutral_all 55 58	Гуф
+T101	Positive 65 70	Лехой
+T102	Positive 217 219	Он
+A2	AnaforPerson T102
+T103	Neutral_all 201 205	Face
+R2	Anafor Arg1:T100 Arg2:T101	
+R1	Anafor Arg1:T103 Arg2:T102	

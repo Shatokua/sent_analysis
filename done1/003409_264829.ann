@@ -1,0 +1,9 @@
+T0	Neutral_all 90 102	Серж Саргсян
+T1	Neutral_all 32 36	ними
+A1	Plural T1
+T2	Neutral_all 67 69	вы
+A2	AnaforPerson T2
+T3	Neutral_all 130 132	вы
+A3	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T1

@@ -1,0 +1,11 @@
+T0	Neutral_all 123 141	Алексее Гончаренко
+T1	Neutral_all 181 190	Порошенко
+T2	Neutral_all 69 72	они
+A1	Plural T2
+T3	Neutral_all 168 171	ему
+A2	AnaforPerson T3
+T104	Neutral 318 321	Они
+A4	AnaforPerson T104
+A5	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T3	
+A3	Plural T104

@@ -1,0 +1,4 @@
+T2	Negative 55 61	Путина
+T101	Neutral_all 10 19	Порошенко
+T103	Neutral_all 63 72	Порошенко
+R1	Anafor Arg1:T101 Arg2:T103	

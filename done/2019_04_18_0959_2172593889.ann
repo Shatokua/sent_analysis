@@ -1,0 +1,4 @@
+T0	Neutral 0 16	Виктор Федорович
+T1	Mixed 18 20	Вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

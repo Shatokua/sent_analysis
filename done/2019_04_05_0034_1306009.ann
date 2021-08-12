@@ -1,0 +1,8 @@
+T100	Negative 73 80	Свищева
+T101	Negative 175 181	Свищев
+T102	Negative 183 191	Дегтярев
+T103	Negative 193 201	Колобков
+T104	Negative 5 7	он
+A2	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T104	
+R2	Anafor Arg1:T100 Arg2:T101	

@@ -1,0 +1,4 @@
+T0	Neutral_all 17 35	Гульнары Каримовой
+T1	Neutral_all 36 40	Иман
+T2	Neutral_all 123 136	Иман Каримова
+R1	Anafor Arg1:T2 Arg2:T1

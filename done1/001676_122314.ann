@@ -1,0 +1,4 @@
+T0	Neutral_all 52 83	Константине Львовиче Сыроежкине
+T101	Neutral_all 184 187	его
+A1	AnaforPerson T101
+R101	Anafor Arg1:T0 Arg2:T101

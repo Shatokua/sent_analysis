@@ -1,0 +1,8 @@
+T1	Neutral 27 43	Хиллари (Клинтон
+T100	Neutral_all 10 15	Обама
+T101	Neutral_all 98 101	его
+A1	AnaforPerson T101
+T103	Neutral_all 130 132	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T101	
+R2	Anafor Arg1:T101 Arg2:T103	

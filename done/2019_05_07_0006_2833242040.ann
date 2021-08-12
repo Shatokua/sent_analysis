@@ -1,0 +1,13 @@
+T0	Neutral 0 16	Виктор Федорович
+T2	Neutral 68 71	вам
+A1	AnaforPerson T2
+T4	Negative 182 185	вас
+A2	AnaforPerson T4
+T6	Neutral 452 454	Вы
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T4	
+T1	Neutral 253 256	вам
+A3	AnaforPerson T1
+R3	Variant Arg1:T4 Arg2:T1	
+A4	AnaforPerson T6
+R4	Variant Arg1:T1 Arg2:T6	

@@ -1,0 +1,10 @@
+T1	Neutral_all 101 112	Брюса Уэйна
+T2	Neutral_all 141 152	Брюса Уэйна
+T4	Neutral_all 114 116	Вы
+A1	Plural T4
+T100	Neutral_all 87 94	Бэтмена
+T103	Neutral_all 174 180	Бэтмен
+T104	Neutral_all 68 71	Они
+A2	Plural T104
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T103 Arg2:T100

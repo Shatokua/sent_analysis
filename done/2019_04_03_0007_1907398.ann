@@ -1,0 +1,7 @@
+T0	Positive_all 166 170	Дени
+T1	Positive_all 198 202	Дени
+T2	Positive_all 57 61	Дени
+T3	Positive_all 129 133	Дени
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T0
+R3	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T1	Positive 17 25	Световой
+T2	Positive 99 101	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

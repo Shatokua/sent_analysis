@@ -1,0 +1,4 @@
+T0	Negative 4 21	Петро Олексійович
+T2	Neutral 99 102	вас
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

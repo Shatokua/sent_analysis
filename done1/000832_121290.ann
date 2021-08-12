@@ -1,0 +1,10 @@
+T0	Neutral_all 0 14	Роберт Кочарян
+T1	Neutral_all 43 46	ним
+A1	AnaforPerson T1
+T3	Neutral_all 167 170	них
+A3	Plural T3
+T101	Negative 121 124	Они
+A4	Plural T101
+R1	Anafor Arg1:T0 Arg2:T1
+A2	AnaforPerson T101
+A5	AnaforPerson T3

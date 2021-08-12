@@ -1,0 +1,5 @@
+T2	Negative_all 114 119	Трамп
+T1	Negative_all 32 46	Дональд) Трамп
+T3	Neutral_all 68 71	наш
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

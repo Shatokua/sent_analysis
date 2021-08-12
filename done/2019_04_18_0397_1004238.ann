@@ -1,0 +1,8 @@
+T0	Negative 125 135	Вайнштейна
+T1	Negative 157 159	он
+A1	AnaforPerson T1
+T2	Negative 181 184	его
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 52 54	он
+A2	AnaforPerson T3

@@ -1,0 +1,6 @@
+T0	Neutral_all 554 571	Даля Грибаускайте
+T1	Neutral_all 576 580	Вашу
+A1	AnaforPerson T1
+T101	Neutral_all 493 495	Мы
+A2	Plural T101
+R1	Anafor Arg1:T0 Arg2:T1

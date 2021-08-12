@@ -1,0 +1,5 @@
+T3	Negative 237 239	Он
+A1	AnaforPerson T3
+T101	Neutral_all 133 138	Путин
+T102	Neutral_all 229 235	Сталин
+R1	Anafor Arg1:T102 Arg2:T3

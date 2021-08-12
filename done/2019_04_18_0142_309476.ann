@@ -1,0 +1,4 @@
+T1	Negative 33 60	Петра Алексеевича Порошенко
+T2	Negative 72 75	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

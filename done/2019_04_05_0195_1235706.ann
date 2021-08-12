@@ -1,0 +1,4 @@
+T0	Neutral_all 109 114	Мутко
+T1	Neutral_all 138 143	Путин
+T2	Neutral_all 177 182	Путин
+R1	Anafor Arg1:T1 Arg2:T2

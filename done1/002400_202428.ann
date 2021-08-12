@@ -1,0 +1,9 @@
+T0	Neutral_all 0 6	Кличко
+T1	Neutral_all 112 124	Тайсон Фьюри
+T2	Neutral_all 129 142	Энтони Джошуа
+T3	Neutral_all 25 27	он
+A1	AnaforPerson T3
+T4	Neutral_all 87 90	Его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4

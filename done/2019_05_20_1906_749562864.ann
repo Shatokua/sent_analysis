@@ -1,0 +1,8 @@
+T0	Neutral 0 7	Зюганов
+T1	Neutral 135 150	Сергея Глазьева
+T2	Neutral 168 176	Зюганова
+T3	Neutral 249 265	Сергея Удальцова
+T4	Neutral 191 193	он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T4	
+R2	Anafor Arg1:T0 Arg2:T2	

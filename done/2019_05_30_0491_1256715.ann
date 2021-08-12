@@ -1,0 +1,8 @@
+T0	Neutral_all 59 66	Михаила
+T1	Neutral_all 122 130	Михаилом
+T2	Neutral_all 94 97	его
+A1	AnaforPerson T2
+T3	Neutral_all 162 165	них
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

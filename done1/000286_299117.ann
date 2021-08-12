@@ -1,0 +1,4 @@
+T2	Neutral_all 257 260	нее
+A1	AnaforPerson T2
+T101	Neutral 203 216	Холодова Н.В.
+R1	Anafor Arg1:T101 Arg2:T2	

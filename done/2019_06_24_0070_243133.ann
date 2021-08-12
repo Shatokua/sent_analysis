@@ -1,0 +1,4 @@
+T0	Neutral_all 38 51	Дональд Трамп
+T1	Neutral_all 174 188	Эдвард Сноуден
+T2	Neutral_all 225 232	Эдварда
+R1	Anafor Arg1:T1 Arg2:T2

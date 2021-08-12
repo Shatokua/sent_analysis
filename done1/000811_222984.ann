@@ -1,0 +1,15 @@
+T0	Neutral_all 44 59	Мехман Гусейнов
+T1	Neutral_all 0 3	Его
+A1	AnaforPerson T1
+T2	Neutral_all 91 95	него
+A2	AnaforPerson T2
+T3	Neutral_all 293 301	Мехманом
+A3	AnaforPerson T3
+T103	Neutral_all 192 196	него
+A4	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T1
+R102	Anafor Arg1:T3 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T2
+R104	Anafor Arg1:T2 Arg2:T103

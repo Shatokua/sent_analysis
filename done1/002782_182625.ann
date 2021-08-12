@@ -1,0 +1,6 @@
+T0	Neutral_all 85 93	Шмотьева
+T1	Neutral_all 223 240	Бориса Идиатулина
+T2	Neutral_all 301 320	Александра Ладыгина
+T3	Neutral_all 339 343	него
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 49 60	Ким Чен Иру
+T1	Neutral_all 77 82	Обама
+T2	Positive_all 168 178	Ким Чен Ир
+T3	Neutral_all 193 195	Мы
+A1	Plural T3
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3

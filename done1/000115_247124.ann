@@ -1,0 +1,8 @@
+T0	Neutral_all 148 163	Михаила Абызова
+T1	Neutral_all 190 207	Николая Степанова
+T2	Neutral_all 209 225	Максима Русакова
+T3	Neutral_all 227 245	Галины Фрайденберг
+T4	Neutral_all 247 268	Александра Пелипасова
+T5	Neutral_all 173 176	его
+A1	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T5

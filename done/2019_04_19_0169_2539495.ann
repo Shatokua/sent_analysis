@@ -1,0 +1,5 @@
+T0	Neutral_all 39 48	Карбышева
+T1	Negative_all 54 61	Наталья
+T2	Negative_all 75 77	ей
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

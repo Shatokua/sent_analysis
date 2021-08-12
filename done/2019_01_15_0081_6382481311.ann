@@ -1,0 +1,7 @@
+T100	Neutral_all 360 365	Рауля
+T101	Neutral_all 29 39	Уго Чавеса
+T102	Neutral_all 118 130	Эво Моралеса
+T103	Neutral 176 182	Кастро
+T104	Negative 304 306	он
+R101	Anafor Arg1:T103 Arg2:T104
+A1	AnaforPerson T104

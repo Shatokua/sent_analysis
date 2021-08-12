@@ -1,0 +1,5 @@
+T0	Negative 20 26	Путина
+T101	Neutral_all 32 39	Клинтон
+T1	Neutral 105 108	его
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

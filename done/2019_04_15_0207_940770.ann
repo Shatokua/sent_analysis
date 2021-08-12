@@ -1,0 +1,3 @@
+T0	Neutral_all 93 98	Маркс
+T1	Neutral_all 107 112	Маркс
+R1	Anafor Arg1:T0 Arg2:T1

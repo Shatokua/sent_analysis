@@ -1,0 +1,5 @@
+T0	Neutral 97 103	Путина
+T1	Mixed 157 159	он
+#1	AnnotatorNotes T1	так как добрый царь в кавычках, можно предположить, что это негативная оценка.
+R1	Anafor Arg1:T0 Arg2:T1	
+A1	AnaforPerson T1

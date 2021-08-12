@@ -1,0 +1,7 @@
+T0	Neutral 49 55	Зайцев
+T3	Neutral 21 24	его
+T101	Neutral_all 80 90	Килиевичем
+T102	Negative 105 111	Малова
+T103	Negative 92 94	Он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T103	

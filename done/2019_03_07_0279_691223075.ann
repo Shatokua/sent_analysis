@@ -1,0 +1,14 @@
+T100	Neutral_all 15 20	Путин
+T101	Neutral_all 94 97	его
+A1	AnaforPerson T101
+T102	Neutral 136 139	ему
+A2	AnaforPerson T102
+T103	Neutral_all 246 249	его
+A3	AnaforPerson T103
+T104	Neutral 255 257	он
+A4	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T102
+R103	Anafor Arg1:T102 Arg2:T103
+R104	Anafor Arg1:T103 Arg2:T104
+T1	Negative 284 287	они

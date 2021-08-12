@@ -1,0 +1,7 @@
+T4	Neutral 108 110	ты
+A1	AnaforPerson T4
+T100	Neutral_all 75 85	Ильи Ильфа
+T101	Neutral_all 88 103	Евгения Петрова
+T102	Negative 112 116	Брут
+T103	Negative 182 197	Бориса Джонсона
+R1	Anafor Arg1:T102 Arg2:T4	

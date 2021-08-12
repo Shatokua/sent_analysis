@@ -1,0 +1,17 @@
+T3	Negative 45 47	им
+A2	Plural T3
+T4	Negative 78 82	ними
+A3	Plural T4
+T100	Negative 38 44	Ле Пен
+T101	Negative 99 105	Ле Пен
+T102	Negative 0 3	Они
+A5	Plural T102
+T105	Negative 169 171	их
+A6	AnaforPerson T105
+R1	Anafor Arg1:T102 Arg2:T3	
+A1	AnaforPerson T102
+A7	AnaforPerson T3
+A8	AnaforPerson T4
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T100 Arg2:T101	
+A4	Plural T105

@@ -1,0 +1,5 @@
+T2	Neutral_all 158 178	Михаил Юрьевич Лесин
+T1	Neutral_all 60 75	Михаила) Лесина
+T3	Neutral_all 186 188	мы
+A1	Plural T3
+R1	Anafor Arg1:T2 Arg2:T1

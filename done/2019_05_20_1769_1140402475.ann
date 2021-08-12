@@ -1,0 +1,10 @@
+T0	Neutral 4 11	Луценко
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 162 165	его
+A2	AnaforPerson T2
+T3	Neutral 127 130	его
+A3	AnaforPerson T3
+R2	Variant Arg1:T0 Arg2:T3	
+R3	Variant Arg1:T3 Arg2:T2	

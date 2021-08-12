@@ -1,0 +1,5 @@
+T0	Neutral 42 56	Виктора Басюка
+T1	Negative 87 95	Ерощенко
+T2	Negative 61 63	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

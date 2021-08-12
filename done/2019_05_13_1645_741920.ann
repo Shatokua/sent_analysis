@@ -1,0 +1,7 @@
+T0	Positive 26 32	Наргиз
+T1	Positive 35 48	Максу Фадееву
+T2	Positive 129 135	Наргиз
+T3	Positive 51 54	ему
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T0 Arg2:T2	

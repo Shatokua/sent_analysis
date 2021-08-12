@@ -1,0 +1,7 @@
+T1	Neutral 31 42	К.Бишимбаев
+T2	Neutral 100 103	его
+A1	AnaforPerson T2
+T3	Neutral 160 163	его
+A2	AnaforPerson T3
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T1 Arg2:T2	

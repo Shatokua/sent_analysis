@@ -1,0 +1,18 @@
+T0	Neutral_all 136 141	Алина
+T1	Neutral_all 146 150	Женя
+T2	Neutral_all 30 33	Они
+A1	Plural T2
+T3	Neutral_all 64 66	мы
+A2	Plural T3
+T4	Neutral_all 73 75	их
+A3	Plural T4
+T5	Neutral_all 106 109	они
+A4	Plural T5
+T105	Neutral_all 46 49	они
+A5	Plural T105
+R1	Anafor Arg1:T5 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T0 Arg2:T5
+R4	Anafor Arg1:T1 Arg2:T5
+R104	Anafor Arg1:T2 Arg2:T105
+R105	Anafor Arg1:T105 Arg2:T4

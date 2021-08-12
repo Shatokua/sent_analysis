@@ -1,0 +1,16 @@
+T0	Positive 28 45	Ильхам Гейдарович
+T1	Positive 122 136	Гейдара Алиева
+T2	Positive 244 256	Ильхам Алиев
+T3	Positive 47 49	он
+A1	AnaforPerson T3
+T4	Neutral 98 101	его
+A2	AnaforPerson T4
+T5	Positive 138 140	Он
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	
+R3	Anafor Arg1:T1 Arg2:T5	
+T6	Neutral 232 235	его
+A4	AnaforPerson T6
+R4	Anafor Arg1:T5 Arg2:T6	
+R5	Anafor Arg1:T4 Arg2:T2	

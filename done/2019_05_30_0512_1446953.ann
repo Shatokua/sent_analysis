@@ -1,0 +1,5 @@
+T0	Neutral_all 61 69	Слуцкого
+T1	Neutral_all 132 140	Слуцкого
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

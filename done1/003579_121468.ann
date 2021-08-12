@@ -1,0 +1,7 @@
+T0	Neutral_all 53 62	М.Зайцева
+T1	Neutral_all 74 91	Елену Сидоренкову
+T2	Neutral_all 109 118	М.Зайцеву
+T3	Neutral_all 329 342	Е.Сидоренкова
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T3 Arg2:T1

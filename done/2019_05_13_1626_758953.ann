@@ -1,0 +1,4 @@
+T1	Positive 83 98	Юрий Семенович
+T2	Positive 112 115	вас
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

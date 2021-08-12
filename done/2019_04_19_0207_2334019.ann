@@ -1,0 +1,4 @@
+T0	Neutral_all 52 60	Мохаммад
+T1	Neutral_all 129 135	Камила
+T2	Neutral_all 138 146	Мохаммад
+R1	Anafor Arg1:T0 Arg2:T2

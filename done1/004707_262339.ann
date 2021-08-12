@@ -1,0 +1,9 @@
+T0	Neutral_all 433 442	Тимошенко
+T1	Neutral_all 525 534	Порошенко
+T2	Neutral_all 581 592	Робина Гуда
+T3	Neutral_all 475 478	Она
+A1	AnaforPerson T3
+T4	Neutral_all 537 540	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T4

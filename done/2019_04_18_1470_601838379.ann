@@ -1,0 +1,4 @@
+T1	Negative 143 163	Виктором) Януковичем
+T2	Negative 243 245	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

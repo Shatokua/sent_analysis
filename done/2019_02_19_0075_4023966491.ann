@@ -1,0 +1,26 @@
+T101	Neutral_all 52 55	Лев
+T102	Neutral_all 389 396	Турчака
+T103	Positive_all 110 112	Он
+A1	AnaforPerson T103
+T104	Positive_all 180 182	Он
+A2	AnaforPerson T104
+T105	Neutral_all 267 269	он
+A3	AnaforPerson T105
+T106	Neutral_all 313 315	Он
+A4	AnaforPerson T106
+T107	Neutral 399 401	он
+A5	AnaforPerson T107
+T108	Neutral_all 448 451	его
+A6	AnaforPerson T108
+T109	Neutral 478 481	его
+A7	AnaforPerson T109
+T110	Neutral_all 531 533	он
+A8	AnaforPerson T110
+R1	Anafor Arg1:T101 Arg2:T103
+R2	Anafor Arg1:T103 Arg2:T104
+R3	Anafor Arg1:T104 Arg2:T105
+R4	Anafor Arg1:T105 Arg2:T106
+R105	Anafor Arg1:T106 Arg2:T107
+R106	Anafor Arg1:T107 Arg2:T108
+R107	Anafor Arg1:T108 Arg2:T109
+R108	Anafor Arg1:T109 Arg2:T110

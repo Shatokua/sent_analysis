@@ -1,0 +1,9 @@
+T0	Neutral_all 43 58	Мехман Гусейнов
+T1	Neutral_all 12 14	мы
+A1	Plural T1
+T2	Neutral_all 113 116	ему
+A2	AnaforPerson T2
+T3	Neutral_all 145 148	его
+A3	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

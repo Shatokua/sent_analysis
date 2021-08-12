@@ -1,0 +1,6 @@
+T2	Neutral_all 79 82	них
+A1	Plural T2
+T3	Neutral_all 177 180	они
+A2	Plural T3
+T1	Neutral_all 200 228	Сергея Валерьевича (Аксенова
+R1	Anafor Arg1:T3 Arg2:T2

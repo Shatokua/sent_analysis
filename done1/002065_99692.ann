@@ -1,0 +1,7 @@
+T0	Neutral_all 196 208	Арик Манукян
+T1	Neutral_all 259 264	Петру
+T2	Neutral_all 61 63	мы
+A1	Plural T2
+T103	Neutral_all 126 129	нас
+A2	Plural T103
+R101	Anafor Arg1:T2 Arg2:T103

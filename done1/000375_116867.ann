@@ -1,0 +1,5 @@
+T0	Neutral_all 205 226	Эльдибитта Метельская
+T1	Neutral_all 43 54	Метельского
+T2	Neutral_all 356 358	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

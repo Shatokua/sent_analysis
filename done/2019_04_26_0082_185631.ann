@@ -1,0 +1,8 @@
+T0	Negative_all 12 18	Путину
+T1	Neutral_all 33 48	Саддама Хусейна
+T2	Negative_all 0 2	Он
+A1	AnaforPerson T2
+T3	Neutral_all 99 103	нами
+A2	Plural T3
+T4	Neutral_all 151 153	их
+A3	Plural T4

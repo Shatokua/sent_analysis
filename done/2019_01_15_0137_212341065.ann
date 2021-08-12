@@ -1,0 +1,5 @@
+T0	Positive 9 20	Жириновский
+T101	Neutral_all 83 99	Рамзана Кадырова
+T1	Positive 111 115	себе
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

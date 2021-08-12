@@ -1,0 +1,4 @@
+T0	Negative 77 94	Бориса Абрамовича
+T101	Negative 162 173	Березовский
+T102	Neutral_all 186 195	Януковиче
+R1	Anafor Arg1:T0 Arg2:T101	

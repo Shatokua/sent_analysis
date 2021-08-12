@@ -1,0 +1,7 @@
+T0	Positive 18 26	Скабелки
+T1	Positive 51 53	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 117 119	он
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	

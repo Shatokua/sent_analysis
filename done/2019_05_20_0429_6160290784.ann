@@ -1,0 +1,4 @@
+T0	Neutral 134 147	Дональд Трамп
+T1	Neutral 410 419	Порошенко
+T2	Neutral 472 481	Порошенко
+R1	Variant Arg1:T1 Arg2:T2	

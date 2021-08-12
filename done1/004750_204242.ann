@@ -1,0 +1,23 @@
+T0	Neutral_all 7 23	Игоря Вострикова
+T1	Neutral_all 87 107	Надеждой Николаевной
+T2	Neutral_all 131 140	Востриков
+T3	Neutral_all 181 186	Алёна
+T4	Neutral_all 220 230	Вострикова
+T5	Neutral_all 290 295	Игоря
+T6	Neutral_all 2 5	его
+A1	AnaforPerson T6
+T7	Neutral_all 143 145	её
+A2	AnaforPerson T7
+T8	Neutral_all 256 259	нас
+A3	Plural T8
+T9	Neutral_all 335 338	его
+A4	AnaforPerson T9
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R4	Anafor Arg1:T5 Arg2:T6
+R5	Anafor Arg1:T6 Arg2:T9
+R6	Anafor Arg1:T9 Arg2:T8
+R7	Anafor Arg1:T3 Arg2:T8
+R8	Anafor Arg1:T1 Arg2:T7
+R9	Anafor Arg1:T7 Arg2:T8

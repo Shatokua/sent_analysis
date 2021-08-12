@@ -1,0 +1,7 @@
+T1	Negative 64 68	Ярош
+T2	Negative 59 62	вам
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Negative 97 103	вашему
+A2	AnaforPerson T3
+R2	Anafor Arg1:T1 Arg2:T3	

@@ -1,0 +1,8 @@
+T0	Neutral_all 34 50	Роберте Кочаряне
+T1	Neutral_all 59 61	мы
+A1	Plural T1
+T2	Neutral_all 112 114	их
+A2	Plural T2
+T3	Neutral_all 121 123	Мы
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3

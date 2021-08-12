@@ -1,0 +1,6 @@
+T0	Neutral_all 314 343	Василия Васильевича Докучаева
+T1	Neutral_all 452 454	Мы
+A1	Plural T1
+T2	Neutral_all 588 590	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

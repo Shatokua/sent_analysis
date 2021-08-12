@@ -1,0 +1,7 @@
+T0	Neutral_all 58 72	Юрия Павловича
+T1	Neutral_all 75 91	Ильи Леонидовича
+T2	Neutral_all 254 256	мы
+A1	Plural T2
+T103	Neutral_all 375 377	мы
+A2	Plural T103
+R101	Anafor Arg1:T2 Arg2:T103

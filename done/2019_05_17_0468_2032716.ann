@@ -1,0 +1,10 @@
+T1	Neutral_all 68 80	Тейлор Свифт
+T2	Negative 138 150	Тейлор Свифт
+T3	Positive_all 0 3	Она
+A1	AnaforPerson T3
+T4	Positive 5 19	Марша Блэкберн
+T5	Neutral_all 99 102	ней
+A2	AnaforPerson T5
+R1	Anafor Arg1:T4 Arg2:T3
+R2	Anafor Arg1:T4 Arg2:T5	
+R3	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,15 @@
+T0	Neutral_all 74 81	Голунов
+T3	Neutral_all 253 279	Лешкевич Эмилии Дмитриевне
+T4	Neutral_all 281 296	Эмилия Лешкевич
+T5	Neutral_all 399 406	Голунов
+T6	Neutral_all 446 472	Умалатов Сардал Муслимович
+T7	Neutral_all 600 617	Сардала Умалатова
+T8	Neutral_all 627 661	Колокольцев Александр Владимирович
+T9	Neutral_all 677 699	Владимира Колокольцева
+T1	Neutral_all 222 245	Южанину Андрею Юрьевичу
+T2	Neutral_all 476 478	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T5
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T6 Arg2:T7
+R4	Anafor Arg1:T7 Arg2:T2

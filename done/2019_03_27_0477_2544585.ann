@@ -1,0 +1,6 @@
+T1	Neutral 98 104	Кирилл
+T2	Positive 178 181	его
+A1	AnaforPerson T2
+T100	Mixed 22 40	Кирилла Вышинского
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

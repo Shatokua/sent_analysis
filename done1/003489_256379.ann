@@ -1,0 +1,14 @@
+T0	Neutral_all 41 59	Кристина Орбакайте
+T1	Neutral_all 61 76	Валерий Меладзе
+T2	Neutral_all 78 91	Григорий Лепс
+T3	Neutral_all 93 106	Максим Галкин
+T4	Neutral_all 108 112	Эмин
+T5	Neutral_all 170 189	Евгением Ивановичем
+T6	Neutral_all 136 139	его
+A1	AnaforPerson T6
+T7	Neutral_all 201 203	Мы
+A2	Plural T7
+T8	Neutral_all 227 230	его
+A3	AnaforPerson T8
+R1	Anafor Arg1:T5 Arg2:T6
+R2	Anafor Arg1:T6 Arg2:T8

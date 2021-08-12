@@ -1,0 +1,7 @@
+T0	Neutral 88 94	Ширшов
+T1	Neutral 213 216	его
+A1	AnaforPerson T1
+T2	Neutral 501 504	они
+A2	AnaforPerson T2
+A3	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1	

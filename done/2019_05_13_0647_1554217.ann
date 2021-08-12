@@ -1,0 +1,7 @@
+T1	Positive 39 50	Меган Маркл
+T2	Positive 58 60	их
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Positive 31 36	Гарри
+R2	Anafor Arg1:T3 Arg2:T2	

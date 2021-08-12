@@ -1,0 +1,8 @@
+T0	Neutral_all 36 55	Александру Кирюхину
+T1	Neutral_all 145 161	Вадиму Гаврилову
+T2	Neutral_all 188 202	Олегу Лазареву
+T3	Neutral_all 246 260	Сергею Уланину
+T4	Neutral_all 327 347	Александру Безрукову
+T5	Neutral_all 164 167	его
+A1	AnaforPerson T5
+R1	Anafor Arg1:T1 Arg2:T5

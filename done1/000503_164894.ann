@@ -1,0 +1,9 @@
+T1	Neutral_all 112 116	Вовы
+T2	Neutral_all 176 191	Алана Дзилихова
+T3	Negative 51 53	он
+A1	AnaforPerson T3
+T100	Negative 2 9	Хугаеву
+T104	Neutral 193 195	Он
+A4	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T104	

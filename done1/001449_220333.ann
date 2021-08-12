@@ -1,0 +1,11 @@
+T0	Neutral_all 20 27	М.Калви
+T3	Neutral_all 370 377	М.Калви
+T4	Neutral_all 78 82	него
+A1	AnaforPerson T4
+T1	Neutral_all 119 126	М.Калви
+T2	Neutral_all 289 293	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T4

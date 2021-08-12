@@ -1,0 +1,8 @@
+T0	Positive 201 208	Раньери
+T1	Neutral 108 111	они
+A1	AnaforPerson T1
+T2	Positive 145 148	они
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+A3	Plural T2
+A4	Plural T1

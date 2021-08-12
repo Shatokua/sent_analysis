@@ -1,0 +1,4 @@
+T1	Positive 67 71	Макс
+T100	Neutral_all 4 19	Максим Виторган
+T102	Neutral_all 128 133	Максу
+R1	Anafor Arg1:T1 Arg2:T102	

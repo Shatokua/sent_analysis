@@ -1,0 +1,5 @@
+T3	Negative 93 99	вашему
+A1	AnaforPerson T3
+T102	Neutral_all 68 78	Саакашвили
+T1	Negative 0 26	Петр Алексеевич (Порошенко
+R1	Anafor Arg1:T1 Arg2:T3	

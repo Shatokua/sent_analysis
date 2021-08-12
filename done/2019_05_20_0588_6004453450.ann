@@ -1,0 +1,11 @@
+T0	Neutral 54 67	Дональд Трамп
+T1	Neutral 70 83	Берни Сандерс
+T2	Neutral 155 157	их
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Neutral 188 191	они
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T2	

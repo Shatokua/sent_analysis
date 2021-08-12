@@ -1,0 +1,4 @@
+T0	Neutral_all 25 40	Петра Порошенко
+T1	Neutral_all 83 92	Порошенко
+T2	Neutral_all 128 145	Владимира] Путина
+R1	Anafor Arg1:T0 Arg2:T1

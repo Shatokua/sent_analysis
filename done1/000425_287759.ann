@@ -1,0 +1,12 @@
+T0	Neutral_all 92 101	Головкина
+T1	Neutral_all 133 150	Саулем Альваресом
+T2	Neutral_all 267 276	Головкину
+T3	Neutral_all 311 319	Эндрэдом
+T4	Neutral_all 20 22	вы
+A1	Plural T4
+T5	Neutral_all 187 189	их
+A2	Plural T5
+A3	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T5
+R3	Anafor Arg1:T2 Arg2:T5

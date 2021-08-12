@@ -1,0 +1,6 @@
+T0	Neutral_all 5 19	Ангела Меркель
+T3	Neutral_all 21 34	Angela Merkel
+T1	Neutral_all 47 60	фон дер Ляйен
+T2	Neutral_all 212 225	фон дер Ляйен
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T3

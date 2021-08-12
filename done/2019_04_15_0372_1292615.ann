@@ -1,0 +1,6 @@
+T0	Negative_all 9 18	Порошенко
+T1	Negative_all 59 68	Порошенко
+T2	Negative_all 71 74	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

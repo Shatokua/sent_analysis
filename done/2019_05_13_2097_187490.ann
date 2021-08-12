@@ -1,0 +1,4 @@
+T0	Positive 184 197	Ольга Якимова
+T1	Positive 200 202	ее
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

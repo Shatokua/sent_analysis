@@ -1,0 +1,12 @@
+T0	Neutral_all 71 81	Васильевой
+T1	Neutral_all 300 315	Владимир Драчёв
+T2	Neutral_all 639 649	Васильевой
+T3	Neutral_all 98 101	она
+A1	AnaforPerson T3
+T4	Neutral_all 185 187	её
+A2	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

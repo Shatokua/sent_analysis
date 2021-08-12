@@ -1,0 +1,7 @@
+T100	Neutral 51 56	Данко
+T101	Neutral_all 64 81	Наталия Устюменко
+T102	Negative 237 242	Данко
+T103	Neutral_all 162 164	ее
+A1	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103	
+R2	Anafor Arg1:T100 Arg2:T102	

@@ -1,0 +1,4 @@
+T0	Positive 16 30	Анжелик Кербер
+T1	Positive 75 78	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

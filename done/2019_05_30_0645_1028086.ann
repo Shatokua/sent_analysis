@@ -1,0 +1,4 @@
+T0	Positive_all 120 125	Димке
+T1	Positive 127 144	Дмитрию Марьянову
+R1	Anafor Arg1:T1 Arg2:T0	
+A1	AnaforPerson T0

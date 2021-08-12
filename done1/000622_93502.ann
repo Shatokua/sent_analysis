@@ -1,0 +1,7 @@
+T0	Negative_all 313 331	Всеволод Непогодин
+T1	Neutral_all 76 78	мы
+A1	Plural T1
+T2	Neutral_all 133 135	мы
+A2	Plural T2
+T3	Neutral_all 224 227	его
+R1	Anafor Arg1:T1 Arg2:T2

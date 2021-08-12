@@ -1,0 +1,4 @@
+T100	Neutral_all 67 73	Лавров
+T101	Neutral_all 93 98	Керри
+T102	Neutral_all 122 127	Керри
+R1	Anafor Arg1:T101 Arg2:T102

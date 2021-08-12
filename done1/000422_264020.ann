@@ -1,0 +1,8 @@
+T0	Neutral_all 8 28	Константина Барулина
+T1	Neutral_all 139 147	Кочетков
+T2	Neutral_all 149 156	Ахметов
+T3	Neutral_all 59 62	нас
+A1	Plural T3
+T4	Neutral_all 95 98	нас
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4

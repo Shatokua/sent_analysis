@@ -1,0 +1,9 @@
+T0	Neutral 52 67	Василия Юрченко
+T1	Neutral 119 136	Михаила Прохорова
+T2	Neutral 222 236	Виктор Козодой
+T3	Neutral 184 187	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+T4	Neutral 261 264	ним
+A2	AnaforPerson T4
+R2	Anafor Arg1:T2 Arg2:T4	

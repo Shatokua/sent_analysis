@@ -1,0 +1,7 @@
+T0	Neutral_all 36 53	Андрей Демидченко
+T1	Neutral_all 56 59	его
+A1	AnaforPerson T1
+T102	Neutral_all 157 167	Демидченко
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T0 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T1

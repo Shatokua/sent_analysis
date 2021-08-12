@@ -1,0 +1,5 @@
+T0	Neutral_all 42 51	Януковича
+T1	Neutral_all 77 86	Виталия -
+T2	Neutral_all 99 109	Захарченко
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

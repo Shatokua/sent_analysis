@@ -1,0 +1,4 @@
+T0	Positive 16 35	Бидзиной Иванишвили
+T1	Positive 84 86	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,9 @@
+T3	Neutral 234 237	его
+A1	AnaforPerson T3
+T100	Neutral_all 30 49	Александра Головина
+T101	Neutral_all 124 134	Александра
+T102	Neutral_all 188 190	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T102
+R3	Anafor Arg1:T102 Arg2:T3

@@ -1,0 +1,15 @@
+T0	Neutral_all 48 62	Найджела Доуса
+T1	Neutral_all 342 348	Доусом
+T2	Neutral_all 436 443	Найджел
+T3	Neutral_all 293 295	их
+A1	Plural T3
+T4	Neutral_all 356 358	он
+A2	AnaforPerson T4
+T5	Neutral_all 511 514	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T4

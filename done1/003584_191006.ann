@@ -1,0 +1,25 @@
+T2	Neutral_all 82 88	Завада
+T3	Neutral_all 310 315	Копач
+T6	Neutral_all 514 523	Неверовой
+T7	Neutral_all 622 631	Неверовой
+T1	Neutral_all 33 50	Слободюка Николая
+T4	Neutral_all 423 450	Слободюк Василий Дмитриевич
+T5	Neutral_all 452 478	Слободюк Василий Аксенович
+T8	Neutral_all 570 572	ее
+A1	AnaforPerson T8
+T9	Neutral_all 589 592	ней
+A2	AnaforPerson T9
+T10	Neutral_all 605 607	мы
+A3	Plural T10
+T11	Neutral_all 632 634	ее
+A4	AnaforPerson T11
+T12	Neutral_all 701 703	мы
+A5	Plural T12
+R1	Anafor Arg1:T6 Arg2:T7
+R2	Anafor Arg1:T7 Arg2:T8
+R3	Anafor Arg1:T8 Arg2:T11
+R4	Anafor Arg1:T11 Arg2:T9
+R5	Anafor Arg1:T10 Arg2:T12
+R6	Anafor Arg1:T4 Arg2:T10
+R7	Anafor Arg1:T5 Arg2:T10
+R104	Anafor Arg1:T12 Arg2:T10

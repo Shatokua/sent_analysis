@@ -1,0 +1,6 @@
+T0	Negative 14 31	Владимира Омеляна
+T1	Negative_all 115 121	Володя
+T2	Negative 43 46	ему
+A1	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T0 Arg2:T2	

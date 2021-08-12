@@ -1,0 +1,6 @@
+T0	Neutral 276 286	Ким Чен Ын
+T1	Neutral 216 218	он
+A1	AnaforPerson T1
+T2	Neutral 239 242	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T1 Arg2:T2	

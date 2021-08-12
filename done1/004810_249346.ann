@@ -1,0 +1,6 @@
+T0	Neutral_all 33 61	Евгением Ивановичем Дитрихом
+T1	Neutral_all 178 180	мы
+A1	Plural T1
+T2	Neutral_all 218 221	нас
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

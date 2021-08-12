@@ -1,0 +1,12 @@
+T0	Neutral_all 109 118	Липницкой
+T1	Neutral_all 124 134	Медведевой
+T2	Neutral_all 5 13	Загитову
+T4	Neutral_all 85 87	Ее
+A2	AnaforPerson T4
+T103	Neutral 26 29	нее
+A4	AnaforPerson T103
+T105	Neutral 152 154	ей
+A5	AnaforPerson T105
+R2	Anafor Arg1:T2 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T4	
+R1	Anafor Arg1:T1 Arg2:T105	

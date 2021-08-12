@@ -1,0 +1,7 @@
+T0	Neutral_all 69 83	Владимир Путин
+T2	Neutral_all 798 812	Рамзан Кадыров
+T1	Neutral_all 827 829	мы
+A1	Plural T1
+T101	Neutral_all 713 716	нас
+A2	Plural T101
+R101	Anafor Arg1:T1 Arg2:T101

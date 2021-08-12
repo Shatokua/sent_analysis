@@ -1,0 +1,14 @@
+T0	Neutral_all 0 17	Андрей Николаевич
+T1	Neutral_all 91 94	его
+A1	AnaforPerson T1
+T2	Neutral_all 197 199	он
+A2	AnaforPerson T2
+T3	Neutral_all 313 315	он
+A3	AnaforPerson T3
+T4	Neutral_all 317 320	Его
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T1
+R103	Anafor Arg1:T3 Arg2:T1

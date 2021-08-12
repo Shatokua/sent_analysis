@@ -1,0 +1,7 @@
+T1	Neutral 107 121	Ангела Меркель
+T100	Neutral_all 71 78	Сталина
+T102	Neutral_all 144 151	Гитлера
+T103	Neutral_all 198 205	Гитлера
+T104	Neutral 52 54	он
+A1	AnaforPerson T104
+R1	Anafor Arg1:T102 Arg2:T103

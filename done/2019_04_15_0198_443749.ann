@@ -1,0 +1,3 @@
+T100	Neutral_all 23 38	Хиллари Клинтон
+T101	Negative 133 140	Клинтон
+R1	Anafor Arg1:T100 Arg2:T101	

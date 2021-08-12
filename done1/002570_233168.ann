@@ -1,0 +1,10 @@
+T0	Neutral_all 418 432	Аиды Саляновой
+T1	Neutral_all 12 14	ее
+A1	AnaforPerson T1
+T2	Neutral_all 117 120	она
+A2	AnaforPerson T2
+T3	Neutral_all 162 165	Она
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T1

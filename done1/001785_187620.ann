@@ -1,0 +1,6 @@
+T0	Neutral_all 0 9	Джо Роган
+T1	Neutral_all 12 22	Дэйна Уайт
+T2	Neutral_all 53 65	Джона Джонса
+T3	Neutral_all 110 115	Джонс
+R1	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T2 Arg2:T3

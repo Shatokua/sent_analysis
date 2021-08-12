@@ -1,0 +1,11 @@
+T2	Neutral 164 171	Браудер
+T3	Neutral 248 251	его
+A1	AnaforPerson T3
+T4	Neutral 445 447	он
+A2	AnaforPerson T4
+T101	Negative 21 27	Путине
+T1	Neutral 121 127	Сергея
+T5	Neutral 129 140	Магнитского
+R1	Anafor Arg1:T1 Arg2:T5	
+R2	Anafor Arg1:T5 Arg2:T3	
+R3	Anafor Arg1:T2 Arg2:T4	

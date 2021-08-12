@@ -1,0 +1,13 @@
+T0	Negative 0 11	Жириновский
+T1	Negative 84 86	он
+A1	AnaforPerson T1
+T2	Neutral 181 184	его
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 329 333	ними
+A2	AnaforPerson T3
+A3	Plural T3
+T4	Neutral 347 350	они
+A4	AnaforPerson T4
+A5	Plural T4
+R3	Anafor Arg1:T4 Arg2:T3	

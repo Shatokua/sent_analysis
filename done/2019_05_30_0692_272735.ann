@@ -1,0 +1,6 @@
+T2	Neutral_all 42 44	вы
+A1	Plural T2
+T1	Neutral_all 64 81	Рексе (Тиллерсоне
+T3	Positive_all 103 105	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

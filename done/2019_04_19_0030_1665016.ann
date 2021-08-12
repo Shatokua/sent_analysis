@@ -1,0 +1,8 @@
+T3	Neutral_all 0 22	Анатолий Александрович
+T4	Neutral_all 94 97	ему
+A1	AnaforPerson T4
+T101	Neutral 28 36	Яковлева
+T103	Neutral 23 26	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103	
+R2	Anafor Arg1:T101 Arg2:T4	

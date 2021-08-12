@@ -1,0 +1,5 @@
+T0	Neutral_all 0 17	Павел Анатольевич
+T1	Neutral_all 39 55	Христофор Колумб
+T2	Neutral_all 89 91	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

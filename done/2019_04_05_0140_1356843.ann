@@ -1,0 +1,7 @@
+T100	Neutral_all 12 19	Меркель
+T101	Neutral_all 36 43	Шредера
+T102	Negative 66 73	Климкин
+T103	Negative 133 140	Климкин
+T104	Neutral_all 100 106	Шредер
+R1	Anafor Arg1:T101 Arg2:T104	
+R2	Anafor Arg1:T102 Arg2:T103	

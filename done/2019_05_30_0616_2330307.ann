@@ -1,0 +1,9 @@
+T0	Neutral_all 190 197	Трусова
+T1	Neutral_all 209 218	Щербакова
+T2	Neutral_all 44 47	они
+A1	Plural T2
+T3	Neutral_all 222 225	ней
+A2	AnaforPerson T3
+T103	Neutral_all 166 169	них
+A3	Plural T103
+R1	Anafor Arg1:T0 Arg2:T3

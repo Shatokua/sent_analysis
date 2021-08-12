@@ -1,0 +1,12 @@
+T2	Negative 128 135	Хиллари
+T3	Negative 166 169	она
+A1	AnaforPerson T3
+T4	Negative 245 247	ее
+A2	AnaforPerson T4
+T100	Negative_all 413 418	Обаме
+T101	Negative_all 0 8	Клинтоны
+T104	Negative_all 351 358	Клинтон
+R2	Anafor Arg1:T3 Arg2:T4
+R1	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T4 Arg2:T104	

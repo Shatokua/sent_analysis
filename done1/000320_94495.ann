@@ -1,0 +1,5 @@
+T101	Neutral 43 56	Давыдова Н.Т.
+T102	Neutral 144 156	Суркову И.В.
+T103	Neutral 429 441	Суркова И.В.
+R1	Anafor Arg1:T102 Arg2:T103	
+T1	Neutral 479 492	Давыдову Н.Т.

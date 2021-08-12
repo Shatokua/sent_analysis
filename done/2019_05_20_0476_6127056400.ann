@@ -1,0 +1,4 @@
+T1	Neutral 14 25	Барак Обама
+T2	Neutral 36 39	вам
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

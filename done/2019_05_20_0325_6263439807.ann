@@ -1,0 +1,5 @@
+T0	Neutral 14 24	Мединского
+T1	Negative 345 347	Вы
+A1	AnaforPerson T1
+T2	Neutral 368 371	его
+A2	AnaforPerson T2

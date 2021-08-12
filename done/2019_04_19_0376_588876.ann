@@ -1,0 +1,10 @@
+T1	Negative_all 84 94	Навального
+T2	Negative 8 10	вы
+A1	AnaforPerson T2
+T3	Neutral_all 197 200	вас
+T100	Negative 12 22	Коломейцев
+R1	Anafor Arg1:T100 Arg2:T2	
+T4	Neutral 139 143	вами
+A2	AnaforPerson T4
+R2	Anafor Arg1:T100 Arg2:T4	
+R3	Anafor Arg1:T4 Arg2:T3	

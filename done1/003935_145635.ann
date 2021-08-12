@@ -1,0 +1,12 @@
+T0	Neutral_all 169 176	Ализаде
+T1	Neutral_all 596 609	Лаура Перетти
+T2	Neutral_all 178 180	Он
+A1	AnaforPerson T2
+T3	Neutral_all 211 213	он
+A2	AnaforPerson T3
+T4	Neutral_all 400 403	она
+A3	AnaforPerson T4
+T5	Neutral_all 836 839	вас
+A4	Plural T5
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

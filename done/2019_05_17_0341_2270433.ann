@@ -1,0 +1,4 @@
+T0	Neutral_all 21 28	Путиным
+T1	Neutral_all 38 46	Николаем
+T2	Neutral_all 49 62	Никол Пашинян
+R1	Anafor Arg1:T2 Arg2:T1

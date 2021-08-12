@@ -1,0 +1,16 @@
+T0	Neutral_all 0 8	Зинченко
+T1	Neutral_all 105 114	Селезнева
+T2	Neutral_all 191 195	Жени
+T3	Neutral_all 35 39	него
+A1	AnaforPerson T3
+T4	Neutral_all 138 140	он
+A2	AnaforPerson T4
+T5	Neutral_all 199 203	него
+A3	AnaforPerson T5
+T106	Neutral_all 177 179	мы
+A4	Plural T106
+R3	Anafor Arg1:T0 Arg2:T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T5
+R103	Anafor Arg1:T2 Arg2:T5

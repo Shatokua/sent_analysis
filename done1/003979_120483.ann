@@ -1,0 +1,6 @@
+T0	Neutral_all 228 244	Николая Лугинова
+T1	Neutral_all 332 347	Любовь Борисова
+T2	Neutral_all 141 144	его
+A1	AnaforPerson T2
+T3	Neutral_all 276 278	Мы
+A2	Plural T3

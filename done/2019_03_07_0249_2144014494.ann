@@ -1,0 +1,5 @@
+T2	Negative 155 162	Гитлера
+T100	Negative 84 91	Сталина
+T101	Negative_all 94 101	Гитлера
+T103	Negative_all 201 208	Гозмана
+R1	Anafor Arg1:T101 Arg2:T2	

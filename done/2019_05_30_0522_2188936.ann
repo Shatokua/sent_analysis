@@ -1,0 +1,5 @@
+T0	Neutral_all 0 13	Роман Сущенко
+T1	Neutral_all 156 176	Валентином Выговским
+T2	Neutral_all 102 105	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

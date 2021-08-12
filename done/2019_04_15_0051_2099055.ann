@@ -1,0 +1,6 @@
+T100	Positive 0 8	Плишкова
+T101	Positive 134 142	Каролина
+T102	Neutral_all 68 71	она
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	

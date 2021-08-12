@@ -1,0 +1,3 @@
+T100	Neutral_all 106 125	Георгия Полтавченко
+T101	Negative 193 204	Полтавченко
+R1	Anafor Arg1:T100 Arg2:T101	

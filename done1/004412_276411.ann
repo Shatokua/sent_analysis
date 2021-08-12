@@ -1,0 +1,6 @@
+T0	Neutral_all 13 23	Д.Моторина
+T1	Neutral_all 291 301	Д.Моторина
+T2	Neutral_all 114 116	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T5	Negative 166 168	Он
+A1	AnaforPerson T5
+T101	Neutral_all 60 76	Владимиру Рыбаку
+T102	Neutral_all 150 164	Павла Лебедева
+T103	Neutral_all 206 215	Януковича
+T104	Neutral_all 231 246	Сергея Власенко
+R1	Anafor Arg1:T102 Arg2:T5

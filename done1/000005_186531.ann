@@ -1,0 +1,4 @@
+T0	Positive_all 76 92	Роману Роменкову
+T101	Positive 245 248	ему
+A1	AnaforPerson T101
+R1	Anafor Arg1:T0 Arg2:T101	

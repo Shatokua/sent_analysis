@@ -1,0 +1,10 @@
+T0	Neutral 10 25	Юрий Витальевич
+T101	Negative_all 174 183	Януковича
+T102	Negative_all 226 242	Геннадия Кернеса
+T103	Positive 41 44	вас
+A1	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T103	
+T1	Negative 186 189	его
+T2	Neutral 212 215	его
+R2	Anafor Arg1:T101 Arg2:T1	
+R3	Anafor Arg1:T1 Arg2:T2	

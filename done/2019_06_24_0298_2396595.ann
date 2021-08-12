@@ -1,0 +1,5 @@
+T0	Neutral_all 56 62	Путина
+T1	Neutral_all 85 91	Путина
+T2	Neutral_all 0 2	Вы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

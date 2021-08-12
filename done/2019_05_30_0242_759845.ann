@@ -1,0 +1,5 @@
+T1	Negative 201 219	Вячеслава Володина
+T2	Positive 134 137	она
+A1	AnaforPerson T2
+T100	Positive 100 119	Валентина Матвиенко
+R1	Anafor Arg1:T100 Arg2:T2	

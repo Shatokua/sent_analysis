@@ -1,0 +1,5 @@
+T0	Neutral_all 56 65	Порошенко
+T1	Neutral_all 83 98	Арсен Борисович
+T2	Neutral_all 124 128	него
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

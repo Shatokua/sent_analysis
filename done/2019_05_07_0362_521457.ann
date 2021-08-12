@@ -1,0 +1,6 @@
+T0	Neutral 23 38	Рината Ахметова
+T1	Neutral 77 79	мы
+A1	Plural T1
+T2	Neutral 96 99	его
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T2	

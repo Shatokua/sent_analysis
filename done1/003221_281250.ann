@@ -1,0 +1,9 @@
+T0	Neutral_all 194 206	Ильи Геркуса
+T1	Neutral_all 72 74	вы
+A1	Plural T1
+T2	Neutral_all 86 88	им
+A2	Plural T2
+T3	Neutral_all 356 359	его
+A3	AnaforPerson T3
+T4	Neutral_all 443 445	Мы
+A4	Plural T4

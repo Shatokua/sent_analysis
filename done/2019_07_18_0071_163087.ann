@@ -1,0 +1,10 @@
+T0	Neutral 0 7	Клинтон
+T1	Positive 98 100	ее
+A1	AnaforPerson T1
+T2	Positive 103 105	ее
+A2	AnaforPerson T2
+R1	Variant Arg1:T0 Arg2:T1	
+R2	Variant Arg1:T1 Arg2:T2	
+T3	Neutral 139 142	Она
+A3	AnaforPerson T3
+R3	Variant Arg1:T2 Arg2:T3	

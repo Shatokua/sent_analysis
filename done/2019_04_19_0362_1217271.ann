@@ -1,0 +1,5 @@
+T0	Neutral_all 0 8	Комарова
+T1	Neutral 115 123	Силуанов
+T2	Neutral 148 150	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

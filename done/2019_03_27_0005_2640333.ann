@@ -1,0 +1,10 @@
+T0	Negative_all 101 110	Порошенко
+T1	Neutral_all 116 123	Путиным
+T2	Negative_all 49 52	его
+A1	AnaforPerson T2
+T3	Negative_all 95 99	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2

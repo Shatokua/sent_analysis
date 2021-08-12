@@ -1,0 +1,9 @@
+T0	Neutral_all 0 13	Брэндон Адамс
+T1	Neutral_all 65 85	Геннадием Головкиным
+T2	Neutral_all 107 123	Джермаллом Чарло
+T3	Neutral_all 30 32	он
+A1	AnaforPerson T3
+T4	Neutral_all 149 151	Он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T3

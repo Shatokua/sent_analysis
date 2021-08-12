@@ -1,0 +1,10 @@
+T0	Neutral 101 127	Кибитову Андрею Сергеевичу
+T1	Neutral 183 185	он
+A1	AnaforPerson T1
+T2	Neutral 231 234	они
+A2	AnaforPerson T2
+A3	Plural T2
+T3	Neutral 316 319	них
+A4	AnaforPerson T3
+A5	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1	

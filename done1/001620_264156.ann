@@ -1,0 +1,4 @@
+T0	Neutral_all 54 71	Евгения Исаенкова
+T1	Neutral_all 177 180	ней
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

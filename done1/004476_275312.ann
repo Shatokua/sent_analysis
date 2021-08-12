@@ -1,0 +1,10 @@
+T0	Neutral_all 171 187	Алексею Текслеру
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 128 130	Мы
+A2	Plural T2
+A3	AnaforPerson T2
+T102	Neutral_all 71 74	Нам
+A4	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T102

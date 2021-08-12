@@ -1,0 +1,6 @@
+T1	Neutral 199 211	Наливайченко
+T100	Neutral_all 176 182	Кличко
+T102	Neutral 213 221	Пинзеник
+T2	Negative 270 273	Они
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T102 Arg2:T2	

@@ -1,0 +1,4 @@
+T0	Positive 31 40	Нетаниягу
+T1	Positive 64 67	ней
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

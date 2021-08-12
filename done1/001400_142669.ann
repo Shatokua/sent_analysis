@@ -1,0 +1,50 @@
+T0	Neutral_all 500 511	Скотт Кокер
+T1	Neutral_all 514 521	Рич Чоу
+T2	Neutral_all 561 569	Патрисио
+T3	Neutral_all 94 97	нас
+A1	Plural T3
+T4	Neutral_all 150 152	Мы
+A2	Plural T4
+T5	Neutral_all 184 187	нас
+A3	Plural T5
+T6	Neutral_all 222 225	его
+A4	AnaforPerson T6
+T7	Neutral_all 236 238	он
+A5	AnaforPerson T7
+T8	Neutral_all 384 388	него
+A6	AnaforPerson T8
+T9	Neutral_all 610 612	он
+A7	AnaforPerson T9
+T10	Neutral_all 641 643	Мы
+A8	Plural T10
+T11	Neutral_all 696 699	ему
+A9	AnaforPerson T11
+T12	Neutral_all 786 788	Мы
+A10	Plural T12
+T13	Neutral_all 842 845	ним
+A11	AnaforPerson T13
+T14	Neutral_all 872 875	его
+A12	AnaforPerson T14
+T15	Neutral_all 409 411	Мы
+A13	Plural T15
+T110	Neutral_all 535 537	Мы
+A14	Plural T110
+R1	Anafor Arg1:T2 Arg2:T9
+R2	Anafor Arg1:T10 Arg2:T12
+R3	Anafor Arg1:T13 Arg2:T14
+R4	Anafor Arg1:T4 Arg2:T15
+R5	Anafor Arg1:T15 Arg2:T10
+R6	Anafor Arg1:T9 Arg2:T7
+R7	Anafor Arg1:T7 Arg2:T6
+R8	Anafor Arg1:T6 Arg2:T8
+R9	Anafor Arg1:T8 Arg2:T11
+R10	Anafor Arg1:T11 Arg2:T13
+R102	Anafor Arg1:T15 Arg2:T110
+R103	Anafor Arg1:T110 Arg2:T10
+R104	Anafor Arg1:T2 Arg2:T12
+R105	Anafor Arg1:T10 Arg2:T3
+R106	Anafor Arg1:T3 Arg2:T5
+R108	Anafor Arg1:T2 Arg2:T7
+R109	Anafor Arg1:T6 Arg2:T9
+R110	Anafor Arg1:T9 Arg2:T11
+R111	Anafor Arg1:T11 Arg2:T14

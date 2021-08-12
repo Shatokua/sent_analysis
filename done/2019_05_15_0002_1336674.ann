@@ -1,0 +1,4 @@
+T0	Neutral_all 71 79	Рэшфорду
+T1	Neutral_all 131 138	Рэшфорд
+T2	Negative_all 122 130	де Буром
+R1	Anafor Arg1:T1 Arg2:T0

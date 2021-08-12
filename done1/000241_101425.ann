@@ -1,0 +1,7 @@
+T0	Neutral_all 99 106	Филатов
+T1	Neutral_all 151 166	Алексей Филатов
+T2	Neutral_all 193 202	Порошенко
+T3	Neutral_all 5 8	они
+A1	Plural T3
+T4	Neutral_all 227 230	его
+R1	Anafor Arg1:T1 Arg2:T0

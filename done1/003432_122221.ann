@@ -1,0 +1,6 @@
+T0	Neutral_all 20 31	Майкл Калви
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+T2	Neutral_all 108 111	нам
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

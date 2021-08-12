@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Луценко
+T1	Neutral_all 100 107	Луценко
+T2	Neutral_all 30 32	мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

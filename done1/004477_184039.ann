@@ -1,0 +1,14 @@
+T0	Neutral_all 127 139	Сергей Мороз
+T1	Neutral_all 2 6	него
+A1	AnaforPerson T1
+T2	Neutral_all 20 22	он
+A2	AnaforPerson T2
+T3	Neutral_all 69 73	него
+A3	AnaforPerson T3
+T4	Neutral_all 182 185	его
+A4	AnaforPerson T4
+R1	Anafor Arg1:T2 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R101	Anafor Arg1:T2 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T1

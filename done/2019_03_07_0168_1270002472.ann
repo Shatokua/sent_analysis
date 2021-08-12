@@ -1,0 +1,10 @@
+T100	Neutral_all 0 5	Франк
+T101	Neutral_all 232 239	Райкард
+T102	Neutral_all 338 343	Месси
+T103	Neutral 54 56	ты
+A1	AnaforPerson T103
+T104	Neutral 142 144	он
+A2	AnaforPerson T104
+R101	Anafor Arg1:T100 Arg2:T103
+R102	Anafor Arg1:T102 Arg2:T104
+R103	Anafor Arg1:T103 Arg2:T101

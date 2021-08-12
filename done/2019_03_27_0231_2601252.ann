@@ -1,0 +1,5 @@
+T1	Neutral 157 177	Ахмат-Хаджи Кадырова
+T100	Neutral_all 4 18	Магомед Даудов
+T103	Neutral 0 2	Он
+A1	AnaforPerson T103
+R101	Anafor Arg1:T103 Arg2:T100

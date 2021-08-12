@@ -1,0 +1,5 @@
+T1	Neutral 128 143	Эндрю] Брансона
+T100	Neutral_all 89 102	Тайип Эрдоган
+T103	Neutral_all 68 70	он
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103

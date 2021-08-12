@@ -1,0 +1,4 @@
+T0	Neutral_all 22 28	Трампа
+T1	Neutral_all 126 132	Трампа
+T2	Neutral_all 141 148	Клинтон
+R1	Anafor Arg1:T0 Arg2:T1

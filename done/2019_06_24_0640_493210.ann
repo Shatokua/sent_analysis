@@ -1,0 +1,5 @@
+T0	Neutral_all 55 63	Савченко
+T2	Neutral_all 82 84	ее
+A1	AnaforPerson T2
+T101	Negative 95 104	Порошенко
+R1	Anafor Arg1:T0 Arg2:T2

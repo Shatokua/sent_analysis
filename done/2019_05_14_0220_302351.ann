@@ -1,0 +1,4 @@
+T0	Neutral_all 31 46	Дональда Трампа
+T1	Neutral_all 146 159	Буша-младшего
+T2	Neutral_all 171 179	Дональда
+R1	Anafor Arg1:T0 Arg2:T2

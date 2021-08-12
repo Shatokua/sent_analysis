@@ -1,0 +1,4 @@
+T1	Neutral 187 194	Яценюка
+T100	Neutral 66 75	Тимошенко
+T2	Negative 263 267	него
+R1	Anafor Arg1:T1 Arg2:T2	

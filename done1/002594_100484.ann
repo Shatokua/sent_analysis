@@ -1,0 +1,6 @@
+T0	Neutral_all 0 27	Александр Дмитриевич Беглов
+T1	Neutral_all 233 236	нам
+A1	Plural T1
+T101	Neutral_all 195 199	него
+A2	AnaforPerson T101
+R101	Anafor Arg1:T0 Arg2:T101

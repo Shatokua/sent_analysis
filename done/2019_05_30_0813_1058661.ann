@@ -1,0 +1,6 @@
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T1	Neutral_all 204 218	Мариано] Рахой
+T103	Neutral_all 142 147	нашим
+A2	Plural T103
+R101	Anafor Arg1:T2 Arg2:T103

@@ -1,0 +1,3 @@
+T100	Positive 23 29	Максим
+T101	Positive_all 78 85	Максиму
+R1	Anafor Arg1:T100 Arg2:T101	

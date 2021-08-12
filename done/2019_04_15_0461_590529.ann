@@ -1,0 +1,4 @@
+T0	Neutral_all 20 26	Обамой
+T1	Negative_all 100 105	Обама
+T2	Neutral_all 148 154	Трампа
+R1	Anafor Arg1:T1 Arg2:T0

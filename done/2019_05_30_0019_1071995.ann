@@ -1,0 +1,5 @@
+T0	Neutral_all 46 55	Бен Ладен
+T1	Neutral_all 156 162	Рейган
+T2	Neutral_all 59 62	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

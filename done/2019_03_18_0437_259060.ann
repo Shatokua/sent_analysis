@@ -1,0 +1,4 @@
+T100	Neutral_all 33 53	Александру Маслякову
+T101	Neutral_all 56 73	Михаилу Галустяну
+T102	Neutral_all 140 149	Галустяна
+R1	Anafor Arg1:T101 Arg2:T102

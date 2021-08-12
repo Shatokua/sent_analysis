@@ -1,0 +1,13 @@
+T0	Neutral_all 36 54	Юрия Всеволодовича
+T4	Neutral_all 136 161	Константину Всеволодовичу
+T5	Neutral_all 260 277	Александр Попович
+T6	Neutral_all 295 302	Торопом
+T1	Neutral_all 64 92	Константином (Всеволодовичем
+T2	Neutral_all 188 191	его
+A1	AnaforPerson T2
+T3	Neutral_all 209 212	ним
+A2	AnaforPerson T3
+T7	Neutral_all 236 256	Добрыня Золотой Пояс
+R1	Anafor Arg1:T1 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3

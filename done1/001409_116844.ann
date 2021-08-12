@@ -1,0 +1,12 @@
+T1	Neutral_all 243 267	Орловой Елене Васильевне
+T2	Neutral_all 325 335	Навального
+T3	Neutral_all 493 505	Елену Орлову
+T4	Neutral 23 34	Орловой Е.Н
+T5	Neutral_all 438 441	они
+A1	Plural T5
+T6	Neutral_all 511 514	она
+A2	AnaforPerson T6
+R3	Anafor Arg1:T3 Arg2:T6
+R1	Anafor Arg1:T1 Arg2:T4	
+A3	AnaforPerson T5
+R2	Anafor Arg1:T1 Arg2:T3	

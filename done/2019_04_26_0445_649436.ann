@@ -1,0 +1,5 @@
+T0	Neutral_all 59 69	Поклонской
+T1	Neutral_all 105 124	Владимира Васильева
+T2	Neutral_all 160 162	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

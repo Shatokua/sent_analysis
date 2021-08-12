@@ -1,0 +1,8 @@
+T0	Neutral_all 92 97	Обамы
+T1	Neutral_all 114 118	Буша
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 49 51	Вы
+A2	Plural T3
+T103	Neutral_all 186 189	они
+A3	Plural T103

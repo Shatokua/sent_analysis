@@ -1,0 +1,9 @@
+T0	Neutral_all 49 66	Дональдом Трампом
+T1	Neutral_all 70 77	Меркель
+T2	Neutral_all 86 91	Трамп
+T3	Neutral_all 79 81	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

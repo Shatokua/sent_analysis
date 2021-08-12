@@ -1,0 +1,12 @@
+T0	Neutral_all 58 73	Александр Дюков
+T1	Neutral_all 85 87	он
+A1	AnaforPerson T1
+T4	Neutral_all 156 159	ему
+A2	AnaforPerson T4
+T104	Neutral_all 236 238	он
+A3	AnaforPerson T104
+R1	Anafor Arg1:T4 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T104
+R103	Anafor Arg1:T104 Arg2:T4

@@ -1,0 +1,10 @@
+T0	Negative_all 0 15	Хиллари Клинтон
+T1	Neutral 89 94	Флинн
+T2	Neutral_all 64 67	ней
+A1	AnaforPerson T2
+T3	Neutral 120 123	его
+A2	AnaforPerson T3
+T103	Neutral_all 106 109	они
+A3	Plural T103
+R2	Anafor Arg1:T0 Arg2:T2
+R1	Anafor Arg1:T1 Arg2:T3	

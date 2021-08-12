@@ -1,0 +1,27 @@
+T0	Neutral_all 8 23	Дарьи Ганичевой
+T1	Neutral_all 97 112	Бориса Химичева
+T2	Neutral_all 146 161	Леонид Петрович
+T3	Neutral_all 341 355	Борис Петрович
+T4	Neutral_all 395 399	Леня
+T5	Neutral_all 268 271	ним
+A1	AnaforPerson T5
+T6	Neutral_all 315 318	его
+A2	AnaforPerson T6
+T7	Neutral_all 366 369	его
+A3	AnaforPerson T7
+T8	Neutral_all 409 412	его
+A4	AnaforPerson T8
+T9	Neutral_all 445 447	Он
+A5	AnaforPerson T9
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T6
+R3	Anafor Arg1:T6 Arg2:T7
+R4	Anafor Arg1:T2 Arg2:T4
+R5	Anafor Arg1:T3 Arg2:T8
+R6	Anafor Arg1:T8 Arg2:T9
+R7	Anafor Arg1:T1 Arg2:T3
+R103	Anafor Arg1:T4 Arg2:T6
+R104	Anafor Arg1:T6 Arg2:T5
+R105	Anafor Arg1:T3 Arg2:T9
+R106	Anafor Arg1:T9 Arg2:T7
+R107	Anafor Arg1:T7 Arg2:T8

@@ -1,0 +1,6 @@
+T0	Neutral_all 129 138	Капризову
+T1	Neutral_all 165 177	Павле Дацюке
+T2	Neutral_all 147 149	ты
+T3	Neutral_all 204 207	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

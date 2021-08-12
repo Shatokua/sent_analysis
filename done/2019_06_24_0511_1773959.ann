@@ -1,0 +1,6 @@
+T2	Neutral_all 198 202	Асад
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T1	Neutral_all 29 42	Башара] Асада
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

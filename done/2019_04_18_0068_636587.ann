@@ -1,0 +1,10 @@
+T0	Negative 190 194	Леша
+T1	Negative 13 17	тебя
+A1	AnaforPerson T1
+T2	Neutral 95 99	тебе
+A2	AnaforPerson T2
+T3	Negative 144 148	Тебе
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T1	

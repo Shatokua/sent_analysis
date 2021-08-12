@@ -1,0 +1,7 @@
+T0	Neutral_all 0 7	Георгий
+T1	Neutral_all 94 101	Шишкина
+T2	Neutral_all 128 131	нас
+A1	Plural T2
+T3	Neutral_all 69 71	мы
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2

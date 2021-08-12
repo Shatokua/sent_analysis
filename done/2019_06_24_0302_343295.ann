@@ -1,0 +1,5 @@
+T0	Neutral_all 43 49	Путину
+T1	Negative 109 113	Асад
+T2	Neutral_all 55 57	им
+A1	Plural T2
+A2	AnaforPerson T2

@@ -1,0 +1,6 @@
+T3	Neutral 12 14	он
+A1	AnaforPerson T3
+T100	Neutral_all 98 104	Путина
+T102	Neutral_all 65 70	Шойгу
+T103	Neutral_all 82 87	Сечин
+R1	Anafor Arg1:T100 Arg2:T3

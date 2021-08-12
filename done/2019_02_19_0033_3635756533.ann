@@ -1,0 +1,11 @@
+T101	Negative_all 0 15	Максим Ликсутов
+T102	Neutral_all 45 51	Путина
+T103	Neutral_all 53 58	Чайку
+T104	Neutral_all 60 70	Бастрыкина
+T105	Neutral_all 73 80	Иванова
+T106	Negative_all 184 186	Он
+A1	AnaforPerson T106
+T107	Negative_all 83 85	Он
+A2	AnaforPerson T107
+R1	Anafor Arg1:T101 Arg2:T107
+R2	Anafor Arg1:T107 Arg2:T106

@@ -1,0 +1,5 @@
+T0	Neutral_all 78 85	Немцова
+T1	Neutral_all 116 124	Кадырова
+T2	Neutral_all 133 136	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

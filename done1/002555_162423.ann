@@ -1,0 +1,9 @@
+T0	Neutral_all 0 29	Геннадий Геннадиевич Головкин
+T2	Neutral_all 110 113	ему
+A1	AnaforPerson T2
+T102	Neutral_all 43 46	GGG
+T104	Neutral_all 133 136	DDD
+T101	Neutral 140 162	Дэниэл „Динамит“ Дюбуа
+R3	Anafor Arg1:T0 Arg2:T102	
+R4	Anafor Arg1:T102 Arg2:T2	
+R1	Anafor Arg1:T101 Arg2:T104	

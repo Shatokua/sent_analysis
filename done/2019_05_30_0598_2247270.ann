@@ -1,0 +1,5 @@
+T0	Positive_all 37 48	Марка Милли
+T1	Neutral_all 189 201	Джо Данфорда
+T2	Neutral_all 169 171	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

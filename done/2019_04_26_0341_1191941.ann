@@ -1,0 +1,4 @@
+T0	Neutral_all 0 9	Тиллерсон
+T1	Neutral_all 45 50	Асада
+T2	Neutral_all 114 119	Асада
+R1	Anafor Arg1:T1 Arg2:T2

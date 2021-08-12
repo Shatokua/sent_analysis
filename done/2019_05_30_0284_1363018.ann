@@ -1,0 +1,9 @@
+T2	Neutral_all 143 153	Навального
+T3	Neutral_all 162 165	них
+A1	Plural T3
+T4	Neutral_all 233 235	их
+A2	Plural T4
+T101	Neutral 81 97	Павла] Грудинина
+R2	Anafor Arg1:T3 Arg2:T4
+A3	AnaforPerson T3
+A4	AnaforPerson T4

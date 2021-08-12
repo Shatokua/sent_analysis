@@ -1,0 +1,4 @@
+T100	Neutral_all 7 15	Гингричу
+T101	Neutral 35 42	Мадонну
+T1	Negative 85 87	та
+R1	Anafor Arg1:T101 Arg2:T1	

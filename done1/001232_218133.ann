@@ -1,0 +1,9 @@
+T0	Neutral_all 27 51	Елена Ивановна Вишнякова
+T1	Neutral_all 166 169	нас
+A1	Plural T1
+T2	Neutral_all 189 192	она
+A2	AnaforPerson T2
+T3	Neutral_all 213 216	нас
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

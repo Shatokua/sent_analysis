@@ -1,0 +1,8 @@
+T0	Neutral_all 159 174	Оксаны Пушкиной
+T2	Neutral_all 134 136	вы
+A2	Plural T2
+T101	Negative 21 23	вы
+A3	Plural T101
+A1	AnaforPerson T101
+A4	AnaforPerson T2
+R1	Anafor Arg1:T101 Arg2:T2	

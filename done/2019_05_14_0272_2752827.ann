@@ -1,0 +1,12 @@
+T0	Negative 6 16	Суханкиной
+T1	Neutral_all 44 50	Андрея
+T2	Negative_all 0 3	Они
+A1	Plural T2
+T3	Neutral_all 62 64	он
+A2	AnaforPerson T3
+T4	Neutral_all 78 82	ними
+A3	AnaforPerson T4
+A4	Plural T4
+R3	Anafor Arg1:T1 Arg2:T3
+R1	Anafor Arg1:T2 Arg2:T4	
+R2	Anafor Arg1:T0 Arg2:T4	

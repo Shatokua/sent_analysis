@@ -1,0 +1,5 @@
+T1	Neutral 85 88	них
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 149 155	Старых
+A3	AnaforPerson T2

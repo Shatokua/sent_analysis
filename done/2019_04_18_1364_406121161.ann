@@ -1,0 +1,4 @@
+T0	Negative 69 81	Андрей Исаев
+T1	Neutral 196 198	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

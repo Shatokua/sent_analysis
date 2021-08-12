@@ -1,0 +1,8 @@
+T0	Neutral_all 30 51	Владимир Владимирович
+T1	Neutral_all 97 115	Виктор Прокопьевич
+T2	Neutral_all 126 128	он
+A1	AnaforPerson T2
+T3	Neutral_all 176 179	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T2

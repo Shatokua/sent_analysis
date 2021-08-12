@@ -1,0 +1,9 @@
+T0	Neutral_all 13 28	Петр Алексеевич
+T1	Neutral_all 206 221	Петр Алексеевич
+T2	Neutral_all 64 66	вы
+A1	AnaforPerson T2
+T103	Neutral_all 45 48	вам
+A2	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T103

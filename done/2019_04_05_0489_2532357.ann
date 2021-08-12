@@ -1,0 +1,6 @@
+T100	Negative 31 44	Эндрю Маккейб
+T101	Negative 151 158	Хиллари
+T102	Negative 223 235	Джеймса Коми
+T103	Negative 103 105	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103	

@@ -1,0 +1,7 @@
+T100	Negative 0 11	Березовский
+T101	Neutral_all 36 43	Лужкова
+T102	Neutral_all 79 89	Гусинского
+T103	Neutral_all 142 149	Кобзона
+T104	Positive_all 159 161	он
+R1	Anafor Arg1:T103 Arg2:T104
+A1	AnaforPerson T104

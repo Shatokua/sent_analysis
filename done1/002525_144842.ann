@@ -1,0 +1,13 @@
+T1	Neutral_all 410 416	Дудаев
+T2	Neutral_all 418 427	Яндарбиев
+T3	Neutral_all 139 158	Ахмат-Хаджи Кадыров
+T4	Negative_all 270 273	они
+A1	Plural T4
+T5	Negative_all 360 362	их
+A2	Plural T5
+T6	Neutral 392 394	ты
+A3	Plural T6
+R1	Anafor Arg1:T4 Arg2:T5
+A4	AnaforPerson T4
+A5	AnaforPerson T5
+A6	AnaforPerson T6

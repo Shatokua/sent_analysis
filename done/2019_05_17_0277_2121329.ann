@@ -1,0 +1,10 @@
+T2	Neutral_all 47 49	он
+A1	AnaforPerson T2
+T4	Neutral_all 109 112	они
+A3	Plural T4
+T5	Negative_all 163 166	Они
+A4	Plural T5
+R1	Anafor Arg1:T4 Arg2:T5
+T1	Neutral 15 29	Дональд) Трамп
+R2	Anafor Arg1:T1 Arg2:T2	
+A2	AnaforPerson T5

@@ -1,0 +1,5 @@
+T0	Neutral_all 29 43	Рустам Корелин
+T1	Neutral_all 303 312	Дудыриным
+T2	Neutral_all 284 286	Мы
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,12 @@
+T0	Neutral 16 25	Анджелина
+T1	Neutral 34 39	Брэда
+T2	Neutral 147 154	Мэддокс
+T3	Neutral 41 44	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+T4	Neutral 235 237	им
+A2	AnaforPerson T4
+A3	Plural T4
+T5	Neutral 270 273	нее
+A4	AnaforPerson T5
+R2	Anafor Arg1:T3 Arg2:T5	

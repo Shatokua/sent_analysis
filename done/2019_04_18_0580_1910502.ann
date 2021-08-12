@@ -1,0 +1,6 @@
+T0	Positive 36 44	Еремееву
+T1	Negative 46 48	Он
+A1	AnaforPerson T1
+T2	Negative 71 73	вы
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T0	Neutral_all 27 33	Трампа
+T1	Neutral_all 84 105	Джорджа Буша-младшего
+T2	Neutral_all 139 144	Обамы
+T3	Neutral_all 248 254	Трампа
+R1	Anafor Arg1:T0 Arg2:T3

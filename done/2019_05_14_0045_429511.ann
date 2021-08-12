@@ -1,0 +1,8 @@
+T0	Neutral_all 68 87	Ариной Новосельской
+T1	Neutral_all 133 148	Сергея Аксенова
+T2	Neutral_all 88 90	мы
+A1	Plural T2
+T3	Neutral_all 202 204	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T2

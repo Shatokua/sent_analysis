@@ -1,0 +1,6 @@
+T0	Neutral_all 94 108	Сергей Ярмонов
+T1	Neutral_all 247 249	им
+A1	Plural T1
+T2	Neutral_all 279 282	они
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

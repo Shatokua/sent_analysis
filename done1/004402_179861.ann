@@ -1,0 +1,10 @@
+T0	Neutral_all 6 11	Диана
+T1	Neutral_all 59 74	Элизабет Тейлор
+T2	Neutral_all 122 127	Диана
+T3	Neutral_all 41 44	она
+A1	AnaforPerson T3
+T4	Neutral_all 76 79	Она
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

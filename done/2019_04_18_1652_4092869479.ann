@@ -1,0 +1,4 @@
+T0	Neutral 0 7	Миронов
+T1	Neutral 193 195	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

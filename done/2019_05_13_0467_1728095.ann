@@ -1,0 +1,4 @@
+T0	Positive 106 115	Горчакова
+T1	Positive 174 177	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

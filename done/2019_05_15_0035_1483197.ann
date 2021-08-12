@@ -1,0 +1,7 @@
+T1	Neutral_all 190 196	Алекса
+T3	Positive 43 50	Венгеру
+T4	Positive 69 71	он
+A2	AnaforPerson T4
+T100	Neutral 114 120	Венгер
+R1	Anafor Arg1:T3 Arg2:T4	
+R2	Anafor Arg1:T100 Arg2:T4	

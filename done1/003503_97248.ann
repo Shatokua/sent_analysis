@@ -1,0 +1,4 @@
+T0	Neutral_all 99 114	Сергея Скрипаля
+T1	Neutral_all 117 120	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

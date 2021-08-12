@@ -1,0 +1,11 @@
+T0	Negative 149 158	Навальным
+T1	Negative 222 235	Никитой Белых
+T2	Neutral 11 17	вашего
+A1	AnaforPerson T2
+T3	Neutral 57 59	вы
+A2	AnaforPerson T3
+#1	AnnotatorNotes T0	"фальшивка"
+T4	Negative 186 189	его
+A3	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4	
+R2	Anafor Arg1:T3 Arg2:T2	

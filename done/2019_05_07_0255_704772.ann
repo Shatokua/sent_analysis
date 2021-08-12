@@ -1,0 +1,4 @@
+T0	Neutral 84 88	Мусе
+T1	Neutral 101 103	их
+A1	Plural T1
+A2	AnaforPerson T1

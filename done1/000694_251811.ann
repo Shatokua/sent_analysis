@@ -1,0 +1,5 @@
+T0	Neutral_all 31 47	Владимира Путина
+T1	Neutral_all 141 155	Бориса Немцова
+T2	Neutral_all 50 53	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,6 @@
+T0	Neutral_all 2 9	Бузовой
+T1	Neutral_all 56 61	Ольга
+T2	Neutral_all 78 81	нас
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

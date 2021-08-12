@@ -1,0 +1,4 @@
+T0	Neutral_all 60 80	Александром Козловым
+T1	Neutral_all 0 2	Мы
+A1	Plural T1
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,6 @@
+T100	Neutral_all 36 54	Бориса Евгениевича
+T101	Positive_all 103 108	Борис
+T102	Positive 206 208	ты
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T102

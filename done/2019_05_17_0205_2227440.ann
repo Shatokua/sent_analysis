@@ -1,0 +1,11 @@
+T0	Neutral_all 75 79	Нюшу
+T1	Neutral_all 91 102	Егора Крида
+T2	Neutral_all 10 18	Галкиным
+T3	Neutral_all 27 29	он
+A1	AnaforPerson T3
+T103	Neutral_all 112 114	их
+A2	AnaforPerson T103
+A3	Plural T103
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T103
+R102	Anafor Arg1:T0 Arg2:T103

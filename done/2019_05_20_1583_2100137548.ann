@@ -1,0 +1,5 @@
+T0	Neutral 0 19	Владимир Яворивский
+T1	Neutral 80 97	Денис Дзензерский
+T2	Neutral 53 55	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

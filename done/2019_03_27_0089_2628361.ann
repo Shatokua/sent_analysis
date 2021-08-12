@@ -1,0 +1,7 @@
+T0	Neutral_all 0 7	Ахметов
+T1	Positive_all 65 71	Чалова
+T2	Positive_all 147 155	Ахметова
+T3	Positive_all 59 62	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

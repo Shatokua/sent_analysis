@@ -1,0 +1,7 @@
+T100	Neutral_all 0 6	Лавров
+T101	Neutral_all 73 80	Лаврова
+T102	Neutral_all 170 176	Лавров
+R1	Anafor Arg1:T100 Arg2:T102
+R2	Anafor Arg1:T102 Arg2:T101
+R101	Anafor Arg1:T100 Arg2:T101
+R102	Anafor Arg1:T101 Arg2:T102

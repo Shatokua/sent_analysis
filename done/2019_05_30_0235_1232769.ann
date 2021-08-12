@@ -1,0 +1,9 @@
+T0	Neutral_all 0 5	Трамп
+T1	Neutral_all 81 88	Клинтон
+T2	Neutral_all 200 207	Трампом
+T3	Neutral_all 122 125	нас
+A1	Plural T3
+T4	Neutral_all 216 219	нас
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T2

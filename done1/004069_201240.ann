@@ -1,0 +1,6 @@
+T0	Neutral_all 368 385	Кантемир Берхамов
+T1	Neutral_all 330 332	Мы
+A1	Plural T1
+T2	Neutral_all 514 517	нас
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

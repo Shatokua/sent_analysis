@@ -1,0 +1,7 @@
+T1	Neutral 16 23	Путиным
+T2	Positive 25 27	Он
+A1	AnaforPerson T2
+T3	Neutral 50 52	вы
+A2	AnaforPerson T3
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2	

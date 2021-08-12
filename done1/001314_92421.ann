@@ -1,0 +1,4 @@
+T0	Neutral_all 220 238	Бидзины Иванишвили
+T3	Negative 315 318	они
+A3	Plural T3
+A1	AnaforPerson T3

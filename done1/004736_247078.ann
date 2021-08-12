@@ -1,0 +1,6 @@
+T0	Neutral_all 12 29	Давида Санасаряна
+T1	Neutral_all 305 308	они
+A1	Plural T1
+T102	Neutral_all 339 341	их
+A2	Plural T102
+R101	Anafor Arg1:T1 Arg2:T102

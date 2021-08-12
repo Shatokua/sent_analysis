@@ -1,0 +1,7 @@
+T0	Neutral 99 109	С.Удальцов
+T1	Neutral 187 189	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 273 276	Они
+A2	AnaforPerson T2
+A3	Plural T2

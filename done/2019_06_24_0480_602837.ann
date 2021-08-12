@@ -1,0 +1,8 @@
+T0	Neutral_all 0 7	В.Путин
+T1	Neutral_all 95 113	Алексея Навального
+T2	Neutral_all 77 79	он
+A1	AnaforPerson T2
+T3	Neutral_all 125 128	ему
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2

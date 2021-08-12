@@ -1,0 +1,4 @@
+T0	Positive_all 58 72	Рамзан Кадыров
+T1	Neutral_all 224 226	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

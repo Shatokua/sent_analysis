@@ -1,0 +1,4 @@
+T101	Neutral 28 34	Байден
+T102	Neutral_all 217 223	Трампа
+T1	Negative 104 106	он
+R1	Anafor Arg1:T101 Arg2:T1	

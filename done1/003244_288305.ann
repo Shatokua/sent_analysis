@@ -1,0 +1,10 @@
+T0	Positive 0 10	Джон Джонс
+T1	Positive 34 40	Энтони
+T2	Positive_all 142 145	вам
+A1	Plural T2
+T102	Positive 44 48	тебя
+A2	AnaforPerson T102
+R101	Anafor Arg1:T1 Arg2:T102
+A3	AnaforPerson T2
+R1	Anafor Arg1:T102 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T2	

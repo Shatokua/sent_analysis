@@ -1,0 +1,6 @@
+T0	Negative 27 38	Коломойский
+T1	Negative 68 71	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 129 132	она
+A2	AnaforPerson T2

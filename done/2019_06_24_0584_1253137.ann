@@ -1,0 +1,5 @@
+T0	Mixed 23 29	Собчак
+T1	Neutral_all 110 125	Эллы Памфиловой
+T2	Neutral_all 61 63	Вы
+A1	Plural T2
+A2	AnaforPerson T2

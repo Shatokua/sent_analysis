@@ -1,0 +1,3 @@
+T0	Neutral_all 62 69	Сенцова
+T1	Neutral_all 109 116	Сенцова
+R1	Anafor Arg1:T0 Arg2:T1

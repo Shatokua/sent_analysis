@@ -1,0 +1,6 @@
+T0	Negative 19 30	Сева Чаплин
+T1	Mixed 117 124	Чаплина
+T102	Negative 41 43	он
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T102	

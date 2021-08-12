@@ -1,0 +1,5 @@
+T0	Neutral_all 31 43	Хуана Гуаидо
+T1	Neutral_all 152 158	Гуаидо
+T2	Neutral_all 139 141	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Neutral_all 39 47	Башарова
+T1	Neutral_all 65 79	Сергей Астахов
+T2	Neutral_all 316 321	Марат
+R1	Anafor Arg1:T2 Arg2:T0

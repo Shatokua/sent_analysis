@@ -1,0 +1,14 @@
+T1	Neutral_all 586 588	ты
+A1	AnaforPerson T1
+T2	Neutral_all 603 605	ты
+A2	AnaforPerson T2
+T101	Neutral_all 139 141	ты
+A3	AnaforPerson T101
+T102	Neutral_all 207 209	ты
+A4	AnaforPerson T102
+T103	Neutral_all 539 541	ты
+A5	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T2
+R101	Anafor Arg1:T101 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103
+R103	Anafor Arg1:T103 Arg2:T1

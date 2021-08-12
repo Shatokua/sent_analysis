@@ -1,0 +1,4 @@
+T0	Neutral_all 93 100	Путиным
+T2	Neutral_all 138 143	Путин
+T3	Neutral_all 146 150	Асад
+R1	Anafor Arg1:T2 Arg2:T0

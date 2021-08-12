@@ -1,0 +1,12 @@
+T0	Neutral 246 259	Ходорковского
+T1	Neutral 12 16	него
+A1	AnaforPerson T1
+T2	Neutral 277 279	он
+A2	AnaforPerson T2
+T3	Positive 39 42	ему
+A3	AnaforPerson T3
+R1	Variant Arg1:T1 Arg2:T3	
+R2	Variant Arg1:T3 Arg2:T2	
+T4	Neutral 313 315	им
+A4	AnaforPerson T4
+R3	Variant Arg1:T2 Arg2:T4	

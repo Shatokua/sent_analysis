@@ -1,0 +1,7 @@
+T0	Neutral_all 0 6	Санчес
+T1	Neutral_all 53 61	Марсьяля
+T2	Neutral_all 95 103	Марсьяль
+T3	Neutral_all 32 34	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T1

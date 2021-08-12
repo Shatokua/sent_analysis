@@ -1,0 +1,6 @@
+T0	Neutral_all 36 45	Лины Хиди
+T1	Neutral_all 216 219	она
+A1	AnaforPerson T1
+T104	Neutral_all 46 49	вам
+A2	Plural T104
+R1	Anafor Arg1:T0 Arg2:T1

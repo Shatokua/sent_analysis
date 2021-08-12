@@ -1,0 +1,4 @@
+T0	Negative 86 99	Дональд Трамп
+T1	Negative 148 151	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

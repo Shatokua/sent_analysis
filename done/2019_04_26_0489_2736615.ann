@@ -1,0 +1,7 @@
+T0	Negative 0 14	Андрей Нэстасе
+T1	Neutral_all 127 138	Майей Санду
+T2	Neutral_all 98 101	они
+A1	Plural T2
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T0 Arg2:T2	

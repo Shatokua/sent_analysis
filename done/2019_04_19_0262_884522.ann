@@ -1,0 +1,5 @@
+T0	Neutral_all 7 12	Бойко
+T1	Negative_all 156 170	Элла Памфилова
+T102	Negative 200 203	она
+A2	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102	

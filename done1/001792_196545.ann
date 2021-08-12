@@ -1,0 +1,7 @@
+T0	Neutral_all 20 25	Игоря
+T1	Neutral_all 58 77	Александра Володина
+T2	Neutral_all 107 110	его
+A1	AnaforPerson T2
+T3	Neutral_all 240 243	они
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

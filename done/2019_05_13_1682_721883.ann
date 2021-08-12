@@ -1,0 +1,5 @@
+T0	Positive 24 38	Виталя Фридзон
+T1	Neutral 103 116	Нандо Де Коло
+T2	Neutral 90 93	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

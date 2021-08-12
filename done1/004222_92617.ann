@@ -1,0 +1,10 @@
+T0	Neutral_all 42 58	Алексею Текслеру
+T1	Neutral_all 261 271	Дубровским
+T2	Neutral_all 133 136	его
+A1	AnaforPerson T2
+T3	Neutral_all 274 277	нас
+A2	Plural T3
+T4	Neutral_all 372 375	нас
+A3	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T0 Arg2:T2

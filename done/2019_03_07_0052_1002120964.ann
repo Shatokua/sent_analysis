@@ -1,0 +1,8 @@
+T100	Neutral_all 11 20	Батуриной
+T101	Neutral 174 181	Лужкова
+T102	Neutral 226 229	она
+A1	AnaforPerson T102
+T103	Negative 248 251	нее
+A2	AnaforPerson T103
+R101	Anafor Arg1:T100 Arg2:T102
+R102	Anafor Arg1:T102 Arg2:T103

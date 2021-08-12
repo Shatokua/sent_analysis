@@ -1,0 +1,4 @@
+T0	Neutral_all 0 17	Дмитрий Андриянов
+T1	Neutral_all 95 97	им
+A1	Plural T1
+R101	Anafor Arg1:T0 Arg2:T1

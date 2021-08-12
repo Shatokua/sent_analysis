@@ -1,0 +1,5 @@
+T0	Neutral_all 20 24	Биби
+T1	Neutral_all 26 44	Биньямин Нетаньяху
+T2	Neutral_all 153 155	им
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T0

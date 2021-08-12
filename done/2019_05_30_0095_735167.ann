@@ -1,0 +1,6 @@
+T1	Neutral_all 152 160	Илариону
+T2	Neutral_all 111 113	мы
+A1	Plural T2
+T3	Neutral_all 170 172	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

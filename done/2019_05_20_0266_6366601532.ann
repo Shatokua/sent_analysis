@@ -1,0 +1,6 @@
+T0	Neutral 71 78	Клинтон
+T1	Neutral 0 4	Ваша
+A1	AnaforPerson T1
+T2	Neutral 40 42	вы
+A3	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

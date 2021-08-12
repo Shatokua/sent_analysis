@@ -1,0 +1,4 @@
+T0	Neutral 258 274	Дмитрий Медведев
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

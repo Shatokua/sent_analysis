@@ -1,0 +1,5 @@
+T1	Neutral_all 132 161	Мазунина Константина Юрьевича
+T2	Neutral_all 229 231	Мы
+A1	Plural T2
+T3	Neutral_all 244 248	Вами
+A2	AnaforPerson T3

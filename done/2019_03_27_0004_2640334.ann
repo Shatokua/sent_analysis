@@ -1,0 +1,5 @@
+T2	Positive 144 147	Юля
+T100	Neutral_all 21 25	Юлии
+T101	Neutral_all 94 97	Юлю
+R2	Anafor Arg1:T100 Arg2:T101
+R1	Anafor Arg1:T101 Arg2:T2	

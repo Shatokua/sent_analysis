@@ -1,0 +1,8 @@
+T0	Neutral_all 0 19	Владимир Герасечкин
+T1	Neutral_all 109 121	Елена Кузина
+T2	Neutral_all 89 92	его
+A1	AnaforPerson T2
+T102	Neutral_all 142 145	ним
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T102

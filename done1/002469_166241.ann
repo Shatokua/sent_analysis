@@ -1,0 +1,3 @@
+T0	Neutral_all 0 13	И.Новокшонову
+T1	Neutral_all 192 202	Новокшонов
+R1	Anafor Arg1:T0 Arg2:T1

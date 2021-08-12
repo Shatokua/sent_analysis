@@ -1,0 +1,4 @@
+T101	Neutral 161 175	Тайип] Эрдоган
+T103	Neutral 178 181	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103	

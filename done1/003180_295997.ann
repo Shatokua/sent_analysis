@@ -1,0 +1,23 @@
+T0	Neutral_all 0 18	Зинаида Бондаренко
+T1	Neutral_all 116 126	Бондаренко
+T2	Neutral_all 185 188	она
+A1	AnaforPerson T2
+T3	Neutral_all 216 219	она
+A2	AnaforPerson T3
+T4	Neutral_all 269 272	она
+A3	AnaforPerson T4
+T5	Neutral_all 346 349	нее
+A4	AnaforPerson T5
+T6	Neutral_all 375 378	нее
+A5	AnaforPerson T6
+T7	Neutral_all 408 411	Она
+A6	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T3 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T7
+R6	Anafor Arg1:T7 Arg2:T6
+R7	Anafor Arg1:T6 Arg2:T5
+R106	Anafor Arg1:T7 Arg2:T5
+R107	Anafor Arg1:T5 Arg2:T6

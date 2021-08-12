@@ -1,0 +1,6 @@
+T0	Neutral_all 556 570	Стефан Черняев
+T1	Neutral_all 186 189	них
+A1	Plural T1
+T2	Neutral_all 400 402	их
+A2	Plural T2
+R101	Anafor Arg1:T2 Arg2:T1

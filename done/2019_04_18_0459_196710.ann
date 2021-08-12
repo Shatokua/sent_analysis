@@ -1,0 +1,8 @@
+T0	Negative 66 73	Клинтон
+T1	Mixed 96 101	Обама
+T2	Negative 0 2	Ей
+A1	AnaforPerson T2
+T3	Negative 40 43	Она
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T2	

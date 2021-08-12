@@ -1,0 +1,6 @@
+T0	Negative_all 30 39	Соловьева
+T1	Neutral_all 70 79	Грудинина
+T2	Neutral_all 81 89	Сурайкин
+T3	Neutral_all 104 112	Шевченко
+T4	Neutral_all 135 144	Грудинина
+R1	Anafor Arg1:T1 Arg2:T4

@@ -1,0 +1,11 @@
+T0	Positive 13 21	Матильда
+T1	Positive 36 42	Сергей
+T2	Positive 44 47	они
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Positive 97 99	их
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T2 Arg2:T1	
+R2	Anafor Arg1:T2 Arg2:T0	
+R3	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,4 @@
+T100	Positive 9 20	Штайнмайера
+T101	Negative 45 49	Гаук
+T102	Positive 92 102	Штайнмайер
+R1	Anafor Arg1:T100 Arg2:T102	

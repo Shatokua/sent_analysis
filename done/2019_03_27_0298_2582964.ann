@@ -1,0 +1,5 @@
+T0	Neutral_all 26 41	Михаил Задорнов
+T1	Neutral_all 70 87	Максимом Галкиным
+T2	Neutral_all 106 109	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

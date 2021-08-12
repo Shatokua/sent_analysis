@@ -1,0 +1,6 @@
+T100	Positive_all 0 18	Нурсултан Абишевич
+T101	Positive_all 213 222	Назарбаев
+T102	Positive 156 160	него
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	

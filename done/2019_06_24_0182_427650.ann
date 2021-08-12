@@ -1,0 +1,7 @@
+T0	Neutral_all 9 19	Захарченко
+T1	Neutral_all 31 41	Плотницкий
+T2	Neutral_all 170 174	ними
+A1	AnaforPerson T2
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T0 Arg2:T2

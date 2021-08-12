@@ -1,0 +1,11 @@
+T1	Neutral_all 56 66	Хосе Марти
+T2	Neutral_all 130 132	Он
+A1	AnaforPerson T2
+T3	Neutral_all 157 160	его
+A2	AnaforPerson T3
+T4	Neutral_all 168 171	его
+A3	AnaforPerson T4
+T100	Neutral 0 6	Фидель
+R1	Anafor Arg1:T3 Arg2:T4
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T100 Arg2:T2	

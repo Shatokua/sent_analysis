@@ -1,0 +1,6 @@
+T0	Mixed 63 79	Аркадия Бабченко
+T101	Positive 196 204	Бабченко
+T102	Positive 124 127	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T101 Arg2:T102	

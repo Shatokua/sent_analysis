@@ -1,0 +1,3 @@
+T0	Negative_all 77 89	Башара Асада
+T1	Negative_all 156 162	Асадом
+R1	Anafor Arg1:T0 Arg2:T1

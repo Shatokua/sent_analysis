@@ -1,0 +1,4 @@
+T0	Neutral_all 33 36	Ким
+T1	Positive_all 180 191	Ким Чен Ыну
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

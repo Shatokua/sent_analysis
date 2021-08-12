@@ -1,0 +1,5 @@
+T0	Neutral_all 400 417	Дмитрий Губерниев
+T1	Neutral_all 475 477	их
+A1	Plural T1
+T2	Neutral_all 549 552	ему
+A2	AnaforPerson T2

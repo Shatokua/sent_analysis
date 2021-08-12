@@ -1,0 +1,6 @@
+T100	Neutral_all 33 46	Лорткипанидзе
+T101	Neutral_all 92 105	Лорткипанидзе
+T102	Neutral_all 142 145	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T102

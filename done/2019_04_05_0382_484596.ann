@@ -1,0 +1,8 @@
+T0	Neutral_all 37 43	Амосов
+T1	Neutral_all 165 172	Макаров
+T2	Neutral_all 56 58	он
+A1	AnaforPerson T2
+T3	Neutral_all 83 85	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

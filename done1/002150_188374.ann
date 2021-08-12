@@ -1,0 +1,4 @@
+T0	Neutral_all 32 44	Тайрон Вудли
+T1	Neutral_all 88 101	Робби Лоулера
+T2	Neutral_all 184 191	Лоулера
+R1	Anafor Arg1:T1 Arg2:T2

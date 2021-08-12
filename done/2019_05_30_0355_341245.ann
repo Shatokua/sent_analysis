@@ -1,0 +1,5 @@
+T0	Neutral_all 9 19	де Мистура
+T1	Neutral_all 129 139	де Мистура
+T102	Neutral_all 168 170	им
+A1	Plural T102
+R1	Anafor Arg1:T0 Arg2:T1

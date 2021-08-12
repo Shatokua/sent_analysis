@@ -1,0 +1,11 @@
+T0	Neutral_all 79 98	Геворгом Саркисяном
+T1	Neutral_all 191 201	Саркисяном
+T2	Neutral_all 141 144	его
+A1	AnaforPerson T2
+T3	Neutral_all 271 274	ему
+A2	AnaforPerson T3
+T103	Neutral_all 155 158	Они
+A3	Plural T103
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,13 @@
+T0	Neutral_all 119 147	Геннадия Андреевича Зюганова
+T1	Neutral_all 193 205	Г.А. Зюганов
+T2	Neutral_all 289 299	Дерипаской
+T3	Neutral_all 302 304	он
+A1	AnaforPerson T3
+T4	Neutral_all 351 354	его
+A2	AnaforPerson T4
+T5	Neutral_all 396 399	его
+A3	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T5
+R4	Anafor Arg1:T0 Arg2:T1

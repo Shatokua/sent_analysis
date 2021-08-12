@@ -1,0 +1,6 @@
+T0	Neutral_all 19 28	Навальный
+T1	Neutral_all 68 78	Илью Яшина
+T2	Neutral_all 130 137	Гудкова
+T3	Neutral_all 55 57	он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

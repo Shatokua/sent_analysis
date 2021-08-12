@@ -1,0 +1,12 @@
+T0	Neutral_all 13 28	Максима Галкина
+T1	Neutral_all 134 140	Галкин
+T2	Neutral_all 192 206	Лие Меджидовне
+T3	Neutral_all 31 34	его
+A1	AnaforPerson T3
+T4	Neutral_all 121 123	их
+A2	Plural T4
+T5	Neutral_all 307 310	она
+A3	AnaforPerson T5
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T3

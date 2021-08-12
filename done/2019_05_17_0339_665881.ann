@@ -1,0 +1,5 @@
+T0	Neutral_all 0 14	Ярослав Мудрый
+T1	Neutral_all 43 47	Анна
+T2	Neutral_all 34 37	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

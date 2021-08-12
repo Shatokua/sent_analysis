@@ -1,0 +1,7 @@
+T0	Neutral 51 59	Иствудом
+T1	Neutral 44 47	ним
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Mixed 132 134	он
+R2	Variant Arg1:T0 Arg2:T2	
+A2	AnaforPerson T2

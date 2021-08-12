@@ -1,0 +1,9 @@
+T0	Neutral_all 431 446	Алексей Цыденов
+T1	Neutral_all 154 156	мы
+A1	Plural T1
+T2	Neutral_all 476 479	нас
+A2	Plural T2
+T3	Neutral_all 519 521	мы
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2

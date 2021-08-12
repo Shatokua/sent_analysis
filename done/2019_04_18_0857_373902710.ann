@@ -1,0 +1,4 @@
+T1	Mixed 41 45	него
+A1	AnaforPerson T1
+T2	Negative 11 36	Сергей Семенович (Собянин
+R1	Variant Arg1:T2 Arg2:T1	

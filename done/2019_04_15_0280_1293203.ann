@@ -1,0 +1,6 @@
+T1	Negative 120 134	Петр Порошенко
+T3	Negative 167 184	Геннадий Труханов
+T100	Negative_all 91 100	Порошенко
+T102	Negative_all 145 154	Труханова
+R1	Anafor Arg1:T3 Arg2:T102
+R2	Anafor Arg1:T1 Arg2:T100

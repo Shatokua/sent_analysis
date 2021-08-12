@@ -1,0 +1,5 @@
+T3	Neutral 145 147	он
+A1	AnaforPerson T3
+T102	Neutral_all 59 88	Михайличенко Игорь Николаевич
+T101	Neutral_all 7 34	Шеремета Михаила Сергеевича
+R1	Anafor Arg1:T102 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral 103 120	Сергей Евгеньевич
+T1	Neutral 0 2	Вы
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 19 21	он
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

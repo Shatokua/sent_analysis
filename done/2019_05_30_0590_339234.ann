@@ -1,0 +1,8 @@
+T0	Neutral 50 55	Обама
+T1	Neutral_all 91 98	Олланда
+T2	Neutral_all 125 127	Он
+A1	AnaforPerson T2
+T4	Neutral_all 159 162	ему
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4

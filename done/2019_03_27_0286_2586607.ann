@@ -1,0 +1,5 @@
+T0	Neutral_all 14 32	Вячеслава Володина
+T1	Neutral_all 72 79	Орешкин
+T2	Neutral_all 34 36	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

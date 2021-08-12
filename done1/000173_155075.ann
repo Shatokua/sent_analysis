@@ -1,0 +1,8 @@
+T0	Mixed 56 63	Беселия
+T3	Neutral 292 295	она
+A2	AnaforPerson T3
+T101	Neutral 244 261	Гедевана Попхадзе
+T102	Mixed 51 54	она
+A3	AnaforPerson T102
+R1	Anafor Arg1:T0 Arg2:T102	
+R2	Anafor Arg1:T0 Arg2:T3	

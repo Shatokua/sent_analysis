@@ -1,0 +1,5 @@
+T0	Neutral_all 74 86	Мурад Саидов
+T1	Neutral_all 175 182	Саидова
+T2	Neutral_all 283 298	Адам Делимханов
+T3	Neutral_all 318 330	Иса Хачукаев
+R1	Anafor Arg1:T0 Arg2:T1

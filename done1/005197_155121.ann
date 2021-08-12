@@ -1,0 +1,6 @@
+T0	Neutral_all 0 14	Игорю Арсенюку
+T1	Neutral_all 17 32	Артуру Лебедеву
+T2	Neutral_all 84 102	Тахиру Компленкову
+T3	Neutral_all 109 127	Николаю Дементьеву
+T4	Neutral_all 169 182	Артур Лебедев
+R1	Anafor Arg1:T4 Arg2:T1

@@ -1,0 +1,6 @@
+T2	Neutral 127 139	Абдурашидову
+T100	Neutral 4 21	Адлан Абдурашидов
+T101	Neutral_all 38 57	Кристианном Паласио
+T103	Positive_all 153 158	Адлан
+R2	Anafor Arg1:T2 Arg2:T103
+R1	Anafor Arg1:T100 Arg2:T2	

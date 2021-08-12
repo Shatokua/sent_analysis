@@ -1,0 +1,5 @@
+T0	Neutral_all 33 53	Богдана Хмельницкого
+T1	Neutral_all 148 165	Григория Грабянки
+T2	Neutral_all 273 280	Богдана
+T3	Neutral_all 342 360	Стефана Чернецкого
+R1	Anafor Arg1:T0 Arg2:T2

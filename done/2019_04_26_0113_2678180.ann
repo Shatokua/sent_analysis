@@ -1,0 +1,11 @@
+T0	Neutral_all 2 8	Собчак
+T1	Negative_all 23 29	Ксения
+T2	Negative_all 32 36	тебе
+A1	AnaforPerson T2
+T3	Negative_all 81 83	Ты
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3

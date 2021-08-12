@@ -1,0 +1,10 @@
+T0	Negative_all 125 132	Путиным
+T1	Positive_all 193 199	Трампу
+T102	Negative 65 68	они
+A4	Plural T102
+T103	Negative 139 141	он
+A5	AnaforPerson T103
+T104	Positive 211 213	он
+A6	AnaforPerson T104
+R1	Anafor Arg1:T0 Arg2:T103	
+R2	Anafor Arg1:T1 Arg2:T104	

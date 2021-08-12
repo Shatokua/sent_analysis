@@ -1,0 +1,5 @@
+T2	Negative 119 121	Он
+A1	AnaforPerson T2
+T100	Negative 28 40	Коломойского
+T103	Neutral 143 153	Абрамовича
+R1	Anafor Arg1:T100 Arg2:T2	

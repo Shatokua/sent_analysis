@@ -1,0 +1,3 @@
+T0	Neutral 71 76	Обама
+T1	Neutral 146 148	он
+R1	Anafor Arg1:T0 Arg2:T1	

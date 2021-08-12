@@ -1,0 +1,50 @@
+T0	Neutral_all 294 307	Сашу Кокорина
+T1	Neutral_all 541 549	Паредеса
+T2	Neutral_all 56 58	он
+A1	AnaforPerson T2
+T3	Neutral_all 75 78	его
+A2	AnaforPerson T3
+T4	Neutral_all 110 112	он
+A3	AnaforPerson T4
+T5	Neutral_all 142 144	он
+A4	AnaforPerson T5
+T6	Neutral_all 189 191	Мы
+A5	Plural T6
+T7	Neutral_all 224 227	нас
+A6	Plural T7
+T8	Neutral_all 315 318	его
+A7	AnaforPerson T8
+T9	Neutral_all 325 327	он
+A8	AnaforPerson T9
+T10	Neutral_all 332 335	нас
+A9	Plural T10
+T11	Neutral_all 351 353	мы
+A10	Plural T11
+T12	Neutral_all 436 438	Мы
+A11	Plural T12
+T13	Neutral_all 585 587	Мы
+A12	Plural T13
+T14	Neutral_all 818 821	Они
+A13	Plural T14
+T15	Neutral_all 865 867	Мы
+A14	Plural T15
+T114	Neutral_all 796 799	нам
+A15	Plural T114
+R1	Anafor Arg1:T5 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T3
+R4	Anafor Arg1:T0 Arg2:T9
+R5	Anafor Arg1:T9 Arg2:T8
+R6	Anafor Arg1:T6 Arg2:T11
+R7	Anafor Arg1:T11 Arg2:T10
+R8	Anafor Arg1:T10 Arg2:T7
+R9	Anafor Arg1:T15 Arg2:T13
+R10	Anafor Arg1:T13 Arg2:T12
+R11	Anafor Arg1:T12 Arg2:T6
+R101	Anafor Arg1:T2 Arg2:T4
+R102	Anafor Arg1:T4 Arg2:T5
+R106	Anafor Arg1:T11 Arg2:T12
+R107	Anafor Arg1:T12 Arg2:T13
+R108	Anafor Arg1:T13 Arg2:T15
+R109	Anafor Arg1:T15 Arg2:T114
+R110	Anafor Arg1:T114 Arg2:T10

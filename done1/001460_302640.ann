@@ -1,0 +1,4 @@
+T0	Neutral_all 20 25	Оюбом
+T1	Neutral_all 351 370	Сиражутдина Дациева
+T2	Neutral_all 174 178	Оюба
+R1	Anafor Arg1:T0 Arg2:T2

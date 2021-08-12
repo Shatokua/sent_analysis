@@ -1,0 +1,9 @@
+T0	Neutral_all 79 96	Анатолием Зотовым
+T1	Neutral_all 45 47	он
+A1	AnaforPerson T1
+T2	Neutral_all 259 261	их
+A2	Plural T2
+T3	Neutral_all 282 285	них
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T2 Arg2:T3

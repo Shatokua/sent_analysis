@@ -1,0 +1,16 @@
+T0	Neutral 84 92	Ахметова
+T1	Neutral 151 153	Он
+A1	AnaforPerson T1
+T2	Neutral 218 221	его
+A2	AnaforPerson T2
+T3	Neutral 245 248	его
+A3	AnaforPerson T3
+T4	Neutral 321 325	него
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+T5	Neutral 257 260	его
+A5	AnaforPerson T5
+R4	Variant Arg1:T3 Arg2:T5	
+R5	Variant Arg1:T5 Arg2:T4	

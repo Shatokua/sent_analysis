@@ -1,0 +1,4 @@
+T0	Positive 47 55	Д. Туска
+T1	Positive 81 83	он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

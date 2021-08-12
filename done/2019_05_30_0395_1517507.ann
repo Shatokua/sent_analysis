@@ -1,0 +1,4 @@
+T0	Positive_all 37 44	Роналду
+T1	Neutral_all 94 103	Криштиану
+T2	Neutral_all 161 166	Месси
+R1	Anafor Arg1:T0 Arg2:T1

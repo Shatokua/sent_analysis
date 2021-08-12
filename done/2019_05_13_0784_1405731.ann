@@ -1,0 +1,7 @@
+T0	Positive 28 41	Геди Попхадзе
+T1	Positive 67 70	ним
+A1	AnaforPerson T1
+T2	Positive 132 134	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

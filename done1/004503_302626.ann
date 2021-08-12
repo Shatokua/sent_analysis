@@ -1,0 +1,17 @@
+T0	Neutral_all 10 19	Маркелова
+T2	Neutral_all 141 155	Иван Станкевич
+T3	Neutral_all 212 222	Захарченко
+T4	Neutral_all 265 273	Маркелов
+T5	Neutral_all 275 283	Ушерович
+T6	Neutral_all 286 295	Станкевич
+T7	Neutral_all 377 387	Захарченко
+T8	Neutral_all 398 401	его
+A1	AnaforPerson T8
+T1	Neutral_all 22 31	Ушеровича
+T9	Neutral_all 32 42	Захарченко
+R1	Anafor Arg1:T7 Arg2:T8
+R3	Anafor Arg1:T3 Arg2:T7
+R4	Anafor Arg1:T2 Arg2:T6
+R2	Anafor Arg1:T9 Arg2:T3
+R5	Anafor Arg1:T5 Arg2:T1
+R6	Anafor Arg1:T4 Arg2:T0

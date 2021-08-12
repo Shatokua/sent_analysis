@@ -1,0 +1,6 @@
+T0	Neutral_all 4 9	Трамп
+T1	Neutral_all 44 49	Флинн
+T2	Neutral_all 163 174	Майла Пенса
+T3	Neutral_all 0 2	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

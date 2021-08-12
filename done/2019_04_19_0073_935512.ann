@@ -1,0 +1,6 @@
+T1	Neutral 58 68	Саакашвили
+T2	Neutral 129 133	него
+A1	AnaforPerson T2
+T100	Neutral 21 31	Саакашвили
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T100 Arg2:T1	

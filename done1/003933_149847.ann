@@ -1,0 +1,4 @@
+T0	Neutral_all 11 20	Порошенко
+T1	Neutral_all 131 151	Святослава Вакарчука
+T2	Neutral_all 226 235	Порошенко
+R1	Anafor Arg1:T0 Arg2:T2

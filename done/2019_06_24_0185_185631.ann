@@ -1,0 +1,6 @@
+T0	Neutral 12 18	Путину
+T1	Neutral 33 48	Саддама Хусейна
+T2	Neutral 0 2	Он
+T4	Neutral_all 151 153	их
+A2	Plural T4
+A1	AnaforPerson T4

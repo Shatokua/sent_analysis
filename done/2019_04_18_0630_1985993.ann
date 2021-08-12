@@ -1,0 +1,4 @@
+T0	Negative 48 63	Николаса Мадуро
+T1	Negative 83 86	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

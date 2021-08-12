@@ -1,0 +1,9 @@
+T100	Neutral_all 18 32	Джереми Реннер
+T103	Neutral_all 101 106	Путин
+T104	Neutral_all 137 143	Ленина
+T101	Neutral_all 112 114	он
+A1	AnaforPerson T101
+T105	Neutral 54 56	он
+A2	AnaforPerson T105
+T1	Neutral 59 78	Леонардо) Ди Каприо
+R1	Anafor Arg1:T1 Arg2:T101	

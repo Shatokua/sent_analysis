@@ -1,0 +1,4 @@
+T0	Negative 23 33	Родченкова
+T1	Negative 44 47	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

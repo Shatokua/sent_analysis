@@ -1,0 +1,14 @@
+T0	Neutral 21 33	Богословской
+T1	Neutral 190 202	Богословская
+T2	Neutral 464 478	Юлию Тимошенко
+T3	Negative 46 49	она
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3	
+T4	Neutral 288 291	она
+A2	AnaforPerson T4
+T5	Neutral 490 492	ее
+A3	AnaforPerson T5
+R3	Anafor Arg1:T2 Arg2:T5	
+A4	Unclear T0
+R2	Variant Arg1:T1 Arg2:T3	
+R4	Variant Arg1:T1 Arg2:T4	

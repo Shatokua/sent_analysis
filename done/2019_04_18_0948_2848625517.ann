@@ -1,0 +1,9 @@
+T0	Neutral 5 35	Владимиру Владимировичу Путину
+T1	Neutral 0 3	ВВП
+R1	Variant Arg1:T0 Arg2:T1	
+T2	Neutral 73 75	он
+A1	AnaforPerson T2
+T3	Mixed 130 133	ВВП
+#1	AnnotatorNotes T3	возможно стоит выделить, но в отдельном контексте непонятна данная аббревиатура
+R2	Anafor Arg1:T0 Arg2:T2	
+R3	Variant Arg1:T0 Arg2:T3	

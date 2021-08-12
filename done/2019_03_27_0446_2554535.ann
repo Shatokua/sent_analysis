@@ -1,0 +1,6 @@
+T1	Neutral 125 133	Йоханнес
+T100	Neutral_all 35 40	Клебо
+T102	Neutral_all 60 63	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T1 Arg2:T102	

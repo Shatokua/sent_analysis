@@ -1,0 +1,8 @@
+T0	Neutral_all 20 31	Майкл Калви
+T1	Neutral_all 156 172	Филиппа Дельпаля
+T2	Neutral_all 174 186	Ивана Зюзина
+T3	Neutral_all 188 203	Вагана Абгаряна
+T4	Neutral_all 206 225	Максима Владимирова
+T105	Neutral_all 145 148	его
+A1	AnaforPerson T105
+R101	Anafor Arg1:T0 Arg2:T105

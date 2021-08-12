@@ -1,0 +1,8 @@
+T0	Neutral_all 17 27	Аграмунтом
+T1	Neutral_all 40 54	Педро Аграмунт
+T2	Neutral_all 115 118	нас
+A1	Plural T2
+T3	Neutral_all 0 3	Нас
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T1 Arg2:T0

@@ -1,0 +1,6 @@
+T1	Negative 20 24	Дали
+T2	Negative 54 57	них
+A1	Plural T2
+T3	Neutral 136 139	его
+A2	AnaforPerson T3
+A3	Plural T3

@@ -1,0 +1,6 @@
+T0	Neutral_all 18 32	Дональда Туска
+T1	Neutral_all 89 91	мы
+A1	Plural T1
+T2	Neutral_all 352 354	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

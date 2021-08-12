@@ -1,0 +1,33 @@
+T0	Neutral_all 12 21	Головкина
+T3	Neutral_all 52 60	Шереметы
+T4	Neutral_all 205 214	Головкина
+T5	Neutral_all 248 261	Джарретт Херд
+T6	Neutral_all 263 277	Джермелл Чарло
+T7	Neutral_all 279 291	Хайме Мунгия
+T8	Neutral_all 293 302	Роб Брант
+T9	Neutral_all 304 315	Калеб Плант
+T10	Neutral_all 317 328	Каллум Смит
+T11	Neutral_all 330 348	Крис Юбэнк-младший
+T12	Neutral_all 350 367	Хильберто Рамирес
+T13	Neutral_all 369 382	Питер Куиллин
+T14	Neutral_all 384 395	Джесси Харт
+T15	Neutral_all 397 410	Хосе Ускатеги
+T16	Neutral_all 422 431	Головкина
+T17	Neutral_all 664 672	Головкин
+T18	Neutral_all 715 723	Н’Жикама
+T1	Neutral_all 43 49	Н’Дама
+T2	Neutral_all 513 516	его
+A1	AnaforPerson T2
+T19	Neutral_all 637 640	Они
+A2	Plural T19
+T20	Neutral_all 726 734	Шереметы
+R1	Anafor Arg1:T17 Arg2:T16
+R2	Anafor Arg1:T16 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T0
+R4	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T17 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T16
+R104	Anafor Arg1:T16 Arg2:T2
+R105	Anafor Arg1:T3 Arg2:T20
+R106	Anafor Arg1:T1 Arg2:T18

@@ -1,0 +1,6 @@
+T0	Neutral_all 28 43	Эрмека Касымова
+T1	Neutral_all 65 69	него
+A1	AnaforPerson T1
+T2	Neutral_all 258 260	Мы
+A2	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

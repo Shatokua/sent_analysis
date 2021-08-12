@@ -1,0 +1,4 @@
+T0	Positive 0 18	Эльвира Набиуллина
+T1	Positive 234 237	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

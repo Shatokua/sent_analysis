@@ -1,0 +1,4 @@
+T0	Neutral_all 71 83	Андрей Щиров
+T1	Neutral_all 114 122	Голунова
+T2	Neutral_all 169 174	Щиров
+R1	Anafor Arg1:T0 Arg2:T2

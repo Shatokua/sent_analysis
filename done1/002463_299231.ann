@@ -1,0 +1,8 @@
+T0	Neutral_all 102 111	Порошенко
+T1	Neutral_all 140 149	Порошенко
+T2	Neutral_all 188 199	Гладковский
+T3	Neutral_all 248 261	Ирина Луценко
+T4	Neutral_all 264 273	Тимошенко
+T5	Neutral_all 317 326	Порошенко
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T5

@@ -1,0 +1,4 @@
+T0	Positive 21 43	Владимир Александрович
+T1	Positive 6 9	Вас
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

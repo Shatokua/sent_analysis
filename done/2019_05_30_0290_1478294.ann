@@ -1,0 +1,5 @@
+T0	Neutral_all 30 44	Роберт Пеликан
+T1	Neutral_all 120 128	Никулина
+T2	Neutral_all 131 134	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

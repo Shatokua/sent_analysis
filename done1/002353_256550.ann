@@ -1,0 +1,5 @@
+T0	Neutral_all 47 63	Евгений Куйвашев
+T1	Neutral_all 171 180	Куйвашева
+T2	Neutral_all 134 136	вы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

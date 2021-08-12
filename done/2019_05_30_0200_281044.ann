@@ -1,0 +1,7 @@
+T0	Neutral_all 164 171	Меркель
+T1	Neutral_all 174 181	Олланда
+T2	Neutral_all 111 117	нашими
+A1	Plural T2
+T3	Neutral_all 127 129	Мы
+A2	Plural T3
+R1	Anafor Arg1:T3 Arg2:T2

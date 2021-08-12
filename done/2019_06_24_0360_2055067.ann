@@ -1,0 +1,6 @@
+T0	Neutral 56 65	Януковича
+T1	Neutral_all 92 107	Виктор Янукович
+T102	Neutral 156 159	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T0	
+R2	Anafor Arg1:T1 Arg2:T102	

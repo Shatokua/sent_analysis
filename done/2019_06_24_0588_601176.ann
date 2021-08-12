@@ -1,0 +1,5 @@
+T0	Neutral_all 55 64	Порошенко
+T1	Neutral_all 75 82	Путиным
+T2	Negative 95 98	вам
+A1	Plural T2
+A2	AnaforPerson T2

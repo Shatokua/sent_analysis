@@ -1,0 +1,12 @@
+T0	Neutral_all 745 759	Исе Омуркулову
+T1	Neutral_all 187 190	Они
+A1	Plural T1
+T2	Neutral_all 514 516	им
+A2	Plural T2
+T3	Neutral_all 627 630	них
+A3	Plural T3
+T102	Neutral_all 204 207	они
+A4	Plural T102
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T102

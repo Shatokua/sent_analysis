@@ -1,0 +1,3 @@
+T0	Neutral_all 51 62	А. Миронова
+T1	Neutral_all 233 244	А. Миронову
+R1	Anafor Arg1:T0 Arg2:T1

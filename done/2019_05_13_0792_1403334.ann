@@ -1,0 +1,7 @@
+T0	Positive 46 51	Хабиб
+T1	Positive 6 9	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 147 149	он
+A2	AnaforPerson T2
+R2	Anafor Arg1:T0 Arg2:T2	

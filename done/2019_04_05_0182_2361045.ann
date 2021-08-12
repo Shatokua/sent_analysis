@@ -1,0 +1,7 @@
+T3	Neutral 115 124	Порошенко
+T100	Neutral_all 6 15	Порошенко
+T101	Neutral_all 78 87	Тимошенко
+T102	Neutral_all 104 113	Зеленским
+T104	Neutral_all 200 214	Петр Порошенко
+R1	Anafor Arg1:T100 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T104	

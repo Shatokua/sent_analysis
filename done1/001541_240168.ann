@@ -1,0 +1,10 @@
+T0	Neutral_all 45 63	Владимиром Путиным
+T1	Neutral_all 39 42	ним
+A1	AnaforPerson T1
+T2	Neutral_all 182 184	он
+A2	AnaforPerson T2
+T3	Neutral 208 211	ему
+A3	AnaforPerson T3
+R101	Anafor Arg1:T0 Arg2:T1
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

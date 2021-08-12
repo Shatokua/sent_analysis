@@ -1,0 +1,19 @@
+T0	Neutral_all 26 57	Дмитрием Федоровичем Мезенцевым
+T1	Neutral_all 358 376	Дмитрия Федоровича
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 205 207	Он
+A2	AnaforPerson T3
+T4	Neutral_all 210 213	нам
+A3	Plural T4
+T5	Neutral_all 227 229	мы
+A4	Plural T5
+T6	Neutral_all 499 502	нас
+A5	Plural T6
+T7	Neutral_all 539 542	Вам
+A6	Plural T7
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T6
+R4	Anafor Arg1:T0 Arg2:T1
+R5	Anafor Arg1:T1 Arg2:T3

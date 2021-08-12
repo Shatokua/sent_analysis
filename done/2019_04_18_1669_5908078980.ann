@@ -1,0 +1,11 @@
+T0	Negative 76 85	Горбачева
+T1	Negative 88 95	Ельцина
+T2	Neutral 97 100	Они
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Negative 214 216	Их
+A3	AnaforPerson T3
+A4	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

@@ -1,0 +1,12 @@
+T2	Negative 75 78	его
+A1	AnaforPerson T2
+T100	Positive_all 136 149	Виталий Мутко
+T101	Negative_all 0 5	Андре
+T102	Negative_all 253 265	Виллаш-Боаша
+R1	Anafor Arg1:T101 Arg2:T2
+T1	Neutral 217 220	ему
+A3	AnaforPerson T1
+R3	Anafor Arg1:T100 Arg2:T1	
+T3	Negative 375 378	его
+A2	AnaforPerson T3
+R2	Anafor Arg1:T102 Arg2:T3	

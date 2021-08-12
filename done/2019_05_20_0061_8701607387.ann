@@ -1,0 +1,7 @@
+T0	Neutral 386 392	Знарка
+T1	Neutral 120 123	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 418 421	ему
+A3	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

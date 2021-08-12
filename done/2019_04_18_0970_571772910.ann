@@ -1,0 +1,19 @@
+T0	Negative 19 25	Сечине
+T1	Negative 34 36	Он
+A1	AnaforPerson T1
+T2	Negative 163 165	он
+A2	AnaforPerson T2
+T3	Negative 321 324	его
+A3	AnaforPerson T3
+T4	Negative 350 353	его
+A4	AnaforPerson T4
+T5	Negative 414 416	им
+A5	AnaforPerson T5
+T6	Negative 427 430	его
+A6	AnaforPerson T6
+R3	Anafor Arg1:T1 Arg2:T2	
+R4	Anafor Arg1:T2 Arg2:T3	
+R5	Anafor Arg1:T3 Arg2:T4	
+R6	Anafor Arg1:T4 Arg2:T5	
+R7	Anafor Arg1:T5 Arg2:T6	
+R1	Variant Arg1:T0 Arg2:T1	

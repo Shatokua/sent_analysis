@@ -1,0 +1,8 @@
+T0	Neutral_all 26 48	Алмазбезка Шаршеновича
+T1	Neutral_all 88 94	Путина
+T2	Neutral_all 97 106	Атамбаева
+T3	Neutral_all 83 86	них
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T0 Arg2:T2

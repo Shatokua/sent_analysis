@@ -1,0 +1,10 @@
+T0	Neutral_all 0 6	Виктор
+T1	Neutral_all 53 57	Дима
+T2	Neutral_all 74 78	Вите
+T3	Neutral_all 124 127	ему
+A1	AnaforPerson T3
+T4	Neutral_all 176 178	он
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T4 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T4

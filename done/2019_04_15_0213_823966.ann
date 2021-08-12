@@ -1,0 +1,5 @@
+T0	Neutral_all 0 5	Путин
+T1	Neutral_all 16 28	Башара Асада
+T2	Neutral_all 114 126	Башара Асада
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

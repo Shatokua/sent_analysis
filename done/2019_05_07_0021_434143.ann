@@ -1,0 +1,8 @@
+T0	Neutral 110 118	Сандерса
+T1	Neutral 123 125	он
+A1	AnaforPerson T1
+T2	Neutral 142 145	она
+T3	Negative 10 12	Вы
+R1	Anafor Arg1:T0 Arg2:T1	
+A2	AnaforPerson T2
+A3	AnaforPerson T3

@@ -1,0 +1,4 @@
+T100	Negative_all 26 37	Мишел Темер
+T101	Mixed 50 57	Пиночет
+T102	Negative_all 174 189	Мишелом Темером
+R1	Anafor Arg1:T100 Arg2:T102

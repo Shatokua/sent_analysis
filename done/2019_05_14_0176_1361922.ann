@@ -1,0 +1,5 @@
+T0	Neutral_all 29 39	Захарченко
+T1	Neutral_all 60 77	Юлия Владимировна
+T2	Neutral_all 114 117	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

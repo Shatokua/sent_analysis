@@ -1,0 +1,4 @@
+T0	Neutral 64 69	Путин
+T1	Neutral 115 117	их
+A1	AnaforPerson T1
+A2	Plural T1

@@ -1,0 +1,4 @@
+T0	Positive 8 21	Шахабас Шахов
+T1	Neutral 118 120	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

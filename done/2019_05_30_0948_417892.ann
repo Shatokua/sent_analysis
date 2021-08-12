@@ -1,0 +1,6 @@
+T1	Neutral_all 168 176	Шекспира
+T2	Positive 113 116	его
+A1	AnaforPerson T2
+T100	Positive 43 51	Шекспиру
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T100 Arg2:T2	

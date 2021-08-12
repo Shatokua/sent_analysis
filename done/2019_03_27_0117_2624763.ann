@@ -1,0 +1,5 @@
+T2	Neutral 43 46	его
+A1	AnaforPerson T2
+T100	Neutral_all 33 40	Богдана
+T101	Neutral_all 56 73	Эмиля Курбединова
+R1	Anafor Arg1:T100 Arg2:T2

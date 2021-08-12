@@ -1,0 +1,10 @@
+T0	Neutral_all 115 130	Сергея Скрипаля
+T1	Neutral_all 272 278	Путина
+T2	Neutral_all 341 349	Скрипаль
+T3	Neutral_all 325 327	Он
+A1	AnaforPerson T3
+T4	Neutral_all 390 393	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4

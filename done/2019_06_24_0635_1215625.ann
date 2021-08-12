@@ -1,0 +1,9 @@
+T0	Neutral_all 48 53	Трамп
+T1	Neutral_all 72 80	Сталиным
+T2	Neutral_all 227 232	Трамп
+T3	Neutral_all 82 84	мы
+A1	Plural T3
+T4	Neutral_all 191 193	Мы
+A2	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T3 Arg2:T4

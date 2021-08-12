@@ -1,0 +1,15 @@
+T3	Negative 495 498	его
+A1	AnaforPerson T3
+T4	Negative 315 324	тому, кто
+A2	AnaforPerson T4
+T100	Neutral_all 72 78	Путину
+T101	Negative_all 160 166	Асадом
+T103	Negative 415 419	Асад
+T1	Neutral 105 108	ему
+A4	AnaforPerson T1
+R3	Anafor Arg1:T100 Arg2:T1	
+T5	Negative 196 198	он
+A5	AnaforPerson T5
+R2	Anafor Arg1:T101 Arg2:T5	
+R1	Anafor Arg1:T103 Arg2:T3	
+R4	Anafor Arg1:T5 Arg2:T103	

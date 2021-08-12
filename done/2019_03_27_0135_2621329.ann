@@ -1,0 +1,5 @@
+T0	Neutral_all 41 50	Агузарова
+T1	Neutral_all 53 57	Шапи
+T2	Neutral_all 59 61	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

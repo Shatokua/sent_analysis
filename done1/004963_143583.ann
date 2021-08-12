@@ -1,0 +1,10 @@
+T0	Neutral_all 774 782	Яны Тоом
+T1	Neutral_all 904 919	Татьяной Жданок
+T2	Neutral_all 445 448	нас
+A1	Plural T2
+T3	Neutral_all 483 485	мы
+A2	Plural T3
+T4	Neutral_all 635 638	нас
+A3	Plural T4
+R1	Anafor Arg1:T3 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4

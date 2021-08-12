@@ -1,0 +1,9 @@
+T0	Neutral 2 17	Романа Широкова
+T1	Neutral 49 51	мы
+A1	Plural T1
+T2	Neutral 81 83	он
+A2	AnaforPerson T2
+T3	Neutral 124 126	он
+A3	AnaforPerson T3
+R1	Variant Arg1:T2 Arg2:T3	
+R2	Variant Arg1:T0 Arg2:T2	

@@ -1,0 +1,9 @@
+T0	Neutral_all 23 28	Трамп
+T1	Neutral_all 68 78	Тиллерсона
+T2	Neutral_all 92 98	Помпео
+T3	Neutral_all 121 126	Трамп
+T4	Neutral_all 143 149	Помпео
+T5	Neutral_all 186 196	Тиллерсона
+R1	Anafor Arg1:T2 Arg2:T4
+R2	Anafor Arg1:T1 Arg2:T5
+R3	Anafor Arg1:T0 Arg2:T3

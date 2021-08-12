@@ -1,0 +1,9 @@
+T0	Neutral_all 0 13	Карлоса Бакку
+T1	Neutral_all 24 26	Вы
+A1	Plural T1
+T2	Neutral_all 59 61	вы
+A2	Plural T2
+T3	Neutral_all 398 401	них
+A3	Plural T3
+T4	Neutral_all 504 507	его
+R1	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T0	Neutral_all 57 70	Анна Зализняк
+T1	Neutral_all 72 86	Майя Иосифовна
+T2	Neutral_all 14 16	ее
+A1	AnaforPerson T2
+T3	Neutral_all 105 107	ей
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T2

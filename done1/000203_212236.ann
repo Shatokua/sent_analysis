@@ -1,0 +1,16 @@
+T0	Positive_all 196 209	Римас Туминас
+T1	Positive_all 0 2	Он
+A1	AnaforPerson T1
+T5	Positive 227 229	он
+A5	AnaforPerson T5
+T6	Neutral 240 242	Он
+A6	AnaforPerson T6
+T102	Positive 21 23	он
+A7	AnaforPerson T102
+T103	Positive 49 51	он
+A8	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T0 Arg2:T103	
+R4	Anafor Arg1:T0 Arg2:T5	
+R5	Anafor Arg1:T5 Arg2:T6	

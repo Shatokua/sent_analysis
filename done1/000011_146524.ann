@@ -1,0 +1,19 @@
+T1	Neutral_all 183 204	Юрий Исакович Лебедев
+T2	Neutral_all 334 340	Люлину
+T3	Neutral_all 359 372	Евгений Люлин
+T4	Neutral_all 39 42	ему
+A1	AnaforPerson T4
+T5	Neutral_all 80 83	Ему
+A2	AnaforPerson T5
+T6	Neutral_all 150 152	он
+A3	AnaforPerson T6
+T7	Neutral_all 224 228	него
+A4	AnaforPerson T7
+T8	Neutral_all 306 309	его
+T100	Neutral 0 6	Носков
+R1	Anafor Arg1:T100 Arg2:T4	
+R2	Anafor Arg1:T4 Arg2:T5	
+R3	Anafor Arg1:T5 Arg2:T6	
+R4	Anafor Arg1:T6 Arg2:T7	
+R5	Anafor Arg1:T7 Arg2:T8	
+R6	Anafor Arg1:T3 Arg2:T2	

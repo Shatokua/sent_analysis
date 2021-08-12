@@ -1,0 +1,9 @@
+T2	Negative 86 88	он
+A1	AnaforPerson T2
+T100	Neutral_all 5 14	Порошенко
+T101	Negative 126 135	Порошенко
+T102	Negative 121 124	его
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T102	
+R3	Anafor Arg1:T101 Arg2:T102	

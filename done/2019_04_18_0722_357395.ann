@@ -1,0 +1,7 @@
+T0	Negative 50 58	Владимир
+T1	Negative 9 12	ему
+A1	AnaforPerson T1
+T2	Negative 44 48	тебя
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T1	

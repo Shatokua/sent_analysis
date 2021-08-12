@@ -1,0 +1,14 @@
+T0	Neutral_all 0 10	Чайковский
+T1	Neutral_all 391 406	Тамара Плетнева
+T2	Neutral_all 31 33	он
+A1	AnaforPerson T2
+T3	Neutral_all 70 73	его
+T4	Neutral_all 104 106	Он
+T5	Neutral_all 229 232	она
+A2	AnaforPerson T5
+T106	Neutral_all 666 668	Мы
+A3	Plural T106
+R1	Anafor Arg1:T4 Arg2:T3
+R2	Anafor Arg1:T1 Arg2:T5
+R3	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T4

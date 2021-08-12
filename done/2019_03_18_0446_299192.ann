@@ -1,0 +1,4 @@
+T1	Neutral 85 97	Ахмате-Хаджи
+T100	Positive_all 28 49	Владимир Владимирович
+T102	Positive_all 204 220	Владимира Путина
+R1	Anafor Arg1:T102 Arg2:T100	

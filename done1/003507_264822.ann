@@ -1,0 +1,6 @@
+T0	Neutral_all 0 17	Александр Бологов
+T1	Neutral_all 45 47	мы
+A1	Plural T1
+T2	Neutral_all 65 68	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

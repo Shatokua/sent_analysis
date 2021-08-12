@@ -1,0 +1,7 @@
+T1	Neutral_all 132 138	Трампа
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 80 86	Помпео
+T4	Neutral_all 149 152	нас
+A2	Plural T4
+R1	Anafor Arg1:T2 Arg2:T4

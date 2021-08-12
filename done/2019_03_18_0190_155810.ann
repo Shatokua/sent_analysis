@@ -1,0 +1,3 @@
+T100	Positive 0 7	Собянин
+T101	Neutral_all 90 98	Собянина
+R1	Anafor Arg1:T100 Arg2:T101	

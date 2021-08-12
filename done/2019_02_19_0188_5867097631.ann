@@ -1,0 +1,13 @@
+T101	Negative_all 4 13	Порошенко
+T102	Neutral_all 128 134	Ющенко
+T103	Neutral_all 141 165	Леонида Даниловича Кучмы
+T104	Positive 256 278	Леонид Данилович Кучма
+T105	Neutral 0 2	Он
+A1	AnaforPerson T105
+T106	Positive_all 294 296	он
+A2	AnaforPerson T106
+T107	Neutral_all 114 116	он
+A3	AnaforPerson T107
+R1	Anafor Arg1:T101 Arg2:T107
+R101	Anafor Arg1:T101 Arg2:T105
+R102	Anafor Arg1:T106 Arg2:T104

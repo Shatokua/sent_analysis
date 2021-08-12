@@ -1,0 +1,7 @@
+T4	Neutral 6 8	он
+A1	AnaforPerson T4
+T100	Neutral_all 10 15	Путин
+T101	Neutral_all 47 55	Медведев
+T102	Neutral_all 77 84	Собянин
+T103	Neutral_all 119 134	Сергей Нарышкин
+R1	Anafor Arg1:T100 Arg2:T4	

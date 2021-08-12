@@ -1,0 +1,8 @@
+T0	Neutral_all 133 155	Хабибом Нурмагомедовым
+T1	Neutral_all 158 177	Конором Макгрегором
+T2	Neutral_all 368 385	Наримана Аббасова
+T3	Neutral_all 224 226	мы
+A1	Plural T3
+T4	Neutral_all 397 400	нам
+A2	Plural T4
+R1	Anafor Arg1:T3 Arg2:T4

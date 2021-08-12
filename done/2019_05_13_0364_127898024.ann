@@ -1,0 +1,4 @@
+T0	Positive 0 5	Путин
+T1	Neutral 20 22	Вы
+A1	AnaforPerson T1
+A2	Plural T1

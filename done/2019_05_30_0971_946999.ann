@@ -1,0 +1,5 @@
+T0	Neutral_all 0 7	Джонсон
+T1	Neutral_all 36 52	Сергеем Лавровым
+T2	Neutral_all 192 198	Лавров
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,14 @@
+T0	Neutral_all 12 27	Нельсон Мандела
+T1	Neutral_all 89 91	их
+A1	Plural T1
+T2	Neutral_all 114 116	Мы
+A2	Plural T2
+T3	Neutral_all 305 307	мы
+A3	Plural T3
+T4	Neutral_all 325 328	них
+A4	Plural T4
+T103	Neutral_all 43 45	их
+A5	Plural T103
+R1	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T103 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T4

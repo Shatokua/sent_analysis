@@ -1,0 +1,8 @@
+T0	Neutral_all 36 52	Рамзана Кадырова
+T1	Neutral_all 97 116	Сергеем Бердниковым
+T2	Neutral_all 169 187	Татьяной Никитиной
+T3	Neutral_all 238 252	Рамзан Кадыров
+T4	Neutral_all 404 406	Он
+A1	AnaforPerson T4
+R1	Anafor Arg1:T3 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T4

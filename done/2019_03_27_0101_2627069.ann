@@ -1,0 +1,5 @@
+T2	Neutral 115 117	он
+A1	AnaforPerson T2
+T100	Neutral_all 20 29	Максимова
+T101	Negative 196 204	Максимов
+R1	Anafor Arg1:T100 Arg2:T101	

@@ -1,0 +1,4 @@
+T1	Positive 0 8	Слуцкого
+T2	Neutral 27 29	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

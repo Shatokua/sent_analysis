@@ -1,0 +1,4 @@
+T1	Neutral_all 8 26	Арсением (Яценюком
+T2	Neutral_all 3 5	мы
+A1	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

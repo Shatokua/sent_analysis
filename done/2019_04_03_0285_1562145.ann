@@ -1,0 +1,4 @@
+T1	Neutral 23 39	Николаса) Мадуро
+T102	Neutral_all 134 137	его
+A1	AnaforPerson T102
+R1	Anafor Arg1:T1 Arg2:T102

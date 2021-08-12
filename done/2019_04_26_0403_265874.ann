@@ -1,0 +1,11 @@
+T0	Neutral_all 2 20	Рамзаном Кадыровым
+T1	Neutral_all 96 103	Кадыров
+T2	Neutral_all 181 188	Немцова
+T3	Neutral_all 61 64	ним
+A1	AnaforPerson T3
+T4	Neutral_all 73 75	Вы
+A2	Plural T4
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T3

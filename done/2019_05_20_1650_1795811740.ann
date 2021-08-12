@@ -1,0 +1,4 @@
+T0	Neutral 249 268	Дмитрий Анатольевич
+T1	Neutral 238 240	Вы
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

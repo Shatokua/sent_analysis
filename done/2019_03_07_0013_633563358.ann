@@ -1,0 +1,27 @@
+T4	Negative 572 578	Цезаря
+T5	Negative 76 78	он
+A1	AnaforPerson T5
+T7	Neutral 199 201	он
+A2	AnaforPerson T7
+T100	Neutral 0 5	Путин
+T101	Neutral 54 61	Ельцина
+T102	Negative_all 448 456	Ельциным
+T103	Negative_all 482 487	Путин
+T104	Negative_all 543 545	Он
+A5	AnaforPerson T104
+T105	Neutral_all 148 150	Он
+A6	AnaforPerson T105
+T106	Negative_all 220 222	Он
+A7	AnaforPerson T106
+T107	Positive 277 280	Его
+A8	AnaforPerson T107
+T108	Neutral 406 408	он
+A9	AnaforPerson T108
+R2	Anafor Arg1:T5 Arg2:T105
+R3	Anafor Arg1:T105 Arg2:T7
+R4	Anafor Arg1:T7 Arg2:T106
+R7	Anafor Arg1:T103 Arg2:T104
+R103	Anafor Arg1:T106 Arg2:T107
+R104	Anafor Arg1:T107 Arg2:T108
+R1	Anafor Arg1:T100 Arg2:T5	
+R5	Anafor Arg1:T108 Arg2:T103	

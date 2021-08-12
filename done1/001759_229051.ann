@@ -1,0 +1,15 @@
+T0	Neutral_all 5 13	Том Круз
+T1	Neutral_all 89 94	Круза
+T2	Neutral_all 194 208	Марку Уолбергу
+T3	Neutral_all 22 24	он
+A1	AnaforPerson T3
+T4	Neutral_all 123 125	он
+A2	AnaforPerson T4
+T5	Neutral_all 246 249	его
+A3	AnaforPerson T5
+T105	Neutral_all 159 163	нами
+A4	Plural T105
+R1	Anafor Arg1:T2 Arg2:T5
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T4 Arg2:T3

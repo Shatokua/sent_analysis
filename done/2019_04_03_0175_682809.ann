@@ -1,0 +1,10 @@
+T3	Negative 133 136	вас
+T100	Neutral_all 32 39	Флинном
+T101	Neutral_all 58 65	Флинном
+T102	Neutral_all 106 112	Флинна
+R1	Anafor Arg1:T100 Arg2:T101
+R2	Anafor Arg1:T101 Arg2:T102
+T1	Neutral 89 93	вами
+A1	AnaforPerson T1
+R3	Anafor Arg1:T1 Arg2:T3	
+A2	AnaforPerson T3

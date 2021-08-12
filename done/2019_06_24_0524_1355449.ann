@@ -1,0 +1,8 @@
+T0	Neutral_all 108 118	Максименко
+T1	Neutral_all 189 199	Максименко
+T2	Neutral_all 4 6	мы
+A1	Plural T2
+T3	Neutral_all 124 126	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T1

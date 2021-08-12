@@ -1,0 +1,6 @@
+T0	Neutral_all 54 62	Родниной
+T1	Neutral_all 65 72	Валуева
+T2	Neutral_all 74 87	Ирина Роднина
+T3	Neutral_all 90 104	Николай Валуев
+R1	Anafor Arg1:T2 Arg2:T0
+R2	Anafor Arg1:T3 Arg2:T1

@@ -1,0 +1,4 @@
+T0	Positive 25 43	Сергей Кужугетович
+T1	Positive 55 60	Вашей
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

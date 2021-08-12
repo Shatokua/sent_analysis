@@ -1,0 +1,22 @@
+T0	Neutral_all 108 113	Путин
+T1	Positive 154 163	Навальный
+T2	Neutral_all 20 22	он
+A1	AnaforPerson T2
+T3	Neutral_all 40 42	он
+A2	AnaforPerson T3
+T4	Neutral_all 117 121	него
+A3	AnaforPerson T4
+T5	Positive 148 151	он
+A4	AnaforPerson T5
+T101	Neutral 154 163	Навальный
+T105	Neutral 148 151	он
+A5	AnaforPerson T105
+R1	Anafor Arg1:T1 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T4
+R101	Anafor Arg1:T101 Arg2:T105
+R102	Anafor Arg1:T105 Arg2:T4
+R103	Anafor Arg1:T4 Arg2:T3
+T6	Positive 64 70	придет
+A6	Unclear T6

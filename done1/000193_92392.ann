@@ -1,0 +1,7 @@
+T1	Neutral_all 49 79	Потеминым Дмитрием Тихоновичем
+T2	Neutral 81 83	Он
+A1	AnaforPerson T2
+T3	Neutral 115 118	нем
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

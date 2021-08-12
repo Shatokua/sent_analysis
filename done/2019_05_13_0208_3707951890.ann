@@ -1,0 +1,13 @@
+T0	Positive 316 335	Ахмат-Хаджи Кадыров
+T1	Negative 86 89	они
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 407 411	вами
+A3	AnaforPerson T2
+A4	Plural T2
+T3	Positive 436 439	его
+A5	AnaforPerson T3
+T4	Positive 471 473	им
+A6	AnaforPerson T4
+R1	Variant Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

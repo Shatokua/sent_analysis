@@ -1,0 +1,7 @@
+T0	Negative_all 79 85	Лолиты
+T1	Neutral_all 238 249	Коко Шанель
+T2	Neutral_all 296 298	вы
+A1	Plural T2
+T3	Neutral_all 312 315	вас
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

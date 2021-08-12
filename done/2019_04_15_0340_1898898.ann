@@ -1,0 +1,4 @@
+T0	Neutral_all 74 84	Захарченко
+T1	Neutral_all 152 162	Захарченко
+T2	Neutral_all 187 198	Ходоковский
+R1	Anafor Arg1:T0 Arg2:T1

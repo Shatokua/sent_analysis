@@ -1,0 +1,4 @@
+T100	Negative_all 68 77	Порошенко
+T101	Negative_all 82 90	Янукович
+T102	Neutral_all 96 105	Януковиче
+R1	Anafor Arg1:T101 Arg2:T102

@@ -1,0 +1,6 @@
+T0	Neutral_all 489 510	Георгия Маргвелашвили
+T1	Neutral_all 588 590	Мы
+A1	Plural T1
+T2	Neutral_all 656 658	мы
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2

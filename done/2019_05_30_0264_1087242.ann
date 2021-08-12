@@ -1,0 +1,4 @@
+T3	Neutral 165 167	он
+A2	AnaforPerson T3
+T101	Neutral 79 98	Рональдом] Рейганом
+R1	Anafor Arg1:T101 Arg2:T3	

@@ -1,0 +1,5 @@
+T0	Positive_all 94 98	Крис
+T1	Positive_all 253 264	Дэйне Уайту
+T2	Positive_all 137 140	она
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

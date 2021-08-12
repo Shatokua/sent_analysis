@@ -1,0 +1,13 @@
+T0	Neutral 19 27	Антуаном
+T1	Neutral 50 54	него
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Neutral 84 86	он
+A2	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2	
+T3	Neutral 187 189	он
+A3	AnaforPerson T3
+R3	Anafor Arg1:T2 Arg2:T3	
+T4	Positive 229 231	он
+A4	AnaforPerson T4
+R4	Anafor Arg1:T3 Arg2:T4	

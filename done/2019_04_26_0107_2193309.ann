@@ -1,0 +1,4 @@
+T0	Negative_all 44 53	Порошенко
+T1	Neutral_all 109 119	Саакашвили
+T2	Neutral_all 123 132	Порошенко
+R1	Anafor Arg1:T0 Arg2:T2

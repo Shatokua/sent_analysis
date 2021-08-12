@@ -1,0 +1,14 @@
+T1	Neutral_all 121 125	Саши
+T2	Neutral_all 54 56	он
+A1	AnaforPerson T2
+T4	Negative_all 169 171	он
+A3	AnaforPerson T4
+T5	Neutral_all 179 183	него
+A4	AnaforPerson T5
+T6	Negative_all 205 207	он
+A5	AnaforPerson T6
+T100	Negative 5 9	Дима
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T4 Arg2:T6
+R4	Anafor Arg1:T1 Arg2:T5
+R1	Anafor Arg1:T100 Arg2:T2	

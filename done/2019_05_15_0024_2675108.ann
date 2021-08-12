@@ -1,0 +1,8 @@
+T0	Neutral_all 0 18	Владимир Зеленский
+T2	Neutral_all 194 196	Он
+A1	AnaforPerson T2
+T101	Neutral 136 154	Андрей Пальчевский
+T103	Neutral_all 230 240	Зеленскому
+A2	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T103	

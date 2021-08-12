@@ -1,0 +1,4 @@
+T1	Neutral 103 113	Плотницким
+T2	Neutral 142 145	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

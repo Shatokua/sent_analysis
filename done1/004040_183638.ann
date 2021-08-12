@@ -1,0 +1,6 @@
+T0	Neutral_all 10 23	Кайри Ирвинге
+T1	Neutral_all 103 106	нас
+A1	Plural T1
+T2	Neutral_all 138 140	мы
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1

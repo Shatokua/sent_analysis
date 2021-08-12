@@ -1,0 +1,8 @@
+T0	Neutral_all 8 14	Амиран
+T2	Neutral_all 62 72	Волочковой
+T1	Neutral_all 93 95	ее
+A2	AnaforPerson T1
+T103	Neutral 32 34	ты
+A3	AnaforPerson T103
+R2	Anafor Arg1:T2 Arg2:T1
+R1	Anafor Arg1:T0 Arg2:T103	

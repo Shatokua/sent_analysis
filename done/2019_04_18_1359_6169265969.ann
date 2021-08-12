@@ -1,0 +1,11 @@
+T0	Neutral 61 66	Обаму
+T1	Neutral 77 82	Трамп
+T2	Negative 21 24	они
+A1	AnaforPerson T2
+A2	Plural T2
+T3	Negative 86 88	Он
+A3	AnaforPerson T3
+T4	Negative 108 110	Он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T3	
+R2	Anafor Arg1:T3 Arg2:T4	

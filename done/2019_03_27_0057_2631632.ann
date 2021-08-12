@@ -1,0 +1,8 @@
+T4	Neutral 117 121	тебе
+T100	Neutral_all 4 8	Алла
+T101	Neutral_all 58 67	Кристиной
+T102	Neutral_all 82 88	Валере
+T103	Neutral_all 69 72	она
+A1	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T103
+A2	AnaforPerson T4

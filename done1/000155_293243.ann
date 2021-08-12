@@ -1,0 +1,5 @@
+T0	Neutral_all 27 42	Александр Жуков
+T1	Neutral_all 66 76	Коновалова
+T2	Neutral_all 100 114	Валерий Усатюк
+T3	Neutral_all 174 180	Жукова
+R1	Anafor Arg1:T0 Arg2:T3

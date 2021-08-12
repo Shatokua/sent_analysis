@@ -1,0 +1,19 @@
+T0	Neutral_all 106 112	Путина
+T1	Positive_all 178 183	Путин
+T2	Neutral_all 62 65	нас
+A1	Plural T2
+T3	Neutral_all 115 118	нас
+A2	Plural T3
+T4	Neutral_all 131 133	мы
+A3	Plural T4
+T5	Neutral_all 158 161	нам
+A4	Plural T5
+T103	Neutral_all 80 84	наши
+A5	Plural T103
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T4 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R4	Anafor Arg1:T2 Arg2:T5
+R102	Anafor Arg1:T2 Arg2:T103
+R103	Anafor Arg1:T103 Arg2:T3
+R104	Anafor Arg1:T3 Arg2:T4

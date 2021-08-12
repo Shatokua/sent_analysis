@@ -1,0 +1,5 @@
+T0	Neutral_all 19 26	Ахмедов
+T1	Neutral_all 52 55	Гай
+T2	Neutral_all 108 120	Абель Санчес
+T3	Neutral_all 128 131	Али
+R1	Anafor Arg1:T3 Arg2:T0

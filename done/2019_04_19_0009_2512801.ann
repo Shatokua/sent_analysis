@@ -1,0 +1,4 @@
+T0	Neutral_all 66 71	Дадли
+T1	Neutral_all 82 88	Путину
+T2	Neutral_all 163 168	Путин
+R1	Anafor Arg1:T2 Arg2:T1

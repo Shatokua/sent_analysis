@@ -1,0 +1,5 @@
+T0	Neutral_all 93 103	Майи Санду
+T1	Neutral_all 106 120	Андрея Нэстасе
+T102	Neutral 127 130	они
+A2	Plural T102
+A1	AnaforPerson T102

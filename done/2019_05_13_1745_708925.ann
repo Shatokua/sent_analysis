@@ -1,0 +1,7 @@
+T0	Neutral 7 17	Березуцкий
+T1	Positive 76 78	он
+A1	AnaforPerson T1
+T2	Positive 143 145	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

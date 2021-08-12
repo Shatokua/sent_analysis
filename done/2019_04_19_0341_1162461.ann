@@ -1,0 +1,3 @@
+T0	Neutral_all 0 7	Карелин
+T1	Neutral_all 15 32	Александр Карелин
+R1	Anafor Arg1:T1 Arg2:T0

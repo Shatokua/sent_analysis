@@ -1,0 +1,4 @@
+T0	Neutral_all 0 13	Телегин Фёдор
+T1	Neutral_all 101 108	Телегин
+T2	Neutral_all 216 231	Сергея Будагова
+R1	Anafor Arg1:T0 Arg2:T1

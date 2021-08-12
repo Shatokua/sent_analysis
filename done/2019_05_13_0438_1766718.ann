@@ -1,0 +1,11 @@
+T0	Mixed 103 111	Курбаном
+T1	Positive 63 65	им
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 74 77	Они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Positive 196 199	ему
+A5	AnaforPerson T3
+R2	Anafor Arg1:T0 Arg2:T3	

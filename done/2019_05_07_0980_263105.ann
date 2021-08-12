@@ -1,0 +1,11 @@
+T0	Neutral 12 18	Путину
+T1	Neutral 54 56	Мы
+A1	Plural T1
+T2	Neutral 102 105	вас
+A2	Plural T2
+T3	Neutral 109 111	вы
+A3	Plural T3
+T4	Neutral 120 123	нам
+A4	Plural T4
+R1	Variant Arg1:T3 Arg2:T2	
+R2	Variant Arg1:T1 Arg2:T4	

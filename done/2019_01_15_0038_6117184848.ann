@@ -1,0 +1,5 @@
+T0	Neutral 17 24	Саддама
+T1	Neutral 110 114	него
+A1	AnaforPerson T1
+T101	Neutral 0 3	Буш
+R1	Anafor Arg1:T0 Arg2:T1	

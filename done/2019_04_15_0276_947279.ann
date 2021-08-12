@@ -1,0 +1,8 @@
+T100	Negative_all 25 31	Ксении
+T101	Positive_all 138 144	Дениса
+T102	Negative 71 73	ее
+A2	AnaforPerson T102
+T103	Neutral_all 159 162	его
+A3	AnaforPerson T103
+R1	Anafor Arg1:T101 Arg2:T103
+R2	Anafor Arg1:T100 Arg2:T102	

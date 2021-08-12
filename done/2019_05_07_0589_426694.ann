@@ -1,0 +1,4 @@
+T0	Neutral 62 72	Навального
+T1	Neutral 129 132	его
+A1	AnaforPerson T1
+R1	Variant Arg1:T0 Arg2:T1	

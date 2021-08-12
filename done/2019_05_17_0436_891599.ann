@@ -1,0 +1,5 @@
+T0	Negative_all 68 87	Александр Бастрыкин
+T1	Neutral_all 100 107	Гаджиев
+T2	Neutral_all 96 98	он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

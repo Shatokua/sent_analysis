@@ -1,0 +1,4 @@
+T0	Neutral_all 23 29	Путина
+T1	Neutral_all 125 131	Ельцин
+T2	Neutral_all 166 171	Путин
+R1	Anafor Arg1:T2 Arg2:T0

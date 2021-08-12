@@ -1,0 +1,11 @@
+T0	Neutral_all 0 5	Алиев
+T1	Neutral_all 112 131	Эльмара Мамедьярова
+T2	Neutral_all 177 184	Пашинян
+T3	Neutral_all 222 229	Алиевым
+T4	Neutral_all 257 263	Алиева
+T5	Neutral_all 294 301	Пашинян
+R1	Anafor Arg1:T0 Arg2:T4
+R2	Anafor Arg1:T4 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T4

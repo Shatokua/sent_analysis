@@ -1,0 +1,7 @@
+T0	Neutral_all 39 59	Александр Бондаренко
+T1	Neutral_all 116 118	он
+A1	AnaforPerson T1
+T2	Neutral_all 169 172	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

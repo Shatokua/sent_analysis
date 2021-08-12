@@ -1,0 +1,9 @@
+T2	Neutral_all 231 261	Дмитрию Анатольевичу Медведеву
+T3	Neutral_all 0 3	Нас
+A1	Plural T3
+T4	Neutral_all 46 48	вы
+A2	Plural T4
+T5	Neutral_all 69 71	мы
+A3	Plural T5
+T1	Neutral_all 80 108	Андрею Михайловичу (Макарову
+R1	Anafor Arg1:T5 Arg2:T3

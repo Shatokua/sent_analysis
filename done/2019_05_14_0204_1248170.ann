@@ -1,0 +1,6 @@
+T0	Neutral_all 45 54	Порошенко
+T1	Neutral_all 100 109	Порошенко
+T2	Neutral_all 135 143	Янукович
+T3	Neutral_all 66 68	их
+A1	Plural T3
+R1	Anafor Arg1:T0 Arg2:T1

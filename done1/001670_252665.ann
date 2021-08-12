@@ -1,0 +1,6 @@
+T0	Neutral_all 126 141	Дмитрий Юрьевич
+T3	Neutral_all 145 148	его
+A1	AnaforPerson T3
+T101	Positive 341 354	Сергею Белову
+T102	Positive 420 435	Андрею Калинину
+R1	Anafor Arg1:T0 Arg2:T3

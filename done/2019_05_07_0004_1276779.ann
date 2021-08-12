@@ -1,0 +1,9 @@
+T0	Neutral 0 5	Трамп
+T1	Neutral 43 46	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	
+T2	Positive 109 112	они
+A2	Plural T2
+T3	Mixed 52 59	девушки
+R2	Anafor Arg1:T3 Arg2:T2	
+A3	AnaforPerson T2

@@ -1,0 +1,12 @@
+T0	Neutral_all 105 114	Дерипаски
+T1	Neutral_all 152 161	Дерипаске
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 100 103	Его
+A2	AnaforPerson T3
+T4	Neutral_all 147 150	Ему
+A3	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4
+R102	Anafor Arg1:T1 Arg2:T4

@@ -1,0 +1,5 @@
+T0	Neutral_all 15 20	Игорь
+T1	Neutral_all 29 34	Додон
+T2	Neutral_all 110 130	Фаритом Мухаметшиным
+R1	Anafor Arg1:T0 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T0

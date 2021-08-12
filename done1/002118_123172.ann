@@ -1,0 +1,9 @@
+T0	Neutral_all 264 278	Игоря Чемезова
+T1	Neutral_all 2 6	нему
+A1	AnaforPerson T1
+T2	Neutral_all 116 120	него
+A2	AnaforPerson T2
+T3	Neutral_all 223 226	нас
+A3	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

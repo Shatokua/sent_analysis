@@ -1,0 +1,9 @@
+T100	Neutral_all 10 17	Парубия
+T101	Negative 166 173	Парубий
+T102	Neutral_all 41 44	его
+A1	AnaforPerson T102
+T103	Neutral_all 71 73	он
+A2	AnaforPerson T103
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T101 Arg2:T103	

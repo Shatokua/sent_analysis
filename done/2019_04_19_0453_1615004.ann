@@ -1,0 +1,7 @@
+T0	Neutral_all 51 57	Путина
+T1	Neutral_all 67 78	Ким Чен Ыну
+T2	Neutral_all 20 22	он
+T3	Neutral_all 0 2	Мы
+A1	Plural T3
+T104	Neutral_all 116 120	нашу
+A2	Plural T104

@@ -1,0 +1,8 @@
+T1	Positive 0 5	Хибла
+A1	AnaforPerson T1
+T2	Positive 84 86	ее
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	
+T3	Positive 127 130	она
+A3	AnaforPerson T3
+R2	Variant Arg1:T2 Arg2:T3	

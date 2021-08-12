@@ -1,0 +1,4 @@
+T0	Neutral_all 311 331	Владимира Плахотнюка
+T1	Neutral_all 383 386	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

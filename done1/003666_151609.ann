@@ -1,0 +1,5 @@
+T0	Neutral_all 18 33	Чарльза Мэнсона
+T1	Neutral_all 35 37	мы
+A1	Plural T1
+T2	Neutral_all 151 153	он
+A2	AnaforPerson T2

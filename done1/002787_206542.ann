@@ -1,0 +1,4 @@
+T0	Neutral_all 21 35	Ирина Вырышева
+T1	Neutral_all 292 301	Вырышевой
+R1	Anafor Arg1:T0 Arg2:T1
+T2	Neutral 471 475	нему

@@ -1,0 +1,9 @@
+T0	Neutral_all 174 186	Иван Голунов
+T1	Neutral_all 8 11	Вам
+A1	AnaforPerson T1
+T2	Neutral_all 135 138	его
+A2	AnaforPerson T2
+T103	Neutral_all 235 239	него
+A3	AnaforPerson T103
+R1	Anafor Arg1:T0 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T103

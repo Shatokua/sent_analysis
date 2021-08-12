@@ -1,0 +1,7 @@
+T0	Neutral_all 26 43	Александр Захаров
+T1	Neutral_all 145 147	он
+A1	AnaforPerson T1
+T2	Neutral_all 187 189	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

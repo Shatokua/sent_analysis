@@ -1,0 +1,3 @@
+T0	Neutral_all 17 25	Янукович
+T1	Neutral_all 234 243	Януковича
+R1	Anafor Arg1:T0 Arg2:T1

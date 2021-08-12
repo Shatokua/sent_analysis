@@ -1,0 +1,10 @@
+T0	Neutral_all 22 35	Карол Падилья
+T1	Neutral_all 47 66	Фарид Мора Сальседо
+T2	Neutral_all 69 86	Динора Бустаманте
+T3	Neutral_all 133 148	Дэнни Контрерас
+T4	Neutral_all 151 164	Анхель Флорес
+T5	Neutral_all 0 2	Мы
+A1	Plural T5
+T6	Neutral_all 187 189	Мы
+A2	Plural T6
+R1	Anafor Arg1:T5 Arg2:T6

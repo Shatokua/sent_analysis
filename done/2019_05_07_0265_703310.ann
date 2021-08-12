@@ -1,0 +1,4 @@
+T0	Neutral 83 87	Бейл
+T1	Neutral 157 160	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

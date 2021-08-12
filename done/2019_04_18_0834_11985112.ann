@@ -1,0 +1,5 @@
+T0	Neutral 11 31	Никита Юрьевич Белых
+T1	Negative 71 74	ему
+A1	AnaforPerson T1
+#1	AnnotatorNotes T1	возможно Negative
+R1	Anafor Arg1:T0 Arg2:T1	

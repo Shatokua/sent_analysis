@@ -1,0 +1,6 @@
+T0	Neutral_all 16 23	Роналду
+T1	Neutral_all 133 140	Роналду
+T2	Neutral_all 69 71	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

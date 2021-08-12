@@ -1,0 +1,11 @@
+T3	Positive 87 89	Ее
+A2	AnaforPerson T3
+T100	Neutral_all 9 21	Москальковой
+T101	Neutral_all 49 57	Чудновец
+T102	Neutral 59 62	Она
+A3	AnaforPerson T102
+T104	Neutral_all 131 133	ее
+A5	AnaforPerson T104
+R1	Anafor Arg1:T101 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T104	

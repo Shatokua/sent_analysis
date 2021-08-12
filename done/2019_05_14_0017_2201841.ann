@@ -1,0 +1,6 @@
+T2	Neutral_all 65 67	их
+A1	Plural T2
+T1	Neutral_all 177 193	Людмиле) Лубиной
+T3	Neutral_all 195 197	их
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

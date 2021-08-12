@@ -1,0 +1,5 @@
+T0	Positive_all 10 26	Владимиру Путину
+T2	Neutral_all 66 68	Вы
+A1	Plural T2
+T101	Mixed 104 110	Путина
+R1	Anafor Arg1:T0 Arg2:T101	

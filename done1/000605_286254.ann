@@ -1,0 +1,3 @@
+T0	Neutral_all 7 19	В. Зеленский
+T1	Neutral_all 264 277	В. Зеленского
+R1	Anafor Arg1:T0 Arg2:T1

@@ -1,0 +1,11 @@
+T0	Neutral_all 0 5	Трамп
+T1	Neutral_all 74 80	Трампу
+T2	Neutral_all 35 39	него
+A1	AnaforPerson T2
+T3	Neutral_all 63 65	мы
+A2	Plural T3
+T4	Neutral_all 156 158	им
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2

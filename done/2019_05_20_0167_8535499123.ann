@@ -1,0 +1,6 @@
+T0	Neutral 256 267	Федя Смолов
+T1	Neutral 0 2	Он
+A1	AnaforPerson T1
+T2	Neutral 157 160	Его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

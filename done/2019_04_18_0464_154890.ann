@@ -1,0 +1,4 @@
+T0	Negative 224 228	Боря
+T1	Negative 71 73	Он
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

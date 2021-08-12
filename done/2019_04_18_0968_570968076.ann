@@ -1,0 +1,20 @@
+T0	Neutral 10 18	Янукович
+T1	Neutral 353 355	Им
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Neutral 378 381	них
+A3	Plural T2
+T3	Neutral 422 424	им
+A4	AnaforPerson T3
+A5	Plural T3
+T4	Neutral 340 342	им
+A6	AnaforPerson T4
+T5	Neutral 440 443	них
+A7	AnaforPerson T5
+A8	Plural T5
+R1	Anafor Arg1:T4 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T5	
+A9	Plural T4
+A10	AnaforPerson T2

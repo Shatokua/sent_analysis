@@ -1,0 +1,9 @@
+T0	Neutral_all 261 278	Николай Мерзликин
+T1	Neutral_all 280 296	Сергей Белоногов
+T2	Neutral_all 322 333	Юрий Гайдук
+T3	Neutral_all 336 350	Сергей Сутурин
+T4	Neutral_all 353 363	Роман Берг
+T5	Neutral_all 84 86	мы
+A1	Plural T5
+T6	Neutral 298 301	ваш
+R1	Anafor Arg1:T2 Arg2:T6	

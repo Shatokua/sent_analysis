@@ -1,0 +1,12 @@
+T0	Neutral 10 17	Эбботту
+T1	Positive 98 103	Путин
+T2	Neutral 5 8	ему
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	
+T3	Neutral 164 167	них
+A2	AnaforPerson T3
+A3	Plural T3
+T4	Neutral 291 293	он
+A4	AnaforPerson T4
+R2	Anafor Arg1:T0 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T3	

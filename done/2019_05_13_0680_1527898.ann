@@ -1,0 +1,7 @@
+T0	Neutral 0 15	Михаил Альперин
+T1	Neutral 63 66	ему
+A1	AnaforPerson T1
+T2	Neutral 94 97	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

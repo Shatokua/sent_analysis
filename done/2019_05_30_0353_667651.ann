@@ -1,0 +1,3 @@
+T0	Neutral_all 56 70	Анну Ярославну
+T1	Neutral_all 107 120	Анну Киевскую
+R101	Anafor Arg1:T0 Arg2:T1

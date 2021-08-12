@@ -1,0 +1,7 @@
+T0	Neutral 33 46	Хельмут Марко
+T1	Neutral 99 104	Гасли
+T2	Neutral_all 514 519	Гасли
+T3	Neutral_all 153 156	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3	
+R2	Anafor Arg1:T2 Arg2:T3	

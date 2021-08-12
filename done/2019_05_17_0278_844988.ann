@@ -1,0 +1,10 @@
+T0	Neutral_all 47 59	Ольга Бузова
+T2	Neutral_all 145 163	Дмитрием Тарасовым
+T4	Neutral_all 80 83	нее
+A2	AnaforPerson T4
+T101	Neutral 114 119	Ольге
+T105	Neutral 185 188	она
+A4	AnaforPerson T105
+R1	Anafor Arg1:T0 Arg2:T4	
+R2	Anafor Arg1:T101 Arg2:T4	
+R3	Anafor Arg1:T101 Arg2:T105	

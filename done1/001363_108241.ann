@@ -1,0 +1,8 @@
+T0	Neutral_all 91 105	Остапа Бендера
+T1	Neutral_all 280 295	Дональда Трампа
+T2	Neutral_all 57 60	нам
+A1	Plural T2
+T3	Neutral_all 119 122	они
+A2	Plural T3
+T103	Neutral_all 78 82	нами
+A3	Plural T103

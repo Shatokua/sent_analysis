@@ -1,0 +1,9 @@
+T2	Positive 31 34	нем
+A1	AnaforPerson T2
+T100	Positive_all 0 6	Сережа
+T101	Positive_all 174 180	Сергей
+T102	Positive_all 216 220	него
+A2	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T2	
+R2	Anafor Arg1:T101 Arg2:T2	
+R3	Anafor Arg1:T101 Arg2:T102	

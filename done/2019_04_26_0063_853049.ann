@@ -1,0 +1,10 @@
+T2	Neutral_all 68 70	их
+A1	Plural T2
+T3	Negative_all 85 88	они
+A2	Plural T3
+R2	Anafor Arg1:T2 Arg2:T3	
+A3	AnaforPerson T2
+A4	AnaforPerson T3
+T1	Negative 175 184	Йованович
+T4	Negative 186 200	Мари Йованович
+R1	Anafor Arg1:T4 Arg2:T1	

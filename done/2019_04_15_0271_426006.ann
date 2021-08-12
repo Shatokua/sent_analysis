@@ -1,0 +1,5 @@
+T0	Negative_all 0 8	Савченко
+T1	Neutral_all 69 77	Савченко
+T2	Neutral_all 146 154	Савченко
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

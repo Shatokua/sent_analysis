@@ -1,0 +1,8 @@
+T2	Neutral_all 447 451	Юрий
+T1	Neutral_all 83 108	Юрий Алексеевич (Соловьев
+T3	Neutral_all 167 170	ему
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R101	Anafor Arg1:T1 Arg2:T3
+R102	Anafor Arg1:T3 Arg2:T2

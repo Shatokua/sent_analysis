@@ -1,0 +1,12 @@
+T0	Neutral_all 61 90	Иосифа Виссарионовича Сталина
+T1	Neutral_all 203 205	их
+A1	Plural T1
+T2	Neutral_all 240 242	их
+A2	Plural T2
+T3	Neutral_all 414 416	их
+A3	Plural T3
+T104	Neutral_all 426 428	их
+A4	Plural T104
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R103	Anafor Arg1:T3 Arg2:T104

@@ -1,0 +1,7 @@
+T0	Neutral_all 102 113	Ким Чен Ына
+T1	Neutral_all 166 168	Си
+T2	Neutral_all 180 186	Трампу
+T3	Neutral_all 221 227	Трампу
+T104	Neutral_all 89 92	нас
+A1	Plural T104
+R1	Anafor Arg1:T2 Arg2:T3

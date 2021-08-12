@@ -1,0 +1,4 @@
+T0	Neutral_all 26 32	Чубайс
+T1	Neutral_all 34 39	Сечин
+T2	Neutral_all 145 151	Сечина
+R1	Anafor Arg1:T1 Arg2:T2

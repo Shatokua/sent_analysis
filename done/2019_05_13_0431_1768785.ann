@@ -1,0 +1,10 @@
+T0	Neutral 0 6	Серена
+T1	Neutral 17 19	ты
+A1	AnaforPerson T1
+T2	Positive 62 67	тобой
+A2	AnaforPerson T2
+T3	Positive 84 86	Ты
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

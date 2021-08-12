@@ -1,0 +1,8 @@
+T0	Neutral_all 49 58	Матвиенко
+T1	Neutral_all 70 78	Сухарева
+T2	Neutral_all 65 68	его
+A1	AnaforPerson T2
+T103	Neutral_all 144 147	она
+A2	AnaforPerson T103
+R1	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T0 Arg2:T103

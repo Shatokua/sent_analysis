@@ -1,0 +1,4 @@
+T0	Neutral_all 91 108	Фёдора Ходзицкого
+T1	Neutral_all 118 121	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

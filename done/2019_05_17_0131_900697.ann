@@ -1,0 +1,7 @@
+T0	Neutral_all 150 156	Волкер
+T1	Neutral_all 183 188	Обамы
+T2	Neutral_all 13 15	он
+A1	AnaforPerson T2
+T3	Neutral_all 166 169	нас
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Neutral_all 15 25	Лексункина
+T1	Neutral_all 115 129	Юраслав Бабаян
+T2	Neutral_all 228 240	Юрию Бабаяну
+R101	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T0	Neutral_all 20 47	Сергея Леонидовича Кулагина
+T101	Neutral 294 297	они
+A2	Plural T101
+A1	AnaforPerson T101

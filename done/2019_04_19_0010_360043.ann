@@ -1,0 +1,4 @@
+T0	Neutral 15 22	Яценюка
+T1	Neutral_all 68 74	Байден
+T2	Negative_all 134 141	Яценюка
+R1	Anafor Arg1:T0 Arg2:T2	

@@ -1,0 +1,7 @@
+T0	Negative 47 71	Владислав Юрьевич Сурков
+T1	Negative 131 134	его
+A1	AnaforPerson T1
+T2	Negative 178 181	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

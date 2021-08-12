@@ -1,0 +1,11 @@
+T0	Positive 87 94	Маккейн
+T1	Neutral 156 159	ему
+A1	AnaforPerson T1
+T4	Neutral 193 196	его
+A2	AnaforPerson T4
+T102	Neutral_all 134 137	его
+A3	AnaforPerson T102
+R2	Anafor Arg1:T0 Arg2:T102	
+R3	Anafor Arg1:T102 Arg2:T1	
+T2	Neutral 177 190	Катон Старший
+R1	Anafor Arg1:T2 Arg2:T4	

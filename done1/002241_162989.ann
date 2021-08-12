@@ -1,0 +1,7 @@
+T0	Neutral_all 411 425	Евгений Горлов
+T1	Neutral_all 428 441	Виктор Жарков
+T2	Neutral_all 539 541	Мы
+A1	Plural T2
+T3	Neutral_all 583 585	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

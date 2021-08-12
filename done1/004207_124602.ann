@@ -1,0 +1,7 @@
+T4	Neutral_all 234 240	Ленина
+T2	Neutral_all 125 137	Карла Маркса
+T3	Neutral_all 168 182	Иосифа]Сталина
+T1	Neutral_all 95 111	Владимира]Ленина
+T5	Neutral_all 339 341	мы
+A1	Plural T5
+R1	Anafor Arg1:T1 Arg2:T4

@@ -1,0 +1,5 @@
+T0	Neutral 24 31	Батулла
+T1	Positive 219 225	Альфия
+T2	Neutral 39 41	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

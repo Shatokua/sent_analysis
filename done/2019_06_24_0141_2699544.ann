@@ -1,0 +1,3 @@
+T0	Neutral_all 9 16	Ассанжа
+T1	Neutral_all 191 197	Ассанж
+R1	Anafor Arg1:T1 Arg2:T0

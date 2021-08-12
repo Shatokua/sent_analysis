@@ -1,0 +1,10 @@
+T0	Neutral_all 272 291	Петром Решетниковым
+T1	Neutral_all 14 16	им
+A1	Plural T1
+T2	Neutral_all 314 316	он
+A2	AnaforPerson T2
+T3	Negative 408 410	он
+A3	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+A5	AnaforPerson T1
+R2	Anafor Arg1:T2 Arg2:T3	

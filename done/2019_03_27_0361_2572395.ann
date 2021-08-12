@@ -1,0 +1,6 @@
+T0	Positive_all 35 47	Саше Цыпкину
+T1	Neutral_all 78 91	Льва Толстого
+T2	Neutral_all 138 151	Рада Новикова
+T3	Neutral_all 65 67	Он
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T3

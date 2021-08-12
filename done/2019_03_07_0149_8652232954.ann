@@ -1,0 +1,10 @@
+T100	Negative_all 2 8	Трампа
+T101	Neutral_all 95 104	Рузвельта
+T102	Neutral_all 108 116	Сталиным
+T103	Neutral_all 119 127	Черчилля
+T104	Neutral_all 131 139	Сталиным
+T105	Neutral_all 70 72	он
+A1	AnaforPerson T105
+R1	Anafor Arg1:T100 Arg2:T105
+T1	Neutral 147 149	он
+R2	Anafor Arg1:T105 Arg2:T1	

@@ -1,0 +1,13 @@
+T0	Negative 12 22	Джо Байден
+T1	Negative 72 74	он
+A1	AnaforPerson T1
+T2	Negative 119 121	он
+A2	AnaforPerson T2
+T3	Negative 179 181	Он
+A3	AnaforPerson T3
+T4	Negative 210 212	он
+A4	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	
+R4	Anafor Arg1:T3 Arg2:T4	

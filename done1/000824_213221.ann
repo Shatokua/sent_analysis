@@ -1,0 +1,4 @@
+T0	Neutral_all 37 56	Анастасию Вашукевич
+T1	Neutral_all 127 130	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

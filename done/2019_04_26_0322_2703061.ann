@@ -1,0 +1,9 @@
+T1	Positive 102 108	Джонни
+T2	Positive 117 120	его
+A1	AnaforPerson T2
+T3	Positive 151 153	он
+A2	AnaforPerson T3
+T100	Neutral 0 6	Джонни
+R1	Anafor Arg1:T100 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	
+R3	Anafor Arg1:T2 Arg2:T3	

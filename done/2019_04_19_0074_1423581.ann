@@ -1,0 +1,6 @@
+T0	Neutral 15 19	Асад
+T1	Negative_all 103 108	Асаду
+T2	Negative_all 111 114	его
+A1	AnaforPerson T2
+R2	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T0 Arg2:T1	

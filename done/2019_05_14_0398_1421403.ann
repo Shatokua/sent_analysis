@@ -1,0 +1,6 @@
+T2	Neutral_all 64 73	Макгрегор
+T1	Neutral_all 17 37	Конором) Макгрегором
+T3	Neutral_all 39 42	Ему
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2
+R102	Anafor Arg1:T2 Arg2:T3

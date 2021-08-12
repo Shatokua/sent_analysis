@@ -1,0 +1,6 @@
+T0	Neutral_all 90 101	Мартемьянов
+T1	Neutral_all 948 960	Найджел Доус
+T2	Neutral_all 980 992	Артем Гареев
+T3	Neutral_all 1032 1035	его
+A1	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

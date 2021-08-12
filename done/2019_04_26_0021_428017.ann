@@ -1,0 +1,6 @@
+T0	Negative_all 0 15	Хиллари Клинтон
+T3	Neutral_all 104 107	они
+A1	Plural T3
+T101	Negative 122 127	Биллу
+T102	Negative 130 137	Хиллари
+R1	Anafor Arg1:T0 Arg2:T102	

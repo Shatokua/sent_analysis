@@ -1,0 +1,8 @@
+T0	Neutral_all 152 169	Андрея Бондаренко
+T1	Neutral_all 212 215	нас
+A1	Plural T1
+T2	Neutral_all 244 246	Мы
+A2	Plural T2
+T103	Neutral_all 266 268	их
+A3	Plural T103
+R1	Anafor Arg1:T2 Arg2:T1

@@ -1,0 +1,9 @@
+T0	Neutral_all 62 74	Илья Сорокин
+T1	Neutral_all 86 102	Магнус Хелльберг
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+T3	Neutral_all 114 116	им
+A2	AnaforPerson T3
+A3	Plural T3
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T3

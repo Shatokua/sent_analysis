@@ -1,0 +1,4 @@
+T0	Neutral_all 69 96	Вячеслав Викторович Володин
+T1	Neutral_all 119 122	его
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

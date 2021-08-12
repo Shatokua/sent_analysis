@@ -1,0 +1,4 @@
+T0	Neutral 9 16	Сталину
+T101	Negative_all 128 134	Сталин
+T102	Negative_all 137 143	Гитлер
+R1	Anafor Arg1:T0 Arg2:T101	

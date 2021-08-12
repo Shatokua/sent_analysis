@@ -1,0 +1,17 @@
+T0	Neutral_all 0 14	Армен Саркисян
+T1	Neutral_all 177 192	Никола Пашиняна
+T2	Neutral_all 305 313	Пашиняна
+T3	Neutral_all 348 364	Армена Саркисяна
+T4	Neutral_all 467 481	Армен Саркисян
+T5	Neutral_all 791 805	Армен Саркисян
+T6	Neutral_all 961 977	Армена Саркисяна
+T8	Neutral_all 558 561	его
+A1	AnaforPerson T8
+T107	Neutral 991 1006	Никола Пашиняна
+R1	Anafor Arg1:T1 Arg2:T2	
+R2	Anafor Arg1:T0 Arg2:T3	
+R3	Anafor Arg1:T3 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T8	
+R5	Anafor Arg1:T5 Arg2:T8	
+R6	Anafor Arg1:T5 Arg2:T6	
+R7	Anafor Arg1:T107 Arg2:T2	

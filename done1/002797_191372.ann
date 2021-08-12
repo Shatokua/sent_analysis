@@ -1,0 +1,6 @@
+T0	Neutral_all 102 130	Юрия Владимировича Андропова
+T1	Neutral_all 351 365	Ю. В. Андропов
+T2	Neutral_all 171 174	Его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T0	Neutral_all 64 83	Гусейна Гахраманова
+T1	Neutral_all 181 202	Гюльгусейна Наджафова
+A1	AnaforPerson T1
+T2	Neutral_all 263 278	Николая Каекина
+T3	Neutral_all 363 381	Роберта Хайруллина
+T4	Neutral_all 164 167	его
+A2	AnaforPerson T4
+R1	Anafor Arg1:T0 Arg2:T4

@@ -1,0 +1,20 @@
+T0	Positive 296 311	Робу Маккракену
+T1	Positive_all 927 937	Энди Руиса
+T2	Positive 401 405	ними
+A1	Plural T2
+T3	Positive 407 410	они
+A2	Plural T3
+T104	Positive 461 464	Они
+A6	Plural T104
+T105	Positive 586 588	им
+A7	Plural T105
+T106	Mixed 941 945	него
+R101	Anafor Arg1:T2 Arg2:T3
+A8	AnaforPerson T2
+A9	AnaforPerson T3
+R2	Anafor Arg1:T3 Arg2:T104	
+A3	AnaforPerson T104
+R3	Anafor Arg1:T104 Arg2:T105	
+A4	AnaforPerson T105
+R1	Anafor Arg1:T1 Arg2:T106	
+A5	AnaforPerson T106

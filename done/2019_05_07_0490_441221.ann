@@ -1,0 +1,6 @@
+T0	Neutral 36 44	Сандерса
+T1	Neutral 5 7	ей
+T2	Neutral 53 55	ей
+T3	Neutral 82 85	она
+R1	Variant Arg1:T3 Arg2:T2	
+R2	Variant Arg1:T2 Arg2:T1	

@@ -1,0 +1,4 @@
+T2	Neutral 183 192	Мединском
+T100	Neutral_all 5 27	Кирилла Серебренникова
+T101	Neutral_all 45 55	Мединского
+R1	Anafor Arg1:T101 Arg2:T2	

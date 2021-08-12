@@ -1,0 +1,4 @@
+T2	Neutral_all 125 128	его
+A1	AnaforPerson T2
+T1	Neutral_all 52 69	Владимира] Путина
+R1	Anafor Arg1:T1 Arg2:T2

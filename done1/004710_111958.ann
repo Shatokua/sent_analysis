@@ -1,0 +1,18 @@
+T0	Neutral_all 271 282	Ана Гарридо
+T1	Neutral_all 583 586	Ана
+T2	Neutral_all 1054 1064	Жорди Соле
+T3	Neutral_all 300 303	она
+A1	AnaforPerson T3
+T4	Neutral_all 980 982	Мы
+A2	Plural T4
+T5	Neutral_all 1068 1070	Мы
+A3	Plural T5
+T6	Neutral_all 1153 1155	им
+A4	Plural T6
+T103	Neutral_all 112 114	он
+A5	AnaforPerson T103
+T105	Neutral_all 520 523	них
+A6	Plural T105
+R1	Anafor Arg1:T4 Arg2:T5
+R2	Anafor Arg1:T0 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T3

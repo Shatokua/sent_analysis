@@ -1,0 +1,8 @@
+T0	Neutral 0 9	Лукашенко
+T1	Neutral 120 132	Баумгертнера
+T2	Neutral 47 50	его
+A1	AnaforPerson T2
+T3	Neutral 101 103	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2	
+R2	Anafor Arg1:T2 Arg2:T3	

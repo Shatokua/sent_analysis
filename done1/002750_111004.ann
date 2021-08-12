@@ -1,0 +1,4 @@
+T0	Neutral_all 20 35	Кевин Цудзихара
+T1	Positive 215 218	ему
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

@@ -1,0 +1,6 @@
+T0	Neutral 13 27	Илья Пономарев
+T1	Neutral 0 3	Ваш
+A1	AnaforPerson T1
+T2	Neutral 46 49	вас
+A3	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

@@ -1,0 +1,9 @@
+T102	Neutral_all 131 136	Скотт
+T103	Neutral_all 180 184	Джин
+T104	Neutral_all 252 259	Скоттом
+T105	Neutral_all 262 270	Чарльзом
+T101	Neutral_all 81 90	Джин Грей
+T106	Neutral_all 25 29	Джин
+R101	Anafor Arg1:T102 Arg2:T104
+R102	Anafor Arg1:T101 Arg2:T106
+R103	Anafor Arg1:T106 Arg2:T103

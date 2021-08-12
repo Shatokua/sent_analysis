@@ -1,0 +1,7 @@
+T0	Neutral_all 50 70	Владимира Зеленского
+T1	Neutral_all 287 305	Владимиром Путиным
+T2	Neutral_all 171 173	мы
+A1	Plural T2
+T3	Neutral_all 378 380	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

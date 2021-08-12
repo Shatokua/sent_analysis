@@ -1,0 +1,5 @@
+T2	Negative 551 560	Порошенко
+T3	Neutral 582 591	Мосийчуку
+T101	Neutral_all 415 424	Тарантино
+T1	Negative 620 623	его
+R1	Anafor Arg1:T3 Arg2:T1	

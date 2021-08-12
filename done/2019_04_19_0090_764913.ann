@@ -1,0 +1,4 @@
+T1	Neutral_all 54 59	Путин
+T2	Neutral_all 60 65	Трамп
+T3	Neutral_all 100 104	него
+R101	Anafor Arg1:T1 Arg2:T3

@@ -1,0 +1,7 @@
+T0	Neutral_all 8 23	Мартина Сайдика
+T1	Neutral_all 54 57	Нам
+A1	Plural T1
+T2	Neutral_all 232 234	мы
+A2	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1
+R101	Anafor Arg1:T1 Arg2:T2

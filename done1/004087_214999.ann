@@ -1,0 +1,14 @@
+T0	Neutral_all 109 127	Магомеда Исмаилова
+T1	Neutral_all 147 163	Эльдара Хамидова
+T2	Neutral_all 223 231	Хамидова
+T3	Neutral_all 362 377	Дмитрий Якобсон
+T4	Neutral_all 453 462	Титоренко
+T5	Neutral_all 465 470	Койда
+T6	Neutral_all 496 511	Дмитрия Павлова
+T7	Neutral_all 165 167	Их
+A1	Plural T7
+A2	AnaforPerson T7
+R2	Anafor Arg1:T0 Arg2:T7
+R3	Anafor Arg1:T1 Arg2:T2
+R1	Anafor Arg1:T2 Arg2:T7
+R101	Anafor Arg1:T1 Arg2:T7

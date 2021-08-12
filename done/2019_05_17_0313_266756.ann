@@ -1,0 +1,4 @@
+T0	Neutral 8 13	Фийон
+T1	Neutral_all 128 133	Фийон
+T2	Neutral_all 138 144	Ле Пен
+R1	Anafor Arg1:T0 Arg2:T1	

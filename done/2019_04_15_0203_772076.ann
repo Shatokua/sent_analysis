@@ -1,0 +1,5 @@
+T100	Neutral_all 13 23	Лермонтова
+T101	Negative 181 190	Порошенко
+T102	Neutral_all 118 120	он
+A1	AnaforPerson T102
+R1	Anafor Arg1:T100 Arg2:T102

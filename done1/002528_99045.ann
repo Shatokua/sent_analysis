@@ -1,0 +1,14 @@
+T0	Neutral_all 13 27	Николас Мадуро
+T1	Neutral_all 58 67	Уго Чавес
+T2	Neutral_all 195 201	Мадуро
+T3	Neutral_all 518 530	Хуана Гуайдо
+T4	Neutral_all 34 38	него
+A1	AnaforPerson T4
+T6	Neutral_all 240 243	его
+A3	AnaforPerson T6
+T7	Neutral_all 304 307	его
+A4	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T4	
+R2	Anafor Arg1:T2 Arg2:T4	
+R3	Anafor Arg1:T2 Arg2:T6	
+R4	Anafor Arg1:T6 Arg2:T7	

@@ -1,0 +1,7 @@
+T0	Positive_all 0 4	Кети
+T1	Neutral_all 98 101	Яны
+T2	Positive_all 103 107	Кети
+T3	Positive_all 46 49	нее
+A1	AnaforPerson T3
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3

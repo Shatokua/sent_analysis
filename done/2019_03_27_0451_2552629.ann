@@ -1,0 +1,11 @@
+T100	Positive 15 20	Клебо
+T101	Positive_all 205 218	Глеба Ретивых
+T102	Positive 38 40	он
+A2	AnaforPerson T102
+T103	Neutral_all 95 98	его
+A3	AnaforPerson T103
+T104	Neutral_all 153 155	он
+A4	AnaforPerson T104
+R1	Anafor Arg1:T100 Arg2:T102	
+R2	Anafor Arg1:T102 Arg2:T103	
+R3	Anafor Arg1:T103 Arg2:T104	

@@ -1,0 +1,6 @@
+T1	Positive_all 28 45	Владимиру) Путину
+T2	Neutral_all 59 61	мы
+A1	Plural T2
+T3	Neutral_all 106 108	Он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T3

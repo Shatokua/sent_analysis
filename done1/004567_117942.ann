@@ -1,0 +1,6 @@
+T0	Neutral_all 186 204	Хабиб Нурмагомедов
+T1	Neutral_all 143 146	вас
+A1	Plural T1
+T2	Neutral_all 230 234	него
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

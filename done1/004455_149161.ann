@@ -1,0 +1,7 @@
+T0	Neutral_all 58 74	Бенито Муссолини
+T1	Neutral_all 91 99	Кларетты
+T2	Neutral_all 77 80	его
+A1	AnaforPerson T2
+T3	Neutral_all 5 7	вы
+A2	Plural T3
+R1	Anafor Arg1:T0 Arg2:T2

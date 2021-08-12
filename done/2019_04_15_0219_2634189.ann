@@ -1,0 +1,5 @@
+T0	Neutral_all 0 5	Путин
+T1	Neutral_all 62 67	Чехов
+T2	Neutral_all 116 121	Путин
+T3	Neutral_all 162 169	Сталина
+R1	Anafor Arg1:T0 Arg2:T2

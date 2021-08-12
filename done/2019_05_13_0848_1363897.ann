@@ -1,0 +1,8 @@
+T0	Positive 89 101	Си Цзиньпина
+T1	Positive 50 53	ним
+A1	AnaforPerson T1
+A2	Plural T1
+T2	Positive 131 134	они
+A3	AnaforPerson T2
+A4	Plural T2
+R1	Anafor Arg1:T2 Arg2:T1	

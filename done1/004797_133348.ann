@@ -1,0 +1,5 @@
+T0	Neutral_all 109 126	Виталия Кушнарева
+T1	Neutral_all 180 182	им
+A1	Plural T1
+A2	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1

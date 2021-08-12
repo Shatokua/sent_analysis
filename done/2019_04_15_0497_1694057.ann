@@ -1,0 +1,6 @@
+T0	Neutral_all 58 65	Мелании
+T1	Neutral_all 93 100	Мелания
+T2	Neutral_all 135 137	ее
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T2

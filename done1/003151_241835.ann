@@ -1,0 +1,7 @@
+T0	Neutral_all 137 143	Петров
+T1	Neutral_all 260 278	Андреем Козловским
+T2	Neutral_all 574 576	мы
+A1	Plural T2
+T3	Neutral_all 659 661	мы
+A2	Plural T3
+R1	Anafor Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T0	Negative 5 14	Мацейчука
+T2	Negative 79 82	его
+A1	AnaforPerson T2
+T101	Neutral_all 57 66	Суворовым
+R1	Anafor Arg1:T0 Arg2:T2	

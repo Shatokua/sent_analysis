@@ -1,0 +1,5 @@
+T0	Neutral_all 33 39	Артему
+T1	Neutral_all 125 131	Артема
+T2	Neutral_all 0 2	Мы
+A1	Plural T2
+R1	Anafor Arg1:T0 Arg2:T1

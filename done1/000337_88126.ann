@@ -1,0 +1,7 @@
+T0	Neutral_all 93 110	Ришату Нуртдинову
+T1	Neutral_all 410 420	Нуртдинова
+T2	Neutral_all 112 114	Он
+A1	AnaforPerson T2
+T3	Neutral_all 215 218	его
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T1 Arg2:T2

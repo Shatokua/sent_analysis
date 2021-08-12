@@ -1,0 +1,5 @@
+T1	Neutral_all 243 256	Черного Адама
+T2	Neutral_all 135 137	Мы
+A1	Plural T2
+T3	Neutral_all 0 11	Черный Адам
+R1	Anafor Arg1:T3 Arg2:T1

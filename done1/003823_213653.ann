@@ -1,0 +1,6 @@
+T0	Neutral_all 88 106	Хамидулло Мухтаров
+T1	Neutral_all 5 8	она
+A1	AnaforPerson T1
+T2	Neutral_all 123 125	он
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

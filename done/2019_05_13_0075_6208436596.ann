@@ -1,0 +1,4 @@
+T0	Neutral 22 35	Ислам Каримов
+T1	Neutral 67 70	его
+A2	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

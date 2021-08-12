@@ -1,0 +1,4 @@
+T0	Neutral_all 72 77	Трамп
+T1	Neutral_all 158 163	Трамп
+T2	Neutral_all 202 216	Сергею Лаврову
+R1	Anafor Arg1:T0 Arg2:T1

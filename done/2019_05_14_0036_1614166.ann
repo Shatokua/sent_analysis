@@ -1,0 +1,12 @@
+T0	Neutral_all 83 91	Бабченко
+T1	Neutral_all 140 148	Бабченко
+T2	Neutral_all 104 107	его
+A1	AnaforPerson T2
+T3	Positive_all 22 24	он
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T2
+R101	Anafor Arg1:T0 Arg2:T1
+R102	Anafor Arg1:T1 Arg2:T2
+R103	Anafor Arg1:T2 Arg2:T3

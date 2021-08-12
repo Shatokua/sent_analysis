@@ -1,0 +1,6 @@
+T0	Neutral 213 225	Миннихановым
+T1	Neutral 58 60	мы
+A1	Plural T1
+T2	Neutral 132 134	мы
+A2	Plural T2
+R1	Variant Arg1:T1 Arg2:T2	

@@ -1,0 +1,9 @@
+T0	Neutral_all 7 12	Путин
+T1	Neutral_all 31 39	Кадырова
+T2	Neutral_all 69 74	Путин
+T3	Neutral_all 95 103	Кадырова
+T4	Neutral_all 46 50	него
+A1	AnaforPerson T4
+R1	Anafor Arg1:T1 Arg2:T3
+R2	Anafor Arg1:T0 Arg2:T2
+R3	Anafor Arg1:T2 Arg2:T4

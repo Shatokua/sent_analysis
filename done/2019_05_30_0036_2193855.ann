@@ -1,0 +1,5 @@
+T2	Positive_all 88 97	Большунов
+T103	Positive 131 140	Александр
+T101	Positive 17 35	Сергеем) Устюговым
+A2	AnaforPerson T101
+R1	Anafor Arg1:T2 Arg2:T103	

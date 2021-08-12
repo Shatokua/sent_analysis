@@ -1,0 +1,4 @@
+T0	Neutral_all 48 53	Трамп
+T1	Neutral_all 72 80	Сталиным
+T2	Neutral_all 227 232	Трамп
+R1	Anafor Arg1:T0 Arg2:T2

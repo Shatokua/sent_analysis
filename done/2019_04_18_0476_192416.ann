@@ -1,0 +1,5 @@
+T0	Neutral 56 61	Обаму
+T1	Negative 114 129	Хиллари Клинтон
+T2	Neutral 63 65	Он
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2	

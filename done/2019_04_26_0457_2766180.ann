@@ -1,0 +1,5 @@
+T1	Neutral_all 51 58	Хучиеву
+T2	Neutral_all 131 151	Муслиму Магомедовичу
+T3	Neutral_all 86 89	они
+A1	Plural T3
+R1	Anafor Arg1:T1 Arg2:T2

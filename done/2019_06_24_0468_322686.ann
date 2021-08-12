@@ -1,0 +1,8 @@
+T0	Neutral_all 162 168	Корбин
+T1	Neutral_all 188 202	Джереми Корбин
+T2	Neutral_all 62 65	нам
+A1	Plural T2
+T3	Neutral_all 114 117	нам
+A2	Plural T3
+R1	Anafor Arg1:T1 Arg2:T0
+R2	Anafor Arg1:T2 Arg2:T3

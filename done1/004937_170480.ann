@@ -1,0 +1,10 @@
+T0	Neutral_all 236 245	А.Вихарев
+T2	Neutral_all 334 341	Вихарев
+T3	Neutral_all 16 19	нас
+A1	Plural T3
+T1	Neutral_all 363 365	он
+A2	AnaforPerson T1
+T4	Neutral_all 896 899	они
+A3	Plural T4
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1

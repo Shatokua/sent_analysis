@@ -1,0 +1,10 @@
+T0	Neutral_all 129 144	Роберта Мюллера
+T1	Neutral_all 5 7	вы
+A1	Plural T1
+T2	Neutral_all 41 44	они
+A2	Plural T2
+T3	Neutral_all 69 72	они
+A3	Plural T3
+T4	Neutral_all 217 220	нам
+A4	Plural T4
+R1	Anafor Arg1:T2 Arg2:T3

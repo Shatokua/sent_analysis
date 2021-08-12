@@ -1,0 +1,11 @@
+T1	Neutral_all 445 457	Амире Темуре
+T2	Neutral_all 459 467	Улугбеке
+T3	Neutral_all 469 477	Ибн Сино
+T4	Neutral_all 479 492	Алишере Навои
+T5	Neutral_all 494 505	Аль-Харазми
+T10	Neutral_all 317 319	Он
+A2	AnaforPerson T10
+T6	Neutral_all 507 534	Захриддине Мухаммеде Бобуре
+T109	Neutral 250 263	Мухаммед Шейх
+T107	Neutral 543 553	Аль Бухари
+R1	Anafor Arg1:T109 Arg2:T10	

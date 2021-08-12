@@ -1,0 +1,11 @@
+T1	Neutral 26 30	Тину
+T100	Negative_all 0 6	Собчак
+T102	Neutral_all 65 73	Кадырову
+T103	Positive 112 116	Тина
+T104	Neutral_all 191 199	Кадырову
+T105	Neutral_all 170 173	Она
+A1	AnaforPerson T105
+R101	Anafor Arg1:T103 Arg2:T105
+T2	Neutral 42 45	она
+R2	Anafor Arg1:T1 Arg2:T2	
+R1	Anafor Arg1:T2 Arg2:T103	

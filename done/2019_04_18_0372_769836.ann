@@ -1,0 +1,6 @@
+T0	Negative 5 13	Керимова
+T1	Negative 61 64	они
+A1	Plural T1
+T2	Neutral 143 145	им
+A2	Plural T2
+R1	Anafor Arg1:T1 Arg2:T2	

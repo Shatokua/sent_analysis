@@ -1,0 +1,16 @@
+T0	Neutral_all 95 112	Ильдара Клеблеева
+T1	Neutral_all 114 131	Виталия Вергизова
+T2	Neutral_all 133 147	Игоря Синюхина
+T3	Neutral_all 149 166	Федора Цырульника
+T4	Neutral_all 168 184	Андрея Кузнецова
+T5	Neutral_all 186 203	Алексея Батракова
+T6	Neutral_all 206 224	Дмитрия Каприелова
+T7	Neutral_all 226 229	Они
+A1	Plural T7
+R1	Anafor Arg1:T0 Arg2:T7
+R2	Anafor Arg1:T1 Arg2:T7
+R3	Anafor Arg1:T2 Arg2:T7
+R4	Anafor Arg1:T3 Arg2:T7
+R5	Anafor Arg1:T4 Arg2:T7
+R6	Anafor Arg1:T5 Arg2:T7
+R7	Anafor Arg1:T6 Arg2:T7

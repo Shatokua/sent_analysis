@@ -1,0 +1,14 @@
+T0	Neutral_all 21 26	Месси
+T1	Neutral_all 43 50	Роналду
+T2	Neutral_all 56 63	Пересом
+T3	Neutral_all 86 91	Месси
+T4	Neutral_all 108 115	Роналду
+T5	Neutral_all 122 140	Флорентино Пересом
+T6	Neutral_all 7 9	мы
+A1	Plural T6
+T7	Neutral_all 72 74	мы
+A2	Plural T7
+R1	Anafor Arg1:T6 Arg2:T7
+R2	Anafor Arg1:T0 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T4
+R4	Anafor Arg1:T5 Arg2:T2

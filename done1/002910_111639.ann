@@ -1,0 +1,6 @@
+T0	Neutral_all 74 87	Шварценеггера
+T2	Positive_all 21 24	она
+A1	AnaforPerson T2
+T3	Neutral 41 44	Она
+A2	AnaforPerson T3
+R1	Anafor Arg1:T2 Arg2:T3	

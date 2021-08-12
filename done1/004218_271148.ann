@@ -1,0 +1,11 @@
+T0	Neutral_all 185 191	Пиняев
+T1	Neutral_all 421 437	Диегой Марадоной
+T2	Neutral_all 451 464	Сергей Пиняев
+T3	Neutral_all 494 502	Марадоны
+T4	Neutral_all 334 337	Его
+A1	AnaforPerson T4
+T5	Neutral_all 362 370	Марадоны
+R1	Anafor Arg1:T1 Arg2:T5
+R2	Anafor Arg1:T5 Arg2:T3
+R3	Anafor Arg1:T2 Arg2:T0
+R4	Anafor Arg1:T0 Arg2:T4

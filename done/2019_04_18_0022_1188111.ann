@@ -1,0 +1,4 @@
+T0	Negative 22 36	Элла Памфилова
+T1	Negative 68 71	она
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

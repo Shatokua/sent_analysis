@@ -1,0 +1,8 @@
+T0	Negative_all 73 84	Столтенберг
+T1	Negative 131 139	Гитлером
+T2	Negative 105 108	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2
+T3	Negative 197 199	им
+A2	AnaforPerson T3
+A3	Plural T3

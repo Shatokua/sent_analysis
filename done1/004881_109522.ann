@@ -1,0 +1,8 @@
+T1	Neutral_all 20 25	Мэйси
+T2	Neutral_all 82 85	они
+A1	Plural T2
+T3	Neutral_all 135 137	им
+A2	Plural T3
+T103	Neutral_all 161 164	ним
+A3	AnaforPerson T103
+R1	Anafor Arg1:T2 Arg2:T3

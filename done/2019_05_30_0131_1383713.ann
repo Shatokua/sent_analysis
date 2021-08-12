@@ -1,0 +1,4 @@
+T0	Neutral_all 16 26	Магомедова
+T1	Neutral_all 30 50	Сулейманом Керимовым
+T2	Neutral_all 166 174	Керимова
+R1	Anafor Arg1:T1 Arg2:T2

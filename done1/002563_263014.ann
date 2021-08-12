@@ -1,0 +1,5 @@
+T0	Neutral_all 44 48	Маас
+T1	Neutral_all 243 258	Дональду Трампу
+T2	Neutral_all 176 179	его
+A1	AnaforPerson T2
+R101	Anafor Arg1:T0 Arg2:T2

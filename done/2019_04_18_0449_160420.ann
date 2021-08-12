@@ -1,0 +1,7 @@
+T0	Negative 10 25	Дональда Трампа
+T1	Negative 103 106	его
+A1	AnaforPerson T1
+T2	Negative 193 196	его
+A2	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T1	
+R2	Anafor Arg1:T1 Arg2:T2	

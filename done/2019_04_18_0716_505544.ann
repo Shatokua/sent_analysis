@@ -1,0 +1,4 @@
+T0	Negative 0 6	Володя
+T1	Neutral 147 149	ты
+A1	AnaforPerson T1
+R1	Anafor Arg1:T0 Arg2:T1	

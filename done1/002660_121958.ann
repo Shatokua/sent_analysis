@@ -1,0 +1,6 @@
+T1	Neutral_all 447 455	Саргсяна
+T2	Neutral_all 290 293	они
+A1	Plural T2
+T100	Neutral 126 140	Сержа Саргсяна
+A2	AnaforPerson T2
+R1	Anafor Arg1:T100 Arg2:T1	

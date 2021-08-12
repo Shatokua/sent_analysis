@@ -1,0 +1,4 @@
+T1	Positive 24 34	Исинбаевой
+T2	Positive 61 66	тобой
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2	

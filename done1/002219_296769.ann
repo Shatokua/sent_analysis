@@ -1,0 +1,12 @@
+T0	Neutral_all 31 43	Валиев Айдос
+T1	Neutral_all 90 92	он
+A1	AnaforPerson T1
+T2	Neutral_all 368 370	мы
+A2	Plural T2
+T3	Neutral_all 519 521	мы
+A3	Plural T3
+T4	Neutral_all 656 658	Мы
+A4	Plural T4
+R1	Anafor Arg1:T0 Arg2:T1
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T3 Arg2:T4

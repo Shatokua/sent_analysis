@@ -1,0 +1,18 @@
+T0	Neutral_all 131 146	Назели Аветисян
+T1	Neutral_all 201 218	Манушак Карапетян
+T2	Neutral_all 307 324	Андраник Саркисян
+T3	Neutral_all 374 387	Лусине Флджян
+T4	Neutral_all 524 530	Назели
+T5	Neutral_all 752 769	Манушак Карапетян
+T6	Neutral_all 370 373	них
+A1	Plural T6
+T7	Neutral_all 626 629	она
+A2	AnaforPerson T7
+R1	Anafor Arg1:T0 Arg2:T6
+R2	Anafor Arg1:T1 Arg2:T6
+R3	Anafor Arg1:T2 Arg2:T6
+R4	Anafor Arg1:T0 Arg2:T4
+R5	Anafor Arg1:T4 Arg2:T7
+R6	Anafor Arg1:T1 Arg2:T5
+R104	Anafor Arg1:T5 Arg2:T6
+R105	Anafor Arg1:T7 Arg2:T6

@@ -1,0 +1,17 @@
+T0	Neutral_all 16 23	Зощенко
+T1	Neutral_all 227 234	Зощенко
+T2	Neutral_all 416 435	Михаила Михайловича
+T3	Neutral_all 715 718	Бах
+T4	Neutral_all 722 731	Монеточка
+T5	Neutral_all 929 944	Михаила Зощенко
+T6	Neutral_all 286 288	Мы
+A1	Plural T6
+T7	Neutral_all 390 392	Мы
+A2	Plural T7
+R1	Anafor Arg1:T5 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T1
+R3	Anafor Arg1:T1 Arg2:T0
+R4	Anafor Arg1:T6 Arg2:T7
+R101	Anafor Arg1:T5 Arg2:T0
+R102	Anafor Arg1:T0 Arg2:T1
+R103	Anafor Arg1:T1 Arg2:T2

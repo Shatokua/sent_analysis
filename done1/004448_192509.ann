@@ -1,0 +1,5 @@
+T0	Neutral_all 31 37	Трампа
+T1	Neutral_all 166 179	Мишель Обамой
+T2	Neutral_all 189 191	ей
+A1	AnaforPerson T2
+R1	Anafor Arg1:T1 Arg2:T2

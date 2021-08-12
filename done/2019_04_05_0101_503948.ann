@@ -1,0 +1,4 @@
+T0	Neutral 85 90	Путин
+T101	Negative 163 170	Путиным
+T102	Neutral_all 198 205	Сечиным
+R1	Anafor Arg1:T0 Arg2:T101	

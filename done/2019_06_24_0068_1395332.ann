@@ -1,0 +1,4 @@
+T0	Neutral_all 29 44	Льюиса Кэрролла
+T1	Neutral_all 164 171	Кэрролл
+R1	Anafor Arg1:T1 Arg2:T0
+R101	Anafor Arg1:T0 Arg2:T1

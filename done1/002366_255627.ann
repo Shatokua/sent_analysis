@@ -1,0 +1,5 @@
+T0	Neutral_all 86 104	Андреас Михаилидис
+T1	Neutral_all 199 207	Гаврилов
+T2	Neutral_all 150 153	его
+A1	AnaforPerson T2
+R1	Anafor Arg1:T0 Arg2:T2

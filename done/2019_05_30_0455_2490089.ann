@@ -1,0 +1,14 @@
+T0	Neutral_all 0 8	Кевин Ли
+T1	Positive_all 59 72	Ислам Махачев
+T2	Neutral_all 20 22	ты
+A1	AnaforPerson T2
+T3	Neutral_all 36 39	нас
+A2	Plural T3
+T4	Neutral_all 96 98	ты
+A3	AnaforPerson T4
+T5	Neutral_all 112 116	него
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T4
+R3	Anafor Arg1:T1 Arg2:T5
+R101	Anafor Arg1:T0 Arg2:T4

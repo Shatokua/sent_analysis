@@ -1,0 +1,13 @@
+T0	Neutral 92 109	Петра Алексеевича
+T1	Neutral 167 175	Савченко
+T2	Neutral 319 328	Порошенко
+T3	Neutral 5 8	она
+A1	AnaforPerson T3
+T4	Neutral 229 232	Она
+A2	AnaforPerson T4
+T5	Neutral 335 337	ее
+A3	AnaforPerson T5
+R1	Variant Arg1:T2 Arg2:T0	
+R2	Anafor Arg1:T1 Arg2:T3	
+R3	Anafor Arg1:T1 Arg2:T4	
+R4	Anafor Arg1:T4 Arg2:T5	

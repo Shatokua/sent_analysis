@@ -1,0 +1,5 @@
+T0	Neutral_all 11 19	Голунова
+T1	Neutral_all 112 122	Юрию Чайке
+T2	Neutral_all 158 180	Владимиру Колокольцеву
+T3	Neutral_all 203 217	Ивана Голунова
+R1	Anafor Arg1:T3 Arg2:T0

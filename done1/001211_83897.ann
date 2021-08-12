@@ -1,0 +1,13 @@
+T0	Neutral_all 31 40	Туркалова
+T1	Neutral_all 174 203	Евгением Жозефовичем Марчелли
+T2	Neutral_all 26 29	его
+A1	AnaforPerson T2
+T3	Neutral_all 86 89	ним
+A2	AnaforPerson T3
+T4	Neutral_all 420 423	вас
+A3	Plural T4
+T5	Neutral_all 442 445	его
+A4	AnaforPerson T5
+R1	Anafor Arg1:T0 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
+R3	Anafor Arg1:T1 Arg2:T5

@@ -1,0 +1,8 @@
+T0	Neutral_all 0 6	Володя
+T1	Neutral_all 37 44	Кобзону
+T2	Neutral_all 47 49	он
+A1	AnaforPerson T2
+T3	Neutral_all 76 80	него
+A2	AnaforPerson T3
+R1	Anafor Arg1:T1 Arg2:T2
+R2	Anafor Arg1:T2 Arg2:T3
